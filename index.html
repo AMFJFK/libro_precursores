@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estudio de Precursores: Cumple Completamente tu Ministerio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="theme-amanecer">
+    <div class="app-container">
+        
+        <!-- SIDEBAR IZQUIERDA (NAVEGACIÓN) -->
+        <aside class="sidebar">
+            <div class="brand">
+                <div class="brand-icon">📖</div>
+                <div class="brand-name">
+                    <h1>Escuela de Precursor</h1>
+                    <p>“Cumple tu ministerio”</p>
+                </div>
+            </div>
+
+            <!-- Selector de Temas -->
+            <div class="theme-selector">
+                <p>Tema Visual</p>
+                <div class="theme-buttons">
+                    <button class="theme-btn active" id="btn-amanecer" onclick="changeTheme('amanecer')">Amanecer</button>
+                    <button class="theme-btn" id="btn-atardecer" onclick="changeTheme('atardecer')">Atardecer</button>
+                    <button class="theme-btn" id="btn-nocturno" onclick="changeTheme('nocturno')">Nocturno</button>
+                    <button class="theme-btn" id="btn-jw" onclick="changeTheme('jw')">JW.ORG</button>
+                </div>
+            </div>
+
+            <!-- Buscador Temático de la Escuela -->
+            <div class="search-box">
+                <input type="text" id="syllabus-search" placeholder="🔍 Buscar tema o texto..." oninput="filterLessons()">
+            </div>
+
+            <!-- Progreso General -->
+            <div class="progress-panel">
+                <div class="progress-header">
+                    <span>Lección Activa</span>
+                    <span id="progress-percent">0%</span>
+                </div>
+                <div class="progress-bar-container">
+                    <div class="progress-bar-fill" id="progress-bar"></div>
+                </div>
+            </div>
+
+            <!-- Lista de Lecciones -->
+            <nav class="navigation-menu" id="lessons-nav">
+                <!-- Se cargará dinámicamente desde JS -->
+            </nav>
+        </aside>
+
+        <!-- PANEL DE ESTUDIO CENTRAL (CONTENIDO DE LA LECCIÓN) -->
+        <main class="main-content">
+            <!-- Banner de Cabecera -->
+            <header class="header-banner">
+                <div class="header-top">
+                    <span class="lesson-badge" id="lesson-id-badge">Lección 1A</span>
+                    <button class="zen-btn" id="zen-toggle-btn" onclick="toggleZenMode()">👁️ Modo Zen</button>
+                </div>
+                <h2 id="lesson-title">¿Qué te espera en la Escuela del Servicio de Precursor?</h2>
+                <div class="quote-box">
+                    <p id="lesson-lema">“Tu Gran Instructor ya no se esconderá, y verás a tu Gran Instructor con tus propios ojos.”</p>
+                    <span class="quote-source" id="lesson-lema-source">Isaías 30:20</span>
+                </div>
+            </header>
+
+            <!-- Introducción de la Lección -->
+            <section class="intro-card" id="lesson-intro">
+                <!-- Se cargará dinámicamente -->
+            </section>
+
+            <!-- Acordeón de Preguntas y Respuestas -->
+            <section class="accordion-container" id="questions-accordion">
+                <!-- Se cargará dinámicamente -->
+            </section>
+        </main>
+
+        <!-- CONTROL SIDEBAR DERECHA (HERRAMIENTAS AUXILIARES) -->
+        <aside class="control-sidebar">
+            
+            <!-- Ilustración Conceptual -->
+            <div class="visual-widget">
+                <img src="pioneer_studying.png" alt="Ilustración conceptual de estudio" class="visual-image" id="visual-img">
+                <div class="visual-caption" id="visual-caption">Medita en la instrucción divina y profundiza tu amistad con Jehová.</div>
+            </div>
+
+            <!-- Bloc de Notas Personal con Auto-guardado -->
+            <div class="note-widget">
+                <div class="widget-title">
+                    <span>Mis Notas de Estudio</span>
+                    <button class="export-btn" onclick="exportNotes()">Exportar Notas</button>
+                </div>
+                <textarea class="note-textarea" id="notepad" placeholder="Escribe tus apuntes, resoluciones del precursor o notas del capítulo aquí... Se guardan automáticamente al escribir." oninput="saveNotes()"></textarea>
+                <div class="note-footer">
+                    <span class="autosave-status" id="save-status">Guardado localmente</span>
+                </div>
+            </div>
+
+            <!-- Visor de Textos Bíblicos (cuando se hace clic en una cita) -->
+            <div class="scripture-viewer" id="scripture-viewer">
+                <div class="scripture-viewer-title">
+                    <span>Cita Bíblica Completa</span>
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                        <button class="speak-btn" id="speak-scripture-btn" onclick="speakScripture()" title="Escuchar texto">🔊</button>
+                        <span id="scripture-ref-badge" class="lesson-badge" style="margin:0; font-size:0.7rem;">Selecciona una cita</span>
+                    </div>
+                </div>
+                <div id="scripture-viewer-content" class="scripture-placeholder">
+                    Haz clic en cualquier texto bíblico en negrita o en las referencias de las preguntas para ver su contenido completo aquí.
+                </div>
+            </div>
+
+            <!-- Tarjetas de Memorización 3D (Flashcards) -->
+            <div class="flashcard-widget">
+                <div class="widget-title">
+                    <span>Memorización Bíblica</span>
+                </div>
+                <div class="card-container" id="flashcard" onclick="flipCard()">
+                    <div class="card-inner">
+                        <div class="card-front">
+                            <h5 id="flashcard-ref">Isaías 30:20</h5>
+                            <p>Toca para ver el texto</p>
+                        </div>
+                        <div class="card-back">
+                            <p id="flashcard-text">“...tu Gran Instructor ya no se esconderá...”</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-controls">
+                    <button class="card-nav-btn" onclick="prevFlashcard(event)">◀ Anterior</button>
+                    <button class="card-nav-btn" onclick="nextFlashcard(event)">Siguiente ▶</button>
+                </div>
+            </div>
+
+        </aside>
+
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
