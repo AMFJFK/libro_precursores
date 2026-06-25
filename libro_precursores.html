@@ -30,6 +30,16 @@
                 </div>
             </div>
 
+            <!-- Copia de Seguridad -->
+            <div class="backup-panel" style="display: flex; flex-direction: column; gap: 8px; border: 1px dashed var(--border-color); padding: 12px; border-radius: var(--border-radius-sm); background: rgba(var(--primary-rgb), 0.02);">
+                <p style="font-size: 0.78rem; font-weight: 600; color: var(--text-light); text-transform: uppercase; letter-spacing: 0.5px; margin: 0;">Copia de Seguridad</p>
+                <div style="display: flex; gap: 6px;">
+                    <button class="theme-btn" style="flex: 1; padding: 6px 0;" onclick="exportBackup()">📥 Respaldar</button>
+                    <button class="theme-btn" style="flex: 1; padding: 6px 0;" onclick="document.getElementById('import-file').click()">📤 Restaurar</button>
+                </div>
+                <input type="file" id="import-file" style="display: none;" accept=".json" onchange="importBackup(event)">
+            </div>
+
             <!-- Buscador Temático de la Escuela -->
             <div class="search-box">
                 <input type="text" id="syllabus-search" placeholder="🔍 Buscar tema o texto..." oninput="filterLessons()">
@@ -43,6 +53,17 @@
                 </div>
                 <div class="progress-bar-container">
                     <div class="progress-bar-fill" id="progress-bar"></div>
+                </div>
+            </div>
+
+            <!-- Progreso Global -->
+            <div class="progress-panel" style="margin-top: -10px;">
+                <div class="progress-header">
+                    <span>Progreso Global</span>
+                    <span id="global-progress-percent">0%</span>
+                </div>
+                <div class="progress-bar-container">
+                    <div class="progress-bar-fill" id="global-progress-bar"></div>
                 </div>
             </div>
 
@@ -115,8 +136,9 @@
 
             <!-- Tarjetas de Memorización 3D (Flashcards) -->
             <div class="flashcard-widget">
-                <div class="widget-title">
+                <div class="widget-title" style="display: flex; justify-content: space-between; align-items: center;">
                     <span>Memorización Bíblica</span>
+                    <button id="flashcard-mode-btn" class="theme-btn" style="padding: 2px 8px; font-size: 0.7rem; margin: 0;" onclick="toggleFlashcardMode()">Modo: Lección</button>
                 </div>
                 <div class="card-container" id="flashcard" onclick="flipCard()">
                     <div class="card-inner">

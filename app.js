@@ -5,6 +5,9 @@ let currentFlashcardIndex = 0;
 let isCardFlipped = false;
 let currentUtterance = null;
 let activeSpeakButton = null;
+let isGlobalFlashcardMode = false;
+let globalFlashcards = [];
+let currentGlobalFlashcardIndex = 0;
 
 // --- INICIALIZACIÓN ---
 document.addEventListener("DOMContentLoaded", () => {
@@ -84,6 +87,12 @@ function loadLesson(index) {
 
     // Actualizar Barra de Progreso
     updateProgressBar();
+
+    // Resaltar coincidencias de búsqueda si las hay
+    const rawQuery = document.getElementById("syllabus-search").value;
+    if (rawQuery) {
+        highlightMatches(document.querySelector(".main-content"), rawQuery);
+    }
 }
 
 // --- HELPER PARA QUITAR ACENTOS (TILDES) Y HACER BÚSQUEDA INSENSIBLE ---
@@ -185,10 +194,29 @@ function renderQuestions(lesson) {
                         </div>
                     </div>
 
+                    <!-- Sección de Respuesta Personal -->
+                    <div class="personal-answer-container">
+                        <div class="personal-answer-title">
+                            <span>Mi Respuesta Personal</span>
+                            <span class="personal-answer-status" id="personal-ans-status-${q.id}"></span>
+                        </div>
+                        <textarea class="personal-answer-textarea" 
+                                  id="personal-ans-${q.id}" 
+                                  placeholder="Escribe tu propia respuesta o notas para esta pregunta aquí... Se guardan automáticamente." 
+                                  oninput="savePersonalAnswer('${lesson.id}', '${q.id}')"></textarea>
+                    </div>
+
                 </div>
             </div>
         `;
         container.appendChild(accordion);
+
+        // Cargar respuesta personal guardada de manera segura
+        const personalAnswer = localStorage.getItem(`pioneer_personal_ans_${q.id}`) || "";
+        const ta = accordion.querySelector(`#personal-ans-${q.id}`);
+        if (ta) {
+            ta.value = personalAnswer;
+        }
     });
 }
 
@@ -289,6 +317,31 @@ function updateProgressBar() {
 
     document.getElementById("progress-percent").textContent = `${percent}%`;
     document.getElementById("progress-bar").style.width = `${percent}%`;
+
+    // Calcular progreso global
+    let totalQuestions = 0;
+    let totalCompleted = 0;
+
+    lessonsData.forEach(l => {
+        const comp = JSON.parse(localStorage.getItem(`pioneer_completed_${l.id}`)) || {};
+        l.questions.forEach(q => {
+            totalQuestions++;
+            if (comp[q.id]) {
+                totalCompleted++;
+            }
+        });
+    });
+
+    const globalPercent = totalQuestions > 0
+        ? Math.round((totalCompleted / totalQuestions) * 100)
+        : 0;
+
+    const globalPercentEl = document.getElementById("global-progress-percent");
+    const globalBarEl = document.getElementById("global-progress-bar");
+    if (globalPercentEl && globalBarEl) {
+        globalPercentEl.textContent = `${globalPercent}% (${totalCompleted}/${totalQuestions})`;
+        globalBarEl.style.width = `${globalPercent}%`;
+    }
 }
 
 // --- VISOR DE CITAS BÍBLICAS ---
@@ -428,6 +481,9 @@ function filterLessons() {
             item.style.display = "none";
         }
     });
+
+    // Resaltar términos de búsqueda en el contenido de la lección activa
+    highlightMatches(document.querySelector(".main-content"), rawQuery);
 }
 
 // --- MODO CONCENTRACIÓN (MODO ZEN) ---
@@ -488,12 +544,63 @@ function exportNotes() {
 }
 
 // --- TARJETAS DE MEMORIZACIÓN (FLASHCARDS) ---
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
+function compileGlobalFlashcards() {
+    globalFlashcards = [];
+    lessonsData.forEach(lesson => {
+        if (lesson.flashcards) {
+            lesson.flashcards.forEach(card => {
+                globalFlashcards.push({
+                    ...card,
+                    lessonId: lesson.id
+                });
+            });
+        }
+    });
+    shuffleArray(globalFlashcards);
+}
+
+function toggleFlashcardMode() {
+    isGlobalFlashcardMode = !isGlobalFlashcardMode;
+    const btn = document.getElementById("flashcard-mode-btn");
+    
+    if (isGlobalFlashcardMode) {
+        btn.textContent = "Modo: Global";
+        btn.classList.add("active");
+        compileGlobalFlashcards();
+        currentGlobalFlashcardIndex = 0;
+    } else {
+        btn.textContent = "Modo: Lección";
+        btn.classList.remove("active");
+        currentFlashcardIndex = 0;
+    }
+    
+    isCardFlipped = false;
+    document.getElementById("flashcard").classList.remove("flipped");
+    updateFlashcard();
+}
+
 function updateFlashcard() {
-    const lesson = lessonsData[currentLessonIndex];
-    const card = lesson.flashcards ? lesson.flashcards[currentFlashcardIndex] : null;
+    let card = null;
+    if (isGlobalFlashcardMode) {
+        if (globalFlashcards.length === 0) {
+            compileGlobalFlashcards();
+        }
+        card = globalFlashcards[currentGlobalFlashcardIndex];
+    } else {
+        const lesson = lessonsData[currentLessonIndex];
+        card = (lesson.flashcards && lesson.flashcards.length > 0) ? lesson.flashcards[currentFlashcardIndex] : null;
+    }
 
     if (card) {
-        document.getElementById("flashcard-ref").textContent = card.ref;
+        document.getElementById("flashcard-ref").textContent = card.ref + (isGlobalFlashcardMode ? ` (Lección ${card.lessonId})` : "");
         document.getElementById("flashcard-text").textContent = `“${card.text}”`;
     } else {
         document.getElementById("flashcard-ref").textContent = "Estudio Diario";
@@ -512,24 +619,42 @@ function flipCard() {
 }
 
 function nextFlashcard(event) {
-    event.stopPropagation();
-    const lesson = lessonsData[currentLessonIndex];
-    if (lesson.flashcards && lesson.flashcards.length > 0) {
-        currentFlashcardIndex = (currentFlashcardIndex + 1) % lesson.flashcards.length;
-        isCardFlipped = false;
-        document.getElementById("flashcard").classList.remove("flipped");
-        setTimeout(updateFlashcard, 150);
+    if (event) event.stopPropagation();
+    if (isGlobalFlashcardMode) {
+        if (globalFlashcards.length > 0) {
+            currentGlobalFlashcardIndex = (currentGlobalFlashcardIndex + 1) % globalFlashcards.length;
+            isCardFlipped = false;
+            document.getElementById("flashcard").classList.remove("flipped");
+            setTimeout(updateFlashcard, 150);
+        }
+    } else {
+        const lesson = lessonsData[currentLessonIndex];
+        if (lesson.flashcards && lesson.flashcards.length > 0) {
+            currentFlashcardIndex = (currentFlashcardIndex + 1) % lesson.flashcards.length;
+            isCardFlipped = false;
+            document.getElementById("flashcard").classList.remove("flipped");
+            setTimeout(updateFlashcard, 150);
+        }
     }
 }
 
 function prevFlashcard(event) {
-    event.stopPropagation();
-    const lesson = lessonsData[currentLessonIndex];
-    if (lesson.flashcards && lesson.flashcards.length > 0) {
-        currentFlashcardIndex = (currentFlashcardIndex - 1 + lesson.flashcards.length) % lesson.flashcards.length;
-        isCardFlipped = false;
-        document.getElementById("flashcard").classList.remove("flipped");
-        setTimeout(updateFlashcard, 150);
+    if (event) event.stopPropagation();
+    if (isGlobalFlashcardMode) {
+        if (globalFlashcards.length > 0) {
+            currentGlobalFlashcardIndex = (currentGlobalFlashcardIndex - 1 + globalFlashcards.length) % globalFlashcards.length;
+            isCardFlipped = false;
+            document.getElementById("flashcard").classList.remove("flipped");
+            setTimeout(updateFlashcard, 150);
+        }
+    } else {
+        const lesson = lessonsData[currentLessonIndex];
+        if (lesson.flashcards && lesson.flashcards.length > 0) {
+            currentFlashcardIndex = (currentFlashcardIndex - 1 + lesson.flashcards.length) % lesson.flashcards.length;
+            isCardFlipped = false;
+            document.getElementById("flashcard").classList.remove("flipped");
+            setTimeout(updateFlashcard, 150);
+        }
     }
 }
 
@@ -544,4 +669,145 @@ function changeTheme(themeName) {
     document.getElementById(`btn-${themeName}`).classList.add("active");
 
     localStorage.setItem("pioneer_theme", themeName);
+}
+
+// --- AUTO-GUARDADO DE RESPUESTA PERSONAL ---
+function savePersonalAnswer(lessonId, qId) {
+    const textarea = document.getElementById(`personal-ans-${qId}`);
+    if (!textarea) return;
+    const value = textarea.value;
+    localStorage.setItem(`pioneer_personal_ans_${qId}`, value);
+    
+    const statusSpan = document.getElementById(`personal-ans-status-${qId}`);
+    if (statusSpan) {
+        statusSpan.textContent = "Guardando...";
+        if (textarea.saveTimeout) clearTimeout(textarea.saveTimeout);
+        textarea.saveTimeout = setTimeout(() => {
+            statusSpan.textContent = "Guardado localmente";
+        }, 500);
+    }
+}
+
+// --- COPIA DE SEGURIDAD (BACKUP) Y RESTAURACIÓN ---
+function exportBackup() {
+    const backupData = {};
+    for (let i = 0; i < localStorage.length; i++) {
+        const key = localStorage.key(i);
+        if (key && key.startsWith("pioneer_")) {
+            backupData[key] = localStorage.getItem(key);
+        }
+    }
+    
+    const blob = new Blob([JSON.stringify(backupData, null, 2)], { type: "application/json;charset=utf-8" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `Copia_Seguridad_Precursores_${new Date().toISOString().slice(0, 10)}.json`;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+}
+
+function importBackup(event) {
+    const file = event.target.files[0];
+    if (!file) return;
+
+    const reader = new FileReader();
+    reader.onload = function(e) {
+        try {
+            const data = JSON.parse(e.target.result);
+            let importedCount = 0;
+            for (const key in data) {
+                if (key.startsWith("pioneer_")) {
+                    localStorage.setItem(key, data[key]);
+                    importedCount++;
+                }
+            }
+            if (importedCount > 0) {
+                alert(`¡Copia de seguridad importada con éxito! Se restauraron ${importedCount} elementos. La página se recargará ahora.`);
+                window.location.reload();
+            } else {
+                alert("El archivo no contiene datos válidos de esta aplicación (claves 'pioneer_').");
+            }
+        } catch (err) {
+            alert("Error al leer el archivo. Asegúrate de que es un archivo JSON de copia de seguridad válido.");
+            console.error(err);
+        }
+    };
+    reader.readAsText(file);
+}
+
+// --- MOTOR DE RESALTADO DE BÚSQUEDA ---
+function highlightMatches(element, query) {
+    clearHighlights(element);
+    if (!query || !query.trim()) return;
+    highlightTextNodes(element, query.trim());
+}
+
+function clearHighlights(element) {
+    if (!element) return;
+    const highlights = element.querySelectorAll('mark.search-highlight');
+    highlights.forEach(mark => {
+        const parent = mark.parentNode;
+        if (parent) {
+            const textNode = document.createTextNode(mark.textContent);
+            parent.replaceChild(textNode, mark);
+            parent.normalize();
+        }
+    });
+}
+
+function highlightTextNodes(element, query) {
+    if (!element || !query) return;
+    const normalizedQuery = normalizeText(query);
+    if (!normalizedQuery) return;
+
+    const walker = document.createTreeWalker(element, NodeFilter.SHOW_TEXT, null, false);
+    const nodesToReplace = [];
+
+    let currentNode = walker.nextNode();
+    while (currentNode) {
+        if (currentNode.parentNode &&
+            currentNode.parentNode.nodeName !== 'MARK' &&
+            currentNode.parentNode.nodeName !== 'SCRIPT' &&
+            currentNode.parentNode.nodeName !== 'STYLE' &&
+            currentNode.parentNode.nodeName !== 'TEXTAREA' &&
+            !currentNode.parentNode.classList.contains('wol-link')) {
+            
+            const normalizedText = normalizeText(currentNode.nodeValue);
+            if (normalizedText.includes(normalizedQuery)) {
+                nodesToReplace.push(currentNode);
+            }
+        }
+        currentNode = walker.nextNode();
+    }
+
+    nodesToReplace.forEach(node => {
+        const text = node.nodeValue;
+        const normalizedText = normalizeText(text);
+        const parent = node.parentNode;
+        
+        const fragment = document.createDocumentFragment();
+        let lastIndex = 0;
+        let matchIndex = normalizedText.indexOf(normalizedQuery, lastIndex);
+        
+        while (matchIndex !== -1) {
+            if (matchIndex > lastIndex) {
+                fragment.appendChild(document.createTextNode(text.substring(lastIndex, matchIndex)));
+            }
+            
+            const mark = document.createElement('mark');
+            mark.className = 'search-highlight';
+            mark.appendChild(document.createTextNode(text.substring(matchIndex, matchIndex + normalizedQuery.length)));
+            fragment.appendChild(mark);
+            
+            lastIndex = matchIndex + normalizedQuery.length;
+            matchIndex = normalizedText.indexOf(normalizedQuery, lastIndex);
+        }
+        
+        if (lastIndex < text.length) {
+            fragment.appendChild(document.createTextNode(text.substring(lastIndex)));
+        }
+        
+        parent.replaceChild(fragment, node);
+    });
 }
