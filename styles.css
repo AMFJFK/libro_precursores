@@ -1245,32 +1245,33 @@ mark.search-highlight {
 
 .modal-tabs {
     display: flex;
-    overflow-x: auto;
-    padding: 10px 16px;
+    flex-wrap: wrap; /* Evita que el navegador fuerce scrollbar y recorte los botones */
+    padding: 12px 16px;
     gap: 8px;
-    background: var(--card-bg); /* Fondo sólido para tapar el scroll */
+    background: var(--card-bg); /* Fondo sólido */
     border-bottom: 1px solid var(--border-color);
     position: relative;
-    z-index: 10; /* Mantener por encima del contenido que hace scroll */
-    scrollbar-width: none; /* Ocultar scrollbar Firefox */
-}
-
-.modal-tabs::-webkit-scrollbar {
-    display: none; /* Ocultar scrollbar Chrome/Safari */
+    z-index: 10;
 }
 
 .modal-tab-btn {
-    padding: 8px 16px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 16px;
+    height: 34px; /* Altura fija para centrado vertical perfecto */
+    box-sizing: border-box;
     border: 1px solid transparent;
     background: transparent;
     font-family: inherit;
     font-size: 0.85rem;
     font-weight: 600;
     color: var(--text-light);
-    border-radius: 20px; /* Estilo de píldora redondeada */
+    border-radius: 17px; /* Forma de píldora perfecta */
     cursor: pointer;
     transition: all 0.2s;
     white-space: nowrap;
+    line-height: 1;
 }
 
 .modal-tab-btn:hover {
