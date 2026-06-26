@@ -88,6 +88,11 @@ function loadLesson(index) {
     // Actualizar Barra de Progreso
     updateProgressBar();
 
+    // Actualizar Horario de la Lección en el Badge
+    if (typeof updateLessonScheduleBadge === "function") {
+        updateLessonScheduleBadge(lesson.id);
+    }
+
     // Resaltar coincidencias de búsqueda si las hay
     const rawQuery = document.getElementById("syllabus-search").value;
     if (rawQuery) {
@@ -810,4 +815,166 @@ function highlightTextNodes(element, query) {
         
         parent.replaceChild(fragment, node);
     });
+}
+
+// --- PROGRAMA DE LA ESCUELA DE PRECURSORES 2026 ---
+const schoolTimeline = {
+    lunes: [
+        { time: "08:25 - 09:00", title: "Apertura y Lección 1(a)", desc: "Canción 81 y oración. ¿Qué te espera en la Escuela del Servicio de Precursor?", lessonId: "1A" },
+        { time: "09:00 - 10:15", title: "Lección 1(b)", desc: "Fortalece tu amistad con Jehová", lessonId: "1B" },
+        { time: "10:15 - 10:30", title: "Pausa", desc: "Recreo de 15 minutos", isBreak: true },
+        { time: "10:30 - 12:00", title: "Lección 2(a)", desc: "La Traducción del Nuevo Mundo (parte 1)", lessonId: "2A" },
+        { time: "12:00 - 13:00", title: "Almuerzo", desc: "Pausa de mediodía (Traer propio almuerzo)", isBreak: true },
+        { time: "13:00 - 14:25", title: "Lección 2(b)", desc: "La Traducción del Nuevo Mundo (parte 2)", lessonId: "2B" },
+        { time: "14:25 - 14:40", title: "Pausa", desc: "Recreo de 15 minutos", isBreak: true },
+        { time: "14:40 - 16:00", title: "Lección 3(a)", desc: "Mantente al día", lessonId: "3A" },
+        { time: "16:00 - 16:35", title: "Lección 3(b) y Cierre", desc: "Repaso del día 1. Canción 73 y oración", lessonId: "3B" }
+    ],
+    martes: [
+        { time: "08:25 - 09:30", title: "Apertura y Lección 4(a)", desc: "Canción 67 y oración. La soberanía de Jehová y la santificación de su nombre", lessonId: "4A" },
+        { time: "09:30 - 10:30", title: "Lección 4(b)", desc: "Interésate sinceramente por los demás", lessonId: "4B" },
+        { time: "10:30 - 10:45", title: "Pausa", desc: "Recreo de 15 minutos", isBreak: true },
+        { time: "10:45 - 12:00", title: "Lección 5(a)", desc: "La predicación de casa en casa: el método principal para llegar a las personas", lessonId: "5A" },
+        { time: "12:00 - 13:00", title: "Almuerzo", desc: "Pausa de mediodía", isBreak: true },
+        { time: "13:00 - 14:25", title: "Lección 5(b) - Taller 1", desc: "La predicación de casa en casa: el método principal para llegar a las personas", lessonId: "5B" },
+        { time: "14:25 - 14:40", title: "Pausa", desc: "Recreo de 15 minutos", isBreak: true },
+        { time: "14:40 - 16:00", title: "Lección 6(a)", desc: "Mujeres que alegran a Jehová", lessonId: "6A" },
+        { time: "16:00 - 16:35", title: "Lección 6(b) y Cierre", desc: "Repaso del día 2. Canción 58 y oración", lessonId: "6B" }
+    ],
+    miercoles: [
+        { time: "08:25 - 09:30", title: "Apertura y Lección 7(a)", desc: "Canción 70 y oración. Cómo te ayudan las instrucciones y los consejos", lessonId: "7A" },
+        { time: "09:30 - 10:30", title: "Lección 7(b)", desc: "Lucha contra “el espíritu del mundo”", lessonId: "7B" },
+        { time: "10:30 - 10:45", title: "Pausa", desc: "Recreo de 15 minutos", isBreak: true },
+        { time: "10:45 - 12:00", title: "Lección 8(a)", desc: "Lleva una vida íntegra", lessonId: "8A" },
+        { time: "12:00 - 13:00", title: "Almuerzo", desc: "Pausa de mediodía", isBreak: true },
+        { time: "13:00 - 14:25", title: "Lección 8(b)", desc: "Participa en las diferentes formas de predicación", lessonId: "8B" },
+        { time: "14:25 - 14:40", title: "Pausa", desc: "Recreo de 15 minutos", isBreak: true },
+        { time: "14:40 - 16:00", title: "Lección 9(a) - Taller 2", desc: "Participa en las diferentes formas de predicación", lessonId: "9A" },
+        { time: "16:00 - 16:35", title: "Lección 9(b) y Cierre", desc: "Repaso del día 3. Canción 57 y oración", lessonId: "9B" }
+    ],
+    jueves: [
+        { time: "08:25 - 09:30", title: "Apertura y Lección 10(a)", desc: "Canción 77 y oración. Valora el papel de Jesús", lessonId: "10A" },
+        { time: "09:30 - 10:30", title: "Lección 10(b)", desc: "Piensa en principios", lessonId: "10B" },
+        { time: "10:30 - 10:45", title: "Pausa", desc: "Recreo de 15 minutos", isBreak: true },
+        { time: "10:45 - 12:00", title: "Lección 11(a)", desc: "Evalúa tu progreso como persona espiritual", lessonId: "11A" },
+        { time: "12:00 - 13:00", title: "Almuerzo", desc: "Pausa de mediodía", isBreak: true },
+        { time: "13:00 - 14:25", title: "Lección 11(b)", desc: "Haz buenas revisitas", lessonId: "11B" },
+        { time: "14:25 - 14:40", title: "Pausa", desc: "Recreo de 15 minutos", isBreak: true },
+        { time: "14:40 - 16:00", title: "Lección 12(a) - Taller 3", desc: "Haz buenas revisitas", lessonId: "12A" },
+        { time: "16:00 - 16:35", title: "Lección 12(b) y Cierre", desc: "Repaso del día 4. Canción 60 y oración", lessonId: "12B" }
+    ],
+    viernes: [
+        { time: "08:25 - 09:30", title: "Apertura y Lección 13(a)", desc: "Canción 68 y oración. Aprende del Amo", lessonId: "13A" },
+        { time: "09:30 - 10:30", title: "Lección 13(b)", desc: "Da cursos bíblicos que motiven al estudiante a progresar (parte 1)", lessonId: "13B" },
+        { time: "10:30 - 10:45", title: "Pausa", desc: "Recreo de 15 minutos", isBreak: true },
+        { time: "10:45 - 12:00", title: "Lección 14(a)", desc: "Da cursos bíblicos que motiven al estudiante a progresar (parte 2)", lessonId: "14A" },
+        { time: "12:00 - 13:00", title: "Almuerzo", desc: "Pausa de mediodía", isBreak: true },
+        { time: "13:00 - 14:25", title: "Lección 14(b) - Taller 4", desc: "Da cursos bíblicos que motiven al estudiante a progresar", lessonId: "14B" },
+        { time: "14:25 - 14:40", title: "Pausa", desc: "Recreo de 15 minutos", isBreak: true },
+        { time: "14:40 - 16:00", title: "Lección 15(a)", desc: "Ayúdalos a ser cristianos maduros", lessonId: "15A" },
+        { time: "16:00 - 16:35", title: "Lección 15(b) y Cierre", desc: "Repaso del día 5. Canción 79 y oración", lessonId: "15B" }
+    ],
+    sabado: [
+        { time: "08:25 - 09:30", title: "Apertura y Lección 16(a)", desc: "Canción 76 y oración. La felicidad que viene de Jehová es tu fortaleza", lessonId: "16A" },
+        { time: "09:30 - 10:30", title: "Lección 16(b)", desc: "Jehová bendice a los que confían en él", lessonId: "16B" },
+        { time: "10:30 - 10:45", title: "Pausa", desc: "Recreo de 15 minutos", isBreak: true },
+        { time: "10:45 - 12:00", title: "Lección 17(a)", desc: "Nunca dejes de orar", lessonId: "17A" },
+        { time: "12:00 - 13:00", title: "Almuerzo", desc: "Pausa de mediodía", isBreak: true },
+        { time: "13:00 - 14:00", title: "Lección 17(b)", desc: "Jehová da su aprobación a los que aguantan", lessonId: "17B" },
+        { time: "14:00 - 14:10", title: "Pausa", desc: "Recreo de 10 minutos", isBreak: true },
+        { time: "14:10 - 14:30", title: "Lección 18", desc: "Comentarios finales de los estudiantes (Instructor A)", lessonId: "18" },
+        { time: "14:30 - 14:50", title: "Discurso Final", desc: "Impartido por Instructor B" },
+        { time: "14:50 - 15:15", title: "Conclusión", desc: "Discurso final y conclusión (Instructor A). Canción 84 y oración" }
+    ]
+};
+
+let currentScheduleDay = 'lunes';
+
+function updateLessonScheduleBadge(lessonId) {
+    const scheduleBadge = document.getElementById("lesson-schedule-badge");
+    if (!scheduleBadge) return;
+    
+    let foundEvent = null;
+    let foundDay = "";
+    for (const day in schoolTimeline) {
+        const ev = schoolTimeline[day].find(e => e.lessonId === lessonId);
+        if (ev) {
+            foundEvent = ev;
+            foundDay = day;
+            break;
+        }
+    }
+    
+    if (foundEvent) {
+        const daySpanish = foundDay.charAt(0).toUpperCase() + foundDay.slice(1)
+            .replace('miercoles', 'miércoles')
+            .replace('sabado', 'sábado');
+        scheduleBadge.textContent = `📅 ${daySpanish}, ${foundEvent.time}`;
+        scheduleBadge.style.display = "inline-block";
+    } else {
+        scheduleBadge.style.display = "none";
+    }
+}
+
+function openScheduleModal() {
+    const modal = document.getElementById("schedule-modal");
+    modal.classList.add("open");
+    renderScheduleDay(currentScheduleDay);
+}
+
+function closeScheduleModal() {
+    const modal = document.getElementById("schedule-modal");
+    modal.classList.remove("open");
+}
+
+function switchScheduleDay(day) {
+    currentScheduleDay = day;
+    document.querySelectorAll(".modal-tab-btn").forEach(btn => {
+        const btnText = btn.textContent.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        if (btnText === day) {
+            btn.classList.add("active");
+        } else {
+            btn.classList.remove("active");
+        }
+    });
+    renderScheduleDay(day);
+}
+
+function renderScheduleDay(day) {
+    const container = document.getElementById("schedule-day-content");
+    container.innerHTML = "";
+    
+    const events = schoolTimeline[day];
+    if (!events) return;
+    
+    const activeLesson = lessonsData[currentLessonIndex];
+    
+    events.forEach(ev => {
+        const item = document.createElement("div");
+        const isCurrent = activeLesson && ev.lessonId === activeLesson.id;
+        item.className = `schedule-item ${ev.isBreak ? 'break-item' : ''} ${isCurrent ? 'current-item' : ''}`;
+        
+        let badgeLinkHtml = "";
+        if (ev.lessonId) {
+            badgeLinkHtml = `<span class="schedule-badge-link" onclick="goToLessonFromSchedule('${ev.lessonId}')">Ir a Lección ${ev.lessonId} ➔</span>`;
+        }
+        
+        item.innerHTML = `
+            <div class="schedule-time">${ev.time}</div>
+            <div class="schedule-details">
+                <div class="schedule-title">${ev.title}</div>
+                <div class="schedule-desc">${ev.desc}</div>
+                ${badgeLinkHtml}
+            </div>
+        `;
+        container.appendChild(item);
+    });
+}
+
+function goToLessonFromSchedule(lessonId) {
+    closeScheduleModal();
+    const lessonIdx = lessonsData.findIndex(l => l.id === lessonId);
+    if (lessonIdx !== -1) {
+        loadLesson(lessonIdx);
+    }
 }
