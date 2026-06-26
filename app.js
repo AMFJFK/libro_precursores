@@ -11,9 +11,8 @@ let currentGlobalFlashcardIndex = 0;
 
 // --- INICIALIZACIÓN ---
 document.addEventListener("DOMContentLoaded", () => {
-    // Cargar Tema Guardado
-    const savedTheme = localStorage.getItem("pioneer_theme") || "amanecer";
-    changeTheme(savedTheme);
+    // Cargar Tema Guardado (Forzado a JW.ORG)
+    changeTheme("jw");
 
     // Cargar Menú de Lecciones
     renderLessonsMenu();
@@ -665,15 +664,10 @@ function prevFlashcard(event) {
 
 // --- GESTIÓN DE TEMAS VISUALES ---
 function changeTheme(themeName) {
+    // Forzado a tema JW.ORG azul
     document.body.classList.remove("theme-amanecer", "theme-atardecer", "theme-nocturno", "theme-jw");
-    document.body.classList.add(`theme-${themeName}`);
-
-    document.querySelectorAll(".theme-btn").forEach(btn => {
-        btn.classList.remove("active");
-    });
-    document.getElementById(`btn-${themeName}`).classList.add("active");
-
-    localStorage.setItem("pioneer_theme", themeName);
+    document.body.classList.add("theme-jw");
+    localStorage.setItem("pioneer_theme", "jw");
 }
 
 // --- AUTO-GUARDADO DE RESPUESTA PERSONAL ---
