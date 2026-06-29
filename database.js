@@ -7871,27 +7871,145 @@ const lessonsData = [
       },
       {
         "id": "17B_q12",
-        "question": "¿Por qué puede que se requiera aguante en las siguientes situaciones, y qué podría ayudarte a aguantar? ˙ Empezar a predicar temprano. ˙ Pasar mucho calor o mucho frío. ˙ Tener diferencias de personalidad con tu compañero de precursorado o con algún otro hermano. ˙ Enfrentarse a la indiferencia o apatía de la gente.",
+        "question": "¿Por qué puede que se requiera aguante en las siguientes situaciones, y qué podría ayudarte a aguantar?",
         "references": "",
-        "directAnswer": "El aguante es necesario debido a nuestra naturaleza imperfecta y a los desafíos del ministerio; vencer estos retos requiere oración constante y buen ánimo.",
-        "deepAnswer": "Cada situación, como el clima extremo o los roces personales, pone a prueba nuestra determinación. Para superarlas, debemos <em>'seguir pidiendo sabiduría'</em> a Jehová y enfocarnos en el valor de nuestra obra de salvación. Recordar que nuestro compañero de precursorado es, al igual que nosotros, alguien imperfecto, nos ayudará a aplicar la paciencia y a buscar la unidad cristiana en todo momento.",
-        "shortAnswer": "La oración, la humildad y el enfoque en la importancia de nuestra obra ayudan a superar cualquier obstáculo."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "17B_q12_a",
+            "question": "¿Por qué puede que se requiera aguante al empezar a predicar temprano, y qué podría ayudarte a aguantar?",
+            "references": "",
+            "directAnswer": "Se requiere aguante para vencer la tendencia a la pereza o la comodidad; la disciplina personal y el amor por las personas son claves para perseverar.",
+            "deepAnswer": "Empezar a predicar temprano requiere un sacrificio consciente de nuestro descanso, lo cual pone a prueba nuestra disciplina. Para aguantar, es fundamental recordar que estamos buscando a las personas en el mejor momento para encontrarlas. Enfocarse en el impacto positivo de nuestro mensaje ayuda a superar la tentación de quedarse en casa, fortaleciendo nuestra resolución mediante la oración y el establecimiento de metas claras.",
+            "shortAnswer": "La disciplina personal y el deseo sincero de hallar a las personas ayudan a vencer la pereza matutina."
+          },
+          {
+            "id": "17B_q12_b",
+            "question": "¿Por qué puede que se requiera aguante al pasar mucho calor o mucho frío al predicar, y qué podría ayudarte a aguantar?",
+            "references": "",
+            "directAnswer": "Las condiciones climáticas extremas ponen a prueba nuestra determinación; una preparación adecuada y enfocarse en la urgencia de la obra ayudan a soportarlas.",
+            "deepAnswer": "El clima adverso es una prueba física que puede desanimarnos fácilmente. Para aguantar, debemos prepararnos bien, vistiéndonos adecuadamente y cuidando nuestra salud. Más importante aún es el enfoque mental: recordar que, sin importar el clima, las personas necesitan escuchar las buenas nuevas. Meditar en el ejemplo de los apóstoles, quienes superaron retos mucho mayores, nos da la fortaleza necesaria para persistir bajo el sol o el frío extremo.",
+            "shortAnswer": "La preparación física y recordar la importancia vital de nuestro mensaje ayudan a superar las incomodidades del clima."
+          },
+          {
+            "id": "17B_q12_c",
+            "question": "¿Por qué puede que se requiera aguante al tener diferencias de personalidad con tu compañero de precursorado o con algún otro hermano, y qué podría ayudarte a aguantar?",
+            "references": "",
+            "directAnswer": "Las diferencias de personalidad ponen a prueba nuestra humildad y amor; aplicar la paciencia y buscar la unidad cristiana son fundamentales.",
+            "deepAnswer": "Los roces personales son una de las pruebas más difíciles, ya que requieren que mantengamos nuestra espiritualidad a pesar de las imperfecciones ajenas. Para aguantar, debemos aplicar el consejo bíblico de 'seguir soportándose unos a otros'. Es vital enfocarse en las virtudes del hermano en lugar de sus defectos. La humildad nos permite pedir disculpas si es necesario y ver que, aunque somos diferentes, estamos unidos por el mismo propósito de servir a Jehová.",
+            "shortAnswer": "La humildad, el perdón y el enfoque en las buenas cualidades del prójimo ayudan a mantener la paz y la unidad."
+          },
+          {
+            "id": "17B_q12_d",
+            "question": "¿Por qué puede que se requiera aguante al enfrentarse a la indiferencia o apatía de la gente, y qué podría ayudarte a aguantar?",
+            "references": "",
+            "directAnswer": "La falta de interés de la gente puede desalentar; aguantar requiere ver la obra como Jehová la ve y recordar que nuestra labor es exitosa por el simple hecho de ser testigos.",
+            "deepAnswer": "La indiferencia puede hacer que sintamos que nuestro esfuerzo es en vano. Sin embargo, el aguante nace de reconocer que nuestra responsabilidad principal es dar testimonio, no necesariamente lograr que la gente acepte el mensaje de inmediato. Para aguantar, debemos mantener una visión positiva, orar para que el corazón de las personas se ablande y recordar que Jehová valora mucho nuestra constancia y lealtad, incluso cuando no vemos resultados inmediatos.",
+            "shortAnswer": "Recordar que nuestra misión es dar testimonio, y que Jehová valora nuestra constancia, ayuda a no desanimarse ante la indiferencia."
+          }
+        ]
       },
       {
         "id": "17B_q13",
-        "question": "¿Qué te ayudará a aguantar en los siguientes casos? ˙ Al enfrentar la oposición de tu familia (Sal. 27:10; Mat. 10:34-37; Mar. 10:29, 30). ˙ Al recibir —tú o un ser querido— algún tipo de disciplina (Prov. 1:8; Heb. 12:11). ˙ Si tienes mala salud o pasas por periodos de depresión (Sal. 41:3; Mat. 11:28-30; Rom. 12:12). ˙ Al enfrentarte a tentaciones. Por ejemplo, tal vez te ofrezcan un puesto de trabajo más importante o mejor pagado pero que te quita tiempo de las actividades espirituales (Sal. 37:25; Mat. 5:3; 6:33). ˙ Si te presionan en el trabajo. Por ejemplo, si se burlan de ti por seguir los principios de la Biblia (Sal. 55:22; Juan 16:33). EXPERIENCIA: Hace muchos años, un hermano sufrió las burlas de un compañero de trabajo que por meses estuvo riéndose de él y criticando su religión. El hermano ya no podía soportarlo más, así que le pidió a Jehová que lo ayudara a aguantar como un verdadero cristiano, sin devolver mal por mal. Para su sorpresa, su compañero le pidió perdón y le prometió que no volvería a hablar mal de Dios delante de él; poco después, se fue de la empresa. Pasaron 24 años hasta que nuestro hermano volvió a ver a su excompañero de trabajo. Resulta que había estudiado la Biblia y ahora era testigo de Jehová. Le dijo que, aunque habían pasado muchos años, nunca olvidó “aquel Testigo que con tanta paciencia soportó las constantes burlas que hacía de él y de su Dios”.",
+        "question": "¿Qué te ayudará a aguantar en los siguientes casos?",
         "references": "",
-        "directAnswer": "En momentos difíciles, nos sostiene confiar plenamente en que Jehová nunca nos abandona y buscar siempre el apoyo de nuestra hermandad y de la Biblia.",
-        "deepAnswer": "Frente a la oposición familiar, debemos recordar que el amor a Dios debe ser lo primero (Mat. 10:37). Si enfrentamos disciplina, aceptémosla como una prueba del amor de Jehová (Heb. 12:11). En casos de salud o tentaciones laborales, <strong>depositemos nuestras cargas en Jehová</strong>, recordando que él cuida de nosotros y que buscar primero el Reino nos garantiza todo lo necesario (Mat. 6:33).",
-        "shortAnswer": "Confiar en el cuidado de Jehová y en el valor de sus principios nos mantiene firmes."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "17B_q13_a",
+            "question": "¿Qué te ayudará a aguantar al enfrentar la oposición de tu familia? (Sal. 27:10; Mat. 10:34-37; Mar. 10:29, 30)",
+            "references": "Sal. 27:10; Mat. 10:34-37; Mar. 10:29, 30",
+            "directAnswer": "Tener presente que, aunque los familiares cercanos nos abandonen, Jehová y su familia espiritual, la congregación, nos brindan un apoyo mucho más duradero y leal.",
+            "deepAnswer": "Cuando enfrentamos oposición familiar por servir a Jehová, es vital recordar la promesa del Salmo 27:10: aunque nuestros padres o parientes nos dejen, Jehová siempre nos recogerá. Jesús enseñó que nuestro amor por él debe superar cualquier lazo humano (Mat. 10:37). Al poner los intereses del Reino primero, experimentamos el cumplimiento de la promesa de Marcos 10:29, 30, donde recibimos 'cien veces más' en forma de una familia espiritual amorosa que nos fortalece en la fe.",
+            "shortAnswer": "Confiar en que Jehová nos adopta como su familia y nos provee el apoyo de la congregación."
+          },
+          {
+            "id": "17B_q13_b",
+            "question": "¿Qué te ayudará a aguantar al recibir —tú o un ser querido— algún tipo de disciplina? (Prov. 1:8; Heb. 12:11)",
+            "references": "Prov. 1:8; Heb. 12:11",
+            "directAnswer": "Ver la disciplina no como un castigo, sino como una muestra del amor de Jehová que tiene como objetivo corregirnos y ayudarnos a producir un fruto pacífico: la justicia.",
+            "deepAnswer": "La disciplina es una forma en que Jehová demuestra que nos ama (Heb. 12:6). Aunque en el momento pueda ser dolorosa, debemos enfocarnos en su propósito correctivo. Aceptar la guía de los padres o los consejos bíblicos de la congregación con humildad, reconociendo que es para nuestro bien espiritual, nos ayuda a no desanimarnos y a valorar el proceso de refinamiento que nos acerca más a Dios.",
+            "shortAnswer": "Reconocer que la disciplina proviene del amor de Jehová para nuestro perfeccionamiento."
+          },
+          {
+            "id": "17B_q13_c",
+            "question": "¿Qué te ayudará a aguantar si tienes mala salud o pasas por periodos de depresión? (Sal. 41:3; Mat. 11:28-30; Rom. 12:12)",
+            "references": "Sal. 41:3; Mat. 11:28-30; Rom. 12:12",
+            "directAnswer": "Refugiarnos en la oración constante, meditar en las promesas de la Biblia y aceptar el consuelo de Jehová, quien se interesa profundamente por nuestro bienestar emocional y físico.",
+            "deepAnswer": "La mala salud y la depresión pueden hacer que nos sintamos débiles, pero Jehová es un 'refugio y fuerza' (Sal. 46:1). Jesús nos invita a ir a él cuando estamos cargados (Mat. 11:28-30), ofreciéndonos un 'yugo' que es llevadero porque él nos ayuda a cargarlo. Mantener una rutina espiritual estable, orar sin cesar y cultivar la esperanza del Reino nos da la resistencia necesaria para perseverar día a día bajo la mano sostenedora de Jehová.",
+            "shortAnswer": "La oración, la meditación bíblica y la confianza en que Jehová sostiene a quienes están agobiados."
+          },
+          {
+            "id": "17B_q13_d",
+            "question": "¿Qué te ayudará a aguantar al enfrentarte a tentaciones, como ofertas de trabajo que sacrifican actividades espirituales? (Sal. 37:25; Mat. 5:3; 6:33)",
+            "references": "Sal. 37:25; Mat. 5:3; 6:33",
+            "directAnswer": "Mantener una visión clara de lo que es realmente importante, recordando que buscar primero el Reino de Dios nos garantiza el cuidado de Jehová, mientras que la codicia material solo trae ansiedad.",
+            "deepAnswer": "Las tentaciones relacionadas con el éxito material ponen a prueba nuestras prioridades. Recordar la promesa de Mateo 6:33 es esencial: Jehová sabe qué necesitamos y se encargará de nosotros si mantenemos nuestra lealtad. El Salmo 37:25 nos asegura que el justo no será abandonado. Valorar nuestra 'necesidad espiritual' (Mat. 5:3) nos protege de tomar decisiones que sacrifiquen nuestra relación con Dios por beneficios temporales.",
+            "shortAnswer": "Dar prioridad absoluta a los intereses del Reino por encima de las ventajas materiales."
+          },
+          {
+            "id": "17B_q13_e",
+            "question": "¿Qué te ayudará a aguantar si te presionan en el trabajo o se burlan de ti por seguir los principios de la Biblia? (Sal. 55:22; Juan 16:33). EXPERIENCIA: Hace muchos años, un hermano sufrió las burlas de un compañero de trabajo que por meses estuvo riéndose de él y criticando su religión. El hermano ya no podía soportarlo más, así que le pidió a Jehová que lo ayudara a aguantar como un verdadero cristiano, sin devolver mal por mal. Para su sorpresa, su compañero le pidió perdón y le prometió que no volvería a hablar mal de Dios delante de él; poco después, se fue de la empresa. Pasaron 24 años hasta que nuestro hermano volvió a ver a su excompañero de trabajo. Resulta que había estudiado la Biblia y ahora era testigo de Jehová. Le dijo que, aunque habían pasado muchos años, nunca olvidó “aquel Testigo que con tanta paciencia soportó las constantes burlas que hacía de él y de su Dios”.",
+            "references": "Sal. 55:22; Juan 16:33",
+            "directAnswer": "Lanzar nuestra carga sobre Jehová mediante la oración y recordar que nuestra conducta ejemplar y paciente es el mejor testimonio, pudiendo incluso atraer a otros a la verdad.",
+            "deepAnswer": "Ante la presión y las burlas en el entorno laboral, lo más difícil es mantener la calma y no devolver mal por mal. Jesús nos advirtió que tendríamos aflicción, pero nos aseguró que él ha vencido al mundo (Juan 16:33). Al confiar en Jehová (Sal. 55:22), demostramos madurez cristiana. Nuestra paciencia no solo glorifica a Dios, sino que deja una marca imborrable en quienes nos observan, como lo demuestra la experiencia vivida por el hermano.<br><br><strong>Experiencia:</strong> Esta vivencia subraya la lección teocrática de que nuestra paciencia y conducta cristiana son sermones silenciosos pero poderosos. El hermano no respondió a las burlas con ira, sino con oración, permitiendo que Jehová actuara. Años después, los resultados mostraron que su aguante no solo protegió su espiritualidad, sino que fue el factor clave que tocó el corazón de su perseguidor, quien terminó siendo un hermano en la fe. Esto nos enseña que, cuando sufrimos injustamente por nuestra fe, nuestro aguante paciente puede tener efectos eternos que quizás no veamos de inmediato.",
+            "shortAnswer": "Mantener una conducta paciente y confiar en que Jehová recompensará nuestra integridad."
+          }
+        ]
       },
       {
         "id": "17B_q14",
-        "question": "¿Cómo te ayudarán los siguientes puntos a aguantar los problemas y a mantenerte cerca de Jehová? ˙ Estudiar y meditar (Prov. 15:28; 2 Tim. 2:15). EXPERIENCIA: Un hermano que había estado en campos de concentración nazis escribió: “Cuando me arrestaron, me sentí agradecido de no haber descuidado el estudio personal, ya que este me ayudó a tener fe para aguantar las pruebas”. ˙ Pasar tiempo con los hermanos (1 Cor. 15:33; Heb. 10:24, 25). ˙ Predicar (Mat. 24:14; 28:19, 20). ˙ Orar (Prov. 15:29). ˙ Tener una buena conciencia (1 Tim. 1:18, 19; 1 Ped. 3:16). “Que el aguante complete su obra” Mientras esperamos a que se cumplan las promesas de Jehová, el aguante nos ayuda a cultivar buenas cualidades.",
+        "question": "¿Cómo te ayudarán los siguientes puntos a aguantar los problemas y a mantenerte cerca de Jehová?",
         "references": "Sant. 1:2-4; w21.02 pág. 28 párr. 7",
-        "directAnswer": "Para mantenernos cerca de Jehová, es vital desarrollar hábitos espirituales sólidos, como el estudio personal, la oración y la participación activa en el ministerio.",
-        "deepAnswer": "La fe se fortalece con el <strong>estudio y la meditación</strong>, que nos dan el conocimiento necesario para enfrentar pruebas. La compañía de los hermanos en las reuniones nos estimula a no desfallecer, mientras que la predicación mantiene nuestro corazón enfocado en la obra de Dios. Además, mantener una buena conciencia ante él es un escudo protector que nos permite seguir adelante con confianza (1 Ped. 3:16).",
-        "shortAnswer": "La rutina espiritual activa es el ancla que nos une a Jehová frente a las pruebas."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "17B_q14_a",
+            "question": "¿Cómo te ayudará el punto 'Estudiar y meditar' a aguantar los problemas y a mantenerte cerca de Jehová? (Prov. 15:28; 2 Tim. 2:15). EXPERIENCIA: Un hermano que había estado en campos de concentración nazis escribió: “Cuando me arrestaron, me sentí agradecido de no haber descuidado el estudio personal, ya que este me ayudó a tener fe para aguantar las pruebas”.",
+            "references": "Prov. 15:28; 2 Tim. 2:15; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
+            "directAnswer": "El estudio y la meditación nos permiten llenar nuestra mente con los pensamientos de Jehová, lo cual fortalece nuestra fe y nos da la estabilidad necesaria para resistir bajo presión.",
+            "deepAnswer": "La fe es como un músculo que necesita ser alimentado. El estudio y la meditación nos permiten internalizar las verdades bíblicas, transformándolas en convicciones profundas que guían nuestras decisiones. Cuando surgen los problemas, no reaccionamos por impulso, sino basados en la sabiduría divina que hemos almacenado en nuestro corazón. <br><br><strong>Experiencia:</strong> El relato del hermano en los campos de concentración subraya una lección teocrática fundamental: la preparación espiritual no es un lujo, sino una necesidad de supervivencia. Su fe no se desmoronó porque el estudio personal había construido un cimiento sólido antes de la prueba, permitiéndole mantener su integridad incluso en las circunstancias más extremas.",
+            "shortAnswer": "El estudio personal edifica los cimientos espirituales necesarios para resistir las pruebas de fe."
+          },
+          {
+            "id": "17B_q14_b",
+            "question": "¿Cómo te ayudará el punto 'Pasar tiempo con los hermanos' a aguantar los problemas y a mantenerte cerca de Jehová? (1 Cor. 15:33; Heb. 10:24, 25).",
+            "references": "1 Cor. 15:33; Heb. 10:24, 25; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
+            "directAnswer": "Pasar tiempo con los hermanos nos proporciona el estímulo mutuo, el apoyo emocional y el ejemplo de fidelidad que necesitamos para no rendirnos.",
+            "deepAnswer": "Jehová no quiere que enfrentemos los problemas en soledad. La congregación es un refugio donde recibimos 'incitación al amor y a las obras excelentes'. Al relacionarnos con quienes también aman a Jehová, nuestra propia fe se ve fortalecida por la suya, y evitamos las influencias corruptoras del mundo que podrían debilitar nuestra determinación de servir a Dios.",
+            "shortAnswer": "La asociación con nuestros hermanos es una fuente vital de ánimo y protección espiritual."
+          },
+          {
+            "id": "17B_q14_c",
+            "question": "¿Cómo te ayudará el punto 'Predicar' a aguantar los problemas y a mantenerte cerca de Jehová? (Mat. 24:14; 28:19, 20).",
+            "references": "Mat. 24:14; 28:19, 20; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
+            "directAnswer": "La predicación nos mantiene enfocados en el propósito de Jehová y en las promesas futuras, lo que nos ayuda a poner nuestros problemas en una perspectiva eterna.",
+            "deepAnswer": "Participar activamente en la obra de predicar es un acto de fe que mantiene nuestro corazón lleno de esperanza. Al ayudar a otros a conocer a Jehová, fortalecemos nuestra propia relación con él y recordamos constantemente por qué vale la pena nuestro aguante. El servicio es un antídoto poderoso contra el desánimo.",
+            "shortAnswer": "El ministerio nos ayuda a mantenernos enfocados en las promesas de Dios, fortaleciendo nuestra perseverancia."
+          },
+          {
+            "id": "17B_q14_d",
+            "question": "¿Cómo te ayudará el punto 'Orar' a aguantar los problemas y a mantenerte cerca de Jehová? (Prov. 15:29).",
+            "references": "Prov. 15:29; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
+            "directAnswer": "La oración nos permite comunicarnos directamente con Jehová, descargando nuestras ansiedades sobre él y recibiendo la paz que supera todo pensamiento.",
+            "deepAnswer": "La oración no es solo pedir ayuda; es una línea directa de comunicación que nos permite sentir la cercanía de Jehová. Al orar, le expresamos nuestros temores y necesidades, y él nos responde a través de su espíritu santo, dándonos la fortaleza necesaria para aguantar pruebas que, por nuestras propias fuerzas, serían insoportables.",
+            "shortAnswer": "La oración es el canal mediante el cual recibimos la paz y fortaleza divina para seguir adelante."
+          },
+          {
+            "id": "17B_q14_e",
+            "question": "¿Cómo te ayudará el punto 'Tener una buena conciencia' a aguantar los problemas y a mantenerte cerca de Jehová? (1 Tim. 1:18, 19; 1 Ped. 3:16).",
+            "references": "1 Tim. 1:18, 19; 1 Ped. 3:16; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
+            "directAnswer": "Una buena conciencia nos brinda la libertad mental y la confianza ante Dios de que estamos haciendo lo correcto, lo cual es esencial para no sentirnos derrotados por la culpa.",
+            "deepAnswer": "Mantener una buena conciencia actúa como un escudo protector. Cuando nos esforzamos por vivir en armonía con las normas de Dios, nos ahorramos el sufrimiento que causa el remordimiento y la desaprobación divina. Una conciencia limpia nos permite acercarnos a Jehová con total confianza, incluso cuando enfrentamos injusticias o pruebas de lealtad.",
+            "shortAnswer": "Una conciencia limpia es un escudo que nos da confianza y paz interior durante las pruebas."
+          }
+        ]
       },
       {
         "id": "17B_q15",
