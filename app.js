@@ -135,91 +135,223 @@ function renderQuestions(lesson) {
             wolSearchUrl += encodeURIComponent(q.question);
         }
 
-        accordion.innerHTML = `
-            <div class="accordion-header" onclick="toggleAccordion('${q.id}')">
-                <div class="accordion-title-container">
-                    <div class="item-checkbox ${isCompleted ? 'checked' : ''}" 
-                         id="checkbox-${q.id}" 
-                         onclick="toggleCheck(event, '${lesson.id}', '${q.id}')">
-                    </div>
-                    <span class="accordion-title">${qIndex + 1}. ${q.question}</span>
-                </div>
-                <span class="accordion-icon">▼</span>
-            </div>
-            
-            <div class="accordion-content">
-                <div class="accordion-body">
-                    <!-- Cabecera de 3 Pestañas -->
-                    <div class="tab-header">
-                        <button class="tab-btn active" id="tab-btn-direct-${q.id}" onclick="switchTab('${q.id}', 'direct')">Respuesta Directa</button>
-                        <button class="tab-btn" id="tab-btn-deep-${q.id}" onclick="switchTab('${q.id}', 'deep')">Estudio Profundo</button>
-                        <button class="tab-btn" id="tab-btn-quote-${q.id}" onclick="switchTab('${q.id}', 'quote')">Frase para Recordar</button>
-                    </div>
+        let contentHtml = "";
 
-                    <!-- Contenido Pestaña Directa (Sintetizada) -->
-                    <div class="tab-content active" id="tab-content-direct-${q.id}">
-                        <div class="direct-answer">
-                            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
-                                <h4>Respuesta Directa</h4>
-                                <button class="speak-btn" onclick="speakText(event, 'text-direct-${q.id}', 'speak-direct-${q.id}')" id="speak-direct-${q.id}" title="Escuchar respuesta">🔊</button>
+        if (q.subQuestions && q.subQuestions.length > 0) {
+            // Render sub-accordion container
+            let subItemsHtml = "";
+            q.subQuestions.forEach((subQ, sIdx) => {
+                const isSubCompleted = completedState[subQ.id] || false;
+                
+                // Generar spans clicables para las referencias de la subpregunta
+                let subRefsHtml = "";
+                let subWolSearchUrl = "https://wol.jw.org/es/wol/s/r4/lp-s?q=";
+                if (subQ.references) {
+                    const refsArray = subQ.references.split(";").map(r => r.trim());
+                    subRefsHtml = refsArray.map(ref => `
+                        <span class="scripture-link" onclick="showScripture('${ref}')">${ref}</span>
+                    `).join(" | ");
+                    subWolSearchUrl += encodeURIComponent(refsArray[0]);
+                } else {
+                    subWolSearchUrl += encodeURIComponent(subQ.question);
+                }
+
+                subItemsHtml += `
+                    <div class="sub-accordion-item" id="sub-accordion-${subQ.id}">
+                        <div class="sub-accordion-header" onclick="toggleSubAccordion('${subQ.id}')">
+                            <div class="sub-accordion-title-container">
+                                <div class="sub-item-checkbox ${isSubCompleted ? 'checked' : ''}" 
+                                     id="sub-checkbox-${subQ.id}" 
+                                     onclick="toggleSubCheck(event, '${lesson.id}', '${q.id}', '${subQ.id}')">
+                                </div>
+                                <span class="sub-accordion-title">${String.fromCharCode(97 + sIdx)}) ${subQ.question}</span>
                             </div>
-                            <p id="text-direct-${q.id}">${q.directAnswer}</p>
+                            <span class="sub-accordion-icon">▼</span>
                         </div>
-                    </div>
-
-                    <!-- Contenido Pestaña Profunda -->
-                    <div class="tab-content" id="tab-content-deep-${q.id}">
-                        <div class="deep-answer">
-                            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
-                                <div id="text-deep-${q.id}" style="flex: 1;">${q.deepAnswer}</div>
-                                <button class="speak-btn" onclick="speakText(event, 'text-deep-${q.id}', 'speak-deep-${q.id}')" id="speak-deep-${q.id}" style="margin-left: 8px;" title="Escuchar estudio profundo">🔊</button>
+                        
+                        <div class="sub-accordion-content">
+                            <!-- Cabecera de 3 Pestañas para el hijo -->
+                            <div class="tab-header sub-tab-header">
+                                <button class="tab-btn active" id="tab-btn-direct-${subQ.id}" onclick="switchTab('${subQ.id}', 'direct')">Respuesta Directa</button>
+                                <button class="tab-btn" id="tab-btn-deep-${subQ.id}" onclick="switchTab('${subQ.id}', 'deep')">Estudio Profundo</button>
+                                <button class="tab-btn" id="tab-btn-quote-${subQ.id}" onclick="switchTab('${subQ.id}', 'quote')">Lema</button>
                             </div>
                             
-                            <div class="ref-section">
-                                <div class="ref-header">
-                                    <span>Referencias y Textos Clave</span>
-                                    <a href="${wolSearchUrl}" target="_blank" class="wol-link">Ver en wol.org ↗</a>
+                            <!-- Contenido Pestaña Directa -->
+                            <div class="tab-content active" id="tab-content-direct-${subQ.id}">
+                                <div class="direct-answer">
+                                    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
+                                        <h4>Respuesta Directa</h4>
+                                        <button class="speak-btn" onclick="speakText(event, 'text-direct-${subQ.id}', 'speak-direct-${subQ.id}')" id="speak-direct-${subQ.id}" title="Escuchar respuesta">🔊</button>
+                                    </div>
+                                    <p id="text-direct-${subQ.id}">${subQ.directAnswer}</p>
                                 </div>
-                                <div style="font-size:0.85rem; font-weight:600; color:var(--text-light);">
-                                    ${referencesHtml || 'Sin referencias registradas.'}
+                            </div>
+                            
+                            <!-- Contenido Pestaña Profunda -->
+                            <div class="tab-content" id="tab-content-deep-${subQ.id}">
+                                <div class="deep-answer">
+                                    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
+                                        <div id="text-deep-${subQ.id}" style="flex: 1;">${subQ.deepAnswer}</div>
+                                        <button class="speak-btn" onclick="speakText(event, 'text-deep-${subQ.id}', 'speak-deep-${subQ.id}')" id="speak-deep-${subQ.id}" style="margin-left: 8px;" title="Escuchar estudio profundo">🔊</button>
+                                    </div>
+                                    <div class="ref-section">
+                                        <div class="ref-header">
+                                            <span>Referencias y Textos Clave</span>
+                                            <a href="${subWolSearchUrl}" target="_blank" class="wol-link">Ver en wol.org ↗</a>
+                                        </div>
+                                        <div style="font-size:0.85rem; font-weight:600; color:var(--text-light);">
+                                            ${subRefsHtml || 'Sin referencias registradas.'}
+                                        </div>
+                                    </div>
                                 </div>
+                            </div>
+                            
+                            <!-- Contenido Pestaña Lema -->
+                            <div class="tab-content" id="tab-content-quote-${subQ.id}">
+                                <div class="short-answer">
+                                    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
+                                        <h4>Lema del Precursor</h4>
+                                        <button class="speak-btn" onclick="speakText(event, 'text-quote-${subQ.id}', 'speak-quote-${subQ.id}')" id="speak-quote-${subQ.id}" title="Escuchar lema">🔊</button>
+                                    </div>
+                                    <p id="text-quote-${subQ.id}">“${subQ.shortAnswer}”</p>
+                                </div>
+                            </div>
+                            
+                            <!-- Sección de Respuesta Personal -->
+                            <div class="personal-answer-container">
+                                <div class="personal-answer-title">
+                                    <span>Mi Respuesta Personal</span>
+                                    <span class="personal-answer-status" id="personal-ans-status-${subQ.id}"></span>
+                                </div>
+                                <textarea class="personal-answer-textarea" 
+                                          id="personal-ans-${subQ.id}" 
+                                          placeholder="Escribe tu propia respuesta o notas aquí... Se guardan automáticamente." 
+                                          oninput="savePersonalAnswer('${lesson.id}', '${subQ.id}')"></textarea>
                             </div>
                         </div>
                     </div>
-
-                    <!-- Contenido Pestaña Corta / Frase para Recordar -->
-                    <div class="tab-content" id="tab-content-quote-${q.id}">
-                        <div class="short-answer">
-                            <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
-                                <h4>Lema del Precursor</h4>
-                                <button class="speak-btn" onclick="speakText(event, 'text-quote-${q.id}', 'speak-quote-${q.id}')" id="speak-quote-${q.id}" title="Escuchar lema">🔊</button>
-                            </div>
-                            <p id="text-quote-${q.id}">“${q.shortAnswer}”</p>
+                `;
+            });
+            
+            contentHtml = `
+                <div class="accordion-header" onclick="toggleAccordion('${q.id}')">
+                    <div class="accordion-title-container">
+                        <div class="item-checkbox ${isCompleted ? 'checked' : ''}" 
+                             id="checkbox-${q.id}" 
+                             onclick="toggleCheck(event, '${lesson.id}', '${q.id}')">
                         </div>
+                        <span class="accordion-title">${qIndex + 1}. ${q.question}</span>
                     </div>
-
-                    <!-- Sección de Respuesta Personal -->
-                    <div class="personal-answer-container">
-                        <div class="personal-answer-title">
-                            <span>Mi Respuesta Personal</span>
-                            <span class="personal-answer-status" id="personal-ans-status-${q.id}"></span>
-                        </div>
-                        <textarea class="personal-answer-textarea" 
-                                  id="personal-ans-${q.id}" 
-                                  placeholder="Escribe tu propia respuesta o notas para esta pregunta aquí... Se guardan automáticamente." 
-                                  oninput="savePersonalAnswer('${lesson.id}', '${q.id}')"></textarea>
-                    </div>
-
+                    <span class="accordion-icon">▼</span>
                 </div>
-            </div>
-        `;
+                <div class="accordion-content">
+                    <div class="accordion-body">
+                        <div class="sub-accordion-container">
+                            ${subItemsHtml}
+                        </div>
+                    </div>
+                </div>
+            `;
+        } else {
+            // Render standard layout
+            contentHtml = `
+                <div class="accordion-header" onclick="toggleAccordion('${q.id}')">
+                    <div class="accordion-title-container">
+                        <div class="item-checkbox ${isCompleted ? 'checked' : ''}" 
+                             id="checkbox-${q.id}" 
+                             onclick="toggleCheck(event, '${lesson.id}', '${q.id}')">
+                        </div>
+                        <span class="accordion-title">${qIndex + 1}. ${q.question}</span>
+                    </div>
+                    <span class="accordion-icon">▼</span>
+                </div>
+                
+                <div class="accordion-content">
+                    <div class="accordion-body">
+                        <!-- Cabecera de 3 Pestañas -->
+                        <div class="tab-header">
+                            <button class="tab-btn active" id="tab-btn-direct-${q.id}" onclick="switchTab('${q.id}', 'direct')">Respuesta Directa</button>
+                            <button class="tab-btn" id="tab-btn-deep-${q.id}" onclick="switchTab('${q.id}', 'deep')">Estudio Profundo</button>
+                            <button class="tab-btn" id="tab-btn-quote-${q.id}" onclick="switchTab('${q.id}', 'quote')">Frase para Recordar</button>
+                        </div>
+
+                        <!-- Contenido Pestaña Directa (Sintetizada) -->
+                        <div class="tab-content active" id="tab-content-direct-${q.id}">
+                            <div class="direct-answer">
+                                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
+                                    <h4>Respuesta Directa</h4>
+                                    <button class="speak-btn" onclick="speakText(event, 'text-direct-${q.id}', 'speak-direct-${q.id}')" id="speak-direct-${q.id}" title="Escuchar respuesta">🔊</button>
+                                </div>
+                                <p id="text-direct-${q.id}">${q.directAnswer}</p>
+                            </div>
+                        </div>
+
+                        <!-- Contenido Pestaña Profunda -->
+                        <div class="tab-content" id="tab-content-deep-${q.id}">
+                            <div class="deep-answer">
+                                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
+                                    <div id="text-deep-${q.id}" style="flex: 1;">${q.deepAnswer}</div>
+                                    <button class="speak-btn" onclick="speakText(event, 'text-deep-${q.id}', 'speak-deep-${q.id}')" id="speak-deep-${q.id}" style="margin-left: 8px;" title="Escuchar estudio profundo">🔊</button>
+                                </div>
+                                
+                                <div class="ref-section">
+                                    <div class="ref-header">
+                                        <span>Referencias y Textos Clave</span>
+                                        <a href="${wolSearchUrl}" target="_blank" class="wol-link">Ver en wol.org ↗</a>
+                                    </div>
+                                    <div style="font-size:0.85rem; font-weight:600; color:var(--text-light);">
+                                        ${referencesHtml || 'Sin referencias registradas.'}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Contenido Pestaña Corta / Frase para Recordar -->
+                        <div class="tab-content" id="tab-content-quote-${q.id}">
+                            <div class="short-answer">
+                                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
+                                    <h4>Lema del Precursor</h4>
+                                    <button class="speak-btn" onclick="speakText(event, 'text-quote-${q.id}', 'speak-quote-${q.id}')" id="speak-quote-${q.id}" title="Escuchar lema">🔊</button>
+                                </div>
+                                <p id="text-quote-${q.id}">“${q.shortAnswer}”</p>
+                            </div>
+                        </div>
+
+                        <!-- Sección de Respuesta Personal -->
+                        <div class="personal-answer-container">
+                            <div class="personal-answer-title">
+                                <span>Mi Respuesta Personal</span>
+                                <span class="personal-answer-status" id="personal-ans-status-${q.id}"></span>
+                            </div>
+                            <textarea class="personal-answer-textarea" 
+                                      id="personal-ans-${q.id}" 
+                                      placeholder="Escribe tu propia respuesta o notas para esta pregunta aquí... Se guardan automáticamente." 
+                                      oninput="savePersonalAnswer('${lesson.id}', '${q.id}')"></textarea>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        accordion.innerHTML = contentHtml;
         container.appendChild(accordion);
 
-        // Cargar respuesta personal guardada de manera segura
-        const personalAnswer = localStorage.getItem(`pioneer_personal_ans_${q.id}`) || "";
-        const ta = accordion.querySelector(`#personal-ans-${q.id}`);
-        if (ta) {
-            ta.value = personalAnswer;
+        // Cargar respuestas personales
+        if (q.subQuestions && q.subQuestions.length > 0) {
+            q.subQuestions.forEach(subQ => {
+                const subPersonalAnswer = localStorage.getItem(`pioneer_personal_ans_${subQ.id}`) || "";
+                const subTa = accordion.querySelector(`#personal-ans-${subQ.id}`);
+                if (subTa) {
+                    subTa.value = subPersonalAnswer;
+                }
+            });
+        } else {
+            const personalAnswer = localStorage.getItem(`pioneer_personal_ans_${q.id}`) || "";
+            const ta = accordion.querySelector(`#personal-ans-${q.id}`);
+            if (ta) {
+                ta.value = personalAnswer;
+            }
         }
     });
 }
@@ -284,28 +416,46 @@ function switchTab(qId, tabType) {
     }
 }
 
-// --- MARCAR COMPLETADO ---
 function toggleCheck(event, lessonId, qId) {
     event.stopPropagation(); // Evitar que abra el acordeón al hacer clic en el checkbox
 
     const checkbox = document.getElementById(`checkbox-${qId}`);
     const completedState = JSON.parse(localStorage.getItem(`pioneer_completed_${lessonId}`)) || {};
-
     const isCurrentlyChecked = checkbox.classList.contains("checked");
+    
+    // Buscar la pregunta
+    const lesson = lessonsData.find(l => l.id === lessonId);
+    let subQuestions = [];
+    if (lesson) {
+        const q = lesson.questions.find(item => item.id === qId);
+        if (q && q.subQuestions) {
+            subQuestions = q.subQuestions;
+        }
+    }
 
     if (isCurrentlyChecked) {
         checkbox.classList.remove("checked");
         completedState[qId] = false;
+        // Desmarcar todos los hijos
+        subQuestions.forEach(sq => {
+            completedState[sq.id] = false;
+            const subCheckbox = document.getElementById(`sub-checkbox-${sq.id}`);
+            if (subCheckbox) subCheckbox.classList.remove("checked");
+        });
     } else {
         checkbox.classList.add("checked");
         completedState[qId] = true;
+        // Marcar todos los hijos
+        subQuestions.forEach(sq => {
+            completedState[sq.id] = true;
+            const subCheckbox = document.getElementById(`sub-checkbox-${sq.id}`);
+            if (subCheckbox) subCheckbox.classList.add("checked");
+        });
     }
 
     localStorage.setItem(`pioneer_completed_${lessonId}`, JSON.stringify(completedState));
     updateProgressBar();
 }
-
-// --- ACTUALIZAR BARRA DE PROGRESO ---
 function updateProgressBar() {
     const lesson = lessonsData[currentLessonIndex];
     const completedState = JSON.parse(localStorage.getItem(`pioneer_completed_${lesson.id}`)) || {};
@@ -971,4 +1121,67 @@ function goToLessonFromSchedule(lessonId) {
     if (lessonIdx !== -1) {
         loadLesson(lessonIdx);
     }
+}
+
+function toggleSubAccordion(subId) {
+    const item = document.getElementById(`sub-accordion-${subId}`);
+    const isOpen = item.classList.contains("open");
+    
+    // Cerrar todos los sub-acordeones de este padre
+    const parentContainer = item.closest(".sub-accordion-container");
+    if (parentContainer) {
+        parentContainer.querySelectorAll(".sub-accordion-item").forEach(el => {
+            el.classList.remove("open");
+        });
+    }
+    
+    // Detener audio al cambiar
+    if (window.speechSynthesis.speaking) {
+        window.speechSynthesis.cancel();
+        resetSpeakingStates();
+    }
+    
+    if (!isOpen) {
+        item.classList.add("open");
+    }
+}
+
+function toggleSubCheck(event, lessonId, parentId, subId) {
+    event.stopPropagation();
+    
+    const checkbox = document.getElementById(`sub-checkbox-${subId}`);
+    const completedState = JSON.parse(localStorage.getItem(`pioneer_completed_${lessonId}`)) || {};
+    
+    const isCurrentlyChecked = checkbox.classList.contains("checked");
+    if (isCurrentlyChecked) {
+        checkbox.classList.remove("checked");
+        completedState[subId] = false;
+    } else {
+        checkbox.classList.add("checked");
+        completedState[subId] = true;
+    }
+    
+    localStorage.setItem(`pioneer_completed_${lessonId}`, JSON.stringify(completedState));
+    
+    // Recalcular estado del padre
+    const lesson = lessonsData.find(l => l.id === lessonId);
+    if (lesson) {
+        const parentQ = lesson.questions.find(q => q.id === parentId);
+        if (parentQ && parentQ.subQuestions) {
+            const allChecked = parentQ.subQuestions.every(sq => completedState[sq.id] === true);
+            const parentCheckbox = document.getElementById(`checkbox-${parentId}`);
+            if (parentCheckbox) {
+                if (allChecked) {
+                    parentCheckbox.classList.add("checked");
+                    completedState[parentId] = true;
+                } else {
+                    parentCheckbox.classList.remove("checked");
+                    completedState[parentId] = false;
+                }
+                localStorage.setItem(`pioneer_completed_${lessonId}`, JSON.stringify(completedState));
+            }
+        }
+    }
+    
+    updateProgressBar();
 }

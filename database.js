@@ -394,44 +394,54 @@ const lessonsData = [
         "shortAnswer": "Exacta, literal y con lenguaje claro que honre a Dios."
       },
       {
-        "id": "2A_q12_a",
-        "question": "¿Por qué se han hecho algunos cambios de estilo y vocabulario?",
+        "id": "2A_q12",
+        "question": "¿Por qué se han hecho algunos cambios de estilo y vocabulario? Da ejemplos de cambios que se hicieron teniendo en cuenta los siguientes objetivos:",
         "references": "nwt págs. 1854-1858",
-        "directAnswer": "Los cambios se han realizado para que el mensaje de la Biblia sea claro, moderno y accesible para todos los lectores actuales, asegurando que la Palabra de Dios llegue al corazón con la máxima precisión.",
-        "deepAnswer": "La revisión de la Traducción del Nuevo Mundo busca superar las barreras del tiempo y las variaciones lingüísticas. Al ajustar el estilo y el vocabulario, se garantiza que los lectores contemporáneos puedan comprender los principios bíblicos sin las dificultades que presentan los términos arcaicos o las estructuras gramaticales complejas, permitiendo que el mensaje penetre profundamente en el corazón, tal como indica Hebreos 4:12.",
-        "shortAnswer": "Para que la Palabra de Dios sea fácil de entender y llegue con claridad a todos los lectores de hoy."
-      },
-      {
-        "id": "2A_q12_b",
-        "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Utilizar un lenguaje actual y fácil de captar. A3 Cómo llegó la Biblia hasta nuestros días.",
-        "references": "nwt págs. 1854-1858",
-        "directAnswer": "Se han sustituido términos antiguos o poco comunes por palabras que usamos en la conversación diaria, haciendo que el texto sagrado sea mucho más cercano y comprensible.",
-        "deepAnswer": "El objetivo de utilizar un lenguaje actual implica reemplazar palabras que han caído en desuso o que han cambiado de significado con el paso de los siglos. Por ejemplo, al emplear giros idiomáticos modernos que mantienen la precisión del original hebreo o griego, se evita que el lector se distraiga con dudas sobre el significado de las palabras y pueda concentrarse plenamente en la enseñanza divina. Esto facilita que el mensaje de Jehová se sienta como una comunicación viva para nuestra época.",
-        "shortAnswer": "Se usan términos de uso cotidiano en lugar de palabras arcaicas para facilitar la comprensión."
-      },
-      {
-        "id": "2A_q12_c",
-        "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Presentar de forma clara ciertas expresiones bíblicas. A3 Cómo llegó la Biblia hasta nuestros días.",
-        "references": "nwt págs. 1854-1858",
-        "directAnswer": "Se han refinado expresiones bíblicas complejas para que su significado exacto sea evidente, evitando interpretaciones ambiguas y permitiendo una comprensión fiel del texto.",
-        "deepAnswer": "Muchas expresiones bíblicas tienen un trasfondo cultural único que a veces puede confundir al lector moderno. Al traducir con claridad, se busca transmitir el sentido pleno de la expresión original, como ocurre en casos donde se usan paráfrasis que explican el contexto o términos actuales que mantienen la esencia del mandato o concepto bíblico. Esto garantiza que las verdades de las Escrituras se presenten sin distorsiones, tal como se detalla en el apéndice A3 sobre cómo llegó la Biblia hasta nuestros días.",
-        "shortAnswer": "Se han hecho más explícitas las expresiones idiomáticas o antiguas para asegurar que se entienda el sentido original."
-      },
-      {
-        "id": "2A_q12_d",
-        "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Facilitar la lectura. A3 Cómo llegó la Biblia hasta nuestros días.",
-        "references": "nwt págs. 1854-1858",
-        "directAnswer": "Se han ajustado la estructura de las oraciones y la puntuación para que el texto fluya con naturalidad, haciendo que la lectura personal y en voz alta sea más fluida y placentera.",
-        "deepAnswer": "La claridad en la estructura gramatical es esencial para el estudio personal. Al simplificar oraciones excesivamente largas y mejorar la puntuación, el lector puede seguir el hilo de pensamiento del escritor bíblico sin tropiezos. Esto no solo hace que la lectura sea más amena, sino que permite que la persona medite en el contenido con mayor profundidad, al no tener que esforzarse en descifrar la sintaxis del texto.",
-        "shortAnswer": "Se ha mejorado la estructura de las oraciones y la puntuación para una lectura más natural y fluida."
-      },
-      {
-        "id": "2A_q12_e",
-        "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Llegar al corazón de todos los hispanohablantes. A3 Cómo llegó la Biblia hasta nuestros días.",
-        "references": "nwt págs. 1854-1858",
-        "directAnswer": "Se ha adoptado un español neutral y universal, eliminando regionalismos innecesarios para que cualquier persona que hable español, sin importar su país de origen, se sienta identificada con el mensaje.",
-        "deepAnswer": "Para llegar al corazón, el lenguaje debe ser cálido y cercano. El uso de un español neutral evita que el lector se distraiga con expresiones locales que podrían no ser comprendidas en otras partes del mundo. Al emplear un vocabulario común a todos los hispanohablantes, la Palabra de Jehová logra un impacto universal, demostrando que su mensaje de amor y esperanza trasciende fronteras y es verdaderamente para toda la humanidad.",
-        "shortAnswer": "Se emplea un español neutral y universal que elimina regionalismos para que el mensaje llegue a todos por igual."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "2A_q12_a",
+            "question": "¿Por qué se han hecho algunos cambios de estilo y vocabulario?",
+            "references": "nwt págs. 1854-1858",
+            "directAnswer": "Los cambios se han realizado para que el mensaje de la Biblia sea claro, moderno y accesible para todos los lectores actuales, asegurando que la Palabra de Dios llegue al corazón con la máxima precisión.",
+            "deepAnswer": "La revisión de la Traducción del Nuevo Mundo busca superar las barreras del tiempo y las variaciones lingüísticas. Al ajustar el estilo y el vocabulario, se garantiza que los lectores contemporáneos puedan comprender los principios bíblicos sin las dificultades que presentan los términos arcaicos o las estructuras gramaticales complejas, permitiendo que el mensaje penetre profundamente en el corazón, tal como indica Hebreos 4:12.",
+            "shortAnswer": "Para que la Palabra de Dios sea fácil de entender y llegue con claridad a todos los lectores de hoy."
+          },
+          {
+            "id": "2A_q12_b",
+            "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Utilizar un lenguaje actual y fácil de captar. A3 Cómo llegó la Biblia hasta nuestros días.",
+            "references": "nwt págs. 1854-1858",
+            "directAnswer": "Se han sustituido términos antiguos o poco comunes por palabras que usamos en la conversación diaria, haciendo que el texto sagrado sea mucho más cercano y comprensible.",
+            "deepAnswer": "El objetivo de utilizar un lenguaje actual implica reemplazar palabras que han caído en desuso o que han cambiado de significado con el paso de los siglos. Por ejemplo, al emplear giros idiomáticos modernos que mantienen la precisión del original hebreo o griego, se evita que el lector se distraiga con dudas sobre el significado de las palabras y pueda concentrarse plenamente en la enseñanza divina. Esto facilita que el mensaje de Jehová se sienta como una comunicación viva para nuestra época.",
+            "shortAnswer": "Se usan términos de uso cotidiano en lugar de palabras arcaicas para facilitar la comprensión."
+          },
+          {
+            "id": "2A_q12_c",
+            "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Presentar de forma clara ciertas expresiones bíblicas. A3 Cómo llegó la Biblia hasta nuestros días.",
+            "references": "nwt págs. 1854-1858",
+            "directAnswer": "Se han refinado expresiones bíblicas complejas para que su significado exacto sea evidente, evitando interpretaciones ambiguas y permitiendo una comprensión fiel del texto.",
+            "deepAnswer": "Muchas expresiones bíblicas tienen un trasfondo cultural único que a veces puede confundir al lector moderno. Al traducir con claridad, se busca transmitir el sentido pleno de la expresión original, como ocurre en casos donde se usan paráfrasis que explican el contexto o términos actuales que mantienen la esencia del mandato o concepto bíblico. Esto garantiza que las verdades de las Escrituras se presenten sin distorsiones, tal como se detalla en el apéndice A3 sobre cómo llegó la Biblia hasta nuestros días.",
+            "shortAnswer": "Se han hecho más explícitas las expresiones idiomáticas o antiguas para asegurar que se entienda el sentido original."
+          },
+          {
+            "id": "2A_q12_d",
+            "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Facilitar la lectura. A3 Cómo llegó la Biblia hasta nuestros días.",
+            "references": "nwt págs. 1854-1858",
+            "directAnswer": "Se han ajustado la estructura de las oraciones y la puntuación para que el texto fluya con naturalidad, haciendo que la lectura personal y en voz alta sea más fluida y placentera.",
+            "deepAnswer": "La claridad en la estructura gramatical es esencial para el estudio personal. Al simplificar oraciones excesivamente largas y mejorar la puntuación, el lector puede seguir el hilo de pensamiento del escritor bíblico sin tropiezos. Esto no solo hace que la lectura sea más amena, sino que permite que la persona medite en el contenido con mayor profundidad, al no tener que esforzarse en descifrar la sintaxis del texto.",
+            "shortAnswer": "Se ha mejorado la estructura de las oraciones y la puntuación para una lectura más natural y fluida."
+          },
+          {
+            "id": "2A_q12_e",
+            "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Llegar al corazón de todos los hispanohablantes. A3 Cómo llegó la Biblia hasta nuestros días.",
+            "references": "nwt págs. 1854-1858",
+            "directAnswer": "Se ha adoptado un español neutral y universal, eliminando regionalismos innecesarios para que cualquier persona que hable español, sin importar su país de origen, se sienta identificada con el mensaje.",
+            "deepAnswer": "Para llegar al corazón, el lenguaje debe ser cálido y cercano. El uso de un español neutral evita que el lector se distraiga con expresiones locales que podrían no ser comprendidas en otras partes del mundo. Al emplear un vocabulario común a todos los hispanohablantes, la Palabra de Jehová logra un impacto universal, demostrando que su mensaje de amor y esperanza trasciende fronteras y es verdaderamente para toda la humanidad.",
+            "shortAnswer": "Se emplea un español neutral y universal que elimina regionalismos para que el mensaje llegue a todos por igual."
+          }
+        ]
       },
       {
         "id": "2A_q13",
@@ -707,92 +717,102 @@ const lessonsData = [
         "shortAnswer": "Los símbolos de los mapas nos ayudan a ubicar y visualizar mejor los relatos bíblicos."
       },
       {
-        "id": "2B_q9_a",
-        "question": "¿Para qué podrías usar la sección “El mensaje de la Biblia”? (nwt págs. 1894, 1895).",
-        "references": "nwt págs. 1894, 1895",
-        "directAnswer": "Esta sección permite captar rápidamente el tema central de las Escrituras, que es la vindicación de la soberanía de Jehová mediante su Reino.",
-        "deepAnswer": "La sección “El mensaje de la Biblia” es una excelente herramienta para entender el propósito divino a través de los siglos. Nos ayuda a ver la Biblia no como una colección de historias aisladas, sino como un libro unificado que explica cómo Jehová santificará su nombre. Es especialmente útil para introducir cursos bíblicos o para refrescar nuestra propia visión panorámica del propósito de Dios.",
-        "shortAnswer": "Sirve para captar el tema central de la Biblia y ver su mensaje como un todo coherente."
-      },
-      {
-        "id": "2B_q9_b",
-        "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Mapas' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
-        "references": "nwt Apéndice B",
-        "directAnswer": "Los mapas nos ayudan a visualizar los trayectos bíblicos y la ubicación geográfica de los sucesos, fortaleciendo nuestra fe en la precisión de las Escrituras.",
-        "deepAnswer": "Al estudiar eventos como los viajes misioneros de Pablo o el éxodo de Israel, los mapas del apéndice B nos permiten comprender los desafíos geográficos y la magnitud de las distancias que recorrieron los siervos de Dios. Esto da realismo a la lectura y nos permite explicar mejor a nuestros estudiantes de la Biblia los detalles de las narraciones sagradas.",
-        "shortAnswer": "Ayudan a visualizar las ubicaciones y distancias, dando realismo y precisión a la lectura bíblica."
-      },
-      {
-        "id": "2B_q9_c",
-        "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Diagramas' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
-        "references": "nwt Apéndice B",
-        "directAnswer": "Los diagramas clarifican conceptos complejos o estructuras, como la organización del tabernáculo o las profecías, facilitando la enseñanza.",
-        "deepAnswer": "Los diagramas son herramientas visuales potentes. Por ejemplo, al estudiar sobre el tabernáculo o la estructura de los gobiernos, los diagramas permiten que el estudiante capture visualmente información que, descrita solo con palabras, podría resultar abstracta. En el estudio personal, ayudan a organizar nuestra comprensión mental de temas profundos.",
-        "shortAnswer": "Facilitan la comprensión de temas técnicos o abstractos mediante una representación visual clara."
-      },
-      {
-        "id": "2B_q9_d",
-        "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Periodos de tiempo' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
-        "references": "nwt Apéndice B",
-        "directAnswer": "Estas tablas nos ayudan a situar correctamente a los profetas, reyes y eventos bíblicos en la cronología de la historia humana.",
-        "deepAnswer": "Los periodos de tiempo son fundamentales para entender el contexto profético. Ayudan a identificar qué rey gobernaba al mismo tiempo que un profeta específico, lo que permite entender el mensaje de advertencia o ánimo que Dios envió a su pueblo. Es esencial para preparar comentarios en la reunión donde se requiere precisión cronológica.",
-        "shortAnswer": "Permiten ubicar correctamente eventos y personajes bíblicos en la línea del tiempo histórica."
-      },
-      {
-        "id": "2B_q9_e",
-        "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Medidas' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
-        "references": "nwt Apéndice B",
-        "directAnswer": "Las tablas de medidas nos permiten convertir unidades antiguas a modernas, dándonos una idea tangible del tamaño de objetos como el arca de Noé o el templo.",
-        "deepAnswer": "A menudo, las medidas bíblicas nos resultan ajenas. Al usar las tablas del apéndice B, podemos dimensionar correctamente la magnitud de la obra de Noé o las especificaciones del arca del pacto. Esto aumenta nuestro asombro ante la magnitud de los proyectos bíblicos y ayuda al estudiante a apreciar la exactitud de los detalles inspirados.",
-        "shortAnswer": "Ayudan a entender el tamaño y las distancias mencionadas en la Biblia convirtiéndolas a unidades modernas."
-      },
-      {
-        "id": "2B_q9_f",
-        "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando predicas de casa en casa.",
-        "references": "nwt págs. 5-36",
-        "directAnswer": "Podemos usarla para mostrar al amo de casa, de forma rápida, cómo la Biblia responde a sus inquietudes sobre la vida, el futuro o el propósito de Dios.",
-        "deepAnswer": "Al predicar, podemos abrir esta sección para mostrar secciones que explican por qué confiar en la Biblia. Es ideal para cuando alguien plantea una duda sobre la veracidad de las Escrituras o su utilidad práctica, permitiéndonos demostrar que la Biblia es un libro relevante y actual.",
-        "shortAnswer": "Sirve como una guía rápida para demostrar la autoridad y relevancia práctica de la Biblia a las personas."
-      },
-      {
-        "id": "2B_q9_g",
-        "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando haces revisitas.",
-        "references": "nwt págs. 5-36",
-        "directAnswer": "Podemos profundizar en los temas introductorios para establecer una base sólida sobre la importancia de la Biblia en la vida diaria del interesado.",
-        "deepAnswer": "En una revisita, si detectamos que la persona tiene dudas sobre si la Biblia es de origen divino, esta sección nos proporciona puntos clave y textos bíblicos que respaldan su autoridad. Es un recurso excelente para edificar fe gradualmente en cada visita.",
-        "shortAnswer": "Es un recurso valioso para fortalecer la confianza del interesado en la veracidad de las Escrituras."
-      },
-      {
-        "id": "2B_q9_h",
-        "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando das cursos de la Biblia.",
-        "references": "nwt págs. 5-36",
-        "directAnswer": "Nos ayuda a establecer desde las primeras lecciones la autoridad divina de la Biblia y su capacidad para guiar a las personas.",
-        "deepAnswer": "Durante un curso bíblico, esta sección es la base para enseñar al estudiante que Jehová se comunica con la humanidad. Podemos usar las gráficas y explicaciones para mostrar cómo se ha preservado la Biblia y por qué podemos confiar en lo que leemos, haciendo el estudio más dinámico y convincente.",
-        "shortAnswer": "Establece la base necesaria sobre la inspiración y la autoridad de la Biblia al comenzar un curso."
-      },
-      {
-        "id": "2B_q9_i",
-        "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) en las reuniones para el servicio del campo.",
-        "references": "nwt págs. 5-36",
-        "directAnswer": "Sirve para extraer puntos clave que nos ayuden a preparar introducciones sencillas o reflexiones que podamos compartir al predicar.",
-        "deepAnswer": "En la reunión para el servicio del campo, el grupo puede analizar brevemente un recuadro o punto de esta introducción para encontrar una idea estimulante que presentar. Esto nos da seguridad al saber que estamos usando información directamente de la Palabra de Dios para iniciar conversaciones significativas.",
-        "shortAnswer": "Es una excelente fuente de ideas para preparar el enfoque de nuestras presentaciones en el ministerio."
-      },
-      {
-        "id": "2B_q9_j",
-        "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando ensayas lo que vas a decir en la predicación.",
-        "references": "nwt págs. 5-36",
-        "directAnswer": "Permite practicar cómo presentar la Biblia de manera atractiva y cómo responder objeciones comunes utilizando la información teocrática ahí expuesta.",
-        "deepAnswer": "Al ensayar, esta sección nos ayuda a seleccionar pasajes clave que demuestren por qué la Biblia es útil hoy en día. Nos permite organizar nuestros pensamientos para ser claros y directos al hablar con otros, asegurándonos de que nuestro mensaje esté siempre fundamentado en la verdad.",
-        "shortAnswer": "Ayuda a estructurar nuestras ideas para presentar la Biblia con claridad y convicción durante el ensayo."
-      },
-      {
-        "id": "2B_q9_k",
-        "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando preparas a un estudiante para el ministerio.",
-        "references": "nwt págs. 5-36",
-        "directAnswer": "Capacita al estudiante para que sepa defender su fe y usar la Biblia con pericia al hablar con otras personas sobre el Reino.",
-        "deepAnswer": "Para un estudiante, esta sección es como un manual de entrenamiento. Le enseña que la Biblia tiene respuestas confiables. Al enseñarle a usarla, le estamos dando herramientas para que, cuando salga a predicar, sepa navegar en las Escrituras y responder preguntas con la seguridad de que cuenta con la guía de Jehová.",
-        "shortAnswer": "Es una herramienta de entrenamiento esencial que da confianza al estudiante para usar la Biblia con pericia en el ministerio."
+        "id": "2B_q9",
+        "question": "¿Para qué podrías usar la sección “El mensaje de la Biblia”? (nwt págs. 1894, 1895). Da ejemplos de cómo usar las siguientes ayudas del apéndice B en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien:",
+        "references": "",
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "2B_q9_a",
+            "question": "¿Para qué podrías usar la sección “El mensaje de la Biblia”? (nwt págs. 1894, 1895).",
+            "references": "nwt págs. 1894, 1895",
+            "directAnswer": "Esta sección permite captar rápidamente el tema central de las Escrituras, que es la vindicación de la soberanía de Jehová mediante su Reino.",
+            "deepAnswer": "La sección “El mensaje de la Biblia” es una excelente herramienta para entender el propósito divino a través de los siglos. Nos ayuda a ver la Biblia no como una colección de historias aisladas, sino como un libro unificado que explica cómo Jehová santificará su nombre. Es especialmente útil para introducir cursos bíblicos o para refrescar nuestra propia visión panorámica del propósito de Dios.",
+            "shortAnswer": "Sirve para captar el tema central de la Biblia y ver su mensaje como un todo coherente."
+          },
+          {
+            "id": "2B_q9_b",
+            "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Mapas' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
+            "references": "nwt Apéndice B",
+            "directAnswer": "Los mapas nos ayudan a visualizar los trayectos bíblicos y la ubicación geográfica de los sucesos, fortaleciendo nuestra fe en la precisión de las Escrituras.",
+            "deepAnswer": "Al estudiar eventos como los viajes misioneros de Pablo o el éxodo de Israel, los mapas del apéndice B nos permiten comprender los desafíos geográficos y la magnitud de las distancias que recorrieron los siervos de Dios. Esto da realismo a la lectura y nos permite explicar mejor a nuestros estudiantes de la Biblia los detalles de las narraciones sagradas.",
+            "shortAnswer": "Ayudan a visualizar las ubicaciones y distancias, dando realismo y precisión a la lectura bíblica."
+          },
+          {
+            "id": "2B_q9_c",
+            "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Diagramas' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
+            "references": "nwt Apéndice B",
+            "directAnswer": "Los diagramas clarifican conceptos complejos o estructuras, como la organización del tabernáculo o las profecías, facilitando la enseñanza.",
+            "deepAnswer": "Los diagramas son herramientas visuales potentes. Por ejemplo, al estudiar sobre el tabernáculo o la estructura de los gobiernos, los diagramas permiten que el estudiante capture visualmente información que, descrita solo con palabras, podría resultar abstracta. En el estudio personal, ayudan a organizar nuestra comprensión mental de temas profundos.",
+            "shortAnswer": "Facilitan la comprensión de temas técnicos o abstractos mediante una representación visual clara."
+          },
+          {
+            "id": "2B_q9_d",
+            "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Periodos de tiempo' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
+            "references": "nwt Apéndice B",
+            "directAnswer": "Estas tablas nos ayudan a situar correctamente a los profetas, reyes y eventos bíblicos en la cronología de la historia humana.",
+            "deepAnswer": "Los periodos de tiempo son fundamentales para entender el contexto profético. Ayudan a identificar qué rey gobernaba al mismo tiempo que un profeta específico, lo que permite entender el mensaje de advertencia o ánimo que Dios envió a su pueblo. Es esencial para preparar comentarios en la reunión donde se requiere precisión cronológica.",
+            "shortAnswer": "Permiten ubicar correctamente eventos y personajes bíblicos en la línea del tiempo histórica."
+          },
+          {
+            "id": "2B_q9_e",
+            "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Medidas' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
+            "references": "nwt Apéndice B",
+            "directAnswer": "Las tablas de medidas nos permiten convertir unidades antiguas a modernas, dándonos una idea tangible del tamaño de objetos como el arca de Noé o el templo.",
+            "deepAnswer": "A menudo, las medidas bíblicas nos resultan ajenas. Al usar las tablas del apéndice B, podemos dimensionar correctamente la magnitud de la obra de Noé o las especificaciones del arca del pacto. Esto aumenta nuestro asombro ante la magnitud de los proyectos bíblicos y ayuda al estudiante a apreciar la exactitud de los detalles inspirados.",
+            "shortAnswer": "Ayudan a entender el tamaño y las distancias mencionadas en la Biblia convirtiéndolas a unidades modernas."
+          },
+          {
+            "id": "2B_q9_f",
+            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando predicas de casa en casa.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Podemos usarla para mostrar al amo de casa, de forma rápida, cómo la Biblia responde a sus inquietudes sobre la vida, el futuro o el propósito de Dios.",
+            "deepAnswer": "Al predicar, podemos abrir esta sección para mostrar secciones que explican por qué confiar en la Biblia. Es ideal para cuando alguien plantea una duda sobre la veracidad de las Escrituras o su utilidad práctica, permitiéndonos demostrar que la Biblia es un libro relevante y actual.",
+            "shortAnswer": "Sirve como una guía rápida para demostrar la autoridad y relevancia práctica de la Biblia a las personas."
+          },
+          {
+            "id": "2B_q9_g",
+            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando haces revisitas.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Podemos profundizar en los temas introductorios para establecer una base sólida sobre la importancia de la Biblia en la vida diaria del interesado.",
+            "deepAnswer": "En una revisita, si detectamos que la persona tiene dudas sobre si la Biblia es de origen divino, esta sección nos proporciona puntos clave y textos bíblicos que respaldan su autoridad. Es un recurso excelente para edificar fe gradualmente en cada visita.",
+            "shortAnswer": "Es un recurso valioso para fortalecer la confianza del interesado en la veracidad de las Escrituras."
+          },
+          {
+            "id": "2B_q9_h",
+            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando das cursos de la Biblia.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Nos ayuda a establecer desde las primeras lecciones la autoridad divina de la Biblia y su capacidad para guiar a las personas.",
+            "deepAnswer": "Durante un curso bíblico, esta sección es la base para enseñar al estudiante que Jehová se comunica con la humanidad. Podemos usar las gráficas y explicaciones para mostrar cómo se ha preservado la Biblia y por qué podemos confiar en lo que leemos, haciendo el estudio más dinámico y convincente.",
+            "shortAnswer": "Establece la base necesaria sobre la inspiración y la autoridad de la Biblia al comenzar un curso."
+          },
+          {
+            "id": "2B_q9_i",
+            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) en las reuniones para el servicio del campo.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Sirve para extraer puntos clave que nos ayuden a preparar introducciones sencillas o reflexiones que podamos compartir al predicar.",
+            "deepAnswer": "En la reunión para el servicio del campo, el grupo puede analizar brevemente un recuadro o punto de esta introducción para encontrar una idea estimulante que presentar. Esto nos da seguridad al saber que estamos usando información directamente de la Palabra de Dios para iniciar conversaciones significativas.",
+            "shortAnswer": "Es una excelente fuente de ideas para preparar el enfoque de nuestras presentaciones en el ministerio."
+          },
+          {
+            "id": "2B_q9_j",
+            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando ensayas lo que vas a decir en la predicación.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Permite practicar cómo presentar la Biblia de manera atractiva y cómo responder objeciones comunes utilizando la información teocrática ahí expuesta.",
+            "deepAnswer": "Al ensayar, esta sección nos ayuda a seleccionar pasajes clave que demuestren por qué la Biblia es útil hoy en día. Nos permite organizar nuestros pensamientos para ser claros y directos al hablar con otros, asegurándonos de que nuestro mensaje esté siempre fundamentado en la verdad.",
+            "shortAnswer": "Ayuda a estructurar nuestras ideas para presentar la Biblia con claridad y convicción durante el ensayo."
+          },
+          {
+            "id": "2B_q9_k",
+            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando preparas a un estudiante para el ministerio.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Capacita al estudiante para que sepa defender su fe y usar la Biblia con pericia al hablar con otras personas sobre el Reino.",
+            "deepAnswer": "Para un estudiante, esta sección es como un manual de entrenamiento. Le enseña que la Biblia tiene respuestas confiables. Al enseñarle a usarla, le estamos dando herramientas para que, cuando salga a predicar, sepa navegar en las Escrituras y responder preguntas con la seguridad de que cuenta con la guía de Jehová.",
+            "shortAnswer": "Es una herramienta de entrenamiento esencial que da confianza al estudiante para usar la Biblia con pericia en el ministerio."
+          }
+        ]
       },
       {
         "id": "2B_q10",
@@ -900,28 +920,38 @@ const lessonsData = [
         "shortAnswer": "El esclavo fiel nos sirve el alimento divino al tiempo debido para mantenernos fuertes."
       },
       {
-        "id": "3A_q10_a",
-        "question": "¿Cómo nos ha ayudado la aclaración que se ha hecho sobre el texto de Ezequiel 38:2, 4? (w15 15/5 págs. 29, 30)",
-        "references": "w20.06 pág. 7, nota; w15 15/5 págs. 29, 30",
-        "directAnswer": "Esta aclaración nos ha ayudado a entender que Gog de Magog no representa a un solo gobernante humano, sino a una coalición de naciones que atacará al pueblo de Dios bajo la influencia de Satanás.",
-        "deepAnswer": "Entender <strong>Ezequiel 38:2, 4</strong> a la luz de la verdad progresiva nos permite estar preparados mental y espiritualmente. La aclaración precisa que Gog de Magog es la coalición de naciones que Satanás utilizará en el tiempo del fin para intentar destruir la adoración pura. Identificar claramente a nuestro enemigo espiritual y sus métodos nos ayuda a mantenernos firmes, confiando en que Jehová protegerá a su pueblo durante la gran tribulación.",
-        "shortAnswer": "Nos ayuda a identificar correctamente a la coalición de naciones bajo Satanás."
-      },
-      {
-        "id": "3A_q10_b",
-        "question": "¿Cómo nos ha ayudado la aclaración que se ha hecho sobre el texto de Gálatas 5:22, 23? (w20.06 pág. 17)",
-        "references": "w20.06 pág. 7, nota; w20.06 pág. 17",
-        "directAnswer": "Nos ha ayudado a comprender que el amor es el cimiento esencial sobre el que se construyen y desarrollan todas las demás facetas del fruto del espíritu santo.",
-        "deepAnswer": "La aclaración sobre <strong>Gálatas 5:22, 23</strong> destaca que el amor no es simplemente una cualidad más, sino la raíz de la que brotan todas las demás virtudes cristianas. Al entender esta interrelación, nuestra perspectiva sobre el desarrollo espiritual cambia: ya no buscamos cultivar las cualidades de forma aislada, sino que nos esforzamos por fortalecer nuestro amor a Jehová y al prójimo como base fundamental para manifestar gozo, paz, paciencia y las demás facetas del espíritu.",
-        "shortAnswer": "Nos enseña que el amor es la base de todas las cualidades del espíritu."
-      },
-      {
-        "id": "3A_q10_c",
-        "question": "¿Cómo nos ha ayudado la aclaración que se ha hecho sobre el texto de Mateo 6:9?",
+        "id": "3A_q10",
+        "question": "¿Cómo nos han ayudado las aclaraciones que se han hecho sobre los siguientes textos?",
         "references": "w20.06 pág. 7, nota",
-        "directAnswer": "Nos ayuda a comprender que la santificación del nombre de Jehová es el propósito central de toda la historia humana y el objetivo principal de la oración modelo de Jesús.",
-        "deepAnswer": "El análisis refinado de <strong>Mateo 6:9</strong> nos permite ver que la oración modelo no es solo una lista de peticiones, sino una guía de prioridades para nuestra vida. Al enfocarnos en la santificación del nombre de Jehová, entendemos que nuestro ministerio, nuestro comportamiento y nuestra esperanza están alineados con el propósito supremo de Dios: vindicar su soberanía y limpiar su nombre de toda calumnia. Esto nos da un sentido de propósito claro y nos mantiene centrados en lo que realmente importa.",
-        "shortAnswer": "Nos ayuda a priorizar la santificación del nombre de Dios en nuestra vida."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "3A_q10_a",
+            "question": "¿Cómo nos ha ayudado la aclaración que se ha hecho sobre el texto de Ezequiel 38:2, 4? (w15 15/5 págs. 29, 30)",
+            "references": "w20.06 pág. 7, nota; w15 15/5 págs. 29, 30",
+            "directAnswer": "Esta aclaración nos ha ayudado a entender que Gog de Magog no representa a un solo gobernante humano, sino a una coalición de naciones que atacará al pueblo de Dios bajo la influencia de Satanás.",
+            "deepAnswer": "Entender <strong>Ezequiel 38:2, 4</strong> a la luz de la verdad progresiva nos permite estar preparados mental y espiritualmente. La aclaración precisa que Gog de Magog es la coalición de naciones que Satanás utilizará en el tiempo del fin para intentar destruir la adoración pura. Identificar claramente a nuestro enemigo espiritual y sus métodos nos ayuda a mantenernos firmes, confiando en que Jehová protegerá a su pueblo durante la gran tribulación.",
+            "shortAnswer": "Nos ayuda a identificar correctamente a la coalición de naciones bajo Satanás."
+          },
+          {
+            "id": "3A_q10_b",
+            "question": "¿Cómo nos ha ayudado la aclaración que se ha hecho sobre el texto de Gálatas 5:22, 23? (w20.06 pág. 17)",
+            "references": "w20.06 pág. 7, nota; w20.06 pág. 17",
+            "directAnswer": "Nos ha ayudado a comprender que el amor es el cimiento esencial sobre el que se construyen y desarrollan todas las demás facetas del fruto del espíritu santo.",
+            "deepAnswer": "La aclaración sobre <strong>Gálatas 5:22, 23</strong> destaca que el amor no es simplemente una cualidad más, sino la raíz de la que brotan todas las demás virtudes cristianas. Al entender esta interrelación, nuestra perspectiva sobre el desarrollo espiritual cambia: ya no buscamos cultivar las cualidades de forma aislada, sino que nos esforzamos por fortalecer nuestro amor a Jehová y al prójimo como base fundamental para manifestar gozo, paz, paciencia y las demás facetas del espíritu.",
+            "shortAnswer": "Nos enseña que el amor es la base de todas las cualidades del espíritu."
+          },
+          {
+            "id": "3A_q10_c",
+            "question": "¿Cómo nos ha ayudado la aclaración que se ha hecho sobre el texto de Mateo 6:9?",
+            "references": "w20.06 pág. 7, nota",
+            "directAnswer": "Nos ayuda a comprender que la santificación del nombre de Jehová es el propósito central de toda la historia humana y el objetivo principal de la oración modelo de Jesús.",
+            "deepAnswer": "El análisis refinado de <strong>Mateo 6:9</strong> nos permite ver que la oración modelo no es solo una lista de peticiones, sino una guía de prioridades para nuestra vida. Al enfocarnos en la santificación del nombre de Jehová, entendemos que nuestro ministerio, nuestro comportamiento y nuestra esperanza están alineados con el propósito supremo de Dios: vindicar su soberanía y limpiar su nombre de toda calumnia. Esto nos da un sentido de propósito claro y nos mantiene centrados en lo que realmente importa.",
+            "shortAnswer": "Nos ayuda a priorizar la santificación del nombre de Dios en nuestra vida."
+          }
+        ]
       },
       {
         "id": "3A_q11",
@@ -940,36 +970,46 @@ const lessonsData = [
         "shortAnswer": "Cada aclaración es una prueba de la guía divina y la luz progresiva de Jehová."
       },
       {
-        "id": "3A_q13_a",
-        "question": "¿Cómo nos beneficia comprender bien 1 Corintios 5:9-13? (kr pág. 114 párrs. 19, 20).",
-        "references": "kr pág. 114 párrs. 19, 20",
-        "directAnswer": "Comprender este texto nos ayuda a mantener la santidad y pureza de la congregación al entender la necesidad de evitar la compañía de personas que practican la maldad y no se arrepienten.",
-        "deepAnswer": "Entender <strong>1 Corintios 5:9-13</strong> nos permite apreciar la importancia de la disciplina amorosa dentro de la congregación. Pablo nos instruye a no tener compañía con aquellos que, llamándose hermanos, practican el pecado grave sin arrepentirse. Esto no solo protege la espiritualidad de los miembros de la congregación, sino que refleja el amor de Jehová por su pueblo al mantener su organización limpia y santa.",
-        "shortAnswer": "Nos ayuda a proteger la pureza y santidad de la congregación."
-      },
-      {
-        "id": "3A_q13_b",
-        "question": "¿Cómo nos beneficia comprender bien Efesios 4:19? (w12 15/3 págs. 30, 31; w06 15/7 págs. 30, 31; g 11/13 págs. 4, 5).",
-        "references": "w12 15/3 págs. 30, 31; w06 15/7 págs. 30, 31; g 11/13 págs. 4, 5",
-        "directAnswer": "Nos ayuda a mantener nuestra sensibilidad moral al evitar el endurecimiento del corazón, lo que nos motiva a rechazar las obras de la carne y a mantenernos en la pureza.",
-        "deepAnswer": "El pasaje de <strong>Efesios 4:19</strong> es una advertencia seria contra perder el sentido moral. Cuando alguien permite que su corazón se endurezca y deja de sentir remordimiento por sus malas acciones, se entrega a una conducta relajada. Comprender este texto nos impulsa a estar vigilantes sobre nuestros pensamientos y deseos, cultivando una conciencia sensible que nos guía a rechazar las obras de la carne y a caminar en integridad.",
-        "shortAnswer": "Previene que perdamos nuestra sensibilidad moral ante el pecado."
-      },
-      {
-        "id": "3A_q13_c",
-        "question": "¿Cómo nos beneficia comprender bien Romanos 12:9? (w19.05 págs. 8, 9 párrs. 1-8).",
-        "references": "w19.05 págs. 8, 9 párrs. 1-8",
-        "directAnswer": "Nos enseña a desarrollar un amor sincero que realmente aborrece lo que es malo y se adhiere firmemente a lo que es bueno, fortaleciendo nuestros lazos fraternales.",
-        "deepAnswer": "<strong>Romanos 12:9</strong> es una guía vital para nuestras relaciones interpersonales. Comprender este texto implica que nuestro amor cristiano no debe ser hipócrita. Debemos cultivar un odio sincero hacia lo que Dios considera malo y desarrollar un apego profundo y firme hacia la justicia y la bondad. Esto fortalece la unidad de la congregación y nos ayuda a reflejar la personalidad de Jehová en nuestro trato con los demás.",
-        "shortAnswer": "Nos impulsa a cultivar un amor sincero que aborrece el mal y ama lo bueno."
-      },
-      {
-        "id": "3A_q13_d",
-        "question": "Explica algunos cambios en la organización que cumplen lo que dice Isaías 60:17.",
+        "id": "3A_q13",
+        "question": "¿Cómo nos beneficia comprender bien los siguientes textos?",
         "references": "w14 15/1 pág. 15 párr. 12",
-        "directAnswer": "Los cambios organizativos, como la simplificación de procesos y la asignación de responsabilidades, cumplen Isaías 60:17 al mejorar la eficiencia y el orden espiritual, transformando lo que era sencillo en algo aún más refinado y valioso para la obra.",
-        "deepAnswer": "La profecía de <strong>Isaías 60:17</strong> indica una transformación cualitativa: 'En lugar del cobre traeré oro, y en lugar del hierro traeré plata'. A lo largo de las décadas, la organización ha experimentado ajustes, como la centralización de las sucursales, la simplificación de los informes y la mayor capacitación de los ancianos y siervos ministeriales. Estos cambios no solo han mejorado la eficiencia, sino que demuestran que Jehová está refinando a su pueblo para que la adoración pura sea cada vez más organizada y efectiva en estos últimos días.",
-        "shortAnswer": "Los ajustes organizativos mejoran la eficiencia y el orden bajo la guía divina."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "3A_q13_a",
+            "question": "¿Cómo nos beneficia comprender bien 1 Corintios 5:9-13? (kr pág. 114 párrs. 19, 20).",
+            "references": "kr pág. 114 párrs. 19, 20",
+            "directAnswer": "Comprender este texto nos ayuda a mantener la santidad y pureza de la congregación al entender la necesidad de evitar la compañía de personas que practican la maldad y no se arrepienten.",
+            "deepAnswer": "Entender <strong>1 Corintios 5:9-13</strong> nos permite apreciar la importancia de la disciplina amorosa dentro de la congregación. Pablo nos instruye a no tener compañía con aquellos que, llamándose hermanos, practican el pecado grave sin arrepentirse. Esto no solo protege la espiritualidad de los miembros de la congregación, sino que refleja el amor de Jehová por su pueblo al mantener su organización limpia y santa.",
+            "shortAnswer": "Nos ayuda a proteger la pureza y santidad de la congregación."
+          },
+          {
+            "id": "3A_q13_b",
+            "question": "¿Cómo nos beneficia comprender bien Efesios 4:19? (w12 15/3 págs. 30, 31; w06 15/7 págs. 30, 31; g 11/13 págs. 4, 5).",
+            "references": "w12 15/3 págs. 30, 31; w06 15/7 págs. 30, 31; g 11/13 págs. 4, 5",
+            "directAnswer": "Nos ayuda a mantener nuestra sensibilidad moral al evitar el endurecimiento del corazón, lo que nos motiva a rechazar las obras de la carne y a mantenernos en la pureza.",
+            "deepAnswer": "El pasaje de <strong>Efesios 4:19</strong> es una advertencia seria contra perder el sentido moral. Cuando alguien permite que su corazón se endurezca y deja de sentir remordimiento por sus malas acciones, se entrega a una conducta relajada. Comprender este texto nos impulsa a estar vigilantes sobre nuestros pensamientos y deseos, cultivando una conciencia sensible que nos guía a rechazar las obras de la carne y a caminar en integridad.",
+            "shortAnswer": "Previene que perdamos nuestra sensibilidad moral ante el pecado."
+          },
+          {
+            "id": "3A_q13_c",
+            "question": "¿Cómo nos beneficia comprender bien Romanos 12:9? (w19.05 págs. 8, 9 párrs. 1-8).",
+            "references": "w19.05 págs. 8, 9 párrs. 1-8",
+            "directAnswer": "Nos enseña a desarrollar un amor sincero que realmente aborrece lo que es malo y se adhiere firmemente a lo que es bueno, fortaleciendo nuestros lazos fraternales.",
+            "deepAnswer": "<strong>Romanos 12:9</strong> es una guía vital para nuestras relaciones interpersonales. Comprender este texto implica que nuestro amor cristiano no debe ser hipócrita. Debemos cultivar un odio sincero hacia lo que Dios considera malo y desarrollar un apego profundo y firme hacia la justicia y la bondad. Esto fortalece la unidad de la congregación y nos ayuda a reflejar la personalidad de Jehová en nuestro trato con los demás.",
+            "shortAnswer": "Nos impulsa a cultivar un amor sincero que aborrece el mal y ama lo bueno."
+          },
+          {
+            "id": "3A_q13_d",
+            "question": "Explica algunos cambios en la organización que cumplen lo que dice Isaías 60:17.",
+            "references": "w14 15/1 pág. 15 párr. 12",
+            "directAnswer": "Los cambios organizativos, como la simplificación de procesos y la asignación de responsabilidades, cumplen Isaías 60:17 al mejorar la eficiencia y el orden espiritual, transformando lo que era sencillo en algo aún más refinado y valioso para la obra.",
+            "deepAnswer": "La profecía de <strong>Isaías 60:17</strong> indica una transformación cualitativa: 'En lugar del cobre traeré oro, y en lugar del hierro traeré plata'. A lo largo de las décadas, la organización ha experimentado ajustes, como la centralización de las sucursales, la simplificación de los informes y la mayor capacitación de los ancianos y siervos ministeriales. Estos cambios no solo han mejorado la eficiencia, sino que demuestran que Jehová está refinando a su pueblo para que la adoración pura sea cada vez más organizada y efectiva en estos últimos días.",
+            "shortAnswer": "Los ajustes organizativos mejoran la eficiencia y el orden bajo la guía divina."
+          }
+        ]
       },
       {
         "id": "3A_q14",
@@ -980,28 +1020,38 @@ const lessonsData = [
         "shortAnswer": "Jw.org evidencia la fidelidad del esclavo al proveer alimento puro y su prudencia al distribuirlo eficazmente al tiempo debido."
       },
       {
-        "id": "3A_q15_a",
-        "question": "¿Cómo has usado jw.org para ayudar a tu familia? Mantente al día.",
+        "id": "3A_q15",
+        "question": "¿Cómo has usado jw.org para...",
         "references": "",
-        "directAnswer": "He utilizado jw.org para proveer alimento espiritual oportuno a mi familia, facilitando recursos para la Noche de Adoración en Familia.",
-        "deepAnswer": "Jw.org es una provisión inestimable de Jehová para fortalecer el hogar en estos últimos días. He encontrado recursos excelentes como los videos animados y las canciones del Reino, que hacen que la Noche de Adoración en Familia sea más atractiva, dinámica y educativa para nuestros hijos, ayudándolos a desarrollar un amor profundo por las verdades bíblicas y por Jehová.",
-        "shortAnswer": "Jw.org es una herramienta fundamental para hacer que la Noche de Adoración en Familia sea más edificante y atractiva."
-      },
-      {
-        "id": "3A_q15_b",
-        "question": "¿Cómo has usado jw.org para ayudar a tus compañeros de predicación? Mantente al día.",
-        "references": "",
-        "directAnswer": "He usado jw.org para capacitar a mis compañeros de predicación con las herramientas más recientes y el acceso a publicaciones en diversos idiomas.",
-        "deepAnswer": "El sitio es un centro de recursos eficaz para el ministerio. Les he mostrado a mis compañeros cómo usar jw.org para encontrar información relevante para sus revisitas, preparar presentaciones efectivas utilizando la sección 'Ideas para predicar' o incluso obtener rápidamente publicaciones y videos en idiomas extranjeros, lo que nos hace más hábiles para alcanzar a personas de todas las naciones.",
-        "shortAnswer": "Jw.org nos permite equiparnos rápidamente para el ministerio, facilitando presentaciones y material en múltiples idiomas."
-      },
-      {
-        "id": "3A_q15_c",
-        "question": "¿Cómo has usado jw.org para fortalecer tu fe? Mantente al día.",
-        "references": "",
-        "directAnswer": "He usado jw.org para fortalecer mi fe mediante el estudio diligente y el consumo constante de alimento espiritual oportuno.",
-        "deepAnswer": "Para fortalecer mi fe, el acceso constante a los programas de JW Broadcasting, las noticias sobre la hermandad mundial, los números más recientes de las publicaciones y los artículos que defienden la Biblia me mantienen al día con la luz que aumenta. Este estudio personal constante profundiza mi aprecio por la organización teocrática, me ayuda a confiar más en las promesas de Jehová y me mantiene espiritualmente despierto en estos tiempos críticos.",
-        "shortAnswer": "Jw.org fortalece mi fe mediante el acceso constante a programas, publicaciones y noticias que me mantienen al día con la luz que aumenta."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "3A_q15_a",
+            "question": "¿Cómo has usado jw.org para ayudar a tu familia? Mantente al día.",
+            "references": "",
+            "directAnswer": "He utilizado jw.org para proveer alimento espiritual oportuno a mi familia, facilitando recursos para la Noche de Adoración en Familia.",
+            "deepAnswer": "Jw.org es una provisión inestimable de Jehová para fortalecer el hogar en estos últimos días. He encontrado recursos excelentes como los videos animados y las canciones del Reino, que hacen que la Noche de Adoración en Familia sea más atractiva, dinámica y educativa para nuestros hijos, ayudándolos a desarrollar un amor profundo por las verdades bíblicas y por Jehová.",
+            "shortAnswer": "Jw.org es una herramienta fundamental para hacer que la Noche de Adoración en Familia sea más edificante y atractiva."
+          },
+          {
+            "id": "3A_q15_b",
+            "question": "¿Cómo has usado jw.org para ayudar a tus compañeros de predicación? Mantente al día.",
+            "references": "",
+            "directAnswer": "He usado jw.org para capacitar a mis compañeros de predicación con las herramientas más recientes y el acceso a publicaciones en diversos idiomas.",
+            "deepAnswer": "El sitio es un centro de recursos eficaz para el ministerio. Les he mostrado a mis compañeros cómo usar jw.org para encontrar información relevante para sus revisitas, preparar presentaciones efectivas utilizando la sección 'Ideas para predicar' o incluso obtener rápidamente publicaciones y videos en idiomas extranjeros, lo que nos hace más hábiles para alcanzar a personas de todas las naciones.",
+            "shortAnswer": "Jw.org nos permite equiparnos rápidamente para el ministerio, facilitando presentaciones y material en múltiples idiomas."
+          },
+          {
+            "id": "3A_q15_c",
+            "question": "¿Cómo has usado jw.org para fortalecer tu fe? Mantente al día.",
+            "references": "",
+            "directAnswer": "He usado jw.org para fortalecer mi fe mediante el estudio diligente y el consumo constante de alimento espiritual oportuno.",
+            "deepAnswer": "Para fortalecer mi fe, el acceso constante a los programas de JW Broadcasting, las noticias sobre la hermandad mundial, los números más recientes de las publicaciones y los artículos que defienden la Biblia me mantienen al día con la luz que aumenta. Este estudio personal constante profundiza mi aprecio por la organización teocrática, me ayuda a confiar más en las promesas de Jehová y me mantiene espiritualmente despierto en estos tiempos críticos.",
+            "shortAnswer": "Jw.org fortalece mi fe mediante el acceso constante a programas, publicaciones y noticias que me mantienen al día con la luz que aumenta."
+          }
+        ]
       },
       {
         "id": "3A_q16",
@@ -1028,52 +1078,62 @@ const lessonsData = [
         "shortAnswer": "Seguir la guía de Jehová de inmediato, como Israel seguía la columna en el desierto, es nuestro escudo."
       },
       {
-        "id": "3A_q19_a",
-        "question": "¿Cómo demostramos que valoramos la guía de Dios cuando mejoramos nuestras habilidades para conversar en la predicación?",
+        "id": "3A_q19",
+        "question": "¿Cómo demostramos que valoramos la guía de Dios cuando...",
         "references": "",
-        "directAnswer": "Demostramos que valoramos la guía de Dios al esforzarnos por pulir nuestras habilidades de enseñanza y conversación para llegar mejor al corazón de las personas.",
-        "deepAnswer": "Al esforzarnos por mejorar nuestras habilidades para conversar, demostramos que tomamos en serio el mandato de hacer discípulos. Reconocemos que la guía de Jehová es superior y que, al aplicar los consejos de las reuniones y las publicaciones, estamos dejando que él dirija nuestros pasos para ser más eficaces en el ministerio.",
-        "shortAnswer": "Esforzándonos por ser mejores comunicadores de las buenas nuevas."
-      },
-      {
-        "id": "3A_q19_b",
-        "question": "¿Cómo demostramos que valoramos la guía de Dios cuando damos cursos bíblicos?",
-        "references": "",
-        "directAnswer": "Demostramos que valoramos la guía de Dios al dedicar tiempo y esfuerzo para enseñar la verdad de la Biblia a otros con regularidad.",
-        "deepAnswer": "Dar cursos bíblicos es una de las mayores responsabilidades que Dios nos ha confiado. Al preparar estas lecciones y enseñar con paciencia, estamos demostrando nuestra total confianza en que la Palabra de Dios es la guía definitiva para la salvación de nuestro prójimo.",
-        "shortAnswer": "Dedica tiempo y dedicación para instruir a otros en la verdad."
-      },
-      {
-        "id": "3A_q19_c",
-        "question": "¿Cómo demostramos que valoramos la guía de Dios cuando predicamos a quienes hablan otro idioma?",
-        "references": "",
-        "directAnswer": "Al predicar a personas de otros idiomas, mostramos que valoramos la guía de Dios al poner en práctica su deseo de que 'toda clase de personas' lleguen a la verdad.",
-        "deepAnswer": "El amor de Jehová no tiene fronteras. Cuando hacemos el esfuerzo de aprender frases en otro idioma o buscar formas de llegar a las personas extranjeras, estamos siendo obedientes al mandato de Jesús de hacer discípulos de gente de todas las naciones, reflejando así la imparcialidad de nuestro Dios.",
-        "shortAnswer": "Mostrando interés por el prójimo sin importar su idioma o cultura."
-      },
-      {
-        "id": "3A_q19_d",
-        "question": "¿Cómo demostramos que valoramos la guía de Dios cuando celebramos todas las semanas la adoración en familia?",
-        "references": "",
-        "directAnswer": "Demostramos que valoramos la guía de Dios al priorizar la instrucción espiritual en el hogar cada semana para fortalecer nuestra relación con él.",
-        "deepAnswer": "La adoración en familia es una provisión amorosa de Jehová para proteger y fortalecer a las familias. Al dedicar tiempo cada semana a esta actividad, demostramos que la guía espiritual es el centro de nuestro hogar y no un elemento secundario.",
-        "shortAnswer": "Dando prioridad a la enseñanza bíblica en el hogar regularmente."
-      },
-      {
-        "id": "3A_q19_e",
-        "question": "¿Cómo demostramos que valoramos la guía de Dios cuando cooperamos con los Comités de Enlace con los Hospitales?",
-        "references": "",
-        "directAnswer": "Al cooperar con los Comités de Enlace con los Hospitales, demostramos que valoramos la guía de Dios sobre el respeto a la vida y la sangre.",
-        "deepAnswer": "Cooperar con estos comités es una manifestación de obediencia a la ley de Dios sobre la sangre. Demuestra que confiamos plenamente en las directrices bíblicas y que deseamos proteger nuestra conciencia y nuestra relación con Jehová incluso en situaciones de salud críticas.",
-        "shortAnswer": "Siguiendo los principios bíblicos sobre la salud con el apoyo teocrático."
-      },
-      {
-        "id": "3A_q19_f",
-        "question": "¿Cómo demostramos que valoramos la guía de Dios cuando nos comportamos bien en las asambleas?",
-        "references": "",
-        "directAnswer": "Demostramos que valoramos la guía de Dios al mostrar un comportamiento ejemplar que refleja nuestros valores cristianos ante los demás.",
-        "deepAnswer": "Nuestra conducta en las asambleas es una carta de presentación de la organización de Jehová. Al ser respetuosos, ordenados y amables, honramos a quien nos guía y permitimos que otros vean la diferencia entre quienes sirven a Dios y quienes no.",
-        "shortAnswer": "Reflejando principios cristianos en nuestra conducta pública."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "3A_q19_a",
+            "question": "¿Cómo demostramos que valoramos la guía de Dios cuando mejoramos nuestras habilidades para conversar en la predicación?",
+            "references": "",
+            "directAnswer": "Demostramos que valoramos la guía de Dios al esforzarnos por pulir nuestras habilidades de enseñanza y conversación para llegar mejor al corazón de las personas.",
+            "deepAnswer": "Al esforzarnos por mejorar nuestras habilidades para conversar, demostramos que tomamos en serio el mandato de hacer discípulos. Reconocemos que la guía de Jehová es superior y que, al aplicar los consejos de las reuniones y las publicaciones, estamos dejando que él dirija nuestros pasos para ser más eficaces en el ministerio.",
+            "shortAnswer": "Esforzándonos por ser mejores comunicadores de las buenas nuevas."
+          },
+          {
+            "id": "3A_q19_b",
+            "question": "¿Cómo demostramos que valoramos la guía de Dios cuando damos cursos bíblicos?",
+            "references": "",
+            "directAnswer": "Demostramos que valoramos la guía de Dios al dedicar tiempo y esfuerzo para enseñar la verdad de la Biblia a otros con regularidad.",
+            "deepAnswer": "Dar cursos bíblicos es una de las mayores responsabilidades que Dios nos ha confiado. Al preparar estas lecciones y enseñar con paciencia, estamos demostrando nuestra total confianza en que la Palabra de Dios es la guía definitiva para la salvación de nuestro prójimo.",
+            "shortAnswer": "Dedica tiempo y dedicación para instruir a otros en la verdad."
+          },
+          {
+            "id": "3A_q19_c",
+            "question": "¿Cómo demostramos que valoramos la guía de Dios cuando predicamos a quienes hablan otro idioma?",
+            "references": "",
+            "directAnswer": "Al predicar a personas de otros idiomas, mostramos que valoramos la guía de Dios al poner en práctica su deseo de que 'toda clase de personas' lleguen a la verdad.",
+            "deepAnswer": "El amor de Jehová no tiene fronteras. Cuando hacemos el esfuerzo de aprender frases en otro idioma o buscar formas de llegar a las personas extranjeras, estamos siendo obedientes al mandato de Jesús de hacer discípulos de gente de todas las naciones, reflejando así la imparcialidad de nuestro Dios.",
+            "shortAnswer": "Mostrando interés por el prójimo sin importar su idioma o cultura."
+          },
+          {
+            "id": "3A_q19_d",
+            "question": "¿Cómo demostramos que valoramos la guía de Dios cuando celebramos todas las semanas la adoración en familia?",
+            "references": "",
+            "directAnswer": "Demostramos que valoramos la guía de Dios al priorizar la instrucción espiritual en el hogar cada semana para fortalecer nuestra relación con él.",
+            "deepAnswer": "La adoración en familia es una provisión amorosa de Jehová para proteger y fortalecer a las familias. Al dedicar tiempo cada semana a esta actividad, demostramos que la guía espiritual es el centro de nuestro hogar y no un elemento secundario.",
+            "shortAnswer": "Dando prioridad a la enseñanza bíblica en el hogar regularmente."
+          },
+          {
+            "id": "3A_q19_e",
+            "question": "¿Cómo demostramos que valoramos la guía de Dios cuando cooperamos con los Comités de Enlace con los Hospitales?",
+            "references": "",
+            "directAnswer": "Al cooperar con los Comités de Enlace con los Hospitales, demostramos que valoramos la guía de Dios sobre el respeto a la vida y la sangre.",
+            "deepAnswer": "Cooperar con estos comités es una manifestación de obediencia a la ley de Dios sobre la sangre. Demuestra que confiamos plenamente en las directrices bíblicas y que deseamos proteger nuestra conciencia y nuestra relación con Jehová incluso en situaciones de salud críticas.",
+            "shortAnswer": "Siguiendo los principios bíblicos sobre la salud con el apoyo teocrático."
+          },
+          {
+            "id": "3A_q19_f",
+            "question": "¿Cómo demostramos que valoramos la guía de Dios cuando nos comportamos bien en las asambleas?",
+            "references": "",
+            "directAnswer": "Demostramos que valoramos la guía de Dios al mostrar un comportamiento ejemplar que refleja nuestros valores cristianos ante los demás.",
+            "deepAnswer": "Nuestra conducta en las asambleas es una carta de presentación de la organización de Jehová. Al ser respetuosos, ordenados y amables, honramos a quien nos guía y permitimos que otros vean la diferencia entre quienes sirven a Dios y quienes no.",
+            "shortAnswer": "Reflejando principios cristianos en nuestra conducta pública."
+          }
+        ]
       },
       {
         "id": "3A_q20",
@@ -1092,12 +1152,12 @@ const lessonsData = [
         "shortAnswer": "Humildad y mente abierta a la luz progresiva."
       },
       {
-        "id": "3A_q22_a",
-        "question": "¿Cómo nos ayudará la actitud de humildad a reaccionar bien ante un cambio que afecte a alguna costumbre o tradición que nos gusta mucho? (w21.05 págs. 5, 6 párrs. 13-16). EXPERIENCIA: Un hermano que lleva mucho tiempo siendo anciano reconoce: “Aceptar los cambios y adaptarse a ellos puede ser difícil”.",
-        "references": "w21.05 págs. 5, 6 párrs. 13-16",
+        "id": "3A_q22",
+        "question": "¿Cómo nos ayudará esa actitud a reaccionar bien ante un cambio que afecte a alguna costumbre o tradición que nos gusta mucho? (w21.05 págs. 5, 6 párrs. 13-16). EXPERIENCIA: Un hermano que lleva mucho tiempo siendo anciano reconoce: “Aceptar los cambios y adaptarse a ellos puede ser difícil”.",
+        "references": "",
         "directAnswer": "Esa actitud de humildad nos ayuda a recordar que la guía de Jehová es superior a nuestras preferencias personales, permitiéndonos ajustarnos con gozo a los nuevos derroteros y a ver los cambios como bendiciones.",
-        "deepAnswer": "La humildad y la disposición para adaptarnos son cruciales cuando los cambios afectan costumbres o tradiciones que valoramos mucho. Al recordar que la organización es dirigida por Jehová y no por hombres, podemos superar cualquier sentimiento de incomodidad o apego al pasado. Reflexionar en el amor y la sabiduría de Jehová al proveer estas mejoras nos motiva a verlas como bendiciones, no como pérdidas, y a aceptar de corazón la dirección que nos encamina hacia un mayor refinamiento espiritual y eficiencia teocrática (w21.05 págs. 5, 6 párrs. 13-16).<br><br><strong>Experiencia:</strong> El comentario del anciano nos enseña que, incluso para quienes tienen años de servicio y madurez, el cambio representa un desafío emocional. La lección teocrática es que la humildad no elimina la dificultad natural del cambio, sino que nos da la fortaleza espiritual para no permitir que nuestros sentimientos personales se conviertan en un obstáculo para la voluntad de Jehová.",
-        "shortAnswer": "Priorizar la dirección divina sobre preferencias personales, reconociendo con humildad que la guía de Jehová es superior."
+        "deepAnswer": "La humildad y la disposición para adaptarnos son cruciales cuando los cambios afectan costumbres o tradiciones que valoramos mucho. Al recordar que la organización es dirigida por Jehová y no por hombres, podemos superar cualquier sentimiento de incomodidad o apego al pasado. Reflexionar en el amor y la sabiduría de Jehová al proveer estas mejoras nos motiva a verlas como bendiciones, no como pérdidas, y a aceptar de corazón la dirección que nos encamina hacia un mayor refinamiento espiritual y eficiencia teocrática (w21.05 págs. 5, 6 párrs. 13-16).",
+        "shortAnswer": "Priorizar la dirección divina sobre preferencias personales."
       },
       {
         "id": "3A_q23",
@@ -1261,28 +1321,38 @@ const lessonsData = [
         "shortAnswer": "Las ayudas de la Biblia son guías que iluminan nuestro camino al escudriñar la verdad."
       },
       {
-        "id": "3B_q10_a",
-        "question": "¿Cómo te ayudan los mapas en tu estudio personal o al predicar?",
+        "id": "3B_q10",
+        "question": "",
         "references": "",
-        "directAnswer": "Los mapas me ayudan a visualizar los lugares bíblicos, entender mejor el contexto geográfico de los relatos y comprender las distancias y los movimientos de los personajes bíblicos.",
-        "deepAnswer": "Los mapas de la <em>Traducción del Nuevo Mundo</em> son herramientas visuales invaluables que enriquecen mi estudio al permitirme <strong>visualizar la geografía bíblica</strong>. Me ayudan a situar los eventos históricos en su contexto real, comprender las rutas de viaje, las distancias recorridas y el entorno en el que vivieron los siervos de Dios, haciendo que los relatos bíblicos sean mucho más vívidos y fáciles de explicar al predicar.",
-        "shortAnswer": "Los mapas ayudan a visualizar la geografía, rutas y contextos de los relatos bíblicos."
-      },
-      {
-        "id": "3B_q10_b",
-        "question": "¿Cómo te ayudan los diagramas en tu estudio personal o al predicar?",
-        "references": "",
-        "directAnswer": "Los diagramas me ayudan a captar conceptos complejos, como la estructura del templo, cronologías o la secuencia de eventos proféticos, de una manera mucho más clara y memorable.",
-        "deepAnswer": "Los diagramas son recursos excelentes para desglosar información densa o técnica. Me permiten comprender estructuras complejas como el diseño del tabernáculo o del templo, y visualizar secuencias proféticas o cronológicas. Al utilizar estas ayudas visuales, puedo explicar verdades bíblicas de forma sencilla y estructurada tanto en mi estudio personal como al enseñar a otros.",
-        "shortAnswer": "Los diagramas facilitan la comprensión de conceptos complejos, estructuras y secuencias bíblicas."
-      },
-      {
-        "id": "3B_q10_c",
-        "question": "¿Cómo te ayudan las referencias marginales y las notas en tu estudio personal o al predicar?",
-        "references": "",
-        "directAnswer": "Las referencias marginales y las notas me permiten conectar pasajes relacionados, entender el significado original de los términos y profundizar en el contexto de cada versículo.",
-        "deepAnswer": "Las referencias marginales son fundamentales para el estudio de la Biblia, ya que permiten que la Escritura se explique a sí misma al conectar pasajes paralelos o profecías con su cumplimiento. Por otro lado, las notas proporcionan aclaraciones sobre el significado del lenguaje original, contextos históricos y variaciones en los manuscritos, lo cual es esencial para una comprensión exacta y para poder explicar con confianza la verdad a otras personas.",
-        "shortAnswer": "Las referencias y notas permiten conectar pasajes y profundizar en el significado y contexto bíblico."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "3B_q10_a",
+            "question": "¿Cómo te ayudan los mapas en tu estudio personal o al predicar?",
+            "references": "",
+            "directAnswer": "Los mapas me ayudan a visualizar los lugares bíblicos, entender mejor el contexto geográfico de los relatos y comprender las distancias y los movimientos de los personajes bíblicos.",
+            "deepAnswer": "Los mapas de la <em>Traducción del Nuevo Mundo</em> son herramientas visuales invaluables que enriquecen mi estudio al permitirme <strong>visualizar la geografía bíblica</strong>. Me ayudan a situar los eventos históricos en su contexto real, comprender las rutas de viaje, las distancias recorridas y el entorno en el que vivieron los siervos de Dios, haciendo que los relatos bíblicos sean mucho más vívidos y fáciles de explicar al predicar.",
+            "shortAnswer": "Los mapas ayudan a visualizar la geografía, rutas y contextos de los relatos bíblicos."
+          },
+          {
+            "id": "3B_q10_b",
+            "question": "¿Cómo te ayudan los diagramas en tu estudio personal o al predicar?",
+            "references": "",
+            "directAnswer": "Los diagramas me ayudan a captar conceptos complejos, como la estructura del templo, cronologías o la secuencia de eventos proféticos, de una manera mucho más clara y memorable.",
+            "deepAnswer": "Los diagramas son recursos excelentes para desglosar información densa o técnica. Me permiten comprender estructuras complejas como el diseño del tabernáculo o del templo, y visualizar secuencias proféticas o cronológicas. Al utilizar estas ayudas visuales, puedo explicar verdades bíblicas de forma sencilla y estructurada tanto en mi estudio personal como al enseñar a otros.",
+            "shortAnswer": "Los diagramas facilitan la comprensión de conceptos complejos, estructuras y secuencias bíblicas."
+          },
+          {
+            "id": "3B_q10_c",
+            "question": "¿Cómo te ayudan las referencias marginales y las notas en tu estudio personal o al predicar?",
+            "references": "",
+            "directAnswer": "Las referencias marginales y las notas me permiten conectar pasajes relacionados, entender el significado original de los términos y profundizar en el contexto de cada versículo.",
+            "deepAnswer": "Las referencias marginales son fundamentales para el estudio de la Biblia, ya que permiten que la Escritura se explique a sí misma al conectar pasajes paralelos o profecías con su cumplimiento. Por otro lado, las notas proporcionan aclaraciones sobre el significado del lenguaje original, contextos históricos y variaciones en los manuscritos, lo cual es esencial para una comprensión exacta y para poder explicar con confianza la verdad a otras personas.",
+            "shortAnswer": "Las referencias y notas permiten conectar pasajes y profundizar en el significado y contexto bíblico."
+          }
+        ]
       },
       {
         "id": "3B_q11",
@@ -1454,68 +1524,78 @@ const lessonsData = [
         "shortAnswer": "Imitar la imparcialidad de Jehová nos ayuda a ver a todas las personas con amor y a rechazar cualquier actitud racista o nacionalista."
       },
       {
-        "id": "4A_q12_a",
-        "question": "¿Cómo demostramos ser leales cuando nos persiguen? (Juan 15:13; Hech. 9:23-25; Apoc. 2:10).",
-        "references": "Juan 15:13; Hech. 9:23-25; Apoc. 2:10",
-        "directAnswer": "Demostramos lealtad al mantener nuestra integridad a pesar de las pruebas, mostrando amor abnegado por nuestros hermanos y usando la prudencia para proteger nuestra capacidad de seguir sirviendo a Jehová.",
-        "deepAnswer": "La lealtad bajo persecución no es un acto temerario, sino una muestra de fe profunda. Siguiendo el ejemplo de Jesús en Juan 15:13, estamos dispuestos a dar la vida por nuestros amigos. Sin embargo, al igual que Pablo en Hechos 9:23-25, demostramos prudencia buscando vías para continuar nuestra labor ministerial sin exponernos innecesariamente. Apocalipsis 2:10 nos asegura que si somos fieles hasta la muerte, recibiremos la corona de la vida, convirtiendo nuestra lealtad en una victoria espiritual ante cualquier presión.",
-        "shortAnswer": "Siendo fieles y valientes bajo prueba, confiando en que Jehová valora nuestra integridad y nos otorga la fuerza para perseverar."
-      },
-      {
-        "id": "4A_q12_b",
-        "question": "Analiza el principio de 1 Pedro 1:22 y comenta cómo puede aplicarse en la situación: Un hermano evita tener trato con otro porque es de otra raza, nacionalidad o posición social. (w21.01 pág. 22 párr. 10)",
-        "references": "1 Pedro 1:22; w21.01 pág. 22 párr. 10",
-        "directAnswer": "Al aplicar 1 Pedro 1:22, demostramos sumisión a Dios eliminando todo prejuicio racial, nacional o social, pues el amor fraternal no debe tener barreras.",
-        "deepAnswer": "El principio de 1 Pedro 1:22 nos exhorta a que nuestro amor sea 'de corazón'. Si un hermano evita a otros por prejuicios de raza o posición social, está ignorando que el sacrificio de Cristo iguala a todos los siervos de Jehová. La sumisión a Dios comienza por purificar nuestra mente de prejuicios heredados, permitiendo que el espíritu de Jehová nos una como una sola familia donde 'no hay griego ni judío', sino solo hermanos unidos por el amor ágape.",
-        "shortAnswer": "El amor fraternal sincero exige que despojemos nuestra mente de todo prejuicio contra hermanos de distinta procedencia o clase social."
-      },
-      {
-        "id": "4A_q12_c",
-        "question": "Analiza el principio de 1 Pedro 1:22 y comenta cómo puede aplicarse en la situación: En el Salón del Reino, una hermana se sienta lo más lejos posible de alguien porque le cae mal o decide cambiarse de congregación por algo parecido. (w21.01 pág. 22 párr. 10)",
-        "references": "1 Pedro 1:22; w21.01 pág. 22 párr. 10",
-        "directAnswer": "Demostramos sumisión al superar rencores personales, buscando la paz y el amor hacia todos los hermanos dentro de nuestra congregación.",
-        "deepAnswer": "La instrucción de amar 'intensamente' de 1 Pedro 1:22 no es opcional. El rechazo hacia un hermano por diferencias de personalidad o conflictos menores es una falta de sumisión al mandato de Cristo de amarnos unos a otros. Cambiarse de congregación para evitar a alguien no resuelve el problema espiritual, sino que lo traslada. La madurez cristiana implica perdonar y fomentar un ambiente de unidad en el Salón del Reino, reconociendo que nuestra lealtad a Jehová es mayor que cualquier desavenencia humana.",
-        "shortAnswer": "La sumisión a Jehová se manifiesta al cultivar amor por quienes nos rodean en la congregación, superando las diferencias personales y evitando actitudes de exclusión."
-      },
-      {
-        "id": "4A_q12_d",
-        "question": "Explica cómo demostramos que nos sometemos de corazón a la soberanía de Jehová cuando leemos revistas, libros, etc.",
-        "references": "1 Pedro 1:22",
-        "directAnswer": "Demostramos sumisión al elegir lecturas que alimentan nuestra espiritualidad y reflejan el pensamiento de Jehová, desechando aquello que promueve la inmoralidad o el orgullo.",
-        "deepAnswer": "Nuestra sumisión a la soberanía de Jehová se refleja en lo que permitimos que entre en nuestra mente. Al leer nuestras publicaciones teocráticas y meditar en la Biblia, estamos 'purificando nuestras almas' (1 Pedro 1:22). Si leemos material que contradice los principios bíblicos, estamos siendo rebeldes a la guía divina. Leer con el objetivo de aplicar lo aprendido demuestra que nuestra obediencia no es solo externa, sino que nace de un corazón que desea complacer a su Creador.",
-        "shortAnswer": "Someternos de corazón significa ser selectivos con nuestras lecturas, priorizando lo que edifica nuestra fe y cumple con las normas de Dios."
-      },
-      {
-        "id": "4A_q12_e",
-        "question": "Explica cómo demostramos que nos sometemos de corazón a la soberanía de Jehová cuando elegimos nuestro entretenimiento; por ejemplo, programas de televisión o películas.",
-        "references": "1 Pedro 1:22",
-        "directAnswer": "Demostramos sumisión al rechazar entretenimiento que promueve la violencia, la inmoralidad o la magia, eligiendo opciones que respetan las normas morales de Jehová.",
-        "deepAnswer": "Muchas veces, el entretenimiento es el campo de batalla donde se prueba nuestra lealtad. Someternos a la soberanía de Jehová implica que nuestro filtro de elección no sea la popularidad de la película o serie, sino si lo que vemos agrada a los ojos de Dios. Al aplicar 1 Pedro 1:22, recordamos que un 'amor fraternal sin hipocresía' no es compatible con el consumo de entretenimiento que degrada la dignidad humana o glorifica la maldad que Dios aborrece.",
-        "shortAnswer": "Someterse a Dios implica filtrar nuestro entretenimiento, rechazando todo lo que contradiga los valores bíblicos y promueva comportamientos impuros."
-      },
-      {
-        "id": "4A_q12_f",
-        "question": "Explica cómo demostramos que nos sometemos de corazón a la soberanía de Jehová cuando usamos internet o nuestros dispositivos electrónicos.",
-        "references": "1 Pedro 1:22",
-        "directAnswer": "Demostramos sumisión al usar el internet con prudencia, evitando el contenido perjudicial y asegurándonos de que nuestro comportamiento en línea refleje nuestra identidad como cristianos.",
-        "deepAnswer": "El uso del internet es una prueba de nuestra integridad privada. Someternos de corazón significa que, incluso cuando nadie más nos ve, usamos nuestros dispositivos de manera que no manche nuestra conciencia. Esto incluye evitar el ciberacoso, no difundir chismes, abstenerse de la pornografía y no permitir que el tiempo en línea robe el tiempo dedicado al estudio personal o a la familia. Es una aplicación directa de purificar nuestras almas a través de la obediencia a la verdad.",
-        "shortAnswer": "La lealtad digital se demuestra al ser conscientes de que Jehová observa nuestro uso de la tecnología, evitando cualquier contenido o práctica que nos aparte de la pureza espiritual."
-      },
-      {
-        "id": "4A_q12_g",
-        "question": "Explica cómo demostramos que nos sometemos de corazón a la soberanía de Jehová al tratar con nuestro esposo o esposa y el resto de nuestra familia cuando estamos en casa.",
-        "references": "1 Pedro 1:22",
-        "directAnswer": "Demostramos sumisión tratando a nuestra familia con el amor, respeto y ternura que el modelo de Jehová establece, dejando de lado el egoísmo en el círculo familiar.",
-        "deepAnswer": "La verdadera religión comienza en el hogar. La sumisión a la soberanía de Jehová se prueba a puerta cerrada, donde a menudo bajamos la guardia. Aplicar 1 Pedro 1:22 significa practicar un amor fraternal sincero con nuestro cónyuge e hijos, evitando la ira, el trato cortante o el abandono de deberes familiares. Cuando tratamos a nuestra familia según los principios bíblicos, demostramos que nuestra obediencia a Jehová es real y no una máscara para el Salón del Reino.",
-        "shortAnswer": "La sumisión a Dios se hace evidente cuando tratamos a los miembros de nuestra familia con el mismo amor, paciencia y consideración que Cristo mostró hacia nosotros."
-      },
-      {
-        "id": "4A_q12_h",
-        "question": "Explica cómo demostramos que nos sometemos de corazón a la soberanía de Jehová al cumplir con nuestros deberes y asignaciones en la congregación.",
-        "references": "1 Pedro 1:22",
-        "directAnswer": "Demostramos sumisión realizando nuestras asignaciones con entusiasmo, humildad y un espíritu de colaboración, reconociendo que servimos a Jehová y no a los hombres.",
-        "deepAnswer": "Cumplir con asignaciones en la congregación es una oportunidad de demostrar sumisión total. No lo hacemos para recibir aplausos o reconocimiento humano, sino porque 'obedecemos a la verdad' (1 Pedro 1:22). Demostrar que nos sometemos de corazón implica aceptar de buena gana cualquier tarea, prepararnos con esmero y colaborar con el cuerpo de ancianos. Esta actitud refleja una fe que ha purificado nuestro corazón de la búsqueda de protagonismo para enfocarse en la gloria de Jehová.",
-        "shortAnswer": "La fidelidad en las responsabilidades teocráticas es un reflejo de nuestra sumisión a Dios; realizamos cada tarea como si fuera directamente para Jehová."
+        "id": "4A_q12",
+        "question": "¿Cómo demostramos ser leales cuando nos persiguen? (Juan 15:13; Hech. 9:23-25; Apoc. 2:10). La sumisión a Dios debe salir del corazón. Analiza el principio de 1 Pedro 1:22 y comenta cómo puede aplicarse en las siguientes situaciones (w21.01 pág. 22 párr. 10):",
+        "references": "",
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "4A_q12_a",
+            "question": "¿Cómo demostramos ser leales cuando nos persiguen? (Juan 15:13; Hech. 9:23-25; Apoc. 2:10).",
+            "references": "Juan 15:13; Hech. 9:23-25; Apoc. 2:10",
+            "directAnswer": "Demostramos lealtad al mantener nuestra integridad a pesar de las pruebas, mostrando amor abnegado por nuestros hermanos y usando la prudencia para proteger nuestra capacidad de seguir sirviendo a Jehová.",
+            "deepAnswer": "La lealtad bajo persecución no es un acto temerario, sino una muestra de fe profunda. Siguiendo el ejemplo de Jesús en Juan 15:13, estamos dispuestos a dar la vida por nuestros amigos. Sin embargo, al igual que Pablo en Hechos 9:23-25, demostramos prudencia buscando vías para continuar nuestra labor ministerial sin exponernos innecesariamente. Apocalipsis 2:10 nos asegura que si somos fieles hasta la muerte, recibiremos la corona de la vida, convirtiendo nuestra lealtad en una victoria espiritual ante cualquier presión.",
+            "shortAnswer": "Siendo fieles y valientes bajo prueba, confiando en que Jehová valora nuestra integridad y nos otorga la fuerza para perseverar."
+          },
+          {
+            "id": "4A_q12_b",
+            "question": "Analiza el principio de 1 Pedro 1:22 y comenta cómo puede aplicarse en la situación: Un hermano evita tener trato con otro porque es de otra raza, nacionalidad o posición social. (w21.01 pág. 22 párr. 10)",
+            "references": "1 Pedro 1:22; w21.01 pág. 22 párr. 10",
+            "directAnswer": "Al aplicar 1 Pedro 1:22, demostramos sumisión a Dios eliminando todo prejuicio racial, nacional o social, pues el amor fraternal no debe tener barreras.",
+            "deepAnswer": "El principio de 1 Pedro 1:22 nos exhorta a que nuestro amor sea 'de corazón'. Si un hermano evita a otros por prejuicios de raza o posición social, está ignorando que el sacrificio de Cristo iguala a todos los siervos de Jehová. La sumisión a Dios comienza por purificar nuestra mente de prejuicios heredados, permitiendo que el espíritu de Jehová nos una como una sola familia donde 'no hay griego ni judío', sino solo hermanos unidos por el amor ágape.",
+            "shortAnswer": "El amor fraternal sincero exige que despojemos nuestra mente de todo prejuicio contra hermanos de distinta procedencia o clase social."
+          },
+          {
+            "id": "4A_q12_c",
+            "question": "Analiza el principio de 1 Pedro 1:22 y comenta cómo puede aplicarse en la situación: En el Salón del Reino, una hermana se sienta lo más lejos posible de alguien porque le cae mal o decide cambiarse de congregación por algo parecido. (w21.01 pág. 22 párr. 10)",
+            "references": "1 Pedro 1:22; w21.01 pág. 22 párr. 10",
+            "directAnswer": "Demostramos sumisión al superar rencores personales, buscando la paz y el amor hacia todos los hermanos dentro de nuestra congregación.",
+            "deepAnswer": "La instrucción de amar 'intensamente' de 1 Pedro 1:22 no es opcional. El rechazo hacia un hermano por diferencias de personalidad o conflictos menores es una falta de sumisión al mandato de Cristo de amarnos unos a otros. Cambiarse de congregación para evitar a alguien no resuelve el problema espiritual, sino que lo traslada. La madurez cristiana implica perdonar y fomentar un ambiente de unidad en el Salón del Reino, reconociendo que nuestra lealtad a Jehová es mayor que cualquier desavenencia humana.",
+            "shortAnswer": "La sumisión a Jehová se manifiesta al cultivar amor por quienes nos rodean en la congregación, superando las diferencias personales y evitando actitudes de exclusión."
+          },
+          {
+            "id": "4A_q12_d",
+            "question": "Explica cómo demostramos que nos sometemos de corazón a la soberanía de Jehová cuando leemos revistas, libros, etc.",
+            "references": "1 Pedro 1:22",
+            "directAnswer": "Demostramos sumisión al elegir lecturas que alimentan nuestra espiritualidad y reflejan el pensamiento de Jehová, desechando aquello que promueve la inmoralidad o el orgullo.",
+            "deepAnswer": "Nuestra sumisión a la soberanía de Jehová se refleja en lo que permitimos que entre en nuestra mente. Al leer nuestras publicaciones teocráticas y meditar en la Biblia, estamos 'purificando nuestras almas' (1 Pedro 1:22). Si leemos material que contradice los principios bíblicos, estamos siendo rebeldes a la guía divina. Leer con el objetivo de aplicar lo aprendido demuestra que nuestra obediencia no es solo externa, sino que nace de un corazón que desea complacer a su Creador.",
+            "shortAnswer": "Someternos de corazón significa ser selectivos con nuestras lecturas, priorizando lo que edifica nuestra fe y cumple con las normas de Dios."
+          },
+          {
+            "id": "4A_q12_e",
+            "question": "Explica cómo demostramos que nos sometemos de corazón a la soberanía de Jehová cuando elegimos nuestro entretenimiento; por ejemplo, programas de televisión o películas.",
+            "references": "1 Pedro 1:22",
+            "directAnswer": "Demostramos sumisión al rechazar entretenimiento que promueve la violencia, la inmoralidad o la magia, eligiendo opciones que respetan las normas morales de Jehová.",
+            "deepAnswer": "Muchas veces, el entretenimiento es el campo de batalla donde se prueba nuestra lealtad. Someternos a la soberanía de Jehová implica que nuestro filtro de elección no sea la popularidad de la película o serie, sino si lo que vemos agrada a los ojos de Dios. Al aplicar 1 Pedro 1:22, recordamos que un 'amor fraternal sin hipocresía' no es compatible con el consumo de entretenimiento que degrada la dignidad humana o glorifica la maldad que Dios aborrece.",
+            "shortAnswer": "Someterse a Dios implica filtrar nuestro entretenimiento, rechazando todo lo que contradiga los valores bíblicos y promueva comportamientos impuros."
+          },
+          {
+            "id": "4A_q12_f",
+            "question": "Explica cómo demostramos que nos sometemos de corazón a la soberanía de Jehová cuando usamos internet o nuestros dispositivos electrónicos.",
+            "references": "1 Pedro 1:22",
+            "directAnswer": "Demostramos sumisión al usar el internet con prudencia, evitando el contenido perjudicial y asegurándonos de que nuestro comportamiento en línea refleje nuestra identidad como cristianos.",
+            "deepAnswer": "El uso del internet es una prueba de nuestra integridad privada. Someternos de corazón significa que, incluso cuando nadie más nos ve, usamos nuestros dispositivos de manera que no manche nuestra conciencia. Esto incluye evitar el ciberacoso, no difundir chismes, abstenerse de la pornografía y no permitir que el tiempo en línea robe el tiempo dedicado al estudio personal o a la familia. Es una aplicación directa de purificar nuestras almas a través de la obediencia a la verdad.",
+            "shortAnswer": "La lealtad digital se demuestra al ser conscientes de que Jehová observa nuestro uso de la tecnología, evitando cualquier contenido o práctica que nos aparte de la pureza espiritual."
+          },
+          {
+            "id": "4A_q12_g",
+            "question": "Explica cómo demostramos que nos sometemos de corazón a la soberanía de Jehová al tratar con nuestro esposo o esposa y el resto de nuestra familia cuando estamos en casa.",
+            "references": "1 Pedro 1:22",
+            "directAnswer": "Demostramos sumisión tratando a nuestra familia con el amor, respeto y ternura que el modelo de Jehová establece, dejando de lado el egoísmo en el círculo familiar.",
+            "deepAnswer": "La verdadera religión comienza en el hogar. La sumisión a la soberanía de Jehová se prueba a puerta cerrada, donde a menudo bajamos la guardia. Aplicar 1 Pedro 1:22 significa practicar un amor fraternal sincero con nuestro cónyuge e hijos, evitando la ira, el trato cortante o el abandono de deberes familiares. Cuando tratamos a nuestra familia según los principios bíblicos, demostramos que nuestra obediencia a Jehová es real y no una máscara para el Salón del Reino.",
+            "shortAnswer": "La sumisión a Dios se hace evidente cuando tratamos a los miembros de nuestra familia con el mismo amor, paciencia y consideración que Cristo mostró hacia nosotros."
+          },
+          {
+            "id": "4A_q12_h",
+            "question": "Explica cómo demostramos que nos sometemos de corazón a la soberanía de Jehová al cumplir con nuestros deberes y asignaciones en la congregación.",
+            "references": "1 Pedro 1:22",
+            "directAnswer": "Demostramos sumisión realizando nuestras asignaciones con entusiasmo, humildad y un espíritu de colaboración, reconociendo que servimos a Jehová y no a los hombres.",
+            "deepAnswer": "Cumplir con asignaciones en la congregación es una oportunidad de demostrar sumisión total. No lo hacemos para recibir aplausos o reconocimiento humano, sino porque 'obedecemos a la verdad' (1 Pedro 1:22). Demostrar que nos sometemos de corazón implica aceptar de buena gana cualquier tarea, prepararnos con esmero y colaborar con el cuerpo de ancianos. Esta actitud refleja una fe que ha purificado nuestro corazón de la búsqueda de protagonismo para enfocarse en la gloria de Jehová.",
+            "shortAnswer": "La fidelidad en las responsabilidades teocráticas es un reflejo de nuestra sumisión a Dios; realizamos cada tarea como si fuera directamente para Jehová."
+          }
+        ]
       },
       {
         "id": "4A_q13",
@@ -1715,12 +1795,12 @@ const lessonsData = [
         "shortAnswer": "Preguntas abiertas e invitadoras sin presionar."
       },
       {
-        "id": "4B_q16_a",
-        "question": "¿Por qué no debería parecer que estamos interrogando a la persona al conversar con ella? (w14 15/9 pág. 21 párr. 16). EXPERIENCIA: El periódico Le Progrès, de la ciudad francesa de Saint-Étienne, publicó la carta de una señora que había perdido a su hija de tres meses. En su carta escribió que, poco después de que muriera el bebé, dos personas tocaron a su puerta. Ella contó: “Enseguida me di cuenta de que eran testigos de Jehová. Estaba a punto de decirles que no me interesaba, cuando vi que el folleto que tenían hablaba de por qué permite Dios el sufrimiento. Así que los invité a pasar, pero solo para demostrarles que no tenían razón. [...] Estuvieron conmigo algo más de una hora y me escucharon con mucho cariño. Al final de la conversación ya me sentía mucho mejor. Por eso me pareció bien que volvieran a visitarme”. Con el tiempo, esta señora aceptó un curso de la Biblia. Es interesante que lo que recordó de aquella primera visita no fue lo que los Testigos le dijeron, sino cómo la escucharon.",
-        "references": "w14 15/9 pág. 21 párr. 16",
-        "directAnswer": "No debemos parecer que interrogamos, sino que buscamos entablar un diálogo amigable, haciendo preguntas de manera conversacional y dejando espacio para que la persona se exprese cómodamente, demostrando un interés genuino en sus sentimientos.",
-        "deepAnswer": "El artículo de <em>La Atalaya</em> (w14 15/9 pág. 21 párr. 16) subraya que si nuestras preguntas son excesivas, muy directas o no están espaciadas de forma natural, la persona puede sentirse como en un interrogatorio y ponerse a la defensiva. El objetivo de nuestro ministerio es llegar al corazón, y esto solo se logra mediante un intercambio de ideas respetuoso. La experiencia de la señora que perdió a su hija ilustra perfectamente esto: ella valoró más el hecho de que los Testigos la escucharan con 'mucho cariño' que el mensaje mismo o los argumentos. Esto demuestra que mostrar interés genuino, paciencia y ser buenos oyentes es mucho más poderoso que una batería de preguntas. <br><br><strong>Experiencia:</strong> Esta vivencia nos enseña una valiosa lección teocrática: a menudo, lo que permite que una semilla de verdad eche raíces no es solo la elocuencia del maestro, sino la empatía y la compasión demostradas. Al escuchar con atención a quien sufre, imitamos el ejemplo de Jesús, quien siempre fue sensible a las necesidades de los demás antes de ofrecer consuelo bíblico.",
-        "shortAnswer": "Evita parecer un interrogador para que la persona no se cierre; prioriza escuchar con cariño y empatía para construir confianza."
+        "id": "4B_q16",
+        "question": "¿Por qué no debería parecer que la estamos interrogando? (w14 15/9 pág. 21 párr. 16). EXPERIENCIA: El periódico Le Progrès, de la ciudad francesa de Saint-Étienne, publicó la carta de una señora que había perdido a su hija de tres meses. En su carta escribió que, poco después de que muriera el bebé, dos personas tocaron a su puerta. Ella contó: “Enseguida me di cuenta de que eran testigos de Jehová. Estaba a punto de decirles que no me interesaba, cuando vi que el folleto que tenían hablaba de por qué permite Dios el sufrimiento. Así que los invité a pasar, pero solo para demostrarles que no tenían razón. [...] Estuvieron conmigo algo más de una hora y me escucharon con mucho cariño. Al final de la conversación ya me sentía mucho mejor. Por eso me pareció bien que volvieran a visitarme”. Con el tiempo, esta señora aceptó un curso de la Biblia. Es interesante que lo que recordó de aquella primera visita no fue lo que los Testigos le dijeron, sino cómo la escucharon.",
+        "references": "",
+        "directAnswer": "No debemos parecer que interrogamos, sino que buscamos entablar un diálogo amigable, haciendo preguntas de manera conversacional y dejando espacio para que se expresen cómodamente.",
+        "deepAnswer": "El artículo de <em>La Atalaya</em> (w14 15/9 pág. 21 párr. 16) probablemente enfatiza la importancia de un diálogo respetuoso y amigable. Si nuestras preguntas son excesivas, muy directas o no están espaciadas de forma natural, la persona puede sentirse como en un interrogatorio y ponerse a la defensiva. La experiencia de la señora que perdió a su hija ilustra perfectamente esto: ella valoró más el hecho de que la escucharan con 'mucho cariño' que lo que los Testigos dijeran. Esto demuestra que mostrar interés genuino, paciencia y buena escucha es más poderoso que una batería de preguntas.",
+        "shortAnswer": "Escucha más que preguntes para un diálogo sincero."
       },
       {
         "id": "4B_q17",
@@ -1755,52 +1835,62 @@ const lessonsData = [
         "shortAnswer": "A veces, el mejor testimonio que podemos dar es el silencio atento de un oído comprensivo."
       },
       {
-        "id": "4B_q21_a",
-        "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a una persona mayor?",
+        "id": "4B_q21",
+        "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a las circunstancias de estas personas?",
         "references": "",
-        "directAnswer": "Adaptaríamos nuestro mensaje a una persona mayor mostrando respeto por su experiencia de vida, preguntándole por sus vivencias y escuchando con interés lo que tiene que decir.",
-        "deepAnswer": "Al predicar a una persona mayor, debemos reflejar el consejo bíblico de tratar a los ancianos con dignidad. Es recomendable ser pacientes y evitar apresurar la conversación. Podemos demostrar un interés genuino preguntando sobre sus perspectivas de cómo ha cambiado el mundo o por su sabiduría acumulada a través de los años. Esto abre la puerta para compartir cómo el Reino de Dios resolverá los problemas que ellos han visto suceder durante toda su vida, ofreciéndoles esperanza y consuelo.",
-        "shortAnswer": "Muestra respeto y paciencia, interesándote por sus experiencias y sabiduría."
-      },
-      {
-        "id": "4B_q21_b",
-        "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a un niño, un adolescente o un estudiante universitario?",
-        "references": "",
-        "directAnswer": "Adaptaríamos el mensaje a los jóvenes utilizando un lenguaje claro y sencillo, enfocándonos en temas de su interés como sus estudios, sus metas o los desafíos cotidianos que enfrentan.",
-        "deepAnswer": "Para conectar con los jóvenes, es vital ser directos y relevantes. A un niño, podemos usar ilustraciones visuales o historias bíblicas sencillas. A un estudiante o adolescente, podemos reconocer la presión que enfrentan en la escuela o universidad y mostrar cómo los principios bíblicos son herramientas prácticas para tomar decisiones sabias, evitar peligros y encontrar un propósito real en la vida. Escuchar sus preocupaciones demuestra que valoramos su opinión y su futuro.",
-        "shortAnswer": "Usa un lenguaje adecuado a su edad y enfócate en sus intereses y desafíos diarios."
-      },
-      {
-        "id": "4B_q21_c",
-        "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a un padre o una madre?",
-        "references": "",
-        "directAnswer": "Adaptaríamos el mensaje a los padres enfocándonos en cómo la guía bíblica puede ayudarles a criar a sus hijos, fortalecer la unidad familiar y enfrentar las presiones de la crianza moderna.",
-        "deepAnswer": "Muchos padres están preocupados por el bienestar moral y espiritual de sus hijos. Al predicarles, podemos destacar la importancia de los valores bíblicos en la vida familiar. Preguntarles sobre sus preocupaciones como padres nos permite ofrecer artículos o textos bíblicos que abordan temas específicos como la comunicación entre padres e hijos o la superación de dificultades económicas y emocionales. Mostrar empatía ante su labor cotidiana hace que el mensaje sea muy bien recibido.",
-        "shortAnswer": "Conecta con su labor de crianza ofreciendo consuelo y guía bíblica para fortalecer su familia."
-      },
-      {
-        "id": "4B_q21_d",
-        "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a una persona a la que acabas de despertar o alguien que está enfermo?",
-        "references": "",
-        "directAnswer": "Si una persona está enferma o recién despertada, adaptaríamos nuestro mensaje siendo breves, respetuosos con su tiempo y estado, y ofreciendo una palabra amable sin intentar una conversación larga.",
-        "deepAnswer": "La cortesía es esencial. Si notamos que alguien no se siente bien o acaba de despertar, no debemos insistir en una presentación larga. Una breve expresión de interés, como preguntar si se encuentra bien y dejar un tratado o una tarjeta de contacto con un mensaje positivo, es suficiente. Al ser breves, demostramos que no somos impositivos y que realmente nos importa su bienestar, lo cual deja una impresión positiva para una futura visita en un momento más oportuno.",
-        "shortAnswer": "Sé breve, amable y demuestra consideración por su situación personal."
-      },
-      {
-        "id": "4B_q21_e",
-        "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a una persona que está de duelo?",
-        "references": "",
-        "directAnswer": "Adaptaríamos nuestro mensaje a una persona de duelo ofreciendo consuelo bíblico con mucho tacto, empatía y sensibilidad, centrándonos en la esperanza de la resurrección.",
-        "deepAnswer": "Ante alguien que atraviesa un duelo, nuestras palabras deben ser un bálsamo. Es más importante escuchar que hablar. Podemos expresar brevemente que entendemos que está pasando por un momento difícil y compartir un texto reconfortante, como Apocalipsis 21:4 o Juan 5:28, 29. Evitaremos dar explicaciones innecesarias o clichés, enfocándonos en la esperanza que Jehová nos da mediante su Palabra. Nuestro tono de voz debe ser calmado y compasivo, demostrando que compartimos su dolor.",
-        "shortAnswer": "Sé empático, escucha con paciencia y comparte la esperanza bíblica con mucha delicadeza."
-      },
-      {
-        "id": "4B_q21_f",
-        "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a alguien que tiene una casa bonita o un jardín bien cuidado?",
-        "references": "",
-        "directAnswer": "Adaptaríamos el mensaje a alguien que cuida bien su hogar elogiando su esmero y buen gusto, lo cual ayuda a romper el hielo y establecer una conexión cordial.",
-        "deepAnswer": "Elogiar sinceramente algo que a la persona le ha costado esfuerzo mantener, como su jardín o la fachada de su casa, es una excelente forma de iniciar una conversación. Esto demuestra que somos observadores y que valoramos el esfuerzo humano. Después de un elogio genuino, podemos comentar brevemente que, si el dueño se esfuerza tanto por cuidar su entorno inmediato, seguramente valora los esfuerzos que se hacen por mejorar el mundo en general, lo que nos conduce naturalmente al mensaje sobre el Paraíso terrenal que Jehová promete.",
-        "shortAnswer": "Elogia sinceramente su esfuerzo, lo cual sirve para iniciar una conversación amable."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "4B_q21_a",
+            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a una persona mayor?",
+            "references": "",
+            "directAnswer": "Adaptaríamos nuestro mensaje a una persona mayor mostrando respeto por su experiencia de vida, preguntándole por sus vivencias y escuchando con interés lo que tiene que decir.",
+            "deepAnswer": "Al predicar a una persona mayor, debemos reflejar el consejo bíblico de tratar a los ancianos con dignidad. Es recomendable ser pacientes y evitar apresurar la conversación. Podemos demostrar un interés genuino preguntando sobre sus perspectivas de cómo ha cambiado el mundo o por su sabiduría acumulada a través de los años. Esto abre la puerta para compartir cómo el Reino de Dios resolverá los problemas que ellos han visto suceder durante toda su vida, ofreciéndoles esperanza y consuelo.",
+            "shortAnswer": "Muestra respeto y paciencia, interesándote por sus experiencias y sabiduría."
+          },
+          {
+            "id": "4B_q21_b",
+            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a un niño, un adolescente o un estudiante universitario?",
+            "references": "",
+            "directAnswer": "Adaptaríamos el mensaje a los jóvenes utilizando un lenguaje claro y sencillo, enfocándonos en temas de su interés como sus estudios, sus metas o los desafíos cotidianos que enfrentan.",
+            "deepAnswer": "Para conectar con los jóvenes, es vital ser directos y relevantes. A un niño, podemos usar ilustraciones visuales o historias bíblicas sencillas. A un estudiante o adolescente, podemos reconocer la presión que enfrentan en la escuela o universidad y mostrar cómo los principios bíblicos son herramientas prácticas para tomar decisiones sabias, evitar peligros y encontrar un propósito real en la vida. Escuchar sus preocupaciones demuestra que valoramos su opinión y su futuro.",
+            "shortAnswer": "Usa un lenguaje adecuado a su edad y enfócate en sus intereses y desafíos diarios."
+          },
+          {
+            "id": "4B_q21_c",
+            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a un padre o una madre?",
+            "references": "",
+            "directAnswer": "Adaptaríamos el mensaje a los padres enfocándonos en cómo la guía bíblica puede ayudarles a criar a sus hijos, fortalecer la unidad familiar y enfrentar las presiones de la crianza moderna.",
+            "deepAnswer": "Muchos padres están preocupados por el bienestar moral y espiritual de sus hijos. Al predicarles, podemos destacar la importancia de los valores bíblicos en la vida familiar. Preguntarles sobre sus preocupaciones como padres nos permite ofrecer artículos o textos bíblicos que abordan temas específicos como la comunicación entre padres e hijos o la superación de dificultades económicas y emocionales. Mostrar empatía ante su labor cotidiana hace que el mensaje sea muy bien recibido.",
+            "shortAnswer": "Conecta con su labor de crianza ofreciendo consuelo y guía bíblica para fortalecer su familia."
+          },
+          {
+            "id": "4B_q21_d",
+            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a una persona a la que acabas de despertar o alguien que está enfermo?",
+            "references": "",
+            "directAnswer": "Si una persona está enferma o recién despertada, adaptaríamos nuestro mensaje siendo breves, respetuosos con su tiempo y estado, y ofreciendo una palabra amable sin intentar una conversación larga.",
+            "deepAnswer": "La cortesía es esencial. Si notamos que alguien no se siente bien o acaba de despertar, no debemos insistir en una presentación larga. Una breve expresión de interés, como preguntar si se encuentra bien y dejar un tratado o una tarjeta de contacto con un mensaje positivo, es suficiente. Al ser breves, demostramos que no somos impositivos y que realmente nos importa su bienestar, lo cual deja una impresión positiva para una futura visita en un momento más oportuno.",
+            "shortAnswer": "Sé breve, amable y demuestra consideración por su situación personal."
+          },
+          {
+            "id": "4B_q21_e",
+            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a una persona que está de duelo?",
+            "references": "",
+            "directAnswer": "Adaptaríamos nuestro mensaje a una persona de duelo ofreciendo consuelo bíblico con mucho tacto, empatía y sensibilidad, centrándonos en la esperanza de la resurrección.",
+            "deepAnswer": "Ante alguien que atraviesa un duelo, nuestras palabras deben ser un bálsamo. Es más importante escuchar que hablar. Podemos expresar brevemente que entendemos que está pasando por un momento difícil y compartir un texto reconfortante, como Apocalipsis 21:4 o Juan 5:28, 29. Evitaremos dar explicaciones innecesarias o clichés, enfocándonos en la esperanza que Jehová nos da mediante su Palabra. Nuestro tono de voz debe ser calmado y compasivo, demostrando que compartimos su dolor.",
+            "shortAnswer": "Sé empático, escucha con paciencia y comparte la esperanza bíblica con mucha delicadeza."
+          },
+          {
+            "id": "4B_q21_f",
+            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a alguien que tiene una casa bonita o un jardín bien cuidado?",
+            "references": "",
+            "directAnswer": "Adaptaríamos el mensaje a alguien que cuida bien su hogar elogiando su esmero y buen gusto, lo cual ayuda a romper el hielo y establecer una conexión cordial.",
+            "deepAnswer": "Elogiar sinceramente algo que a la persona le ha costado esfuerzo mantener, como su jardín o la fachada de su casa, es una excelente forma de iniciar una conversación. Esto demuestra que somos observadores y que valoramos el esfuerzo humano. Después de un elogio genuino, podemos comentar brevemente que, si el dueño se esfuerza tanto por cuidar su entorno inmediato, seguramente valora los esfuerzos que se hacen por mejorar el mundo en general, lo que nos conduce naturalmente al mensaje sobre el Paraíso terrenal que Jehová promete.",
+            "shortAnswer": "Elogia sinceramente su esfuerzo, lo cual sirve para iniciar una conversación amable."
+          }
+        ]
       },
       {
         "id": "4B_q22",
@@ -2117,20 +2207,12 @@ const lessonsData = [
         "shortAnswer": "El amor y el respeto mutuo de un esposo cristiano hacen que la sumisión sea un deleite y no una carga."
       },
       {
-        "id": "6A_q14_a",
-        "question": "¿Qué significan las palabras de 1 Corintios 14:33-35 respecto al orden en la congregación? (1 Tim. 2:12; w12 1/9 pág. 9, recuadro; g 7/10 pág. 29 párrs. 2-4)",
-        "references": "1 Tim. 2:12; w12 1/9 pág. 9, recuadro; g 7/10 pág. 29 párrs. 2-4",
-        "directAnswer": "Estas palabras no prohíben que la mujer participe en la predicación, sino que regulan el orden y el respeto a la jefatura dentro de las reuniones de la congregación.",
-        "deepAnswer": "El apóstol Pablo no estaba silenciando a las mujeres en el ministerio cristiano, ya que él mismo alabó a muchas mujeres fieles que colaboraban estrechamente en la obra de evangelización (Rom. 16:1-4). Estas instrucciones específicas dadas a los corintios buscan evitar que se cuestionara la autoridad establecida por Jehová dentro de las reuniones. Se enfatiza el orden y el respeto para que 'todo se haga con decencia y por acuerdo', protegiendo así la paz y la unidad de toda la congregación al reconocer el principio de jefatura.",
-        "shortAnswer": "Las instrucciones de Pablo son para mantener el orden teocrático en las reuniones, no para limitar el privilegio de predicar que tienen las mujeres."
-      },
-      {
-        "id": "6A_q14_b",
-        "question": "¿Cómo puede el ejemplo de una esposa cristiana ganar a su esposo para la verdad mediante su conducta, en armonía con los principios de respeto? EXPERIENCIA: Un hombre que trataba mal a su esposa cristiana contó: “Mi esposa me mostraba mucho respeto. Nunca me humilló. Tampoco intentó imponerme sus creencias. Siempre me cuidó con cariño. Si ella tenía que ir a una asamblea, dejaba la comida preparada y la casa limpia. Su actitud fue lo que despertó mi interés por la Biblia. Y, bueno, aquí estoy”. Este es solo un ejemplo más de un hombre que fue ganado “sin una palabra” gracias a la conducta de su esposa.",
-        "references": "1 Pedro 3:1, 2",
-        "directAnswer": "La esposa puede ganar a su esposo 'sin una palabra' al demostrar una conducta respetuosa, cariño genuino y un espíritu apacible, reflejando así la sabiduría divina.",
-        "deepAnswer": "Aunque la congregación sigue el orden de jefatura, el hogar es el escenario donde la esposa cristiana puede aplicar los principios bíblicos para atraer a su esposo a la verdad. La clave es el respeto profundo y el cuidado amoroso, evitando actitudes impositivas o humillantes. Al ser diligente y apoyar las necesidades del hogar, la esposa permite que su conducta hable más fuerte que sus palabras.<br><br><strong>Experiencia:</strong> El relato de este hombre demuestra que el respeto manifestado por una esposa es una herramienta poderosa. La lección teocrática es que la paciencia, la mansedumbre y el servicio abnegado pueden ablandar incluso a un esposo que inicialmente se opone. Cuando ella demuestra que la Biblia la hace una mejor compañera, el esposo puede terminar reconociendo que el mensaje que ella vive es, en efecto, la verdad de Jehová.",
-        "shortAnswer": "La conducta respetuosa, el cariño y el apoyo constante de la esposa pueden despertar el interés de un esposo no creyente por la Biblia."
+        "id": "6A_q14",
+        "question": "¿Qué significan las palabras de 1 Corintios 14:33-35? (1 Tim. 2:12; w12 1/9 pág. 9, recuadro; g 7/10 pág. 29 párrs. 2-4). EXPERIENCIA: Un hombre que trataba mal a su esposa cristiana contó: “Mi esposa me mostraba mucho respeto. Nunca me humilló. Tampoco intentó imponerme sus creencias. Siempre me cuidó con cariño. Si ella tenía que ir a una asamblea, dejaba la comida preparada y la casa limpia. Su actitud fue lo que despertó mi interés por la Biblia. Y, bueno, aquí estoy”. Este es solo un ejemplo más de un hombre que fue ganado “sin una palabra” gracias a la conducta de su esposa.",
+        "references": "",
+        "directAnswer": "Estas palabras no prohíben que la mujer participe en la predicación, sino que regulan el orden y el respeto a la jefatura dentro de la congregación.",
+        "deepAnswer": "El apóstol Pablo no estaba silenciando a las mujeres en el ministerio, ya que él mismo alabó a muchas que colaboraban en la obra (Rom. 16:1-4). Estas instrucciones buscan evitar que se cuestionara la autoridad establecida por Jehová durante las reuniones. Se enfatiza el orden y el respeto para que 'todo se haga con decencia y por acuerdo', protegiendo así la unidad de la congregación.",
+        "shortAnswer": "Las instrucciones de Pablo son para mantener el orden teocrático, no para limitar el privilegio de predicar."
       },
       {
         "id": "6A_q15",
@@ -2165,68 +2247,78 @@ const lessonsData = [
         "shortAnswer": "El cabeza cuida a su familia, mientras que los ancianos cuidan a toda la congregación."
       },
       {
-        "id": "6A_q19_a",
-        "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando ora en voz alta en su nombre y en el de sus hijos no bautizados delante de su esposo no creyente. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
+        "id": "6A_q19",
+        "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza en cada una de estas situaciones (w21.02 pág. 16, recuadro; w15 15/2 pág. 30):",
         "references": "w09 15/11 pág. 13",
-        "directAnswer": "No es necesario que la cristiana se cubra la cabeza en esta situación, ya que ella está orando ante su familia en el marco de sus responsabilidades naturales como madre, y el esposo no es un siervo de Jehová que lidere el culto familiar.",
-        "deepAnswer": "La cristiana tiene la responsabilidad de educar a sus hijos en el camino de Jehová. Al orar con sus hijos no bautizados, ejerce su papel materno. Aunque su esposo no sea creyente, esto no invalida el papel de la madre ante sus hijos. Como no está realizando una labor que le corresponda a un varón dedicado en la congregación, no se requiere la cobertura.",
-        "shortAnswer": "No es necesario, pues ejerce su papel como madre ante sus hijos menores."
-      },
-      {
-        "id": "6A_q19_b",
-        "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando le da clases de la Biblia a su hijo bautizado cuando no está presente su esposo. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-        "references": "w09 15/11 pág. 13",
-        "directAnswer": "No es necesario que la hermana se cubra la cabeza, ya que es la madre instruyendo a su propio hijo, una labor que le corresponde por su papel parental.",
-        "deepAnswer": "El principio de jefatura en la congregación no anula la autoridad de los padres sobre sus hijos. Cuando una madre enseña a su hijo, está cumpliendo el mandato bíblico de instruir a su descendencia. Aunque el hijo esté bautizado, la relación sigue siendo la de madre e hijo, por lo tanto, no se requiere el uso de la cobertura.",
-        "shortAnswer": "No es necesario, ya que la madre tiene la responsabilidad dada por Dios de instruir a sus hijos."
-      },
-      {
-        "id": "6A_q19_c",
-        "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando predica de casa en casa y hace revisitas acompañada de un hermano bautizado. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-        "references": "w09 15/11 pág. 13",
-        "directAnswer": "No es necesario que se cubra la cabeza. La predicación es una actividad en la que tanto varones como mujeres participan por igual, y la presencia del hermano no cambia la naturaleza de la actividad ministerial.",
-        "deepAnswer": "Al predicar de casa en casa, la hermana está realizando el ministerio cristiano junto a un hermano. En esta labor no se está realizando una función de jefatura, sino un servicio compartido. Por lo tanto, no se aplica el principio del uso de cobertura que se reserva para situaciones donde la mujer toma el lugar que le correspondería a un varón en la congregación.",
-        "shortAnswer": "No es necesario, ya que ambos están realizando la labor de predicar el Reino."
-      },
-      {
-        "id": "6A_q19_d",
-        "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando dirige un curso bíblico ya establecido en presencia de un hermano bautizado. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-        "references": "w09 15/11 pág. 13",
-        "directAnswer": "Sí, la hermana debe cubrirse la cabeza al dirigir el curso bíblico en presencia de un varón bautizado.",
-        "deepAnswer": "Al dirigir un curso bíblico mientras un varón bautizado está presente, la hermana está asumiendo una responsabilidad de enseñanza que normalmente recaería en el hermano. El uso de la cobertura reconoce simbólicamente que ella realiza esta función debido a una circunstancia particular, manteniendo el respeto al principio de jefatura divina.",
-        "shortAnswer": "Sí, para demostrar respeto por el orden de jefatura, ya que un hermano bautizado está presente."
-      },
-      {
-        "id": "6A_q19_e",
-        "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando dirige una reunión para el servicio del campo que organiza la congregación. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-        "references": "w09 15/11 pág. 13",
-        "directAnswer": "Sí, debe cubrirse la cabeza, ya que está realizando una labor que le corresponde organizar y dirigir a un varón bautizado.",
-        "deepAnswer": "Dirigir una reunión para el servicio del campo es una función teocrática de supervisión que normalmente realiza un varón. Si no hay varones disponibles y la hermana es asignada para dirigirla, debe usar una cobertura para indicar que está cumpliendo temporalmente una función que, bajo circunstancias normales, sería responsabilidad de un varón.",
-        "shortAnswer": "Sí, porque dirige una actividad que es responsabilidad habitual de los varones bautizados."
-      },
-      {
-        "id": "6A_q19_f",
-        "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando interpreta oralmente un discurso bíblico o lee en público los párrafos de una publicación durante una reunión de la congregación. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-        "references": "w09 15/11 pág. 13",
-        "directAnswer": "Sí, debe cubrirse la cabeza, ya que está ayudando a llevar a cabo la enseñanza en la congregación, una labor que corresponde a los varones.",
-        "deepAnswer": "Al actuar como intérprete o lectora durante una reunión, la hermana está facilitando la enseñanza directa a la congregación. Como esta función de enseñanza es una responsabilidad delegada a los varones, el uso de la cobertura actúa como una señal de sujeción al orden de jefatura establecido por Dios en la congregación.",
-        "shortAnswer": "Sí, ya que realiza una función de enseñanza que le corresponde a un varón en la reunión."
-      },
-      {
-        "id": "6A_q19_g",
-        "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando interpreta discursos bíblicos al lenguaje de señas en las reuniones o asambleas cristianas. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-        "references": "w09 15/11 pág. 13",
-        "directAnswer": "Sí, la hermana debe cubrirse la cabeza al interpretar discursos, ya que está participando activamente en la enseñanza pública de la congregación.",
-        "deepAnswer": "La interpretación al lenguaje de señas en este contexto es una extensión de la enseñanza del discurso. Dado que el orador es un varón y la hermana está facilitando su mensaje para los sordos, ella se convierte en parte del equipo de enseñanza. Para mantener el orden teocrático y el respeto a la jefatura, es necesario el uso de la cobertura.",
-        "shortAnswer": "Sí, para demostrar respeto a la jefatura mientras actúa como parte del proceso de enseñanza."
-      },
-      {
-        "id": "6A_q19_h",
-        "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando interpreta al lenguaje de señas asignaciones de la reunión de entre semana, el Estudio de La Atalaya y las canciones del Reino. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-        "references": "w09 15/11 pág. 13",
-        "directAnswer": "Sí, debe cubrirse la cabeza al interpretar las asignaciones de la reunión y el Estudio de La Atalaya. No es necesario al interpretar las canciones.",
-        "deepAnswer": "La interpretación de las partes de enseñanza, como el Estudio de La Atalaya o las asignaciones de la reunión de entre semana, requiere que la hermana se cubra la cabeza porque está participando en la enseñanza formal. Sin embargo, al interpretar las canciones, la función es de acompañamiento en la adoración, lo cual no constituye una función de enseñanza formal sobre la congregación.",
-        "shortAnswer": "Sí para las partes de enseñanza, pero no es necesario para la interpretación de las canciones."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "6A_q19_a",
+            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando ora en voz alta en su nombre y en el de sus hijos no bautizados delante de su esposo no creyente. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
+            "references": "w09 15/11 pág. 13",
+            "directAnswer": "No es necesario que la cristiana se cubra la cabeza en esta situación, ya que ella está orando ante su familia en el marco de sus responsabilidades naturales como madre, y el esposo no es un siervo de Jehová que lidere el culto familiar.",
+            "deepAnswer": "La cristiana tiene la responsabilidad de educar a sus hijos en el camino de Jehová. Al orar con sus hijos no bautizados, ejerce su papel materno. Aunque su esposo no sea creyente, esto no invalida el papel de la madre ante sus hijos. Como no está realizando una labor que le corresponda a un varón dedicado en la congregación, no se requiere la cobertura.",
+            "shortAnswer": "No es necesario, pues ejerce su papel como madre ante sus hijos menores."
+          },
+          {
+            "id": "6A_q19_b",
+            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando le da clases de la Biblia a su hijo bautizado cuando no está presente su esposo. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
+            "references": "w09 15/11 pág. 13",
+            "directAnswer": "No es necesario que la hermana se cubra la cabeza, ya que es la madre instruyendo a su propio hijo, una labor que le corresponde por su papel parental.",
+            "deepAnswer": "El principio de jefatura en la congregación no anula la autoridad de los padres sobre sus hijos. Cuando una madre enseña a su hijo, está cumpliendo el mandato bíblico de instruir a su descendencia. Aunque el hijo esté bautizado, la relación sigue siendo la de madre e hijo, por lo tanto, no se requiere el uso de la cobertura.",
+            "shortAnswer": "No es necesario, ya que la madre tiene la responsabilidad dada por Dios de instruir a sus hijos."
+          },
+          {
+            "id": "6A_q19_c",
+            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando predica de casa en casa y hace revisitas acompañada de un hermano bautizado. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
+            "references": "w09 15/11 pág. 13",
+            "directAnswer": "No es necesario que se cubra la cabeza. La predicación es una actividad en la que tanto varones como mujeres participan por igual, y la presencia del hermano no cambia la naturaleza de la actividad ministerial.",
+            "deepAnswer": "Al predicar de casa en casa, la hermana está realizando el ministerio cristiano junto a un hermano. En esta labor no se está realizando una función de jefatura, sino un servicio compartido. Por lo tanto, no se aplica el principio del uso de cobertura que se reserva para situaciones donde la mujer toma el lugar que le correspondería a un varón en la congregación.",
+            "shortAnswer": "No es necesario, ya que ambos están realizando la labor de predicar el Reino."
+          },
+          {
+            "id": "6A_q19_d",
+            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando dirige un curso bíblico ya establecido en presencia de un hermano bautizado. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
+            "references": "w09 15/11 pág. 13",
+            "directAnswer": "Sí, la hermana debe cubrirse la cabeza al dirigir el curso bíblico en presencia de un varón bautizado.",
+            "deepAnswer": "Al dirigir un curso bíblico mientras un varón bautizado está presente, la hermana está asumiendo una responsabilidad de enseñanza que normalmente recaería en el hermano. El uso de la cobertura reconoce simbólicamente que ella realiza esta función debido a una circunstancia particular, manteniendo el respeto al principio de jefatura divina.",
+            "shortAnswer": "Sí, para demostrar respeto por el orden de jefatura, ya que un hermano bautizado está presente."
+          },
+          {
+            "id": "6A_q19_e",
+            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando dirige una reunión para el servicio del campo que organiza la congregación. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
+            "references": "w09 15/11 pág. 13",
+            "directAnswer": "Sí, debe cubrirse la cabeza, ya que está realizando una labor que le corresponde organizar y dirigir a un varón bautizado.",
+            "deepAnswer": "Dirigir una reunión para el servicio del campo es una función teocrática de supervisión que normalmente realiza un varón. Si no hay varones disponibles y la hermana es asignada para dirigirla, debe usar una cobertura para indicar que está cumpliendo temporalmente una función que, bajo circunstancias normales, sería responsabilidad de un varón.",
+            "shortAnswer": "Sí, porque dirige una actividad que es responsabilidad habitual de los varones bautizados."
+          },
+          {
+            "id": "6A_q19_f",
+            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando interpreta oralmente un discurso bíblico o lee en público los párrafos de una publicación durante una reunión de la congregación. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
+            "references": "w09 15/11 pág. 13",
+            "directAnswer": "Sí, debe cubrirse la cabeza, ya que está ayudando a llevar a cabo la enseñanza en la congregación, una labor que corresponde a los varones.",
+            "deepAnswer": "Al actuar como intérprete o lectora durante una reunión, la hermana está facilitando la enseñanza directa a la congregación. Como esta función de enseñanza es una responsabilidad delegada a los varones, el uso de la cobertura actúa como una señal de sujeción al orden de jefatura establecido por Dios en la congregación.",
+            "shortAnswer": "Sí, ya que realiza una función de enseñanza que le corresponde a un varón en la reunión."
+          },
+          {
+            "id": "6A_q19_g",
+            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando interpreta discursos bíblicos al lenguaje de señas en las reuniones o asambleas cristianas. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
+            "references": "w09 15/11 pág. 13",
+            "directAnswer": "Sí, la hermana debe cubrirse la cabeza al interpretar discursos, ya que está participando activamente en la enseñanza pública de la congregación.",
+            "deepAnswer": "La interpretación al lenguaje de señas en este contexto es una extensión de la enseñanza del discurso. Dado que el orador es un varón y la hermana está facilitando su mensaje para los sordos, ella se convierte en parte del equipo de enseñanza. Para mantener el orden teocrático y el respeto a la jefatura, es necesario el uso de la cobertura.",
+            "shortAnswer": "Sí, para demostrar respeto a la jefatura mientras actúa como parte del proceso de enseñanza."
+          },
+          {
+            "id": "6A_q19_h",
+            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando interpreta al lenguaje de señas asignaciones de la reunión de entre semana, el Estudio de La Atalaya y las canciones del Reino. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
+            "references": "w09 15/11 pág. 13",
+            "directAnswer": "Sí, debe cubrirse la cabeza al interpretar las asignaciones de la reunión y el Estudio de La Atalaya. No es necesario al interpretar las canciones.",
+            "deepAnswer": "La interpretación de las partes de enseñanza, como el Estudio de La Atalaya o las asignaciones de la reunión de entre semana, requiere que la hermana se cubra la cabeza porque está participando en la enseñanza formal. Sin embargo, al interpretar las canciones, la función es de acompañamiento en la adoración, lo cual no constituye una función de enseñanza formal sobre la congregación.",
+            "shortAnswer": "Sí para las partes de enseñanza, pero no es necesario para la interpretación de las canciones."
+          }
+        ]
       },
       {
         "id": "6A_q20",
@@ -2523,28 +2615,38 @@ const lessonsData = [
         "shortAnswer": "Jesús usa a los pastores nombrados para dirigir y guiar a los cristianos."
       },
       {
-        "id": "7A_q9_a",
-        "question": "¿Cómo hace esto el esclavo fiel a través de los Comités de Sucursal?",
+        "id": "7A_q9",
+        "question": "¿Cómo hace esto a través de...",
         "references": "",
-        "directAnswer": "El esclavo fiel utiliza a los Comités de Sucursal para supervisar las actividades teocráticas en grandes territorios y asegurar que sus directrices se cumplan correctamente.",
-        "deepAnswer": "El esclavo fiel y prudente organiza la obra de predicación a escala global. Los <strong>Comités de Sucursal</strong> actúan como los brazos ejecutores que supervisan el trabajo en los territorios bajo su cuidado. Al coordinar las actividades teocráticas y velar por el cumplimiento de las directrices espirituales, aseguran que los precursores reciban el alimento y la guía necesaria para cumplir con su ministerio de forma eficaz.",
-        "shortAnswer": "A través de los Comités de Sucursal, el esclavo fiel supervisa las actividades teocráticas y asegura que se sigan sus instrucciones en grandes territorios."
-      },
-      {
-        "id": "7A_q9_b",
-        "question": "¿Cómo hace esto el esclavo fiel a través de los superintendentes viajantes?",
-        "references": "",
-        "directAnswer": "Los superintendentes viajantes visitan las congregaciones para transmitir la guía del esclavo fiel y ofrecer capacitación personal a los precursores.",
-        "deepAnswer": "Los <strong>superintendentes viajantes</strong> desempeñan un papel fundamental en el pastoreo del pueblo de Jehová. Al visitar las congregaciones, no solo transmiten las últimas instrucciones provenientes del esclavo fiel, sino que también ofrecen capacitación práctica y apoyo personal a los precursores. Su labor ayuda a fortalecer el ánimo de los siervos de tiempo completo y asegura que las directrices se apliquen con entendimiento en el campo.",
-        "shortAnswer": "Los superintendentes viajantes transmiten la guía del esclavo fiel y capacitan personalmente a los precursores durante sus visitas a las congregaciones."
-      },
-      {
-        "id": "7A_q9_c",
-        "question": "¿Cómo hace esto el esclavo fiel a través de los ancianos de la congregación?",
-        "references": "",
-        "directAnswer": "Los ancianos de la congregación aplican las instrucciones del esclavo fiel a nivel local, brindando apoyo constante y directo a los precursores en su asignación.",
-        "deepAnswer": "Los <strong>ancianos de la congregación</strong> son los pastores que cuidan del rebaño a nivel local. Ellos son el punto de contacto más directo con los precursores. Se aseguran de que las instrucciones del esclavo fiel sean comprendidas y puestas en práctica, adaptándolas a las necesidades específicas de la congregación y del territorio. Su supervisión amorosa y constante es esencial para que cada precursor reciba la atención y el apoyo necesarios para perseverar en su ministerio.",
-        "shortAnswer": "Los ancianos aplican las instrucciones del esclavo fiel en la congregación, apoyando directamente a los precursores en su labor diaria."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "7A_q9_a",
+            "question": "¿Cómo hace esto el esclavo fiel a través de los Comités de Sucursal?",
+            "references": "",
+            "directAnswer": "El esclavo fiel utiliza a los Comités de Sucursal para supervisar las actividades teocráticas en grandes territorios y asegurar que sus directrices se cumplan correctamente.",
+            "deepAnswer": "El esclavo fiel y prudente organiza la obra de predicación a escala global. Los <strong>Comités de Sucursal</strong> actúan como los brazos ejecutores que supervisan el trabajo en los territorios bajo su cuidado. Al coordinar las actividades teocráticas y velar por el cumplimiento de las directrices espirituales, aseguran que los precursores reciban el alimento y la guía necesaria para cumplir con su ministerio de forma eficaz.",
+            "shortAnswer": "A través de los Comités de Sucursal, el esclavo fiel supervisa las actividades teocráticas y asegura que se sigan sus instrucciones en grandes territorios."
+          },
+          {
+            "id": "7A_q9_b",
+            "question": "¿Cómo hace esto el esclavo fiel a través de los superintendentes viajantes?",
+            "references": "",
+            "directAnswer": "Los superintendentes viajantes visitan las congregaciones para transmitir la guía del esclavo fiel y ofrecer capacitación personal a los precursores.",
+            "deepAnswer": "Los <strong>superintendentes viajantes</strong> desempeñan un papel fundamental en el pastoreo del pueblo de Jehová. Al visitar las congregaciones, no solo transmiten las últimas instrucciones provenientes del esclavo fiel, sino que también ofrecen capacitación práctica y apoyo personal a los precursores. Su labor ayuda a fortalecer el ánimo de los siervos de tiempo completo y asegura que las directrices se apliquen con entendimiento en el campo.",
+            "shortAnswer": "Los superintendentes viajantes transmiten la guía del esclavo fiel y capacitan personalmente a los precursores durante sus visitas a las congregaciones."
+          },
+          {
+            "id": "7A_q9_c",
+            "question": "¿Cómo hace esto el esclavo fiel a través de los ancianos de la congregación?",
+            "references": "",
+            "directAnswer": "Los ancianos de la congregación aplican las instrucciones del esclavo fiel a nivel local, brindando apoyo constante y directo a los precursores en su asignación.",
+            "deepAnswer": "Los <strong>ancianos de la congregación</strong> son los pastores que cuidan del rebaño a nivel local. Ellos son el punto de contacto más directo con los precursores. Se aseguran de que las instrucciones del esclavo fiel sean comprendidas y puestas en práctica, adaptándolas a las necesidades específicas de la congregación y del territorio. Su supervisión amorosa y constante es esencial para que cada precursor reciba la atención y el apoyo necesarios para perseverar en su ministerio.",
+            "shortAnswer": "Los ancianos aplican las instrucciones del esclavo fiel en la congregación, apoyando directamente a los precursores en su labor diaria."
+          }
+        ]
       },
       {
         "id": "7A_q10",
@@ -2723,36 +2825,12 @@ const lessonsData = [
         "shortAnswer": "Presta atención y aplica los consejos del superintendente de circuito."
       },
       {
-        "id": "7A_q32_a",
-        "question": "¿Cómo puedes aprovechar al máximo la reunión que se celebra durante la visita del superintendente de circuito siendo precursor?",
+        "id": "7A_q32",
+        "question": "¿Cómo puedes aprovechar al máximo estas ayudas que se han preparado para los precursores? ˙ La reunión que se celebra durante la visita del superintendente de circuito. ˙ La reunión anual con los ancianos de la congregación en diciembre o enero. ˙ La reunión que se celebra antes o después de la asamblea de circuito. ˙ La Escuela del Servicio de Precursor.",
         "references": "",
-        "directAnswer": "Puedes aprovechar esta reunión asistiendo con la disposición de recibir guía teocrática, prestando atención a los consejos prácticos del superintendente y esforzándote por aplicar sus sugerencias para mejorar en tu ministerio.",
-        "deepAnswer": "La visita del superintendente de circuito es una excelente oportunidad para recibir ánimo y guía. Como precursor, tu meta al asistir a esta reunión específica debe ser evaluar tu propio servicio a la luz de los recordatorios bíblicos que se comparten. Al tomar nota de los consejos, no solo te beneficias personalmente, sino que refuerzas tu resolución de mantener el enfoque en la predicación y en tu vida espiritual.",
-        "shortAnswer": "Asiste con disposición, presta atención a los consejos y aplícalos en tu ministerio."
-      },
-      {
-        "id": "7A_q32_b",
-        "question": "¿Cómo puedes aprovechar al máximo la reunión anual con los ancianos de la congregación en diciembre o enero siendo precursor?",
-        "references": "",
-        "directAnswer": "Aprovechas esta reunión al asistir preparado para conversar con los ancianos sobre tus metas, escuchar sus sugerencias pastorales y dejarte guiar por su interés en tu bienestar espiritual.",
-        "deepAnswer": "La reunión anual con los ancianos es una provisión amorosa para que los precursores reciban apoyo específico. En este entorno, los ancianos pueden ofrecerte consejos adaptados a tus circunstancias personales. Aprovechar esta ayuda significa ser franco sobre tus retos y éxitos, demostrando humildad para aceptar la supervisión amorosa de quienes 'velan por tu alma' (Heb. 13:17).",
-        "shortAnswer": "Prepárate para discutir tus metas y acepta los consejos pastorales de los ancianos."
-      },
-      {
-        "id": "7A_q32_c",
-        "question": "¿Cómo puedes aprovechar al máximo la reunión que se celebra antes o después de la asamblea de circuito siendo precursor?",
-        "references": "",
-        "directAnswer": "Puedes aprovechar esta reunión al asistir con un espíritu receptivo para asimilar los recordatorios sobre la organización y las instrucciones actuales, utilizándolos para fortalecer tu entusiasmo en el ministerio.",
-        "deepAnswer": "Las reuniones antes o después de la asamblea son momentos clave para recibir directrices frescas del cuerpo gobernante o de la sucursal a través de los representantes del circuito. Como precursor, tu papel es ser un ejemplo de apoyo a estas instrucciones. Al aplicar diligentemente lo aprendido en estas reuniones, demuestras que valoras la unidad y la dirección teocrática que Jehová provee para organizar nuestra obra a nivel mundial.",
-        "shortAnswer": "Asimila las instrucciones actuales y utilízalas para fortalecer tu entusiasmo en el ministerio."
-      },
-      {
-        "id": "7A_q32_d",
-        "question": "¿Cómo puedes aprovechar al máximo la Escuela del Servicio de Precursor siendo precursor?",
-        "references": "",
-        "directAnswer": "Aprovechas esta Escuela asistiendo con un estudio profundo de los materiales previos, participando activamente en los ejercicios prácticos y comprometiéndote a implementar las técnicas de enseñanza mejoradas en tu servicio diario.",
-        "deepAnswer": "La Escuela del Servicio de Precursor es una provisión intensa y valiosa para refinar nuestras habilidades. Para aprovecharla al máximo, es vital llegar bien preparado espiritualmente. Durante la escuela, dedica tiempo a meditar en cómo los principios bíblicos analizados pueden ayudarte a tocar los corazones de las personas en tu territorio. Al aplicar las técnicas sugeridas, verás cómo aumenta tu confianza y gozo al predicar, convirtiéndote en un instrumento más útil para Jehová.",
-        "shortAnswer": "Prepárate bien, participa activamente e implementa las técnicas de enseñanza en tu servicio."
+        "directAnswer": "Aprovechamos al máximo estas ayudas al asistir con la actitud correcta, tomar notas y esforzarnos por poner en práctica las instrucciones recibidas.",
+        "deepAnswer": "Jehová ha provisto una rica variedad de ayudas para que los precursores mejoremos nuestro servicio, y es un gran privilegio contar con ellas. La reunión durante la visita del superintendente de circuito, la reunión anual con los ancianos, la reunión pre o post asamblea, y la Escuela del Servicio de Precursor, todas están diseñadas para fortalecer nuestra fe y capacidad. Nuestra responsabilidad es asistir con un corazón receptivo, tomar apuntes diligentes y, lo más importante, aplicar fielmente las sugerencias para progresar en nuestra asignación y glorificar a Jehová.",
+        "shortAnswer": "Asiste, toma notas y aplica las enseñanzas recibidas."
       }
     ],
     "image": "pioneer_studying.png",
@@ -2912,60 +2990,12 @@ const lessonsData = [
         "shortAnswer": "Jesucristo observa activamente a cada congregación y tiene el poder para mantenerla pura."
       },
       {
-        "id": "7B_q18_a",
-        "question": "¿Qué opina Jehová de la inmoralidad sexual? (Lev. 20:10, 13, 15, 16; Rom. 1:24, 26, 27, 32; 1 Cor. 6:9, 10; nwt pág. 1827).",
-        "references": "Lev. 20:10, 13, 15, 16; Rom. 1:24, 26, 27, 32; 1 Cor. 6:9, 10; nwt pág. 1827",
-        "directAnswer": "Jehová considera la inmoralidad sexual como un pecado grave que corrompe a la persona, destruye las relaciones sagradas y es motivo de exclusión del Reino de Dios.",
-        "deepAnswer": "Para Jehová, la inmoralidad sexual es una violación directa de su diseño original para el matrimonio y la pureza humana. En los textos mencionados, se enfatiza que estas prácticas son 'cosas vergonzosas' y 'actos contra la naturaleza'. Como señala la Biblia, quienes practican habitualmente estas conductas sin arrepentirse no heredarán el Reino de Dios. Jehová, en su amor, establece estas normas para protegernos emocional y espiritualmente, ya que estas conductas degradan la dignidad del ser humano.",
-        "shortAnswer": "Jehová aborrece la inmoralidad sexual por ser una transgresión de sus normas de santidad que excluye a la persona de su Reino."
-      },
-      {
-        "id": "7B_q18_b",
-        "question": "¿Qué opina Jehová de la apostasía? (Deut. 13:13, 15; 2 Cor. 6:14, 15, 17, 18; 2 Juan 7, 9, 10; Apoc. 18:4).",
-        "references": "Deut. 13:13, 15; 2 Cor. 6:14, 15, 17, 18; 2 Juan 7, 9, 10; Apoc. 18:4",
-        "directAnswer": "Jehová detesta la apostasía porque es una rebelión contra la verdad y contra Él mismo; nos manda a mantenernos separados de los apóstatas para no ser contaminados por sus enseñanzas corruptas.",
-        "deepAnswer": "La apostasía es un ataque directo a la soberanía de Jehová y a la pureza de la congregación. La Biblia es clara en su mandato de 'salirse' de entre ellos y no participar en sus obras infructuosas. Dios insta a sus siervos a evitar cualquier contacto que pueda debilitar su fe o comprometer su lealtad, recordándonos que la enseñanza falsa es como una gangrena que busca destruir el cuerpo espiritual de la congregación.",
-        "shortAnswer": "Jehová aborrece la apostasía como una forma de rebelión y exige que sus siervos se mantengan separados de quienes abandonan la verdad."
-      },
-      {
-        "id": "7B_q18_c",
-        "question": "¿Qué opina Jehová del aborto? (Éx. 21:22-25; Sal. 127:3; 139:14-16).",
-        "references": "Éx. 21:22-25; Sal. 127:3; 139:14-16",
-        "directAnswer": "Jehová valora la vida desde la concepción y considera el aborto como un desprecio al regalo divino de la vida, ya que el no nacido es una criatura que Él conoce y forma.",
-        "deepAnswer": "La Biblia establece que el ser humano es una 'obra maravillosa' desde antes de nacer. En Éxodo 21, se ve que, bajo la Ley de Moisés, quitar la vida a un feto tenía consecuencias legales serias, lo que demuestra que, a los ojos de Dios, la vida en el vientre tiene un valor incalculable. Por tanto, el aborto es una interrupción del propósito de Jehová y un acto que ignora la santidad de la vida que Él otorga.",
-        "shortAnswer": "Jehová ve la vida como sagrada desde su inicio, por lo que el aborto es una violación de sus leyes sobre la santidad de la vida."
-      },
-      {
-        "id": "7B_q18_d",
-        "question": "¿Qué opina Jehová de la mentira descarada y malintencionada y el testimonio falso? (Prov. 6:16, 19; Col. 3:9; Apoc. 22:15; it-2 pág. 368 párr. 4).",
-        "references": "Prov. 6:16, 19; Col. 3:9; Apoc. 22:15; it-2 pág. 368 párr. 4",
-        "directAnswer": "Jehová odia la mentira porque Él es el Dios de la verdad; las personas mentirosas y quienes dan falso testimonio se excluyen de su favor y de la vida eterna.",
-        "deepAnswer": "La mentira malintencionada es una de las 'siete cosas que detesta el alma de Jehová'. La falsedad destruye la confianza, daña a otros y es un reflejo de Satanás, quien es el 'padre de la mentira'. Aquellos que persisten en la deshonestidad no pueden tener una relación estrecha con Dios, pues su carácter es el opuesto directo a la honestidad y veracidad que Jehová requiere de sus siervos.",
-        "shortAnswer": "Jehová aborrece la mentira porque es contraria a su naturaleza, y advierte que los mentirosos no pueden disfrutar de su bendición."
-      },
-      {
-        "id": "7B_q18_e",
-        "question": "¿Qué opina Jehová del maltrato verbal y la calumnia? (Lev. 19:16; 1 Cor. 6:10; it-1 pág. 473 párr. 4).",
-        "references": "Lev. 19:16; 1 Cor. 6:10; it-1 pág. 473 párr. 4",
-        "directAnswer": "Jehová condena severamente el maltrato verbal y la calumnia porque son armas destructivas que dañan la reputación de otros y rompen la paz en la congregación.",
-        "deepAnswer": "La calumnia es una forma de odio que Jehová desaprueba tajantemente. Al igual que con la borrachera o la inmoralidad, el apóstol Pablo incluye a los 'difamadores' entre los que no heredarán el Reino de Dios. Jehová espera que sus siervos utilicen el don del habla para edificar y no para herir, ya que las palabras maliciosas son un reflejo de un corazón que no ha aprendido a amar al prójimo como a sí mismo.",
-        "shortAnswer": "Jehová rechaza el maltrato verbal y la calumnia porque considera que estas acciones son pecados graves que destruyen la armonía de su pueblo."
-      },
-      {
-        "id": "7B_q18_f",
-        "question": "¿Qué opina Jehová de la impureza y la conducta descarada? (2 Cor. 12:21; Gál. 5:19; Efes. 4:18, 19; 2 Ped. 2:7; nwt pág. 1820; w12 15/3 págs. 30, 31).",
-        "references": "2 Cor. 12:21; Gál. 5:19; Efes. 4:18, 19; 2 Ped. 2:7; nwt pág. 1820; w12 15/3 págs. 30, 31",
-        "directAnswer": "Jehová exige que sus siervos sean santos en toda su conducta; la impureza y la conducta descarada muestran una falta de respeto por las normas de Dios y una actitud cínica hacia su autoridad.",
-        "deepAnswer": "La 'conducta descarada' (o desenfreno) implica una actitud desafiante y una falta de respeto total por las leyes y principios de Dios. Jehová se siente profundamente ofendido cuando alguien se entrega a la impureza, ya que esto degrada la conciencia y cauteriza el corazón. La Biblia nos exhorta a evitar estos caminos para mantenernos limpios y aptos para el servicio sagrado.",
-        "shortAnswer": "Jehová aborrece la impureza y la conducta descarada porque son una muestra de falta de respeto por su santidad y su guía amorosa."
-      },
-      {
-        "id": "7B_q18_g",
-        "question": "¿Qué opina Jehová de la borrachera y, si ves o te enteras de que alguien del pueblo de Jehová ha cometido un pecado grave, por qué no debes quedarte callado? (1 Cor. 5:11; 6:9, 10).",
-        "references": "1 Cor. 5:11; 6:9, 10",
-        "directAnswer": "Jehová considera la borrachera como una práctica que impide entrar en su Reino. Si te enteras de un pecado grave, no debes quedarte callado por amor a Jehová, al pecador y para proteger la limpieza de la congregación.",
-        "deepAnswer": "La borrachera priva a la persona del autocontrol y la lleva a cometer otros pecados, lo cual es incompatible con la adoración pura. En cuanto a no quedar callado ante un pecado grave, el principio bíblico nos enseña que el silencio cómplice puede perjudicar tanto al pecador (al permitirle seguir en su error) como a la congregación (al contaminarla). Actuar informando a los ancianos es una muestra de lealtad a Jehová y de verdadero amor, pues ayuda a la persona a buscar el arrepentimiento y la curación espiritual necesaria.",
-        "shortAnswer": "Jehová prohíbe la borrachera, y al reportar pecados graves, demostramos que amamos a Jehová y deseamos que la congregación se mantenga limpia."
+        "id": "7B_q18",
+        "question": "¿Qué opina Jehová de... ˙ ... la inmoralidad sexual? (Lev. 20:10, 13, 15, 16; Rom.1:24, 26, 27, 32; 1 Cor. 6:9, 10; nwt pág. 1827). ˙ ... la apostasía? (Deut. 13:13, 15; 2 Cor. 6:14, 15, 17, 18; 2 Juan 7, 9, 10; Apoc. 18:4). ˙ ... el aborto? (Éx. 21:22-25; Sal. 127:3; 139:14-16). ˙ ... la mentira descarada y malintencionada y el testimonio falso? (Prov. 6:16, 19; Col. 3:9; Apoc. 22:15; it-2 pág. 368 párr. 4). ˙ ... el maltrato verbal y la calumnia? (Lev. 19:16; 1 Cor. 6:10; it-1 pág. 473 párr. 4). ˙ ... la impureza y la conducta descarada? (2 Cor. 12:21; Gál. 5:19; Efes. 4:18, 19; 2 Ped. 2:7; nwt pág. 1820; w12 15/3 págs. 30, 31). ˙ ... la borrachera? (1 Cor. 5:11; 6:9, 10). Si ves o te enteras de que alguien del pueblo de Jehová ha cometido un pecado grave, ¿por qué no debes quedarte callado?",
+        "references": "",
+        "directAnswer": "Jehová aborrece profundamente estas prácticas pecaminosas porque violan sus justas normas, corrompen a las personas y empañan la santidad de su santo nombre.",
+        "deepAnswer": "A través de toda la Biblia, Jehová deja en claro que detesta la inmoralidad sexual (<strong>Levítico 20:10</strong>), la apostasía, el aborto y la mentira, pues reflejan la rebelión satánica. Si un precursor llega a saber de un pecado grave de este tipo dentro de la congregación, su amor a Jehová y al pecador lo obligará a actuar con prontitud para proteger la limpieza del pueblo de Dios, animando al implicado a buscar la ayuda de los ancianos o informándoles directamente a ellos si fuera necesario.",
+        "shortAnswer": "Jehová exige santidad absoluta de su pueblo y aborrece cualquier conducta que contamine la pureza de su congregación."
       },
       {
         "id": "7B_q19",
@@ -3061,28 +3091,12 @@ const lessonsData = [
         "shortAnswer": "Implica mantenerse separado de los asuntos políticos y militares de este sistema, apoyando únicamente al Reino de Dios."
       },
       {
-        "id": "8A_q4_a",
-        "question": "¿Cómo han sido neutrales los cristianos verdaderos al enfrentar el tema de las guerras? (Is. 2:4)",
-        "references": "Is. 2:4",
-        "directAnswer": "Los cristianos verdaderos demuestran su neutralidad en las guerras al cumplir la profecía de Isaías 2:4, negándose a aprender a guerrear y transformando sus espadas en arados.",
-        "deepAnswer": "Seguimos el mandato bíblico de <strong>Isaías 2:4</strong>, el cual nos exhorta a no aprender más la guerra. Al mantenernos neutrales, rechazamos participar en conflictos armados internacionales o guerras civiles, reconociendo que nuestra lealtad principal pertenece al Reino de Dios. Esto implica que, aunque vivamos bajo distintos gobiernos, no tomamos partido en sus conflictos militares ni apoyamos la violencia como medio para resolver problemas entre naciones.",
-        "shortAnswer": "Rechazamos la violencia militar y nos negamos a participar en guerras, cumpliendo el mandato de Isaías 2:4."
-      },
-      {
-        "id": "8A_q4_b",
-        "question": "¿Cómo han sido neutrales los cristianos verdaderos en cuanto a la política y las votaciones? (w21.05 pág. 7 párr. 19; w16.04 pág. 29 párrs. 9, 10)",
-        "references": "w21.05 pág. 7 párr. 19; w16.04 pág. 29 párrs. 9, 10",
-        "directAnswer": "Los cristianos verdaderos demuestran neutralidad al abstenerse por completo de participar en la política, los procesos electorales y la búsqueda de cargos públicos, confiando plenamente en el Reino de Dios.",
-        "deepAnswer": "Reconocemos que nuestro Rey es Jesucristo y que su Reino no es parte de este mundo. Por lo tanto, nos abstenemos estrictamente de participar en votaciones, campañas políticas o cualquier actividad que busque cambiar los gobiernos humanos. Como se destaca en las publicaciones de la organización (<strong>w21.05 pág. 7 párr. 19; w16.04 pág. 29 párrs. 9, 10</strong>), nuestra neutralidad no es una muestra de desinterés, sino de lealtad total a la soberanía de Jehová.",
-        "shortAnswer": "Nos mantenemos al margen de la política y las votaciones para ser leales únicamente al Reino de Dios."
-      },
-      {
-        "id": "8A_q4_c",
-        "question": "¿Cómo han sido neutrales los cristianos verdaderos respecto a las banderas, los símbolos patrios y los himnos nacionales? (1 Juan 5:21)",
+        "id": "8A_q4",
+        "question": "¿Cómo han sido neutrales los cristianos verdaderos en los siguientes campos? ˙ Las guerras (Is. 2:4). ˙ La política y las votaciones (w21.05 pág. 7 párr. 19; w16.04 pág. 29 párrs. 9, 10). ˙ Las banderas, los símbolos patrios y los himnos nacionales.",
         "references": "1 Juan 5:21",
-        "directAnswer": "Los cristianos verdaderos muestran neutralidad al negarse a rendir actos de devoción o adoración a banderas, símbolos patrios e himnos nacionales, obedeciendo la orden bíblica de guardarse de los ídolos.",
-        "deepAnswer": "La Biblia nos instruye en <strong>1 Juan 5:21</strong> a guardarnos de los ídolos. Aunque respetamos las leyes del país donde vivimos, no participamos en ceremonias que involucren banderas, himnos o juramentos de lealtad, ya que estos actos son formas de adoración nacionalista. Mantenemos una postura respetuosa pero firme, negándonos a realizar gestos de devoción que solo le corresponden a nuestro Creador, Jehová Dios.",
-        "shortAnswer": "Evitamos cualquier acto de devoción hacia símbolos patrios, guardándonos de la idolatría nacionalista."
+        "directAnswer": "Los cristianos verdaderos demuestran neutralidad al negarse a participar en la guerra, abstenerse por completo de la política y rehusar rendir adoración o tributo a símbolos patrios.",
+        "deepAnswer": "En el campo de los conflictos armados, cumplimos <strong>Isaías 2:4</strong> al transformar las espadas en arados y negarnos a aprender a guerrear. Respecto a la política y votaciones, reconocemos que no somos parte del mundo, por lo que nos abstenemos de votar o buscar cargos públicos, confiando únicamente en el Reino de Dios. Finalmente, en relación con las banderas y los himnos, obedecemos la advertencia de <strong>1 Juan 5:21</strong> de guardarnos de los ídolos, por lo que respetamos cortésmente las costumbres nacionales pero rehusamos rendirles actos de devoción o adoración que solo le corresponden a Jehová.",
+        "shortAnswer": "Somos neutrales al rechazar la violencia militar, la participación política y los actos nacionalistas de devoción."
       },
       {
         "id": "8A_q5",
@@ -3149,36 +3163,28 @@ const lessonsData = [
         "shortAnswer": ""
       },
       {
-        "id": "8A_q13_a",
-        "question": "¿Cuál fue la actitud de Jesús hacia la política? (Juan 18:36)",
+        "id": "8A_q13",
+        "question": "˙ ¿Cuál fue la actitud de Jesús hacia la política?",
         "references": "Juan 18:36",
-        "directAnswer": "Jesús mantuvo una postura de absoluta neutralidad política; declaró abiertamente que su Reino no era parte de este mundo y, por lo tanto, sus seguidores no debían involucrarse en las contiendas políticas de las naciones.",
-        "deepAnswer": "<p>Cuando Jesús fue interrogado por Poncio Pilato, dejó claro el fundamento de su posición: <b>'Mi reino no es parte de este mundo'</b> (Juan 18:36). Esta declaración no fue una evasiva, sino una confirmación de su lealtad suprema al Reino de Dios.</p><p>Jesús demostró su actitud hacia la política de las siguientes maneras:</p><ul><li><b>Rechazo a la autoridad política terrenal:</b> Aunque fue tentado para involucrarse en asuntos políticos y sociales de su época, nunca buscó cargos públicos ni apoyó a ningún movimiento revolucionario.</li><li><b>Enfoque espiritual:</b> Jesús sabía que la solución a los problemas humanos no reside en los gobiernos humanos, sino en el Reino de Dios. Su labor principal fue 'dar testimonio de la verdad' (Juan 18:37).</li><li><b>Neutralidad cristiana:</b> Al seguir sus pasos, sus discípulos entienden que formar parte del Reino de Dios implica mantenerse neutrales en los conflictos políticos, manteniendo una lealtad exclusiva a la soberanía de Jehová.</li></ul>",
-        "shortAnswer": "Jesús se mantuvo neutral porque su lealtad estaba puesta exclusivamente en el Reino de Dios, el cual no es parte de este sistema de cosas."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": ""
       },
       {
-        "id": "8A_q14_a",
-        "question": "¿Qué les dijo Jesús a sus seguidores sobre la obediencia a César? (Mat. 22:21)",
+        "id": "8A_q14",
+        "question": "˙ ¿Qué les dijo Jesús a sus seguidores sobre la obediencia a César?",
         "references": "Mat. 22:21",
-        "directAnswer": "Jesús enseñó que debemos pagar a César lo que es de César, pero también dar a Dios lo que es de Dios.",
-        "deepAnswer": "<p>Al responder a quienes intentaban atraparlo con una pregunta sobre el pago de impuestos, Jesús estableció un principio fundamental para sus seguidores. Él dijo: “Paguen, pues, a César lo que es de César, pero a Dios lo que es de Dios” (Mat. 22:21).</p><p>Esto significa que los cristianos reconocen la autoridad relativa de los gobiernos humanos (César) y cumplen con sus deberes cívicos —como el pago de impuestos y el respeto a las leyes—, siempre y cuando estas no exijan desobedecer la ley de Dios. Sin embargo, cuando las exigencias de un gobierno entran en conflicto directo con los mandatos divinos, la prioridad absoluta es obedecer a Dios antes que a los hombres.</p>",
-        "shortAnswer": "Jesús enseñó que debemos cumplir con nuestras obligaciones hacia el gobierno, pero manteniendo siempre nuestra prioridad y lealtad absoluta hacia Dios."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": ""
       },
       {
-        "id": "8A_q15_a",
-        "question": "¿Qué les dijo Pablo a los cristianos sobre la obediencia a los gobernantes? (Rom. 13:1, 7; Tito 3:1, 2)",
-        "references": "Rom. 13:1, 7; Tito 3:1, 2",
-        "directAnswer": "Pablo enseñó que los cristianos deben estar en sujeción a las autoridades superiores, pues estas ocupan sus puestos relativos por mandato divino, y deben cumplir con sus obligaciones cívicas, como pagar impuestos y mostrar honra.",
-        "deepAnswer": "<p>En Romanos 13:1 y 7, el apóstol Pablo subraya que las autoridades gubernamentales son toleradas por Dios para mantener el orden social, por lo que los cristianos deben mostrarles sujeción. Esto incluye cumplir con deberes civiles, como el pago de impuestos, y tratar a los representantes del Estado con la honra que su puesto requiere.</p><p>Asimismo, en Tito 3:1 y 2, Pablo enfatiza que los cristianos deben ser razonables, no hablar mal de nadie y evitar conflictos, manifestando una conducta ejemplar y pacífica hacia todas las personas, independientemente de sus cargos. Esta obediencia refleja nuestro respeto por la organización que Jehová permite que exista para la administración de la justicia terrenal.</p>",
-        "shortAnswer": "Debemos estar sujetos a las autoridades, pagar lo que se debe (impuestos, honra) y mantener una conducta pacífica y respetuosa hacia todos."
-      },
-      {
-        "id": "8A_q15_b",
-        "question": "Hay algo que le debemos a Jehová y que nunca le podremos dar al césar. ¿Qué es?",
-        "references": "Mar. 12:17; Hech. 5:29",
-        "directAnswer": "Lo que le debemos exclusivamente a Jehová es nuestra adoración devota, nuestra lealtad absoluta y nuestra obediencia incondicional.",
-        "deepAnswer": "<p>Aunque debemos pagar al 'César' (las autoridades gubernamentales) los impuestos y el respeto que les corresponden, existe una línea infranqueable: nuestra devoción exclusiva. Jesús dejó claro este principio al decir: 'Paguen a César lo que es de César, pero a Dios lo que es de Dios' (Mar. 12:17).</p><p>Jehová es nuestro Creador y Rey Soberano; por lo tanto, le debemos nuestra adoración, nuestro amor con todo el corazón y una lealtad que no se puede dividir. Cuando las leyes humanas entran en conflicto directo con los mandamientos divinos, seguimos el principio de los apóstoles en Hechos 5:29: 'Tenemos que obedecer a Dios como gobernante más bien que a los hombres'. Esta devoción es un regalo personal que solo pertenece a nuestro Dios.</p>",
-        "shortAnswer": "Le debemos a Jehová nuestra adoración exclusiva, nuestra lealtad y nuestra obediencia absoluta, las cuales no pueden ser compartidas con ninguna autoridad humana."
+        "id": "8A_q15",
+        "question": "˙ ¿Qué les dijo Pablo a los cristianos sobre la obediencia a los gobernantes? (Rom. 13:1, 7; Tito 3:1, 2). ˙ Hay algo que le debemos a Jehová y que nunca le podremos dar al césar. ¿Qué es?",
+        "references": "",
+        "directAnswer": "Pablo enseñó que los cristianos deben someterse a las autoridades superiores, pues han sido colocadas por Dios, y cumplir con sus obligaciones cívicas respetuosamente.",
+        "deepAnswer": "En Romanos 13:1, 7 y Tito 3:1, 2, se nos recuerda que el cristiano debe ser obediente a los gobiernos, ya que estos actúan como ministros de Dios para mantener cierto orden. Esta sujeción implica pagar impuestos, mostrar honra y ser razonables, evitando hablar mal de otros y siendo pacíficos en nuestro trato diario con todos los hombres.",
+        "shortAnswer": "Debemos ser ciudadanos ejemplares y obedientes, siempre que no se nos exija desobedecer a Jehová."
       },
       {
         "id": "8A_q16",
@@ -3189,195 +3195,36 @@ const lessonsData = [
         "shortAnswer": "Nuestra devoción exclusiva y adoración pertenecen solo a Jehová."
       },
       {
-        "id": "8A_q17_a",
-        "question": "¿Qué nos enseña Isaías 2:2-4 sobre cómo tomar una decisión correcta respecto al servicio militar obligatorio?",
-        "references": "Is. 2:2-4",
-        "directAnswer": "Isaías 2:2-4 nos enseña que los siervos de Jehová han convertido sus espadas en rejas de arado, lo que significa que no aprenden más la guerra y mantienen una postura neutral.",
-        "deepAnswer": "La profecía de Isaías indica que en la 'parte final de los días', personas de todas las naciones acudirían al monte de la casa de Jehová. Dios les enseña sus caminos para que 'no aprendan más la guerra'. Al reconocer que Jehová es el Juez supremo, aceptamos que no debemos participar en conflictos armados, ya que nuestra lealtad y energía están dedicadas a promover la paz del Reino de Dios.",
-        "shortAnswer": "Isaías 2:2-4 nos muestra que los cristianos no aprenden más la guerra."
+        "id": "8A_q17",
+        "question": "˙ ¿Qué textos nos ayudan a tomar una decisión correcta sobre el servicio militar obligatorio?",
+        "references": "Is. 2:2-4; Mat. 26:52; Juan 13:34, 35",
+        "directAnswer": "Textos como Isaías 2:2-4, Mateo 26:52 y Juan 13:34, 35 nos ayudan a entender que, como cristianos, no aprendemos más la guerra porque amamos a nuestro prójimo.",
+        "deepAnswer": "La Biblia nos enseña que los siervos de Dios han convertido sus espadas en rejas de arado y no aprenden más la guerra. Al seguir el ejemplo de Jesús de no usar la espada y demostrar amor genuino a nuestros hermanos y al prójimo, tomamos la decisión bíblica de mantenernos neutrales ante los conflictos militares de las naciones.",
+        "shortAnswer": "Nuestro amor al prójimo y la neutralidad cristiana nos impiden participar en el servicio militar."
       },
       {
-        "id": "8A_q17_b",
-        "question": "¿Qué nos enseña Mateo 26:52 sobre cómo tomar una decisión correcta respecto al servicio militar obligatorio?",
-        "references": "Mat. 26:52",
-        "directAnswer": "Mateo 26:52 nos ayuda a decidir correctamente al recordar el mandato de Jesús de que 'todos los que toman la espada morirán por la espada', subrayando que no debemos usar armas contra otros.",
-        "deepAnswer": "Cuando Jesús fue arrestado, impidió que sus seguidores lucharan por él. Al decir que quienes toman la espada morirán por ella, estableció un principio claro para sus discípulos: la violencia física no es el camino cristiano para defenderse ni para defender una causa política. Esto nos ayuda a comprender que participar en el servicio militar sería contrario al ejemplo de fidelidad y no violencia que Jesús nos dejó.",
-        "shortAnswer": "Jesús enseñó que sus seguidores no deben recurrir a la espada, lo cual prohíbe participar en guerras."
-      },
-      {
-        "id": "8A_q17_c",
-        "question": "¿Qué nos enseñan Juan 13:34, 35 sobre cómo tomar una decisión correcta respecto al servicio militar obligatorio?",
-        "references": "Juan 13:34, 35",
-        "directAnswer": "Juan 13:34, 35 nos enseña que debemos amarnos unos a otros; este amor cristiano es una señal de que somos discípulos de Jesús, lo que nos impide dañar a nuestro prójimo en el campo de batalla.",
-        "shortAnswer": "El amor cristiano a nuestros hermanos y al prójimo es incompatible con participar en guerras contra ellos."
-      },
-      {
-        "id": "8A_q18_a",
-        "question": "¿Qué debemos tomar en cuenta si se nos pide hacer un servicio civil sustitutorio?",
+        "id": "8A_q18",
+        "question": "˙ ¿Qué debemos tomar en cuenta si se nos pide hacer un servicio civil sustitutorio?",
         "references": "w05 15/2 pág. 26 párrs. 1, 2",
-        "directAnswer": "Debemos analizar si el servicio es una actividad puramente civil y si realizarlo no viola nuestra conciencia ni compromete nuestra neutralidad cristiana.",
-        "deepAnswer": "Como se explica en <em>La Atalaya</em>, al evaluar una oferta de servicio civil sustitutorio, el cristiano debe considerar cuidadosamente si la labor es verdaderamente civil y si se realiza fuera de la estructura o el control de una organización militar. Es fundamental asegurar que aceptar dicho servicio no implique colaborar con el aparato militar ni comprometa nuestra postura de neutralidad ante los conflictos políticos del mundo. Puesto que este es un asunto de conciencia personal, cada individuo debe orar al respecto y asegurarse de que su decisión le permita mantener una conciencia limpia ante Jehová.",
+        "directAnswer": "Al considerar un servicio civil sustitutorio, debemos analizar si este servicio es una actividad puramente civil y si realizarlo viola nuestra conciencia o nuestra neutralidad cristiana.",
+        "deepAnswer": "Como se explica en <em>La Atalaya</em>, debemos evaluar si el servicio que el gobierno nos pide es verdaderamente civil y si no nos pone bajo el control directo de una organización militar. La decisión final es una cuestión de conciencia personal, siempre que el servicio no comprometa nuestra postura de neutralidad ante los conflictos políticos del mundo.",
         "shortAnswer": "Debemos evaluar si el servicio es puramente civil y si permite mantener nuestra neutralidad cristiana."
       },
       {
-        "id": "8A_q19_a",
-        "question": "¿Cuáles son algunas cosas que sí le damos al césar? (Rom. 13:1, 5, 6)",
-        "references": "Rom. 13:1, 5, 6",
+        "id": "8A_q19",
+        "question": "˙ ¿Cuáles son algunas cosas que sí le damos al césar? (Rom. 13:1, 5, 6). Teniendo en cuenta los principios bíblicos que hemos visto, ¿qué harías en las siguientes situaciones? El gobierno nos prohíbe: ˙ Predicar las buenas noticias. ˙ Ir de casa en casa. ˙ Distribuir publicaciones bíblicas a domicilio. ˙ Celebrar nuestras reuniones. El gobierno nos exige: ˙ Inscribirnos en el censo electoral y votar en las elecciones locales o nacionales. ˙ Registrarnos en un censo nacional. ˙ Obtener determinados documentos antes de cruzar las fronteras políticas. ˙ Cumplir con ciertos requisitos para casarnos. ˙ Inscribir a los recién nacidos en el registro civil. Menciona otras situaciones a las que te enfrentas donde vives.",
+        "references": "",
         "directAnswer": "Al César le damos lo que la ley exige legítimamente, como el pago de impuestos, el respeto a las autoridades y el cumplimiento de las leyes que no contravienen la voluntad divina.",
         "deepAnswer": "Basándonos en Romanos 13:1, 5, 6, entendemos que someterse a las autoridades no es solo por temor al castigo, sino también por motivos de conciencia. Esto incluye ser honestos al declarar impuestos, registrar documentos civiles y obedecer reglamentos públicos, demostrando así que somos ciudadanos respetuosos de la ley mientras mantenemos nuestra integridad ante Jehová.",
         "shortAnswer": "Pagamos impuestos y cumplimos las leyes civiles como parte de nuestra sujeción relativa."
       },
       {
-        "id": "8A_q19_b",
-        "question": "Si el gobierno nos prohíbe predicar las buenas noticias, ¿qué harías?",
-        "references": "Hech. 5:29",
-        "directAnswer": "Seguiríamos predicando, ya que tenemos que obedecer a Dios como gobernante más bien que a los hombres.",
-        "deepAnswer": "Cuando un mandato humano entra en conflicto directo con un mandato divino, nuestra lealtad principal es hacia Jehová. Como ocurrió con los apóstoles en Hechos 5:29, aunque respetamos a las autoridades, no podemos dejar de hablar de las cosas que hemos visto y oído, buscando formas discretas y seguras de continuar nuestra labor evangelizadora.",
-        "shortAnswer": "Continuaríamos predicando, pues nuestra prioridad es obedecer a Dios."
-      },
-      {
-        "id": "8A_q19_c",
-        "question": "Si el gobierno nos prohíbe ir de casa en casa, ¿qué harías?",
-        "references": "Hech. 20:20",
-        "directAnswer": "Adaptaríamos nuestros métodos de predicación utilizando otras formas, como el testimonio público, las cartas o las llamadas telefónicas.",
-        "deepAnswer": "El mandato bíblico es predicar las buenas noticias, no necesariamente limitar el método a una sola técnica. Si se prohíbe el acceso a los hogares, buscaríamos formas alternativas aprobadas por la organización para llegar a las personas con el mensaje de salvación, siendo prudentes pero perseverantes.",
-        "shortAnswer": "Usaríamos métodos alternativos de predicación para seguir cumpliendo con el mandato de testificar."
-      },
-      {
-        "id": "8A_q19_d",
-        "question": "Si el gobierno nos prohíbe distribuir publicaciones bíblicas a domicilio, ¿qué harías?",
-        "references": "Col. 4:6",
-        "directAnswer": "Utilizaríamos recursos digitales o métodos que no violen las restricciones impuestas, o esperaríamos instrucciones de la organización.",
-        "deepAnswer": "Debemos ser 'cautelosos como serpientes y sin embargo inocentes como palomas' (Mat. 10:16). Si la distribución física se vuelve un riesgo, nos centraríamos en utilizar el sitio web jw.org o enviar enlaces digitales, asegurándonos de que nuestras acciones reflejen sabiduría y respeto a la ley en lo posible, sin dejar de compartir la verdad.",
-        "shortAnswer": "Buscaríamos medios digitales o métodos permitidos para compartir el mensaje bíblico."
-      },
-      {
-        "id": "8A_q19_e",
-        "question": "Si el gobierno nos prohíbe celebrar nuestras reuniones, ¿qué harías?",
-        "references": "Heb. 10:24, 25",
-        "directAnswer": "Nos reuniríamos en grupos pequeños y privados para continuar adorando a Jehová sin llamar la atención indebida.",
-        "deepAnswer": "La necesidad de reunirnos para animarnos es vital (Heb. 10:24, 25). Si se prohíben las reuniones públicas en Salones del Reino, los cristianos han demostrado a lo largo de la historia que pueden reunirse en hogares o en grupos reducidos de forma segura. La adoración pura no depende de un lugar físico, sino de la unidad de los hermanos.",
-        "shortAnswer": "Nos organizaríamos en grupos pequeños y privados para seguir adorando a Jehová juntos."
-      },
-      {
-        "id": "8A_q19_f",
-        "question": "Si el gobierno nos exige inscribirnos en el censo electoral y votar en las elecciones locales o nacionales, ¿qué harías?",
-        "references": "Juan 17:16; 18:36",
-        "directAnswer": "Mantendríamos nuestra postura de neutralidad cristiana, explicando respetuosamente nuestra posición basada en la Biblia.",
-        "deepAnswer": "Jesús dijo que sus seguidores 'no son parte del mundo' (Juan 17:16). La neutralidad política es una faceta clave de nuestra lealtad al Reino de Dios. Aunque el gobierno exija el voto, nosotros no podemos participar en la elección de líderes humanos, ya que apoyamos plenamente el Reino de Dios. Declararíamos nuestra postura con respeto, aceptando las consecuencias si fuera necesario.",
-        "shortAnswer": "Mantendríamos nuestra neutralidad política explicando respetuosamente que nuestro apoyo es al Reino de Dios."
-      },
-      {
-        "id": "8A_q19_g",
-        "question": "Si el gobierno nos exige registrarnos en un censo nacional, ¿qué harías?",
-        "references": "Luc. 2:1-5",
-        "directAnswer": "Cumpliríamos con el registro, pues esto forma parte de las obligaciones civiles normales que no contradicen nuestra fe.",
-        "deepAnswer": "Registrarse en un censo es una práctica común que facilita la administración del Estado. Siguiendo el ejemplo de José y María, que se registraron durante el censo romano, los cristianos cumplimos con estos trámites administrativos sin que esto afecte nuestra lealtad a Dios, siempre que no implique un acto de idolatría o lealtad política.",
-        "shortAnswer": "Cumpliríamos con el registro, ya que es un trámite civil habitual."
-      },
-      {
-        "id": "8A_q19_h",
-        "question": "Si el gobierno nos exige obtener determinados documentos antes de cruzar las fronteras políticas, ¿qué harías?",
-        "references": "Rom. 13:1",
-        "directAnswer": "Obtendríamos los documentos necesarios, cumpliendo con los requisitos legales de inmigración y aduanas.",
-        "deepAnswer": "Respetar las leyes de inmigración y obtener visados o pasaportes es una forma de mostrar sujeción a las 'autoridades superiores'. Al actuar con honestidad y legalidad en nuestros desplazamientos, demostramos que no tenemos nada que ocultar y que somos ciudadanos ejemplares.",
-        "shortAnswer": "Obtendríamos los documentos legales pertinentes para demostrar respeto a las leyes fronterizas."
-      },
-      {
-        "id": "8A_q19_i",
-        "question": "Si el gobierno nos exige cumplir con ciertos requisitos para casarnos, ¿qué harías?",
-        "references": "Mat. 22:21",
-        "directAnswer": "Cumpliríamos con los trámites legales y de registro civil necesarios para que el matrimonio sea válido ante la ley.",
-        "deepAnswer": "Jehová estableció el matrimonio, pero también espera que respetemos la ley del César en cuanto al registro formal de la unión. Cumplir con los requisitos civiles garantiza la protección legal de la pareja y de los hijos, lo cual es una muestra de sabiduría y orden, demostrando que 'pagamos al César lo que es del César'.",
-        "shortAnswer": "Cumpliríamos con los requisitos legales para formalizar el matrimonio ante las autoridades."
-      },
-      {
-        "id": "8A_q19_j",
-        "question": "Si el gobierno nos exige inscribir a los recién nacidos en el registro civil, ¿qué harías?",
-        "references": "Mat. 22:21",
-        "directAnswer": "Realizaríamos la inscripción, ya que es un deber civil básico que protege los derechos del niño.",
-        "deepAnswer": "La inscripción de los hijos es un paso esencial para garantizar su identidad y acceso a derechos fundamentales (educación, salud). Al registrar a nuestros hijos, actuamos como ciudadanos responsables, cumpliendo con las leyes civiles que no entran en conflicto con nuestra adoración a Dios.",
-        "shortAnswer": "Registraríamos a los hijos, cumpliendo con este requisito legal básico y necesario."
-      },
-      {
-        "id": "8A_q20_a",
-        "question": "¿Qué harías si el gobierno nos prohíbe predicar las buenas noticias?",
-        "references": "Hechos 5:29",
-        "directAnswer": "Seguiríamos predicando, ya que nuestra prioridad es obedecer a Dios como gobernante más bien que a los hombres.",
-        "deepAnswer": "Cuando una ley humana contradice un mandato divino directo, como la comisión de predicar, recordamos el ejemplo de los apóstoles. Aunque mostramos respeto a las autoridades, nuestra lealtad absoluta es a Jehová. Buscamos formas prudentes y discretas de seguir llevando el mensaje del Reino, adaptando nuestros métodos sin abandonar nuestra misión.",
-        "shortAnswer": "Seguimos predicando por orden divina, buscando formas prudentes de hacerlo."
-      },
-      {
-        "id": "8A_q20_b",
-        "question": "¿Qué harías si el gobierno nos prohíbe ir de casa en casa?",
-        "references": "Hechos 5:42",
-        "directAnswer": "Adaptaríamos nuestro método de predicación para seguir cumpliendo con el mandato de dar testimonio, tal como lo hacían los discípulos en el siglo primero.",
-        "deepAnswer": "La predicación de casa en casa es una herramienta eficaz, pero no es el único método. Si este se prohíbe, utilizaríamos otras formas de contacto, como la predicación telefónica, por carta, en lugares públicos o mediante la predicación informal, asegurándonos de no detener nuestra labor de enseñanza.",
-        "shortAnswer": "Cambiamos de método para seguir predicando sin infringir las prohibiciones innecesariamente."
-      },
-      {
-        "id": "8A_q20_c",
-        "question": "¿Qué harías si el gobierno nos prohíbe distribuir publicaciones bíblicas a domicilio?",
-        "references": "Hechos 20:20",
-        "directAnswer": "Buscaríamos medios alternativos para que las personas reciban información bíblica, respetando las leyes que no contravengan nuestra fe.",
-        "deepAnswer": "Si la distribución física está restringida, aprovecharíamos el uso de tecnología digital, el sitio web jw.org y las descargas electrónicas para que la Palabra de Dios llegue a las personas de manera segura y legal, priorizando siempre la seguridad de los hermanos y la continuidad del mensaje.",
-        "shortAnswer": "Usamos recursos digitales o métodos alternativos para difundir la verdad bíblica."
-      },
-      {
-        "id": "8A_q20_d",
-        "question": "¿Qué harías si el gobierno nos prohíbe celebrar nuestras reuniones?",
-        "references": "Hebreos 10:24, 25",
-        "directAnswer": "Nos reuniríamos en grupos pequeños y discretos para seguir fortaleciéndonos espiritualmente, siguiendo las instrucciones de la organización.",
-        "deepAnswer": "La importancia de reunirse es vital para nuestra fe. En situaciones de prohibición, los ancianos proporcionan guía sobre cómo celebrar reuniones en grupos reducidos y seguros. La prioridad es mantener la salud espiritual del rebaño mientras nos protegemos de la persecución innecesaria.",
-        "shortAnswer": "Nos reunimos en pequeños grupos discretos para mantener nuestra espiritualidad."
-      },
-      {
-        "id": "8A_q20_e",
-        "question": "¿Qué harías si el gobierno nos exige inscribirnos en el censo electoral y votar en las elecciones locales o nacionales?",
-        "references": "Juan 17:16; Juan 18:36",
-        "directAnswer": "Mantendríamos nuestra estricta neutralidad cristiana, explicando respetuosamente que nuestro apoyo es total para el Reino de Dios.",
-        "deepAnswer": "El voto es una expresión de participación política que contraviene nuestra postura de ser parte del Reino de Dios. Aunque el gobierno lo exija, nuestra conciencia educada por la Biblia nos impide participar. Explicamos nuestra postura con respeto, dejando claro que no somos un peligro para el Estado, sino ciudadanos ejemplares y pacíficos.",
-        "shortAnswer": "Mantenemos nuestra neutralidad cristiana explicando con respeto nuestra lealtad al Reino."
-      },
-      {
-        "id": "8A_q20_f",
-        "question": "¿Qué harías si el gobierno nos exige registrarnos en un censo nacional?",
-        "references": "Romanos 13:1",
-        "directAnswer": "Cooperaríamos plenamente con esta exigencia, ya que es un trámite administrativo que no viola nuestra neutralidad ni mandatos bíblicos.",
-        "deepAnswer": "La Biblia nos manda a ser ciudadanos respetuosos y obedientes a las autoridades superiores en todo aquello que no choque con la ley de Dios. Un censo es un registro civil estándar y, al cumplirlo, demostramos nuestra naturaleza de ciudadanos ejemplares que no tienen nada que ocultar.",
-        "shortAnswer": "Cooperamos de buena gana al ser un trámite civil administrativo legítimo."
-      },
-      {
-        "id": "8A_q20_g",
-        "question": "¿Qué harías si el gobierno nos exige obtener determinados documentos antes de cruzar las fronteras políticas?",
-        "references": "Romanos 13:7",
-        "directAnswer": "Cumpliríamos con todos los trámites legales de documentación, dando a cada uno lo que le corresponde según la ley.",
-        "deepAnswer": "El cumplimiento de las leyes migratorias y aduaneras es parte de nuestra responsabilidad como cristianos que respetan el orden legal. Al obtener los documentos requeridos, facilitamos nuestra labor y evitamos problemas que puedan obstaculizar nuestro ministerio o nuestra vida personal.",
-        "shortAnswer": "Obedecemos las leyes de tránsito y migración como parte de nuestra honra a las autoridades."
-      },
-      {
-        "id": "8A_q20_h",
-        "question": "¿Qué harías si el gobierno nos exige cumplir con ciertos requisitos para casarnos?",
-        "references": "Mateo 22:21",
-        "directAnswer": "Cumpliríamos con los requisitos legales y civiles para que el matrimonio sea reconocido, pues el matrimonio es una institución honrada por Jehová.",
-        "deepAnswer": "Para que un matrimonio sea válido ante Dios y ante los hombres, debemos respetar las leyes del país donde vivimos. Al registrar nuestro matrimonio civil, no solo cumplimos con el mandato de 'pagar a César lo que es de César', sino que también protegemos legalmente a nuestra familia.",
-        "shortAnswer": "Nos casamos cumpliendo los requisitos civiles, respetando así la ley y el vínculo matrimonial."
-      },
-      {
-        "id": "8A_q20_i",
-        "question": "¿Qué harías si el gobierno nos exige inscribir a los recién nacidos en el registro civil?",
-        "references": "Lucas 2:1-5",
-        "directAnswer": "Realizaríamos el registro sin vacilar, ya que es una medida legal necesaria que permite proteger y organizar la identidad de los niños.",
-        "deepAnswer": "El registro de los hijos es un deber de los padres ante el Estado y es consistente con los principios bíblicos, como cuando José y María acudieron a registrarse a Belén. Este trámite permite que los menores tengan acceso a derechos básicos como salud y educación.",
-        "shortAnswer": "Registramos a los hijos puntualmente, siguiendo el ejemplo bíblico de obedecer las leyes de censo."
-      },
-      {
-        "id": "8A_q20_j",
-        "question": "¿Qué harías ante otras situaciones de presión a las que te enfrentas donde vives?",
-        "references": "Filipenses 4:5; 1 Pedro 2:12",
-        "directAnswer": "Analizaría cada caso con oración, buscando la guía de la organización y recordando que siempre debemos mantener una conducta irreprochable.",
-        "deepAnswer": "En situaciones locales donde nuestra fe es desafiada, debemos aplicar el principio de ser 'razonables' (Fil. 4:5). Esto implica evaluar si la exigencia es legal y si no viola nuestra neutralidad o lealtad a Jehová. Ante la duda, consultamos a los ancianos locales, quienes conocen las circunstancias particulares y pueden ayudarnos a tomar decisiones que honren a Jehová.<br><br><strong>Experiencia:</strong> En una ocasión, un hermano fue presionado en su trabajo para participar en una celebración patriótica que incluía actos de adoración a símbolos nacionales. Aunque la presión era intensa, el hermano, recordando su lealtad a Jehová, se mantuvo firme pero respetuoso, explicando que su trabajo lo realizaba con calidad, pero que su conciencia no le permitía participar en actos religiosos. Fue despedido, pero mantuvo su integridad. La lección teocrática aquí es que, aunque el costo de la lealtad pueda ser alto en términos materiales, el favor de Jehová y una conciencia limpia valen mucho más que cualquier posición laboral.",
-        "shortAnswer": "Analizo cada caso con oración y sabiduría, manteniendo siempre mi lealtad a Jehová."
+        "id": "8A_q20",
+        "question": "visto, ¿qué harías en las siguientes situaciones? El gobierno nos prohíbe: ˙ Predicar las buenas noticias. ˙ Ir de casa en casa. ˙ Distribuir publicaciones bíblicas a domicilio. ˙ Celebrar nuestras reuniones. El gobierno nos exige: ˙ Inscribirnos en el censo electoral y votar en las elecciones locales o nacionales. ˙ Registrarnos en un censo nacional. ˙ Obtener determinados documentos antes de cruzar las fronteras políticas. ˙ Cumplir con ciertos requisitos para casarnos. ˙ Inscribir a los recién nacidos en el registro civil. Menciona otras situaciones a las que te enfrentas donde vives.",
+        "references": "",
+        "directAnswer": "Ante cualquier exigencia, aplicamos el principio de obedecer a Dios como gobernante más bien que a los hombres, manteniendo nuestra integridad sin dejar de ser respetuosos.",
+        "deepAnswer": "Si el gobierno prohíbe actividades mandadas por Dios, como predicar o reunirnos, debemos encontrar maneras prudentes de seguir obedeciendo a Jehová, tal como hicieron los apóstoles. En cambio, si nos piden trámites como censos o registros civiles que no violan nuestra neutralidad, cumplimos de buena gana, pues no entran en conflicto con nuestra lealtad a Dios.",
+        "shortAnswer": "Obedecemos a Dios primero; si la ley no viola principios bíblicos, cooperamos respetuosamente."
       },
       {
         "id": "8A_q21",
@@ -3425,28 +3272,12 @@ const lessonsData = [
         "shortAnswer": "Lo que llena nuestro corazón fluye naturalmente en nuestra conversación diaria."
       },
       {
-        "id": "8B_q3_a",
-        "question": "¿Por qué nos sentiremos motivados a predicar si meditamos en la bondad de Jehová? (Sal. 40:5)",
-        "references": "Sal. 40:5",
-        "directAnswer": "Meditar en la bondad de Jehová nos llena de gratitud, lo que nos impulsa naturalmente a querer hablar de sus maravillas y compartir las buenas noticias con los demás.",
-        "deepAnswer": "El Salmo 40:5 nos recuerda que las obras maravillosas de Jehová y sus pensamientos a favor nuestro son tan numerosos que no pueden enumerarse. Cuando tomamos tiempo para reflexionar sobre cuánto ha hecho Jehová por nosotros personalmente, nuestro corazón se llena de un aprecio profundo. La gratitud es un poderoso motor espiritual; tal como no podemos contener el entusiasmo cuando recibimos un regalo valioso, nuestra gratitud por la bondad de Jehová nos mueve a ser testigos entusiastas de su amor.",
-        "shortAnswer": "La gratitud por los innumerables actos de bondad de Jehová nos impulsa a compartir su mensaje con otros."
-      },
-      {
-        "id": "8B_q3_b",
-        "question": "¿Por qué nos sentiremos motivados a predicar si meditamos en los tesoros espirituales que Jehová da a sus siervos? (Mat. 13:52)",
-        "references": "Mat. 13:52",
-        "directAnswer": "Al valorar la riqueza de las verdades bíblicas y las enseñanzas que Jehová nos da, deseamos compartir estos 'tesoros' con otros para que ellos también puedan enriquecer su vida.",
-        "deepAnswer": "Jesús comparó a todo maestro instruido respecto al Reino con un hombre que saca de su tesoro cosas nuevas y cosas viejas (Mat. 13:52). Cuando estudiamos la Palabra de Dios, acumulamos una riqueza espiritual incalculable: verdades sobre el futuro, principios para la vida diaria y la esperanza del Reino. Al meditar en el valor inmenso de estas verdades, comprendemos que poseemos algo que el mundo no tiene. Este tesoro es demasiado valioso como para guardárnoslo solo para nosotros; el amor al prójimo nos mueve a ofrecer esta riqueza espiritual a quienes nos rodean.",
-        "shortAnswer": "Valorar los tesoros espirituales que Jehová nos regala nos hace sentir el deseo de compartirlos con los demás."
-      },
-      {
-        "id": "8B_q3_c",
-        "question": "¿Por qué nos sentiremos motivados a predicar si meditamos en lo mucho que sufre la gente? (Jon. 4:11)",
+        "id": "8B_q3",
+        "question": "¿Por qué nos sentiremos motivados a predicar si meditamos en los siguientes puntos? ˙ La bondad de Jehová (Sal. 40:5). ˙ Los tesoros espirituales que Jehová da a sus siervos (Mat. 13:52). ˙ Lo mucho que sufre la gente.",
         "references": "Jon. 4:11",
-        "directAnswer": "La compasión al ver que las personas sufren por falta de guía espiritual nos motiva a predicar para ofrecerles el alivio y la esperanza que solo la Biblia proporciona.",
-        "deepAnswer": "Jehová le preguntó a Jonás si no debería sentir compasión por los habitantes de Nínive, quienes 'no saben distinguir entre el bien y el mal' (Jon. 4:11). Hoy día, el mundo está lleno de personas angustiadas, sin rumbo y sin una esperanza verdadera. Cuando meditamos en su dolor, imitamos la empatía de Jehová. Esta compasión es el motor principal del ministerio: no predicamos solo por cumplir con un mandato, sino porque deseamos ayudar a nuestros semejantes a encontrar consuelo, alivio y una guía segura en medio de un mundo que sufre.",
-        "shortAnswer": "La compasión por el sufrimiento ajeno nos motiva a llevarles el mensaje de esperanza que tanto necesitan."
+        "directAnswer": "Nos sentimos motivados a predicar porque el amor y la gratitud por la bondad de Jehová, sus enseñanzas y la compasión por quienes sufren nos impulsan a compartir el mensaje.",
+        "deepAnswer": "Al reflexionar en la bondad inmerecida de Jehová, en los ricos tesoros espirituales que nos da y en el estado lamentable de las personas que no conocen la verdad (Jonás 4:11), nuestro corazón se conmueve. Este amor nos mueve a actuar como testigos activos, deseosos de ofrecer a otros la misma esperanza y alivio que nosotros hemos encontrado.",
+        "shortAnswer": "La gratitud y la compasión son los motores que nos impulsan a compartir el mensaje de salvación."
       },
       {
         "id": "8B_q4",
@@ -3513,12 +3344,12 @@ const lessonsData = [
         "shortAnswer": "El tacto consiste en ser perceptivos, pacientes y amables en cada interacción."
       },
       {
-        "id": "8B_q12_a",
-        "question": "¿Cómo puedes demostrar humildad cuando hables al predicar informalmente? EXPERIENCIA: Una hermana que conoció a Jehová gracias a la predicación informal intenta predicar a las personas que conoce a través de sus tres hijos. Eso incluye a sus vecinos y a los padres que conoce en la escuela y en las reuniones de padres. Cuando conoce a alguien nuevo, hace un comentario sencillo pero sincero sobre lo mucho que la Biblia le ayuda a criar a sus hijos; luego, cambia de tema. Una vez roto el hielo, le resulta más fácil mencionar la Biblia en conversaciones posteriores. Con este método, ha contribuido a que 12 personas se bauticen.",
+        "id": "8B_q12",
+        "question": "¿Cómo puedes demostrar humildad cuando hables? EXPERIENCIA: Una hermana que conoció a Jehová gracias a la predicación informal intenta predicar a las personas que conoce a través de sus tres hijos. Eso incluye a sus vecinos y a los padres que conoce en la escuela y en las reuniones de padres. Cuando conoce a alguien nuevo, hace un comentario sencillo pero sincero sobre lo mucho que la Biblia le ayuda a criar a sus hijos; luego, cambia de tema. Una vez roto el hielo, le resulta más fácil mencionar la Biblia en conversaciones posteriores. Con este método, ha contribuido a que 12 personas se bauticen.",
         "references": "",
-        "directAnswer": "La humildad en la predicación se demuestra al enfocarnos en el mensaje y en el bienestar de la otra persona, en lugar de intentar destacar nosotros, mostrando interés genuino por su vida y sus circunstancias.",
-        "deepAnswer": "Tal como muestra la experiencia de la hermana, la humildad nos permite encontrar puntos en común con los demás, como el deseo de ser mejores padres. Al compartir cómo nos beneficia la Biblia sin actuar como si supiéramos más que los demás, creamos un vínculo de confianza. La humildad nos hace accesibles, permitiendo que la verdad bíblica sea el centro de la conversación, no nuestra propia opinión. Al abordar a los demás con sencillez y reconocer que ellos también tienen inquietudes valiosas, facilitamos que el mensaje del Reino eche raíces en sus corazones.<br><br><strong>Experiencia:</strong> Esta experiencia ilustra cómo la modestia y la humildad cristiana son herramientas poderosas en el ministerio. Al no imponer el mensaje de forma directa o arrogante, la hermana logró abrir puertas que de otro modo habrían permanecido cerradas. La lección teocrática es clara: nuestro objetivo no es demostrar nuestra sabiduría, sino utilizar la humildad para conectar vidas con la Palabra de Dios, lo cual resulta en bendiciones duraderas como el bautismo de nuevos discípulos.",
-        "shortAnswer": "La humildad permite conectar con los demás a través de experiencias comunes y un trato sencillo que abre el camino para compartir la verdad bíblica."
+        "directAnswer": "La humildad en la predicación se demuestra al enfocarnos en el mensaje y en el bienestar de la otra persona, en lugar de intentar destacar nosotros.",
+        "deepAnswer": "Tal como muestra la experiencia de la hermana, la humildad nos permite encontrar puntos en común con los demás, como el deseo de ser mejores padres. Al compartir cómo nos beneficia la Biblia sin actuar como si supiéramos más que los demás, creamos un vínculo de confianza. La humildad nos hace accesibles, permitiendo que la verdad bíblica sea el centro de la conversación, no nuestra propia opinión.",
+        "shortAnswer": "La humildad permite conectar con los demás a través de experiencias comunes."
       },
       {
         "id": "8B_q13",
@@ -3681,60 +3512,70 @@ const lessonsData = [
         "shortAnswer": "Llevan el mensaje de Dios directamente a donde la gente pasa su vida cotidiana."
       },
       {
-        "id": "8B_q33_a",
-        "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación pública con los carritos?",
+        "id": "8B_q33",
+        "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar estos métodos?",
         "references": "",
-        "directAnswer": "Para ser eficaces al usar los carritos, mantén una postura erguida, una sonrisa cálida y contacto visual, mostrándote accesible y digno.",
-        "deepAnswer": "El éxito en la predicación con carritos depende de nuestra disposición y accesibilidad. Mantener una postura erguida pero relajada, junto con una sonrisa sincera, invita a las personas a acercarse sin sentirse intimidadas. Es vital mantenerse alerta, evitar distracciones como el celular, y estar preparados para iniciar una conversación bíblica breve cuando alguien se detenga a observar el material.",
-        "shortAnswer": "Sé accesible, mantén contacto visual, sonríe y evita distracciones."
-      },
-      {
-        "id": "8B_q33_b",
-        "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación en el transporte público?",
-        "references": "",
-        "directAnswer": "Sé discreto, inicia conversaciones breves si la situación lo permite y respeta la privacidad de los pasajeros.",
-        "deepAnswer": "Al predicar en el transporte público, la prudencia es fundamental. Debemos ser observadores para notar si alguien parece dispuesto a conversar. Utiliza enfoques breves y un tono de voz suave que no perturbe a otros. Si la persona no desea hablar, respeta su espacio inmediatamente, siempre dando un testimonio con nuestro comportamiento calmado y respetuoso.",
-        "shortAnswer": "Sé discreto, breve y respetuoso con la privacidad de los demás."
-      },
-      {
-        "id": "8B_q33_c",
-        "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación en parques y estacionamientos?",
-        "references": "",
-        "directAnswer": "Adopta un enfoque relajado y natural, buscando oportunidades de conversación conforme las personas caminan o descansan.",
-        "deepAnswer": "En lugares como parques o estacionamientos, las personas suelen estar en un ambiente más distendido. Un saludo cordial y una observación sobre el entorno pueden abrir la puerta a una conversación. Es importante no ser invasivos; permite que el interesado marque el ritmo y asegúrate de que tu presencia no genere incomodidad, manteniendo siempre una apariencia limpia y organizada.",
-        "shortAnswer": "Sé natural, aprovecha el entorno y no seas invasivo."
-      },
-      {
-        "id": "8B_q33_d",
-        "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación en las calles?",
-        "references": "",
-        "directAnswer": "Sé amable, mantén un ritmo moderado y asegúrate de no bloquear el paso de los peatones.",
-        "deepAnswer": "La predicación en las calles requiere agilidad y tacto. Es crucial posicionarse donde no se obstruya el flujo de personas para evitar generar molestia. Un saludo breve y una pregunta que invite a la reflexión, como '¿Alguna vez se ha preguntado por qué sufrimos tanto?', puede ser suficiente para captar el interés sin detener el tráfico peatonal de forma agresiva.",
-        "shortAnswer": "Sé breve, amable y evita obstaculizar el paso."
-      },
-      {
-        "id": "8B_q33_e",
-        "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación en mercados o centros comerciales?",
-        "references": "",
-        "directAnswer": "Sé breve y respeta las normas del lugar, enfocándote en conversaciones rápidas y amigables.",
-        "deepAnswer": "En mercados o centros comerciales, el ambiente es dinámico. Debemos ser breves y muy respetuosos con las directrices de los administradores del lugar. Al acercarnos a las personas, debemos notar si están realizando compras o tienen prisa, adaptando nuestra duración de modo que el mensaje sea un estímulo positivo y no un estorbo para sus actividades.",
-        "shortAnswer": "Sé respetuoso con las normas y muy breve en tus comentarios."
-      },
-      {
-        "id": "8B_q33_f",
-        "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación en negocios?",
-        "references": "",
-        "directAnswer": "Sé muy breve, respetuoso con los horarios de atención y dirígete siempre a los encargados.",
-        "deepAnswer": "La predicación en negocios exige gran profesionalismo. Debemos identificar el momento de menor afluencia de clientes para no interferir con las ventas. Al hablar con el encargado, debemos ser directos, agradecer su tiempo y mantener la conversación en un marco puramente informativo y respetuoso. Si nos piden retirarnos, lo haremos con amabilidad inmediata.",
-        "shortAnswer": "Sé directo, profesional y respeta siempre el horario de trabajo."
-      },
-      {
-        "id": "8B_q33_g",
-        "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación por teléfono, si es apropiado donde vives?",
-        "references": "",
-        "directAnswer": "Mantén una voz cálida y amable, prepárate bien y asegúrate de cumplir con las leyes locales de protección de datos.",
-        "deepAnswer": "La calidez en la voz es nuestra principal herramienta al no poder usar el lenguaje corporal. Una buena preparación, incluyendo notas claras y un guion flexible, nos ayuda a sonar naturales. Es vital preguntar si es un buen momento para hablar y estar siempre al tanto de las leyes locales de protección de datos o normativas sobre llamadas no solicitadas, actuando siempre con integridad teocrática.",
-        "shortAnswer": "Cuida la calidez de tu voz y sigue las leyes locales."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "8B_q33_a",
+            "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación pública con los carritos?",
+            "references": "",
+            "directAnswer": "Para ser eficaces al usar los carritos, mantén una postura erguida, una sonrisa cálida y contacto visual, mostrándote accesible y digno.",
+            "deepAnswer": "El éxito en la predicación con carritos depende de nuestra disposición y accesibilidad. Mantener una postura erguida pero relajada, junto con una sonrisa sincera, invita a las personas a acercarse sin sentirse intimidadas. Es vital mantenerse alerta, evitar distracciones como el celular, y estar preparados para iniciar una conversación bíblica breve cuando alguien se detenga a observar el material.",
+            "shortAnswer": "Sé accesible, mantén contacto visual, sonríe y evita distracciones."
+          },
+          {
+            "id": "8B_q33_b",
+            "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación en el transporte público?",
+            "references": "",
+            "directAnswer": "Sé discreto, inicia conversaciones breves si la situación lo permite y respeta la privacidad de los pasajeros.",
+            "deepAnswer": "Al predicar en el transporte público, la prudencia es fundamental. Debemos ser observadores para notar si alguien parece dispuesto a conversar. Utiliza enfoques breves y un tono de voz suave que no perturbe a otros. Si la persona no desea hablar, respeta su espacio inmediatamente, siempre dando un testimonio con nuestro comportamiento calmado y respetuoso.",
+            "shortAnswer": "Sé discreto, breve y respetuoso con la privacidad de los demás."
+          },
+          {
+            "id": "8B_q33_c",
+            "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación en parques y estacionamientos?",
+            "references": "",
+            "directAnswer": "Adopta un enfoque relajado y natural, buscando oportunidades de conversación conforme las personas caminan o descansan.",
+            "deepAnswer": "En lugares como parques o estacionamientos, las personas suelen estar en un ambiente más distendido. Un saludo cordial y una observación sobre el entorno pueden abrir la puerta a una conversación. Es importante no ser invasivos; permite que el interesado marque el ritmo y asegúrate de que tu presencia no genere incomodidad, manteniendo siempre una apariencia limpia y organizada.",
+            "shortAnswer": "Sé natural, aprovecha el entorno y no seas invasivo."
+          },
+          {
+            "id": "8B_q33_d",
+            "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación en las calles?",
+            "references": "",
+            "directAnswer": "Sé amable, mantén un ritmo moderado y asegúrate de no bloquear el paso de los peatones.",
+            "deepAnswer": "La predicación en las calles requiere agilidad y tacto. Es crucial posicionarse donde no se obstruya el flujo de personas para evitar generar molestia. Un saludo breve y una pregunta que invite a la reflexión, como '¿Alguna vez se ha preguntado por qué sufrimos tanto?', puede ser suficiente para captar el interés sin detener el tráfico peatonal de forma agresiva.",
+            "shortAnswer": "Sé breve, amable y evita obstaculizar el paso."
+          },
+          {
+            "id": "8B_q33_e",
+            "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación en mercados o centros comerciales?",
+            "references": "",
+            "directAnswer": "Sé breve y respeta las normas del lugar, enfocándote en conversaciones rápidas y amigables.",
+            "deepAnswer": "En mercados o centros comerciales, el ambiente es dinámico. Debemos ser breves y muy respetuosos con las directrices de los administradores del lugar. Al acercarnos a las personas, debemos notar si están realizando compras o tienen prisa, adaptando nuestra duración de modo que el mensaje sea un estímulo positivo y no un estorbo para sus actividades.",
+            "shortAnswer": "Sé respetuoso con las normas y muy breve en tus comentarios."
+          },
+          {
+            "id": "8B_q33_f",
+            "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación en negocios?",
+            "references": "",
+            "directAnswer": "Sé muy breve, respetuoso con los horarios de atención y dirígete siempre a los encargados.",
+            "deepAnswer": "La predicación en negocios exige gran profesionalismo. Debemos identificar el momento de menor afluencia de clientes para no interferir con las ventas. Al hablar con el encargado, debemos ser directos, agradecer su tiempo y mantener la conversación en un marco puramente informativo y respetuoso. Si nos piden retirarnos, lo haremos con amabilidad inmediata.",
+            "shortAnswer": "Sé directo, profesional y respeta siempre el horario de trabajo."
+          },
+          {
+            "id": "8B_q33_g",
+            "question": "¿Qué ideas pueden ayudarnos a ser más eficaces al usar el método de la predicación por teléfono, si es apropiado donde vives?",
+            "references": "",
+            "directAnswer": "Mantén una voz cálida y amable, prepárate bien y asegúrate de cumplir con las leyes locales de protección de datos.",
+            "deepAnswer": "La calidez en la voz es nuestra principal herramienta al no poder usar el lenguaje corporal. Una buena preparación, incluyendo notas claras y un guion flexible, nos ayuda a sonar naturales. Es vital preguntar si es un buen momento para hablar y estar siempre al tanto de las leyes locales de protección de datos o normativas sobre llamadas no solicitadas, actuando siempre con integridad teocrática.",
+            "shortAnswer": "Cuida la calidez de tu voz y sigue las leyes locales."
+          }
+        ]
       },
       {
         "id": "8B_q34",
@@ -3769,20 +3610,12 @@ const lessonsData = [
         "shortAnswer": "La oración es la clave que nos conecta con la fuente del poder y el denuedo: Jehová."
       },
       {
-        "id": "8B_q38_a",
-        "question": "¿Cómo demostrarás que actúas de acuerdo con tus oraciones al predicar con valor, incluso siendo tímido? EXPERIENCIA: En una de nuestras reuniones, una niña de siete años escuchó que era muy importante salir a predicar. Así que, un día que fue de compras con su madre, metió dos folletos en el bolso. Mientras la mamá pagaba en el mostrador, ella le ofreció un folleto a una señora, que lo aceptó encantada. Como la niña era muy tímida, le preguntaron de dónde había sacado el valor para hablar. Ella contestó: “Solo pensé ‘En sus marcas... listos... ¡ya!’. Y lo hice”.",
+        "id": "8B_q38",
+        "question": "¿Cómo demostrarás que actúas de acuerdo con tus oraciones? EXPERIENCIA: En una de nuestras reuniones, una niña de siete años escuchó que era muy importante salir a predicar. Así que, un día que fue de compras con su madre, metió dos folletos en el bolso. Mientras la mamá pagaba en el mostrador, ella le ofreció un folleto a una señora, que lo aceptó encantada. Como la niña era muy tímida, le preguntaron de dónde había sacado el valor para hablar. Ella contestó: “Solo pensé ‘En sus marcas... listos... ¡ya!’. Y lo hice”. Los estudiantes pueden contar experiencias positivas que hayan tenido en las distintas formas de predicación. Esas experiencias deben destacar cosas como la confianza en Jehová, la preparación y el interés personal.",
         "references": "",
-        "directAnswer": "Demostramos coherencia entre nuestras oraciones y nuestras acciones cuando vencemos la timidez mediante la preparación, confiamos plenamente en Jehová y tomamos la iniciativa con decisión en cuanto se presenta la oportunidad.",
-        "deepAnswer": "Actuar en conformidad con lo que oramos implica dar un paso de fe, tal como la niña de la experiencia que, pese a su timidez, actuó con resolución. La fe verdadera se demuestra con obras; por tanto, después de pedirle ayuda a Jehová, debemos estar listos para iniciar conversaciones. Estar preparados, llevando publicaciones y manteniendo un interés sincero en la gente, le demuestra a Jehová que deseamos de corazón que use nuestro ministerio. <br><br><strong>Experiencia:</strong> Esta vivencia nos enseña que la timidez no es un impedimento insuperable cuando nos preparamos y confiamos en el respaldo de Jehová. Al igual que la niña, podemos vencer el miedo usando recordatorios mentales o una preparación sencilla, demostrando que nuestra fe es activa y que estamos dispuestos a actuar en respuesta a nuestras propias peticiones de ayuda divina.",
-        "shortAnswer": "Demostramos coherencia venciendo nuestra timidez con preparación y actuando con decisión cuando se presenta una oportunidad para predicar."
-      },
-      {
-        "id": "8B_q38_b",
-        "question": "¿Cómo demostrarás que actúas de acuerdo con tus oraciones al compartir experiencias positivas en las distintas formas de predicación?",
-        "references": "",
-        "directAnswer": "Demostramos que nuestras oraciones son sinceras cuando compartimos con otros cómo Jehová nos ha ayudado a predicar, destacando la confianza en Él, nuestra preparación y el interés personal por la gente.",
-        "deepAnswer": "Cuando compartimos experiencias positivas en el ministerio, no solo estamos relatando anécdotas, sino que damos testimonio de que nuestras oraciones buscando la guía y el apoyo de Jehová tienen una respuesta visible. Al enfocar nuestras experiencias en la confianza en el Creador y en cómo nuestra preparación previa rindió frutos, fortalecemos la fe de la congregación. Actuar de acuerdo con nuestras oraciones significa reconocer que el éxito en el ministerio es el resultado de la bendición de Jehová sobre nuestros esfuerzos bien dirigidos y nuestro interés genuino por las personas.",
-        "shortAnswer": "Compartiendo experiencias que pongan de relieve la bendición de Jehová sobre nuestro ministerio, nuestra preparación y el interés genuino por los demás."
+        "directAnswer": "Demostramos que actuamos de acuerdo con nuestras oraciones cuando tomamos la iniciativa con fe, vencemos la timidez y aprovechamos con decisión cada oportunidad para hablar del Reino.",
+        "deepAnswer": "Actuar en conformidad con lo que oramos implica dar un paso de fe, tal como la niña de la experiencia que actuó con resolución. <strong>La fe verdadera se demuestra con obras</strong>; por lo tanto, después de pedirle ayuda a Jehová, debemos estar listos para iniciar conversaciones. <em>Estar preparados</em>, llevando publicaciones en nuestros bolsos y manteniendo un interés sincero en la gente, le demuestra a Jehová que deseamos de corazón que use nuestro ministerio.",
+        "shortAnswer": "Actuar de acuerdo con nuestras oraciones significa dar el paso de fe con total confianza en el respaldo de Jehová."
       }
     ],
     "image": "public_preaching.png",
@@ -4210,60 +4043,70 @@ const lessonsData = [
         "shortAnswer": "Nuestro perdón y libertad para adorar a Dios."
       },
       {
-        "id": "10A_q29_a",
-        "question": "¿En qué debes tener fe para recibir la vida eterna? (Hech. 4:10, 12).",
-        "references": "Hech. 4:10, 12; Juan 6:68",
-        "directAnswer": "Para recibir la vida eterna, debemos ejercer fe en el nombre de Jesucristo y en su papel fundamental como el único medio de salvación provisto por Jehová.",
-        "deepAnswer": "De acuerdo con Hechos 4:12, no existe otro nombre bajo el cielo mediante el cual podamos ser salvos. Para beneficiarnos de la promesa de la vida eterna, es vital que demostremos fe en el sacrificio redentor de Jesús, reconociendo que él es el único medio que Jehová ha dispuesto para la salvación de la humanidad. Como indicaron los apóstoles, al aceptar su nombre y autoridad, alineamos nuestra vida con las palabras de Juan 6:68, reconociendo que solo Jesús tiene 'palabras de vida eterna'.",
-        "shortAnswer": "Debemos tener fe en el nombre de Jesús y en su papel clave en el propósito de Jehová para salvarnos."
-      },
-      {
-        "id": "10A_q29_b",
-        "question": "¿Qué nos enseña sobre Jesús el título bíblico “El Amén”? (Apoc. 3:14).",
-        "references": "Apoc. 3:14",
-        "directAnswer": "Este título indica que Jesús es la confirmación y garantía absoluta de que todas las promesas de Dios son verdaderas y se cumplirán sin falta.",
-        "deepAnswer": "Al llamar a Jesús 'el Amén', las Escrituras resaltan su papel como el testigo fiel y verdadero. Así como usamos la palabra 'amén' para confirmar nuestra convicción en una oración, Jesús es la 'confirmación' viviente de los propósitos de Jehová. Él garantiza con su vida y lealtad que todo lo que Dios ha declarado se hará realidad, siendo él el instrumento principal mediante el cual se validan las promesas divinas.",
-        "shortAnswer": "Nos enseña que Jesús es la garantía viviente de que las promesas de Dios son verdaderas y seguras."
-      },
-      {
-        "id": "10A_q29_c",
-        "question": "¿Por qué se le llama a Jesús “Padre Eterno”? (Is. 9:6).",
-        "references": "Is. 9:6",
-        "directAnswer": "Se le llama 'Padre Eterno' porque tiene el poder y la autoridad para dar vida eterna a los seres humanos obedientes mediante su sacrificio.",
-        "deepAnswer": "Aunque Jesús no es el 'Dios Todopoderoso' (el Padre de Jesús), se le denomina 'Padre Eterno' en un sentido funcional. Él es el medio por el cual los humanos recuperan la vida que Adán perdió. Gracias a su sacrificio, Jesús se convierte en la fuente de vida para la humanidad, ofreciendo la oportunidad de vivir para siempre bajo su gobernación, lo que lo acredita como un padre que da vida de manera permanente.",
-        "shortAnswer": "Porque él es el medio mediante el cual los seres humanos pueden recibir vida eterna."
-      },
-      {
-        "id": "10A_q29_d",
-        "question": "¿Qué papel desempeña Jesús como “Sumo sacerdote”? (Heb. 3:1; 9:13, 14, 25, 26).",
-        "references": "Heb. 3:1; 9:13, 14, 25, 26",
-        "deepAnswer": "Como Sumo Sacerdote, Jesús cumple una labor mediadora superior a la del sacerdocio antiguo. Él ofreció su propio sacrificio perfecto una sola vez y para siempre, lo cual tiene el poder real de limpiar nuestra conciencia de obras muertas. Ahora, desde el cielo, él intercede por nosotros, ayudándonos a acercarnos a Dios con confianza y asegurándose de que el beneficio de su rescate se aplique a los cristianos fieles.",
-        "directAnswer": "Jesús es nuestro Sumo Sacerdote que intercede ante Dios y aplica el valor de su sacrificio perfecto para limpiarnos y reconciliarnos con Jehová.",
-        "shortAnswer": "Jesús actúa como mediador ante Dios, usando su sacrificio para limpiarnos y ayudarnos."
-      },
-      {
-        "id": "10A_q29_e",
-        "question": "¿Qué significa que Jesús sea el “Rey de reyes”? (Apoc. 17:14).",
-        "references": "Apoc. 17:14",
-        "directAnswer": "Significa que Jesús posee la autoridad suprema sobre todos los demás gobernantes humanos, siendo el Rey designado por Jehová para ejecutar el juicio y establecer el Reino.",
-        "deepAnswer": "El título 'Rey de reyes' posiciona a Jesús por encima de toda autoridad terrestre. En el tiempo señalado por Dios, él encabezará los ejércitos celestiales para vencer a los poderes mundanos que se oponen a la soberanía de Jehová. Su reinado no es temporal ni limitado, sino que es la autoridad máxima que prevalecerá hasta que todo enemigo, incluida la muerte, sea destruido.",
-        "shortAnswer": "Significa que Jesús tiene autoridad superior sobre todo gobierno humano y es el Rey designado por Dios."
-      },
-      {
-        "id": "10A_q29_f",
-        "question": "¿De qué manera actúa Jesús como “Príncipe de Paz”? (Is. 9:6).",
-        "references": "Is. 9:6",
-        "directAnswer": "Jesús es el 'Príncipe de Paz' porque bajo su reinado eliminará las causas de la violencia y el sufrimiento, estableciendo una paz duradera en toda la tierra.",
-        "deepAnswer": "Como 'Príncipe de Paz', el gobierno de Jesús traerá la tranquilidad que los seres humanos han buscado en vano. Su administración no solo promueve la armonía entre las personas, sino también entre la humanidad y Dios. Bajo su Reino, las tensiones internacionales, el odio y la guerra desaparecerán para siempre, cumpliendo la profecía de que la paz de su gobierno no tendrá fin.",
-        "shortAnswer": "Actúa trayendo paz verdadera y permanente a la humanidad bajo su gobierno."
-      },
-      {
-        "id": "10A_q29_g",
-        "question": "¿Cómo ayuda a los cristianos el papel de Jesús como “Maravilloso Consejero”? (Is. 9:6).",
-        "references": "Is. 9:6",
-        "directAnswer": "Nos ayuda porque Jesús posee sabiduría divina perfecta para guiarnos, aconsejarnos y enseñarnos el camino que conduce a la vida.",
-        "deepAnswer": "Jesús es el 'Maravilloso Consejero' porque su sabiduría proviene directamente de su Padre, Jehová. Durante su ministerio terrestre demostró una capacidad única para entender las necesidades humanas y dar dirección exacta ante cualquier problema. Hoy, a través de su Palabra y el alimento espiritual que proporciona, sigue dándonos el mejor consejo posible para tomar decisiones sabias que agraden a Dios.",
-        "shortAnswer": "Nos guía con sabiduría divina para que tomemos las mejores decisiones en nuestra vida."
+        "id": "10A_q29",
+        "question": "¿En qué debes tener fe para recibir la vida eterna? (Hech. 4:10, 12). Otros títulos que la Biblia usa para Jesús:",
+        "references": "Is. 9:6; Juan 6:68",
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "10A_q29_a",
+            "question": "¿En qué debes tener fe para recibir la vida eterna? (Hech. 4:10, 12).",
+            "references": "Hech. 4:10, 12; Juan 6:68",
+            "directAnswer": "Para recibir la vida eterna, debemos ejercer fe en el nombre de Jesucristo y en su papel fundamental como el único medio de salvación provisto por Jehová.",
+            "deepAnswer": "De acuerdo con Hechos 4:12, no existe otro nombre bajo el cielo mediante el cual podamos ser salvos. Para beneficiarnos de la promesa de la vida eterna, es vital que demostremos fe en el sacrificio redentor de Jesús, reconociendo que él es el único medio que Jehová ha dispuesto para la salvación de la humanidad. Como indicaron los apóstoles, al aceptar su nombre y autoridad, alineamos nuestra vida con las palabras de Juan 6:68, reconociendo que solo Jesús tiene 'palabras de vida eterna'.",
+            "shortAnswer": "Debemos tener fe en el nombre de Jesús y en su papel clave en el propósito de Jehová para salvarnos."
+          },
+          {
+            "id": "10A_q29_b",
+            "question": "¿Qué nos enseña sobre Jesús el título bíblico “El Amén”? (Apoc. 3:14).",
+            "references": "Apoc. 3:14",
+            "directAnswer": "Este título indica que Jesús es la confirmación y garantía absoluta de que todas las promesas de Dios son verdaderas y se cumplirán sin falta.",
+            "deepAnswer": "Al llamar a Jesús 'el Amén', las Escrituras resaltan su papel como el testigo fiel y verdadero. Así como usamos la palabra 'amén' para confirmar nuestra convicción en una oración, Jesús es la 'confirmación' viviente de los propósitos de Jehová. Él garantiza con su vida y lealtad que todo lo que Dios ha declarado se hará realidad, siendo él el instrumento principal mediante el cual se validan las promesas divinas.",
+            "shortAnswer": "Nos enseña que Jesús es la garantía viviente de que las promesas de Dios son verdaderas y seguras."
+          },
+          {
+            "id": "10A_q29_c",
+            "question": "¿Por qué se le llama a Jesús “Padre Eterno”? (Is. 9:6).",
+            "references": "Is. 9:6",
+            "directAnswer": "Se le llama 'Padre Eterno' porque tiene el poder y la autoridad para dar vida eterna a los seres humanos obedientes mediante su sacrificio.",
+            "deepAnswer": "Aunque Jesús no es el 'Dios Todopoderoso' (el Padre de Jesús), se le denomina 'Padre Eterno' en un sentido funcional. Él es el medio por el cual los humanos recuperan la vida que Adán perdió. Gracias a su sacrificio, Jesús se convierte en la fuente de vida para la humanidad, ofreciendo la oportunidad de vivir para siempre bajo su gobernación, lo que lo acredita como un padre que da vida de manera permanente.",
+            "shortAnswer": "Porque él es el medio mediante el cual los seres humanos pueden recibir vida eterna."
+          },
+          {
+            "id": "10A_q29_d",
+            "question": "¿Qué papel desempeña Jesús como “Sumo sacerdote”? (Heb. 3:1; 9:13, 14, 25, 26).",
+            "references": "Heb. 3:1; 9:13, 14, 25, 26",
+            "deepAnswer": "Como Sumo Sacerdote, Jesús cumple una labor mediadora superior a la del sacerdocio antiguo. Él ofreció su propio sacrificio perfecto una sola vez y para siempre, lo cual tiene el poder real de limpiar nuestra conciencia de obras muertas. Ahora, desde el cielo, él intercede por nosotros, ayudándonos a acercarnos a Dios con confianza y asegurándose de que el beneficio de su rescate se aplique a los cristianos fieles.",
+            "directAnswer": "Jesús es nuestro Sumo Sacerdote que intercede ante Dios y aplica el valor de su sacrificio perfecto para limpiarnos y reconciliarnos con Jehová.",
+            "shortAnswer": "Jesús actúa como mediador ante Dios, usando su sacrificio para limpiarnos y ayudarnos."
+          },
+          {
+            "id": "10A_q29_e",
+            "question": "¿Qué significa que Jesús sea el “Rey de reyes”? (Apoc. 17:14).",
+            "references": "Apoc. 17:14",
+            "directAnswer": "Significa que Jesús posee la autoridad suprema sobre todos los demás gobernantes humanos, siendo el Rey designado por Jehová para ejecutar el juicio y establecer el Reino.",
+            "deepAnswer": "El título 'Rey de reyes' posiciona a Jesús por encima de toda autoridad terrestre. En el tiempo señalado por Dios, él encabezará los ejércitos celestiales para vencer a los poderes mundanos que se oponen a la soberanía de Jehová. Su reinado no es temporal ni limitado, sino que es la autoridad máxima que prevalecerá hasta que todo enemigo, incluida la muerte, sea destruido.",
+            "shortAnswer": "Significa que Jesús tiene autoridad superior sobre todo gobierno humano y es el Rey designado por Dios."
+          },
+          {
+            "id": "10A_q29_f",
+            "question": "¿De qué manera actúa Jesús como “Príncipe de Paz”? (Is. 9:6).",
+            "references": "Is. 9:6",
+            "directAnswer": "Jesús es el 'Príncipe de Paz' porque bajo su reinado eliminará las causas de la violencia y el sufrimiento, estableciendo una paz duradera en toda la tierra.",
+            "deepAnswer": "Como 'Príncipe de Paz', el gobierno de Jesús traerá la tranquilidad que los seres humanos han buscado en vano. Su administración no solo promueve la armonía entre las personas, sino también entre la humanidad y Dios. Bajo su Reino, las tensiones internacionales, el odio y la guerra desaparecerán para siempre, cumpliendo la profecía de que la paz de su gobierno no tendrá fin.",
+            "shortAnswer": "Actúa trayendo paz verdadera y permanente a la humanidad bajo su gobierno."
+          },
+          {
+            "id": "10A_q29_g",
+            "question": "¿Cómo ayuda a los cristianos el papel de Jesús como “Maravilloso Consejero”? (Is. 9:6).",
+            "references": "Is. 9:6",
+            "directAnswer": "Nos ayuda porque Jesús posee sabiduría divina perfecta para guiarnos, aconsejarnos y enseñarnos el camino que conduce a la vida.",
+            "deepAnswer": "Jesús es el 'Maravilloso Consejero' porque su sabiduría proviene directamente de su Padre, Jehová. Durante su ministerio terrestre demostró una capacidad única para entender las necesidades humanas y dar dirección exacta ante cualquier problema. Hoy, a través de su Palabra y el alimento espiritual que proporciona, sigue dándonos el mejor consejo posible para tomar decisiones sabias que agraden a Dios.",
+            "shortAnswer": "Nos guía con sabiduría divina para que tomemos las mejores decisiones en nuestra vida."
+          }
+        ]
       }
     ],
     "image": "pioneer_studying.png",
@@ -4311,28 +4154,38 @@ const lessonsData = [
         "shortAnswer": "Porque las leyes solo exigen cumplimiento externo, mientras que los principios demandan madurez espiritual y autoexamen."
       },
       {
-        "id": "10B_q4_a",
-        "question": "¿Cómo nos beneficia pensar en principios al tomar decisiones? (Heb. 6:1; w18.06 pág. 19 párr. 16).",
-        "references": "Heb. 6:1; w18.06 pág. 19 párr. 16",
-        "directAnswer": "Pensar en principios nos ayuda a avanzar hacia la madurez espiritual, permitiéndonos tomar decisiones sabias que agradan a Jehová incluso en situaciones donde no hay una ley específica.",
-        "deepAnswer": "Conforme avanzamos hacia la madurez (Heb. 6:1), los principios bíblicos se convierten en nuestra guía interna. Mientras que las leyes son reglas específicas para situaciones determinadas, los principios son verdades fundamentales que revelan la forma de pensar de Jehová. Entenderlos nos permite moldear nuestra conciencia para actuar de manera que honremos a Dios en todas las facetas de la vida, independientemente de si existe una norma explícita para cada caso.",
-        "shortAnswer": "Nos permite actuar por amor a Jehová, tomando decisiones que armonizan con su personalidad en todo momento."
-      },
-      {
-        "id": "10B_q4_b",
-        "question": "Da ejemplos de principios que encuentres en leyes bíblicas (w16.03 pág. 20 párr. 8; w13 15/8 pág. 6 párr. 15).",
-        "references": "w16.03 pág. 20 párr. 8; w13 15/8 pág. 6 párr. 15",
-        "directAnswer": "Un ejemplo es el mandato sobre construir una barandilla en el techo (Deut. 22:8), que encierra el principio de que valoramos la vida humana y somos responsables de la seguridad de los demás.",
-        "deepAnswer": "Al analizar leyes como la de construir una barandilla en el techo (Deut. 22:8), identificamos el principio de la <strong>responsabilidad y el respeto por la vida</strong>. Este principio trasciende el contexto histórico y nos motiva a mantener en buen estado nuestro vehículo o casa, así como a evitar prácticas que pongan en peligro la integridad física o espiritual de nuestros hermanos y del prójimo. Entender el 'porqué' detrás de la ley nos ayuda a aplicar la sabiduría divina en situaciones modernas.",
-        "shortAnswer": "El principio de valorar la vida y la seguridad ajena, aplicable hoy en nuestra conducta y entorno."
-      },
-      {
-        "id": "10B_q4_c",
-        "question": "Da ejemplos de principios que encuentres en enseñanzas bíblicas, como el rescate o la vida eterna en un paraíso en la Tierra.",
+        "id": "10B_q4",
+        "question": "¿Cómo nos beneficia pensar en principios al tomar decisiones? (Heb. 6:1; w18.06 pág. 19 párr. 16). Da ejemplos de principios que encuentres en...",
         "references": "",
-        "directAnswer": "El rescate nos enseña el principio de la justicia perfecta y el amor abnegado, mientras que la promesa del Paraíso nos enseña el valor de la perseverancia y la esperanza.",
-        "deepAnswer": "Las enseñanzas doctrinales fundamentales contienen principios vitales para nuestra conducta. Por ejemplo, el rescate encierra el principio de la <strong>justicia perfecta y el amor abnegado de Jehová</strong>, lo cual debe impulsarnos a perdonar de buena gana a otros tal como Dios nos perdonó a nosotros (Col. 3:13). Por otro lado, la enseñanza de la vida eterna en el Paraíso nos enseña el principio de la <strong>prioridad del Reino</strong>, animándonos a invertir nuestro tiempo y energía en lo que tiene valor duradero en lugar de buscar beneficios temporales en el presente sistema.",
-        "shortAnswer": "El principio del amor abnegado, el perdón y la prioridad de los intereses del Reino."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "10B_q4_a",
+            "question": "¿Cómo nos beneficia pensar en principios al tomar decisiones? (Heb. 6:1; w18.06 pág. 19 párr. 16).",
+            "references": "Heb. 6:1; w18.06 pág. 19 párr. 16",
+            "directAnswer": "Pensar en principios nos ayuda a avanzar hacia la madurez espiritual, permitiéndonos tomar decisiones sabias que agradan a Jehová incluso en situaciones donde no hay una ley específica.",
+            "deepAnswer": "Conforme avanzamos hacia la madurez (Heb. 6:1), los principios bíblicos se convierten en nuestra guía interna. Mientras que las leyes son reglas específicas para situaciones determinadas, los principios son verdades fundamentales que revelan la forma de pensar de Jehová. Entenderlos nos permite moldear nuestra conciencia para actuar de manera que honremos a Dios en todas las facetas de la vida, independientemente de si existe una norma explícita para cada caso.",
+            "shortAnswer": "Nos permite actuar por amor a Jehová, tomando decisiones que armonizan con su personalidad en todo momento."
+          },
+          {
+            "id": "10B_q4_b",
+            "question": "Da ejemplos de principios que encuentres en leyes bíblicas (w16.03 pág. 20 párr. 8; w13 15/8 pág. 6 párr. 15).",
+            "references": "w16.03 pág. 20 párr. 8; w13 15/8 pág. 6 párr. 15",
+            "directAnswer": "Un ejemplo es el mandato sobre construir una barandilla en el techo (Deut. 22:8), que encierra el principio de que valoramos la vida humana y somos responsables de la seguridad de los demás.",
+            "deepAnswer": "Al analizar leyes como la de construir una barandilla en el techo (Deut. 22:8), identificamos el principio de la <strong>responsabilidad y el respeto por la vida</strong>. Este principio trasciende el contexto histórico y nos motiva a mantener en buen estado nuestro vehículo o casa, así como a evitar prácticas que pongan en peligro la integridad física o espiritual de nuestros hermanos y del prójimo. Entender el 'porqué' detrás de la ley nos ayuda a aplicar la sabiduría divina en situaciones modernas.",
+            "shortAnswer": "El principio de valorar la vida y la seguridad ajena, aplicable hoy en nuestra conducta y entorno."
+          },
+          {
+            "id": "10B_q4_c",
+            "question": "Da ejemplos de principios que encuentres en enseñanzas bíblicas, como el rescate o la vida eterna en un paraíso en la Tierra.",
+            "references": "",
+            "directAnswer": "El rescate nos enseña el principio de la justicia perfecta y el amor abnegado, mientras que la promesa del Paraíso nos enseña el valor de la perseverancia y la esperanza.",
+            "deepAnswer": "Las enseñanzas doctrinales fundamentales contienen principios vitales para nuestra conducta. Por ejemplo, el rescate encierra el principio de la <strong>justicia perfecta y el amor abnegado de Jehová</strong>, lo cual debe impulsarnos a perdonar de buena gana a otros tal como Dios nos perdonó a nosotros (Col. 3:13). Por otro lado, la enseñanza de la vida eterna en el Paraíso nos enseña el principio de la <strong>prioridad del Reino</strong>, animándonos a invertir nuestro tiempo y energía en lo que tiene valor duradero en lugar de buscar beneficios temporales en el presente sistema.",
+            "shortAnswer": "El principio del amor abnegado, el perdón y la prioridad de los intereses del Reino."
+          }
+        ]
       },
       {
         "id": "10B_q5",
@@ -4383,28 +4236,38 @@ const lessonsData = [
         "shortAnswer": "Confiar en el criterio del hermano demuestra respeto por su capacidad de razonamiento espiritual."
       },
       {
-        "id": "10B_q11_a",
-        "question": "¿Cómo demostró Abel que sabía “distinguir lo que está bien de lo que está mal”? (Heb. 5:14; Gén. 4:3-5; rr págs. 17-19 párrs. 10-13).",
-        "references": "Heb. 5:14; Gén. 4:3-5; rr págs. 17-19 párrs. 10-13",
-        "directAnswer": "Abel demostró madurez espiritual al discernir que Jehová merecía lo mejor, ofreciendo un sacrificio con la actitud y el valor correctos que agradaron a Dios.",
-        "deepAnswer": "Abel aprendió sobre Jehová observando la creación y reflexionando sobre las promesas divinas. Al discernir que Jehová es un Dios que requiere devoción exclusiva y lo mejor, presentó 'algunas de las primeras crías de sus ovejas y la grasa de ellas'. Su acción reveló una conciencia entrenada por la fe, ya que entendió que no bastaba con ofrecer cualquier cosa, sino que el corazón y la calidad del sacrificio eran lo que distinguía lo correcto ante los ojos del Creador.",
-        "shortAnswer": "Abel demostró discernimiento al ofrecer a Jehová lo mejor de su rebaño con una fe sincera, lo cual fue aceptado por Dios."
-      },
-      {
-        "id": "10B_q11_b",
-        "question": "¿Cómo demostró Noé que sabía “distinguir lo que está bien de lo que está mal”? (Heb. 5:14; Gén. 6:8, 9; 2 Ped. 2:5; rr págs. 19, 20 párrs. 15, 16).",
-        "references": "Heb. 5:14; Gén. 6:8, 9; 2 Ped. 2:5; rr págs. 19, 20 párrs. 15, 16",
-        "directAnswer": "Noé demostró que distinguía lo que estaba bien al mantenerse íntegro en un mundo corrupto y cumplir fielmente su papel como 'predicador de justicia'.",
-        "deepAnswer": "En una época donde la inclinación de los pensamientos de la gente era mala todo el tiempo, Noé 'caminó con el Dios verdadero'. Su madurez le permitió distinguir la diferencia entre la conducta depravada de su generación y los principios justos de Jehová. No solo evitó contaminarse, sino que tuvo el valor de advertir a otros, demostrando que su capacidad de discernimiento estaba alineada con las normas morales de Dios incluso bajo gran presión social.",
-        "shortAnswer": "Noé demostró su madurez al mantenerse sin culpa en medio de una generación corrupta y al cumplir fielmente la voluntad de Dios."
-      },
-      {
-        "id": "10B_q11_c",
-        "question": "¿Cómo demostró Ezequiel que sabía “distinguir lo que está bien de lo que está mal”? (Heb. 5:14; Ezeq. 1:1-3; 2:3-5; rr págs. 23, 24 párrs. 28, 29).",
-        "references": "Heb. 5:14; Ezeq. 1:1-3; 2:3-5; rr págs. 23, 24 párrs. 28, 29",
-        "directAnswer": "Ezequiel demostró su discernimiento al aceptar su difícil comisión y mantenerse firme en la proclamación del mensaje de Jehová, a pesar de ser enviado a un pueblo de 'frente dura'.",
-        "deepAnswer": "Ezequiel entendió que el discernimiento verdadero implica obediencia total, sin importar la respuesta de los demás. Al recibir su comisión de hablar a un pueblo rebelde, comprendió que lo correcto era servir a Jehová antes que ceder al temor a los hombres. Su madurez espiritual se reflejó en su disposición para ser un atalaya, reconociendo que la salvación dependía de que él transmitiera el mensaje divino con exactitud, distinguiendo así la importancia capital de la voluntad de Dios sobre sus propios sentimientos.",
-        "shortAnswer": "Ezequiel demostró madurez al priorizar su comisión divina de advertir a un pueblo rebelde, confiando totalmente en la dirección de Jehová."
+        "id": "10B_q11",
+        "question": "¿Cómo demostraron las siguientes personas que sabían “distinguir lo que está bien de lo que está mal”? (Heb. 5:14).",
+        "references": "Ezeq.1:1-3; 2:3-5; rr págs. 23, 24 párrs. 28, 29",
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "10B_q11_a",
+            "question": "¿Cómo demostró Abel que sabía “distinguir lo que está bien de lo que está mal”? (Heb. 5:14; Gén. 4:3-5; rr págs. 17-19 párrs. 10-13).",
+            "references": "Heb. 5:14; Gén. 4:3-5; rr págs. 17-19 párrs. 10-13",
+            "directAnswer": "Abel demostró madurez espiritual al discernir que Jehová merecía lo mejor, ofreciendo un sacrificio con la actitud y el valor correctos que agradaron a Dios.",
+            "deepAnswer": "Abel aprendió sobre Jehová observando la creación y reflexionando sobre las promesas divinas. Al discernir que Jehová es un Dios que requiere devoción exclusiva y lo mejor, presentó 'algunas de las primeras crías de sus ovejas y la grasa de ellas'. Su acción reveló una conciencia entrenada por la fe, ya que entendió que no bastaba con ofrecer cualquier cosa, sino que el corazón y la calidad del sacrificio eran lo que distinguía lo correcto ante los ojos del Creador.",
+            "shortAnswer": "Abel demostró discernimiento al ofrecer a Jehová lo mejor de su rebaño con una fe sincera, lo cual fue aceptado por Dios."
+          },
+          {
+            "id": "10B_q11_b",
+            "question": "¿Cómo demostró Noé que sabía “distinguir lo que está bien de lo que está mal”? (Heb. 5:14; Gén. 6:8, 9; 2 Ped. 2:5; rr págs. 19, 20 párrs. 15, 16).",
+            "references": "Heb. 5:14; Gén. 6:8, 9; 2 Ped. 2:5; rr págs. 19, 20 párrs. 15, 16",
+            "directAnswer": "Noé demostró que distinguía lo que estaba bien al mantenerse íntegro en un mundo corrupto y cumplir fielmente su papel como 'predicador de justicia'.",
+            "deepAnswer": "En una época donde la inclinación de los pensamientos de la gente era mala todo el tiempo, Noé 'caminó con el Dios verdadero'. Su madurez le permitió distinguir la diferencia entre la conducta depravada de su generación y los principios justos de Jehová. No solo evitó contaminarse, sino que tuvo el valor de advertir a otros, demostrando que su capacidad de discernimiento estaba alineada con las normas morales de Dios incluso bajo gran presión social.",
+            "shortAnswer": "Noé demostró su madurez al mantenerse sin culpa en medio de una generación corrupta y al cumplir fielmente la voluntad de Dios."
+          },
+          {
+            "id": "10B_q11_c",
+            "question": "¿Cómo demostró Ezequiel que sabía “distinguir lo que está bien de lo que está mal”? (Heb. 5:14; Ezeq. 1:1-3; 2:3-5; rr págs. 23, 24 párrs. 28, 29).",
+            "references": "Heb. 5:14; Ezeq. 1:1-3; 2:3-5; rr págs. 23, 24 párrs. 28, 29",
+            "directAnswer": "Ezequiel demostró su discernimiento al aceptar su difícil comisión y mantenerse firme en la proclamación del mensaje de Jehová, a pesar de ser enviado a un pueblo de 'frente dura'.",
+            "deepAnswer": "Ezequiel entendió que el discernimiento verdadero implica obediencia total, sin importar la respuesta de los demás. Al recibir su comisión de hablar a un pueblo rebelde, comprendió que lo correcto era servir a Jehová antes que ceder al temor a los hombres. Su madurez espiritual se reflejó en su disposición para ser un atalaya, reconociendo que la salvación dependía de que él transmitiera el mensaje divino con exactitud, distinguiendo así la importancia capital de la voluntad de Dios sobre sus propios sentimientos.",
+            "shortAnswer": "Ezequiel demostró madurez al priorizar su comisión divina de advertir a un pueblo rebelde, confiando totalmente en la dirección de Jehová."
+          }
+        ]
       },
       {
         "id": "10B_q12",
@@ -4439,84 +4302,94 @@ const lessonsData = [
         "shortAnswer": "El amor genuino a Jehová nos hace ver sus leyes como protección, no como límites que debamos saltar."
       },
       {
-        "id": "10B_q16_a",
-        "question": "¿En qué principios bíblicos te basarías para decidir si vas a hablar con un hermano sobre algo que te molesta de él?",
-        "references": "Mateo 18:15; Efesios 4:26, 32",
-        "directAnswer": "Te basarías en el principio de buscar la paz, hablar con amor y humildad, y aplicar el consejo de perdonar generosamente tal como Dios nos perdona.",
-        "deepAnswer": "Al abordar una molestia personal, debemos recordar el consejo de Jesús en Mateo 18:15 de hablar con el hermano 'a solas'. La meta no es descargar nuestra frustración, sino ganar a nuestro hermano. Debemos orar por el espíritu correcto para no actuar bajo la ira (Efesios 4:26) y abordar el asunto con el fin de fortalecer la unidad de la congregación, siendo siempre 'bondadosos y compasivos'.",
-        "shortAnswer": "Basarse en el principio de abordar el problema directamente con amor, humildad y con el deseo de perdonar para preservar la paz."
-      },
-      {
-        "id": "10B_q16_b",
-        "question": "¿En qué principios bíblicos te basarías para decidir si vas a asistir a la boda de tu estudiante de la Biblia?",
-        "references": "1 Corintios 10:31; 2 Corintios 6:14",
-        "directAnswer": "Te basarías en principios de conciencia, asegurándote de que la ceremonia no incluya ritos o costumbres contrarias a las enseñanzas bíblicas y que tu presencia no comprometa tu integridad cristiana.",
-        "deepAnswer": "La decisión debe sopesar si el evento reflejará la gloria de Dios (1 Corintios 10:31). Debemos analizar si el entorno y las actividades planeadas son compatibles con los valores de un siervo de Jehová. Si la ceremonia se realiza en un lugar de culto falso o incluye prácticas contrarias a la Biblia, nuestra asistencia podría interpretarse como una aprobación de esas prácticas.",
-        "shortAnswer": "Basarse en el principio de mantener la integridad y asegurar que el evento sea digno y agradable a Jehová."
-      },
-      {
-        "id": "10B_q16_c",
-        "question": "¿En qué principios bíblicos te basarías para decidir si vas a usar las redes sociales?",
-        "references": "Salmo 119:37; Efesios 5:15, 16",
-        "directAnswer": "Te basarías en el principio de la sabiduría y el uso prudente del tiempo, cuidando de no exponer tu mente a contenido inmoral o dañino y evitando el abuso de esta herramienta.",
-        "deepAnswer": "Las redes sociales pueden ser herramientas útiles pero también trampas peligrosas. Debemos aplicar el principio de 'caminar con prudencia', comprando el tiempo necesario para las actividades espirituales. Pregúntate: ¿Qué tipo de información comparto? ¿Me hace perder el tiempo o me expone a influencias mundanas? Debemos proteger nuestro corazón y ojos de lo que es vano o moralmente inaceptable (Salmo 119:37).",
-        "shortAnswer": "Basarse en la prudencia, el uso sabio del tiempo y la protección de la pureza mental."
-      },
-      {
-        "id": "10B_q16_d",
-        "question": "¿En qué principios bíblicos te basarías para decidir si vas a irte a vivir a otro lugar?",
-        "references": "Lucas 14:28; Mateo 6:33",
-        "directAnswer": "Te basarías en el principio de priorizar el Reino de Dios y analizar las consecuencias espirituales y prácticas de dicho cambio.",
-        "deepAnswer": "Antes de mudarse, uno debe 'calcular los gastos', no solo en sentido económico, sino espiritual. ¿Habrá congregación cerca? ¿Podré mantener mi rutina de adoración? Si la mudanza se hace buscando beneficios materiales pero a costa de perder la guía de la congregación, se estaría descuidando el principio de 'buscar primero el Reino' (Mateo 6:33).",
-        "shortAnswer": "Basarse en la prioridad de los intereses del Reino y la disponibilidad de apoyo espiritual en el nuevo lugar."
-      },
-      {
-        "id": "10B_q16_e",
-        "question": "¿En qué principios bíblicos te basarías para decidir si vas a aceptar cierto empleo?",
-        "references": "1 Timoteo 6:8-10; Proverbios 10:22",
-        "directAnswer": "Te basarías en el principio de buscar un trabajo que no viole leyes divinas, que no sea deshonesto y que te deje suficiente tiempo para las actividades teocráticas.",
-        "deepAnswer": "Debemos evitar empleos que requieran participar en actividades ilícitas, inmorales o que promuevan la idolatría. Además, el principio de estar contentos con 'comida y ropa' nos protege de la codicia (1 Timoteo 6:8). Es vital considerar si el horario del empleo me permitirá asistir fielmente a las reuniones y participar en la predicación sin sacrificar mi equilibrio espiritual.",
-        "shortAnswer": "Basarse en principios de honestidad, equilibrio y el respeto por el tiempo dedicado al servicio de Jehová."
-      },
-      {
-        "id": "10B_q16_f",
-        "question": "¿En qué principios bíblicos te basarías para decidir si vas a continuar o retomar tus estudios seglares?",
-        "references": "Filipenses 1:10; Eclesiastés 12:1",
-        "directAnswer": "Te basarías en el principio de asegurarse de 'las cosas más importantes', evaluando si los estudios interferirán con tu dedicación a Jehová y tus metas espirituales.",
-        "deepAnswer": "El conocimiento puede ser útil, pero debe estar subordinado a las metas espirituales. Hay que analizar el costo-beneficio eterno: ¿Acaso este estudio me alejará de las reuniones o del ministerio? Se debe recordar el consejo de 'acordarse del Creador en los días de juventud' (Eclesiastés 12:1), asegurándonos de que cualquier formación académica no se convierta en un obstáculo para la dedicación plena al servicio sagrado.",
-        "shortAnswer": "Basarse en asegurar que las metas espirituales tengan prioridad absoluta sobre los deseos de progreso académico."
-      },
-      {
-        "id": "10B_q16_g",
-        "question": "¿En qué principios bíblicos te basarías para decidir si vas a aceptar un ascenso en el trabajo?",
-        "references": "Mateo 16:26; 1 Timoteo 6:9",
-        "directAnswer": "Te basarías en el principio de evaluar si el ascenso conlleva una carga de trabajo o responsabilidades que comprometan tu vida espiritual y tu relación con Jehová.",
-        "deepAnswer": "A menudo, un ascenso laboral viene acompañado de más estrés, horas extras y menos tiempo para la familia y la congregación. Debemos reflexionar en la pregunta: '¿De qué le sirve al hombre ganar el mundo entero si pierde su alma?' (Mateo 16:26). La decisión debe favorecer la paz mental y la capacidad de seguir sirviendo a Jehová con celo.",
-        "shortAnswer": "Basarse en el principio de no sacrificar la espiritualidad ni la paz de la congregación por mejoras materiales."
-      },
-      {
-        "id": "10B_q16_h",
-        "question": "¿En qué principios bíblicos te basarías para decidir si vas a vestirte o arreglarte de cierta forma?",
-        "references": "1 Timoteo 2:9, 10; 1 Corintios 10:31",
-        "directAnswer": "Te basarías en los principios de modestia, buen juicio y el deseo de no escandalizar a los demás, reflejando siempre dignidad en nuestra apariencia.",
-        "deepAnswer": "Nuestra apariencia personal es una carta de presentación de nuestra fe. La Biblia enseña que debemos adornarnos con 'modestia y buen juicio' (1 Timoteo 2:9). Debemos preguntarnos: ¿Esta vestimenta es apropiada para la adoración a Jehová? ¿Llama la atención indebida sobre mí mismo? Todo lo que hacemos debe servir para glorificar a Dios y no para atraer críticas innecesarias a la congregación.",
-        "shortAnswer": "Basarse en los principios de modestia, dignidad y el deseo de no ser motivo de tropiezo."
-      },
-      {
-        "id": "10B_q16_i",
-        "question": "¿En qué principios bíblicos te basarías para decidir si vas a asistir a una reunión social?",
-        "references": "1 Corintios 15:33; Gálatas 5:19-21",
-        "directAnswer": "Te basarías en el principio de seleccionar bien las compañías y asegurarse de que el ambiente no fomente conductas contrarias a los principios bíblicos.",
-        "deepAnswer": "Las 'malas compañías echan a perder los buenos hábitos' (1 Corintios 15:33). Antes de asistir, evalúa: ¿Qué tipo de personas estarán allí? ¿Qué actividades se realizarán? Si la reunión es un ambiente de libertinaje o excesos que Jehová detesta, debemos tener la firmeza cristiana para declinar la invitación y proteger nuestra espiritualidad.",
-        "shortAnswer": "Basarse en el principio de evitar las malas compañías y proteger los buenos hábitos cristianos."
-      },
-      {
-        "id": "10B_q16_j",
-        "question": "¿En qué principios bíblicos te basarías para decidir si vas a dejar el precursorado?",
-        "references": "Hebreos 6:10; Salmo 37:25",
-        "directAnswer": "Te basarías en el principio de valorar el servicio sagrado, confiando en que Jehová no olvida tu obra y recordando la importancia de mantener la lealtad bajo cualquier circunstancia.",
-        "deepAnswer": "El precursorado es un privilegio precioso. Al considerar dejarlo, uno debe analizar si las razones son genuinas o si se trata de un desánimo temporal. Debemos recordar que 'Dios no es injusto' y que él valora profundamente los sacrificios realizados en su servicio (Hebreos 6:10). Es fundamental pedir sabiduría en oración y consultar con hermanos maduros antes de tomar una decisión que impacta nuestro servicio a Jehová.",
-        "shortAnswer": "Basarse en la importancia de valorar el servicio sagrado y buscar guía divina ante cualquier cambio en el ministerio."
+        "id": "10B_q16",
+        "question": "¿En qué principios bíblicos te basarías para decidir si vas a...",
+        "references": "",
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "10B_q16_a",
+            "question": "¿En qué principios bíblicos te basarías para decidir si vas a hablar con un hermano sobre algo que te molesta de él?",
+            "references": "Mateo 18:15; Efesios 4:26, 32",
+            "directAnswer": "Te basarías en el principio de buscar la paz, hablar con amor y humildad, y aplicar el consejo de perdonar generosamente tal como Dios nos perdona.",
+            "deepAnswer": "Al abordar una molestia personal, debemos recordar el consejo de Jesús en Mateo 18:15 de hablar con el hermano 'a solas'. La meta no es descargar nuestra frustración, sino ganar a nuestro hermano. Debemos orar por el espíritu correcto para no actuar bajo la ira (Efesios 4:26) y abordar el asunto con el fin de fortalecer la unidad de la congregación, siendo siempre 'bondadosos y compasivos'.",
+            "shortAnswer": "Basarse en el principio de abordar el problema directamente con amor, humildad y con el deseo de perdonar para preservar la paz."
+          },
+          {
+            "id": "10B_q16_b",
+            "question": "¿En qué principios bíblicos te basarías para decidir si vas a asistir a la boda de tu estudiante de la Biblia?",
+            "references": "1 Corintios 10:31; 2 Corintios 6:14",
+            "directAnswer": "Te basarías en principios de conciencia, asegurándote de que la ceremonia no incluya ritos o costumbres contrarias a las enseñanzas bíblicas y que tu presencia no comprometa tu integridad cristiana.",
+            "deepAnswer": "La decisión debe sopesar si el evento reflejará la gloria de Dios (1 Corintios 10:31). Debemos analizar si el entorno y las actividades planeadas son compatibles con los valores de un siervo de Jehová. Si la ceremonia se realiza en un lugar de culto falso o incluye prácticas contrarias a la Biblia, nuestra asistencia podría interpretarse como una aprobación de esas prácticas.",
+            "shortAnswer": "Basarse en el principio de mantener la integridad y asegurar que el evento sea digno y agradable a Jehová."
+          },
+          {
+            "id": "10B_q16_c",
+            "question": "¿En qué principios bíblicos te basarías para decidir si vas a usar las redes sociales?",
+            "references": "Salmo 119:37; Efesios 5:15, 16",
+            "directAnswer": "Te basarías en el principio de la sabiduría y el uso prudente del tiempo, cuidando de no exponer tu mente a contenido inmoral o dañino y evitando el abuso de esta herramienta.",
+            "deepAnswer": "Las redes sociales pueden ser herramientas útiles pero también trampas peligrosas. Debemos aplicar el principio de 'caminar con prudencia', comprando el tiempo necesario para las actividades espirituales. Pregúntate: ¿Qué tipo de información comparto? ¿Me hace perder el tiempo o me expone a influencias mundanas? Debemos proteger nuestro corazón y ojos de lo que es vano o moralmente inaceptable (Salmo 119:37).",
+            "shortAnswer": "Basarse en la prudencia, el uso sabio del tiempo y la protección de la pureza mental."
+          },
+          {
+            "id": "10B_q16_d",
+            "question": "¿En qué principios bíblicos te basarías para decidir si vas a irte a vivir a otro lugar?",
+            "references": "Lucas 14:28; Mateo 6:33",
+            "directAnswer": "Te basarías en el principio de priorizar el Reino de Dios y analizar las consecuencias espirituales y prácticas de dicho cambio.",
+            "deepAnswer": "Antes de mudarse, uno debe 'calcular los gastos', no solo en sentido económico, sino espiritual. ¿Habrá congregación cerca? ¿Podré mantener mi rutina de adoración? Si la mudanza se hace buscando beneficios materiales pero a costa de perder la guía de la congregación, se estaría descuidando el principio de 'buscar primero el Reino' (Mateo 6:33).",
+            "shortAnswer": "Basarse en la prioridad de los intereses del Reino y la disponibilidad de apoyo espiritual en el nuevo lugar."
+          },
+          {
+            "id": "10B_q16_e",
+            "question": "¿En qué principios bíblicos te basarías para decidir si vas a aceptar cierto empleo?",
+            "references": "1 Timoteo 6:8-10; Proverbios 10:22",
+            "directAnswer": "Te basarías en el principio de buscar un trabajo que no viole leyes divinas, que no sea deshonesto y que te deje suficiente tiempo para las actividades teocráticas.",
+            "deepAnswer": "Debemos evitar empleos que requieran participar en actividades ilícitas, inmorales o que promuevan la idolatría. Además, el principio de estar contentos con 'comida y ropa' nos protege de la codicia (1 Timoteo 6:8). Es vital considerar si el horario del empleo me permitirá asistir fielmente a las reuniones y participar en la predicación sin sacrificar mi equilibrio espiritual.",
+            "shortAnswer": "Basarse en principios de honestidad, equilibrio y el respeto por el tiempo dedicado al servicio de Jehová."
+          },
+          {
+            "id": "10B_q16_f",
+            "question": "¿En qué principios bíblicos te basarías para decidir si vas a continuar o retomar tus estudios seglares?",
+            "references": "Filipenses 1:10; Eclesiastés 12:1",
+            "directAnswer": "Te basarías en el principio de asegurarse de 'las cosas más importantes', evaluando si los estudios interferirán con tu dedicación a Jehová y tus metas espirituales.",
+            "deepAnswer": "El conocimiento puede ser útil, pero debe estar subordinado a las metas espirituales. Hay que analizar el costo-beneficio eterno: ¿Acaso este estudio me alejará de las reuniones o del ministerio? Se debe recordar el consejo de 'acordarse del Creador en los días de juventud' (Eclesiastés 12:1), asegurándonos de que cualquier formación académica no se convierta en un obstáculo para la dedicación plena al servicio sagrado.",
+            "shortAnswer": "Basarse en asegurar que las metas espirituales tengan prioridad absoluta sobre los deseos de progreso académico."
+          },
+          {
+            "id": "10B_q16_g",
+            "question": "¿En qué principios bíblicos te basarías para decidir si vas a aceptar un ascenso en el trabajo?",
+            "references": "Mateo 16:26; 1 Timoteo 6:9",
+            "directAnswer": "Te basarías en el principio de evaluar si el ascenso conlleva una carga de trabajo o responsabilidades que comprometan tu vida espiritual y tu relación con Jehová.",
+            "deepAnswer": "A menudo, un ascenso laboral viene acompañado de más estrés, horas extras y menos tiempo para la familia y la congregación. Debemos reflexionar en la pregunta: '¿De qué le sirve al hombre ganar el mundo entero si pierde su alma?' (Mateo 16:26). La decisión debe favorecer la paz mental y la capacidad de seguir sirviendo a Jehová con celo.",
+            "shortAnswer": "Basarse en el principio de no sacrificar la espiritualidad ni la paz de la congregación por mejoras materiales."
+          },
+          {
+            "id": "10B_q16_h",
+            "question": "¿En qué principios bíblicos te basarías para decidir si vas a vestirte o arreglarte de cierta forma?",
+            "references": "1 Timoteo 2:9, 10; 1 Corintios 10:31",
+            "directAnswer": "Te basarías en los principios de modestia, buen juicio y el deseo de no escandalizar a los demás, reflejando siempre dignidad en nuestra apariencia.",
+            "deepAnswer": "Nuestra apariencia personal es una carta de presentación de nuestra fe. La Biblia enseña que debemos adornarnos con 'modestia y buen juicio' (1 Timoteo 2:9). Debemos preguntarnos: ¿Esta vestimenta es apropiada para la adoración a Jehová? ¿Llama la atención indebida sobre mí mismo? Todo lo que hacemos debe servir para glorificar a Dios y no para atraer críticas innecesarias a la congregación.",
+            "shortAnswer": "Basarse en los principios de modestia, dignidad y el deseo de no ser motivo de tropiezo."
+          },
+          {
+            "id": "10B_q16_i",
+            "question": "¿En qué principios bíblicos te basarías para decidir si vas a asistir a una reunión social?",
+            "references": "1 Corintios 15:33; Gálatas 5:19-21",
+            "directAnswer": "Te basarías en el principio de seleccionar bien las compañías y asegurarse de que el ambiente no fomente conductas contrarias a los principios bíblicos.",
+            "deepAnswer": "Las 'malas compañías echan a perder los buenos hábitos' (1 Corintios 15:33). Antes de asistir, evalúa: ¿Qué tipo de personas estarán allí? ¿Qué actividades se realizarán? Si la reunión es un ambiente de libertinaje o excesos que Jehová detesta, debemos tener la firmeza cristiana para declinar la invitación y proteger nuestra espiritualidad.",
+            "shortAnswer": "Basarse en el principio de evitar las malas compañías y proteger los buenos hábitos cristianos."
+          },
+          {
+            "id": "10B_q16_j",
+            "question": "¿En qué principios bíblicos te basarías para decidir si vas a dejar el precursorado?",
+            "references": "Hebreos 6:10; Salmo 37:25",
+            "directAnswer": "Te basarías en el principio de valorar el servicio sagrado, confiando en que Jehová no olvida tu obra y recordando la importancia de mantener la lealtad bajo cualquier circunstancia.",
+            "deepAnswer": "El precursorado es un privilegio precioso. Al considerar dejarlo, uno debe analizar si las razones son genuinas o si se trata de un desánimo temporal. Debemos recordar que 'Dios no es injusto' y que él valora profundamente los sacrificios realizados en su servicio (Hebreos 6:10). Es fundamental pedir sabiduría en oración y consultar con hermanos maduros antes de tomar una decisión que impacta nuestro servicio a Jehová.",
+            "shortAnswer": "Basarse en la importancia de valorar el servicio sagrado y buscar guía divina ante cualquier cambio en el ministerio."
+          }
+        ]
       },
       {
         "id": "10B_q17",
@@ -5249,20 +5122,12 @@ const lessonsData = [
         "shortAnswer": "Sí, porque el interés de la persona es más importante que dejar una publicación."
       },
       {
-        "id": "11B_q24_a",
-        "question": "Por lo general, ¿por qué es bueno volver en uno o dos días?",
+        "id": "11B_q24",
+        "question": "Por lo general, ¿por qué es bueno volver en uno o dos días? Cuenta cómo te ha ido cuando has puesto en práctica esta sugerencia con alguien que mostró interés. EXPERIENCIA: Una hermana tiene la costumbre de quedar en volver a visitar a la gente lo antes posible. Pero, uno o dos días antes de la cita, les lleva una revista que trate sobre el tema del que habían hablado, y les dice: “Vi este artículo y pensé que le podría gustar. No puedo quedarme para hablar ahora, pero volveré el..., como quedamos.",
         "references": "",
         "directAnswer": "Es bueno volver pronto para mantener fresca la conversación y demostrar que nuestro interés por ellos es sincero.",
-        "deepAnswer": "Regresar en uno o dos días permite aprovechar el impulso del interés inicial. Al realizar una visita breve, demostramos que realmente valoramos el tiempo de la persona y que nuestra prioridad es nutrir la semilla de la verdad que se plantó, lo cual ayuda a edificar confianza y facilita que el dueño de casa nos recuerde con agrado.",
+        "deepAnswer": "Regresar en uno o dos días permite aprovechar el impulso del interés inicial. Al llevar un artículo relacionado con lo que hablamos antes, demostramos que realmente escuchamos a la persona, lo cual ayuda a edificar confianza y facilita que el dueño de casa nos recuerde con agrado.",
         "shortAnswer": "Volver pronto mantiene vivo el interés y fortalece la conexión con la persona."
-      },
-      {
-        "id": "11B_q24_b",
-        "question": "Cuenta cómo te ha ido cuando has puesto en práctica la sugerencia de llevar un artículo relevante antes de la cita prevista. EXPERIENCIA: Una hermana tiene la costumbre de quedar en volver a visitar a la gente lo antes posible. Pero, uno o dos días antes de la cita, les lleva una revista que trate sobre el tema del que habían hablado, y les dice: “Vi este artículo y pensé que le podría gustar. No puedo quedarme para hablar ahora, pero volveré el..., como quedamos.",
-        "references": "",
-        "directAnswer": "Al llevar un artículo específico que refuerza nuestra conversación anterior, demostramos un interés personalizado y genuino en la persona.",
-        "deepAnswer": "Esta estrategia es muy efectiva porque elimina la barrera de ser un extraño que llega a tocar a la puerta. Al entregar un artículo relacionado con el tema de interés antes de la visita formal, le enviamos el mensaje al dueño de casa de que hemos estado pensando en él. Esto aumenta la curiosidad y la disposición del amo de casa para la conversación que tendremos en la fecha acordada.<br><br><strong>Experiencia:</strong> La experiencia de la hermana subraya un principio teocrático fundamental: el interés genuino en el prójimo. Al usar la táctica de entregar un artículo de forma breve, la hermana no solo cumple con su palabra de volver, sino que demuestra organización y amor. Esto enseña que, cuando mostramos que valoramos la conversación de la persona incluso en los detalles, la receptividad al mensaje del Reino aumenta significativamente.",
-        "shortAnswer": "Llevar un artículo antes de la cita sirve como un puente que demuestra interés real y facilita una acogida más cálida en la visita posterior."
       },
       {
         "id": "11B_q25",
@@ -5289,44 +5154,54 @@ const lessonsData = [
         "shortAnswer": "No te rindas; intenta en otro horario y mantén siempre el enfoque bíblico."
       },
       {
-        "id": "11B_q28_a",
-        "question": "¿Cómo puede ayudarte a conseguir tu objetivo final contestar una pregunta con la Biblia?",
+        "id": "11B_q28",
+        "question": "¿Cómo pueden ayudarte los siguientes pasos a conseguir tu objetivo final?",
         "references": "",
-        "directAnswer": "Contestar con la Biblia ayuda a que la persona vea que nuestro mensaje tiene una autoridad divina, lo que es esencial para su progreso espiritual.",
-        "deepAnswer": "Al utilizar la Biblia para responder a las preguntas del amo de casa, le enseñamos que Jehová es la fuente de la verdad. Esto establece un fundamento sólido para su fe y demuestra que nuestras enseñanzas no son opiniones personales, sino consejos inspirados por Dios. Este es un paso clave para que la persona aprenda a confiar en las Escrituras para tomar decisiones en su vida.",
-        "shortAnswer": "Da autoridad divina a nuestras enseñanzas y enseña a la persona a confiar en la Biblia."
-      },
-      {
-        "id": "11B_q28_b",
-        "question": "¿Cómo puede ayudarte a conseguir tu objetivo final ofrecer ciertas publicaciones o mostrar un video que le puedan interesar a la persona?",
-        "references": "",
-        "directAnswer": "Los videos y publicaciones ayudan a visualizar el mensaje y a despertar el interés por temas bíblicos específicos.",
-        "deepAnswer": "El uso de recursos audiovisuales o impresos es muy eficaz porque apela a los sentidos y facilita la comprensión de verdades profundas. Al elegir un material que responda a una inquietud real del amo de casa, le ayudamos a ver la relevancia práctica del mensaje de la Biblia en su vida diaria, facilitando así la transición hacia un estudio bíblico formal.",
-        "shortAnswer": "Hacen que el mensaje sea más comprensible y estimulan el interés por profundizar en temas bíblicos."
-      },
-      {
-        "id": "11B_q28_c",
-        "question": "¿Cómo puede ayudarte a conseguir tu objetivo final analizar un párrafo de uno de los manuales de estudio?",
-        "references": "",
-        "directAnswer": "Analizar un párrafo permite demostrar lo sencillo y provechoso que es aprender de la Biblia mediante nuestros métodos de enseñanza.",
-        "deepAnswer": "Este paso permite que la persona experimente de primera mano cómo funciona un curso bíblico. Al analizar juntos un párrafo de nuestros manuales, quitamos el posible temor a lo desconocido y le mostramos que el estudio es una actividad sencilla, interactiva y muy gratificante. Es un método excelente para demostrar que progresar espiritualmente está al alcance de cualquiera.",
-        "shortAnswer": "Permite que la persona experimente la sencillez y el valor de nuestra metodología de enseñanza."
-      },
-      {
-        "id": "11B_q28_d",
-        "question": "¿Cómo puede ayudarte a conseguir tu objetivo final ofrecer un curso bíblico?",
-        "references": "",
-        "directAnswer": "Ofrecer un curso bíblico es el paso directo para cumplir nuestra labor de hacer discípulos y ayudar a la persona a acercarse a Jehová.",
-        "deepAnswer": "El objetivo final de nuestro ministerio es ayudar a las personas a convertirse en discípulos de Cristo. Ofrecer un curso bíblico estructurado es la herramienta principal para lograrlo, ya que permite un estudio sistemático de las Escrituras. Al dedicar tiempo regular para analizar la Biblia, ayudamos a la persona a fortalecer su fe, hacer cambios en su vida y, finalmente, dar los pasos necesarios hacia la dedicación y el bautismo.",
-        "shortAnswer": "Es el medio fundamental para hacer discípulos y ayudar a la persona a progresar hacia el bautismo."
-      },
-      {
-        "id": "11B_q28_e",
-        "question": "¿Cómo puede ayudarte a conseguir tu objetivo final la revisita?",
-        "references": "",
-        "directAnswer": "La revisita es la oportunidad clave para cultivar el interés inicial y fortalecer la relación con la persona.",
-        "deepAnswer": "La revisita es el proceso de alimentar la semilla de la verdad que se plantó en el contacto inicial. Sin un seguimiento constante, el interés puede desvanecerse. Al regresar, demostramos un interés genuino en la persona y continuamos edificando sobre lo que ya hemos hablado, lo cual es indispensable para profundizar su entendimiento y motivarla a seguir aprendiendo sobre Jehová.",
-        "shortAnswer": "Es el seguimiento necesario para cultivar el interés y consolidar el aprendizaje continuo."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "11B_q28_a",
+            "question": "¿Cómo puede ayudarte a conseguir tu objetivo final contestar una pregunta con la Biblia?",
+            "references": "",
+            "directAnswer": "Contestar con la Biblia ayuda a que la persona vea que nuestro mensaje tiene una autoridad divina, lo que es esencial para su progreso espiritual.",
+            "deepAnswer": "Al utilizar la Biblia para responder a las preguntas del amo de casa, le enseñamos que Jehová es la fuente de la verdad. Esto establece un fundamento sólido para su fe y demuestra que nuestras enseñanzas no son opiniones personales, sino consejos inspirados por Dios. Este es un paso clave para que la persona aprenda a confiar en las Escrituras para tomar decisiones en su vida.",
+            "shortAnswer": "Da autoridad divina a nuestras enseñanzas y enseña a la persona a confiar en la Biblia."
+          },
+          {
+            "id": "11B_q28_b",
+            "question": "¿Cómo puede ayudarte a conseguir tu objetivo final ofrecer ciertas publicaciones o mostrar un video que le puedan interesar a la persona?",
+            "references": "",
+            "directAnswer": "Los videos y publicaciones ayudan a visualizar el mensaje y a despertar el interés por temas bíblicos específicos.",
+            "deepAnswer": "El uso de recursos audiovisuales o impresos es muy eficaz porque apela a los sentidos y facilita la comprensión de verdades profundas. Al elegir un material que responda a una inquietud real del amo de casa, le ayudamos a ver la relevancia práctica del mensaje de la Biblia en su vida diaria, facilitando así la transición hacia un estudio bíblico formal.",
+            "shortAnswer": "Hacen que el mensaje sea más comprensible y estimulan el interés por profundizar en temas bíblicos."
+          },
+          {
+            "id": "11B_q28_c",
+            "question": "¿Cómo puede ayudarte a conseguir tu objetivo final analizar un párrafo de uno de los manuales de estudio?",
+            "references": "",
+            "directAnswer": "Analizar un párrafo permite demostrar lo sencillo y provechoso que es aprender de la Biblia mediante nuestros métodos de enseñanza.",
+            "deepAnswer": "Este paso permite que la persona experimente de primera mano cómo funciona un curso bíblico. Al analizar juntos un párrafo de nuestros manuales, quitamos el posible temor a lo desconocido y le mostramos que el estudio es una actividad sencilla, interactiva y muy gratificante. Es un método excelente para demostrar que progresar espiritualmente está al alcance de cualquiera.",
+            "shortAnswer": "Permite que la persona experimente la sencillez y el valor de nuestra metodología de enseñanza."
+          },
+          {
+            "id": "11B_q28_d",
+            "question": "¿Cómo puede ayudarte a conseguir tu objetivo final ofrecer un curso bíblico?",
+            "references": "",
+            "directAnswer": "Ofrecer un curso bíblico es el paso directo para cumplir nuestra labor de hacer discípulos y ayudar a la persona a acercarse a Jehová.",
+            "deepAnswer": "El objetivo final de nuestro ministerio es ayudar a las personas a convertirse en discípulos de Cristo. Ofrecer un curso bíblico estructurado es la herramienta principal para lograrlo, ya que permite un estudio sistemático de las Escrituras. Al dedicar tiempo regular para analizar la Biblia, ayudamos a la persona a fortalecer su fe, hacer cambios en su vida y, finalmente, dar los pasos necesarios hacia la dedicación y el bautismo.",
+            "shortAnswer": "Es el medio fundamental para hacer discípulos y ayudar a la persona a progresar hacia el bautismo."
+          },
+          {
+            "id": "11B_q28_e",
+            "question": "¿Cómo puede ayudarte a conseguir tu objetivo final la revisita?",
+            "references": "",
+            "directAnswer": "La revisita es la oportunidad clave para cultivar el interés inicial y fortalecer la relación con la persona.",
+            "deepAnswer": "La revisita es el proceso de alimentar la semilla de la verdad que se plantó en el contacto inicial. Sin un seguimiento constante, el interés puede desvanecerse. Al regresar, demostramos un interés genuino en la persona y continuamos edificando sobre lo que ya hemos hablado, lo cual es indispensable para profundizar su entendimiento y motivarla a seguir aprendiendo sobre Jehová.",
+            "shortAnswer": "Es el seguimiento necesario para cultivar el interés y consolidar el aprendizaje continuo."
+          }
+        ]
       },
       {
         "id": "11B_q29",
@@ -5369,44 +5244,54 @@ const lessonsData = [
         "shortAnswer": "Escuchar con respeto y hablar con naturalidad genera confianza en el mensaje bíblico."
       },
       {
-        "id": "11B_q34_a",
-        "question": "¿Por qué deberías recordar que estás de visita al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
+        "id": "11B_q34",
+        "question": "¿Por qué deberías seguir estas recomendaciones? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10).",
         "references": "Filip. 1:27",
-        "directAnswer": "Recordar que estamos de visita nos ayuda a mostrar respeto por el dueño de casa y su tiempo, evitando ser intrusivos.",
-        "deepAnswer": "Debemos portarnos de una manera digna de las buenas nuevas (Filip. 1:27). Ser conscientes de que somos invitados en la propiedad ajena nos ayuda a cultivar una actitud humilde y cortés. Esto demuestra que valoramos a las personas como individuos y no solo como objetivos de predicación, lo cual abre puertas para un testimonio más eficaz.",
-        "shortAnswer": "Nos ayuda a tratar al amo de casa con el respeto y la cortesía que merece un anfitrión."
-      },
-      {
-        "id": "11B_q34_b",
-        "question": "¿Por qué deberías agradecer que te reciban al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
-        "references": "Filip. 1:27",
-        "directAnswer": "Agradecer que nos reciban muestra gratitud por su tiempo y ayuda a derribar prejuicios negativos.",
-        "deepAnswer": "La cortesía es un reflejo de nuestra personalidad cristiana. Al agradecer que nos permitan hablar, suavizamos el ambiente y demostramos que somos personas razonables. Esto 'adorna' la enseñanza de Dios, pues la gente está más dispuesta a escuchar a quienes se muestran amables y agradecidos por su atención.",
-        "shortAnswer": "La gratitud abre corazones y demuestra que valoramos sinceramente el tiempo del prójimo."
-      },
-      {
-        "id": "11B_q34_c",
-        "question": "¿Por qué deberías ir bien arreglado al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
-        "references": "Filip. 1:27",
-        "directAnswer": "Nuestra apariencia bien arreglada demuestra respeto por el mensaje, por Dios y por la persona a la que visitamos.",
-        "deepAnswer": "Como representantes del Reino de Dios, nuestra imagen comunica qué tan serio es nuestro mensaje. Una presentación limpia y ordenada evita distracciones y permite que la gente se enfoque en la Biblia en lugar de en nuestra apariencia. Es una forma práctica de seguir el consejo de portarnos de una manera digna de las buenas nuevas.",
-        "shortAnswer": "La buena presencia dignifica el mensaje y muestra respeto hacia quienes nos observan."
-      },
-      {
-        "id": "11B_q34_d",
-        "question": "¿Por qué deberías ser puntual al predicar? (jr pág. 38 párr. 14; w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
-        "references": "Filip. 1:27",
-        "directAnswer": "La puntualidad demuestra que somos personas organizadas y que respetamos el tiempo del amo de casa.",
-        "deepAnswer": "Al ser puntuales en nuestras citas de revisita o con los compañeros de predicación, mostramos que somos confiables. La falta de puntualidad puede dar una mala impresión y causar que las personas pierdan interés en nuestro mensaje, pues sugiere que no valoramos los compromisos que hacemos.",
-        "shortAnswer": "Ser puntual refleja seriedad y respeto por el tiempo ajeno, cualidades esenciales de un cristiano."
-      },
-      {
-        "id": "11B_q34_e",
-        "question": "¿Por qué deberías respetar a la persona y su propiedad al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
-        "references": "Filip. 1:27",
-        "directAnswer": "El respeto a la propiedad y a la persona es fundamental para que el mensaje no sea rechazado por nuestra conducta.",
-        "deepAnswer": "No debemos poner 'ningún obstáculo al ministerio'. Esto incluye cuidar no pisar jardines, no bloquear entradas ni ser invasivos con nuestra presencia. Si somos respetuosos con su entorno, el amo de casa percibirá nuestra integridad, lo cual es vital para que nuestras palabras tengan peso y credibilidad ante la comunidad.",
-        "shortAnswer": "El respeto evita obstáculos innecesarios y nos permite dar un testimonio coherente con los valores bíblicos."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "11B_q34_a",
+            "question": "¿Por qué deberías recordar que estás de visita al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
+            "references": "Filip. 1:27",
+            "directAnswer": "Recordar que estamos de visita nos ayuda a mostrar respeto por el dueño de casa y su tiempo, evitando ser intrusivos.",
+            "deepAnswer": "Debemos portarnos de una manera digna de las buenas nuevas (Filip. 1:27). Ser conscientes de que somos invitados en la propiedad ajena nos ayuda a cultivar una actitud humilde y cortés. Esto demuestra que valoramos a las personas como individuos y no solo como objetivos de predicación, lo cual abre puertas para un testimonio más eficaz.",
+            "shortAnswer": "Nos ayuda a tratar al amo de casa con el respeto y la cortesía que merece un anfitrión."
+          },
+          {
+            "id": "11B_q34_b",
+            "question": "¿Por qué deberías agradecer que te reciban al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
+            "references": "Filip. 1:27",
+            "directAnswer": "Agradecer que nos reciban muestra gratitud por su tiempo y ayuda a derribar prejuicios negativos.",
+            "deepAnswer": "La cortesía es un reflejo de nuestra personalidad cristiana. Al agradecer que nos permitan hablar, suavizamos el ambiente y demostramos que somos personas razonables. Esto 'adorna' la enseñanza de Dios, pues la gente está más dispuesta a escuchar a quienes se muestran amables y agradecidos por su atención.",
+            "shortAnswer": "La gratitud abre corazones y demuestra que valoramos sinceramente el tiempo del prójimo."
+          },
+          {
+            "id": "11B_q34_c",
+            "question": "¿Por qué deberías ir bien arreglado al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
+            "references": "Filip. 1:27",
+            "directAnswer": "Nuestra apariencia bien arreglada demuestra respeto por el mensaje, por Dios y por la persona a la que visitamos.",
+            "deepAnswer": "Como representantes del Reino de Dios, nuestra imagen comunica qué tan serio es nuestro mensaje. Una presentación limpia y ordenada evita distracciones y permite que la gente se enfoque en la Biblia en lugar de en nuestra apariencia. Es una forma práctica de seguir el consejo de portarnos de una manera digna de las buenas nuevas.",
+            "shortAnswer": "La buena presencia dignifica el mensaje y muestra respeto hacia quienes nos observan."
+          },
+          {
+            "id": "11B_q34_d",
+            "question": "¿Por qué deberías ser puntual al predicar? (jr pág. 38 párr. 14; w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
+            "references": "Filip. 1:27",
+            "directAnswer": "La puntualidad demuestra que somos personas organizadas y que respetamos el tiempo del amo de casa.",
+            "deepAnswer": "Al ser puntuales en nuestras citas de revisita o con los compañeros de predicación, mostramos que somos confiables. La falta de puntualidad puede dar una mala impresión y causar que las personas pierdan interés en nuestro mensaje, pues sugiere que no valoramos los compromisos que hacemos.",
+            "shortAnswer": "Ser puntual refleja seriedad y respeto por el tiempo ajeno, cualidades esenciales de un cristiano."
+          },
+          {
+            "id": "11B_q34_e",
+            "question": "¿Por qué deberías respetar a la persona y su propiedad al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
+            "references": "Filip. 1:27",
+            "directAnswer": "El respeto a la propiedad y a la persona es fundamental para que el mensaje no sea rechazado por nuestra conducta.",
+            "deepAnswer": "No debemos poner 'ningún obstáculo al ministerio'. Esto incluye cuidar no pisar jardines, no bloquear entradas ni ser invasivos con nuestra presencia. Si somos respetuosos con su entorno, el amo de casa percibirá nuestra integridad, lo cual es vital para que nuestras palabras tengan peso y credibilidad ante la comunidad.",
+            "shortAnswer": "El respeto evita obstáculos innecesarios y nos permite dar un testimonio coherente con los valores bíblicos."
+          }
+        ]
       },
       {
         "id": "11B_q35",
@@ -5425,60 +5310,70 @@ const lessonsData = [
         "shortAnswer": "Repasar lo anterior da continuidad y muestra interés personal."
       },
       {
-        "id": "11B_q37_a",
-        "question": "¿Por qué es esencial interesarte de verdad en las personas al hacer revisitas?",
+        "id": "11B_q37",
+        "question": "¿Por qué son esenciales estos factores al hacer revisitas?",
         "references": "",
-        "directAnswer": "Porque el interés genuino refleja el amor de Jehová y ayuda a que la persona se sienta valorada y más receptiva al mensaje bíblico.",
-        "deepAnswer": "Cuando demostramos un interés sincero, imitamos a Jesús, quien no veía a las personas solo como números, sino como individuos con necesidades espirituales. Esto construye una base de confianza que es fundamental para que la persona abra su corazón a las verdades de la Biblia.",
-        "shortAnswer": "El interés genuino construye confianza y refleja el amor de Dios."
-      },
-      {
-        "id": "11B_q37_b",
-        "question": "¿Por qué es esencial elegir un tema bíblico que llame la atención al hacer revisitas?",
-        "references": "",
-        "directAnswer": "Porque un tema relevante despierta la curiosidad y demuestra que la Biblia tiene respuestas prácticas para los problemas actuales de la persona.",
-        "deepAnswer": "Al elegir un tema que conecte con los intereses o inquietudes de nuestro interlocutor, hacemos que el mensaje bíblico sea irresistible. Esto cumple con la exhortación de ser hábiles maestros que presentan la Palabra de Dios de una manera que llegue al corazón.",
-        "shortAnswer": "Un tema relevante despierta el deseo de aprender más de la Biblia."
-      },
-      {
-        "id": "11B_q37_c",
-        "question": "¿Por qué es esencial preparar el terreno para cada una de las siguientes visitas al hacer revisitas?",
-        "references": "",
-        "directAnswer": "Porque dejar una pregunta abierta o un punto de intriga crea una razón lógica y natural para volver a conversar.",
-        "deepAnswer": "La preparación del terreno consiste en dejar a la persona con ganas de saber más. Al planificar el cierre de una conversación dejando un hilo conductor hacia la siguiente, convertimos un encuentro casual en un proceso de enseñanza progresiva.",
-        "shortAnswer": "Asegura la continuidad del interés y facilita la siguiente visita."
-      },
-      {
-        "id": "11B_q37_d",
-        "question": "¿Por qué es esencial seguir pensando en la persona después de irte al hacer revisitas?",
-        "references": "",
-        "directAnswer": "Porque nos permite orar específicamente por ella y planificar mejor cómo adaptarnos a sus necesidades espirituales en la próxima visita.",
-        "deepAnswer": "El cuidado pastoral no termina cuando nos despedimos. Al meditar en lo que la persona dijo y sentir preocupación por su bienestar espiritual, demostramos que nuestro ministerio es un acto de amor, lo cual nos motiva a ser constantes y cuidadosos en nuestra labor.",
-        "shortAnswer": "Permite una atención personalizada y demuestra preocupación real."
-      },
-      {
-        "id": "11B_q37_e",
-        "question": "¿Por qué es esencial volver un día o dos más tarde para cultivar el interés al hacer revisitas?",
-        "references": "",
-        "directAnswer": "Porque volver pronto mantiene el mensaje fresco en la mente de la persona y aprovecha el entusiasmo inicial antes de que otras preocupaciones lo desplacen.",
-        "deepAnswer": "La rapidez en el seguimiento es clave para evitar que el adversario 'robe la semilla'. Al visitar pronto, demostramos que valoramos el tiempo y el progreso espiritual de la persona, lo que ayuda a que el interés inicial se convierta en una convicción firme.",
-        "shortAnswer": "Aprovecha el momento oportuno para evitar que el interés se enfríe."
-      },
-      {
-        "id": "11B_q37_f",
-        "question": "¿Por qué es esencial recordar que tu objetivo es empezar un curso bíblico al hacer revisitas?",
-        "references": "",
-        "directAnswer": "Porque nos ayuda a mantener nuestro ministerio enfocado y con propósito, asegurándonos de que cada revisita sea un paso hacia la meta de hacer discípulos.",
-        "deepAnswer": "Tener claro el objetivo no significa presionar, sino dirigir nuestras conversaciones hacia el estudio de las Escrituras. Recordar este objetivo nos da la confianza para ofrecer el curso bíblico, que es el medio principal por el que Jehová enseña a las personas el camino a la vida eterna.",
-        "shortAnswer": "Da propósito a nuestras visitas y nos enfoca en hacer discípulos."
-      },
-      {
-        "id": "11B_q37_g",
-        "question": "A la hora de empezar cursos bíblicos, ¿por qué es valioso ofrecerlos directamente frente a otros métodos como conversar un poco y leer textos?",
-        "references": "",
-        "directAnswer": "Cada método es útil, pero ofrecer el curso directamente establece claramente la intención del ministerio desde el principio, ayudando a quienes desean aprender más a identificar el recurso disponible.",
-        "deepAnswer": "Mientras que algunos prefieren entablar conversaciones breves para generar confianza, ofrecer el curso directamente es una forma valiente de mostrar que estamos listos para enseñar. La clave es la flexibilidad: usar el enfoque que mejor se adapte a la receptividad de la persona, manteniendo siempre el objetivo de establecer el estudio.",
-        "shortAnswer": "Ambos métodos son herramientas valiosas; el objetivo es encontrar el que mejor ayude a la persona a comenzar a aprender."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "11B_q37_a",
+            "question": "¿Por qué es esencial interesarte de verdad en las personas al hacer revisitas?",
+            "references": "",
+            "directAnswer": "Porque el interés genuino refleja el amor de Jehová y ayuda a que la persona se sienta valorada y más receptiva al mensaje bíblico.",
+            "deepAnswer": "Cuando demostramos un interés sincero, imitamos a Jesús, quien no veía a las personas solo como números, sino como individuos con necesidades espirituales. Esto construye una base de confianza que es fundamental para que la persona abra su corazón a las verdades de la Biblia.",
+            "shortAnswer": "El interés genuino construye confianza y refleja el amor de Dios."
+          },
+          {
+            "id": "11B_q37_b",
+            "question": "¿Por qué es esencial elegir un tema bíblico que llame la atención al hacer revisitas?",
+            "references": "",
+            "directAnswer": "Porque un tema relevante despierta la curiosidad y demuestra que la Biblia tiene respuestas prácticas para los problemas actuales de la persona.",
+            "deepAnswer": "Al elegir un tema que conecte con los intereses o inquietudes de nuestro interlocutor, hacemos que el mensaje bíblico sea irresistible. Esto cumple con la exhortación de ser hábiles maestros que presentan la Palabra de Dios de una manera que llegue al corazón.",
+            "shortAnswer": "Un tema relevante despierta el deseo de aprender más de la Biblia."
+          },
+          {
+            "id": "11B_q37_c",
+            "question": "¿Por qué es esencial preparar el terreno para cada una de las siguientes visitas al hacer revisitas?",
+            "references": "",
+            "directAnswer": "Porque dejar una pregunta abierta o un punto de intriga crea una razón lógica y natural para volver a conversar.",
+            "deepAnswer": "La preparación del terreno consiste en dejar a la persona con ganas de saber más. Al planificar el cierre de una conversación dejando un hilo conductor hacia la siguiente, convertimos un encuentro casual en un proceso de enseñanza progresiva.",
+            "shortAnswer": "Asegura la continuidad del interés y facilita la siguiente visita."
+          },
+          {
+            "id": "11B_q37_d",
+            "question": "¿Por qué es esencial seguir pensando en la persona después de irte al hacer revisitas?",
+            "references": "",
+            "directAnswer": "Porque nos permite orar específicamente por ella y planificar mejor cómo adaptarnos a sus necesidades espirituales en la próxima visita.",
+            "deepAnswer": "El cuidado pastoral no termina cuando nos despedimos. Al meditar en lo que la persona dijo y sentir preocupación por su bienestar espiritual, demostramos que nuestro ministerio es un acto de amor, lo cual nos motiva a ser constantes y cuidadosos en nuestra labor.",
+            "shortAnswer": "Permite una atención personalizada y demuestra preocupación real."
+          },
+          {
+            "id": "11B_q37_e",
+            "question": "¿Por qué es esencial volver un día o dos más tarde para cultivar el interés al hacer revisitas?",
+            "references": "",
+            "directAnswer": "Porque volver pronto mantiene el mensaje fresco en la mente de la persona y aprovecha el entusiasmo inicial antes de que otras preocupaciones lo desplacen.",
+            "deepAnswer": "La rapidez en el seguimiento es clave para evitar que el adversario 'robe la semilla'. Al visitar pronto, demostramos que valoramos el tiempo y el progreso espiritual de la persona, lo que ayuda a que el interés inicial se convierta en una convicción firme.",
+            "shortAnswer": "Aprovecha el momento oportuno para evitar que el interés se enfríe."
+          },
+          {
+            "id": "11B_q37_f",
+            "question": "¿Por qué es esencial recordar que tu objetivo es empezar un curso bíblico al hacer revisitas?",
+            "references": "",
+            "directAnswer": "Porque nos ayuda a mantener nuestro ministerio enfocado y con propósito, asegurándonos de que cada revisita sea un paso hacia la meta de hacer discípulos.",
+            "deepAnswer": "Tener claro el objetivo no significa presionar, sino dirigir nuestras conversaciones hacia el estudio de las Escrituras. Recordar este objetivo nos da la confianza para ofrecer el curso bíblico, que es el medio principal por el que Jehová enseña a las personas el camino a la vida eterna.",
+            "shortAnswer": "Da propósito a nuestras visitas y nos enfoca en hacer discípulos."
+          },
+          {
+            "id": "11B_q37_g",
+            "question": "A la hora de empezar cursos bíblicos, ¿por qué es valioso ofrecerlos directamente frente a otros métodos como conversar un poco y leer textos?",
+            "references": "",
+            "directAnswer": "Cada método es útil, pero ofrecer el curso directamente establece claramente la intención del ministerio desde el principio, ayudando a quienes desean aprender más a identificar el recurso disponible.",
+            "deepAnswer": "Mientras que algunos prefieren entablar conversaciones breves para generar confianza, ofrecer el curso directamente es una forma valiente de mostrar que estamos listos para enseñar. La clave es la flexibilidad: usar el enfoque que mejor se adapte a la receptividad de la persona, manteniendo siempre el objetivo de establecer el estudio.",
+            "shortAnswer": "Ambos métodos son herramientas valiosas; el objetivo es encontrar el que mejor ayude a la persona a comenzar a aprender."
+          }
+        ]
       },
       {
         "id": "11B_q38",
@@ -5689,20 +5584,30 @@ const lessonsData = [
         "shortAnswer": "Te ayuda a tomar decisiones sabias y fructíferas."
       },
       {
-        "id": "12B_q4_a",
-        "question": "¿De qué forma nos ayudan los principios de la Biblia a captar cuál es la voluntad de Jehová?",
+        "id": "12B_q4",
+        "question": "",
         "references": "1 Corintios 9:24",
-        "directAnswer": "Los principios bíblicos nos ayudan a entender la voluntad de Jehová al educar nuestra conciencia y alinearnos con sus justos propósitos y normas divinas.",
-        "deepAnswer": "Al meditar en los principios de la Biblia, aprendemos a pensar como Jehová. A diferencia de las leyes específicas, los principios son verdades fundamentales que nos permiten comprender sus propósitos y sus expectativas en situaciones donde no siempre hay una regla escrita. Esto nos ayuda a tomar decisiones que reflejan la personalidad de Dios y que demuestran nuestra lealtad a su soberanía.",
-        "shortAnswer": "Nos ayudan a pensar como Jehová y a comprender sus propósitos en diversas situaciones."
-      },
-      {
-        "id": "12B_q4_b",
-        "question": "Menciona algunos principios bíblicos que hayan mejorado tu vida espiritual. “Corran de tal modo que lo ganen”.",
-        "references": "1 Corintios 9:24",
-        "directAnswer": "Aplicar principios como el de esforzarse por la meta espiritual, mencionado en 1 Corintios 9:24, nos ayuda a mejorar nuestra vida al darnos enfoque y disciplina.",
-        "deepAnswer": "El principio de 'correr de tal modo que lo ganen' (1 Corintios 9:24) nos enseña que la vida cristiana requiere disciplina, resistencia y un objetivo claro: la vida eterna. Otros principios, como el amor al prójimo, la humildad y la honestidad, mejoran nuestra vida espiritual al eliminar barreras que nos impiden servir a Jehová con un corazón completo. Al aplicar estos principios, nuestra fe se fortalece y nuestra relación con Jehová se hace más profunda.",
-        "shortAnswer": "Principios como el de la autodisciplina y el propósito nos mantienen enfocados en la carrera por la vida."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "12B_q4_a",
+            "question": "¿De qué forma nos ayudan los principios de la Biblia a captar cuál es la voluntad de Jehová?",
+            "references": "1 Corintios 9:24",
+            "directAnswer": "Los principios bíblicos nos ayudan a entender la voluntad de Jehová al educar nuestra conciencia y alinearnos con sus justos propósitos y normas divinas.",
+            "deepAnswer": "Al meditar en los principios de la Biblia, aprendemos a pensar como Jehová. A diferencia de las leyes específicas, los principios son verdades fundamentales que nos permiten comprender sus propósitos y sus expectativas en situaciones donde no siempre hay una regla escrita. Esto nos ayuda a tomar decisiones que reflejan la personalidad de Dios y que demuestran nuestra lealtad a su soberanía.",
+            "shortAnswer": "Nos ayudan a pensar como Jehová y a comprender sus propósitos en diversas situaciones."
+          },
+          {
+            "id": "12B_q4_b",
+            "question": "Menciona algunos principios bíblicos que hayan mejorado tu vida espiritual. “Corran de tal modo que lo ganen”.",
+            "references": "1 Corintios 9:24",
+            "directAnswer": "Aplicar principios como el de esforzarse por la meta espiritual, mencionado en 1 Corintios 9:24, nos ayuda a mejorar nuestra vida al darnos enfoque y disciplina.",
+            "deepAnswer": "El principio de 'correr de tal modo que lo ganen' (1 Corintios 9:24) nos enseña que la vida cristiana requiere disciplina, resistencia y un objetivo claro: la vida eterna. Otros principios, como el amor al prójimo, la humildad y la honestidad, mejoran nuestra vida espiritual al eliminar barreras que nos impiden servir a Jehová con un corazón completo. Al aplicar estos principios, nuestra fe se fortalece y nuestra relación con Jehová se hace más profunda.",
+            "shortAnswer": "Principios como el de la autodisciplina y el propósito nos mantienen enfocados en la carrera por la vida."
+          }
+        ]
       },
       {
         "id": "12B_q5",
@@ -5850,28 +5755,38 @@ const lessonsData = [
         "shortAnswer": "Demostramos amor con acciones prácticas y un interés sincero por los demás."
       },
       {
-        "id": "13A_q7_a",
-        "question": "¿A qué nos obliga “el amor del Cristo”? (2 Cor. 5:14, 15).",
-        "references": "2 Cor. 5:14, 15",
-        "directAnswer": "El amor de Cristo nos motiva a no vivir más para nosotros mismos, sino para servir a Jehová y al prójimo con abnegación.",
-        "deepAnswer": "El apóstol Pablo explica que el amor que Cristo demostró al morir por nosotros es una fuerza poderosa que 'nos obliga' o nos impulsa. Esto significa que, al reconocer el sacrificio de Jesús, nuestra vida cambia de dirección: ya no buscamos nuestros propios intereses, sino que dedicamos nuestra existencia a honrar a Dios y a servir a nuestro prójimo con amor, reflejando así la gratitud por su rescate.",
-        "shortAnswer": "Nos impulsa a vivir para Dios y servir a los demás en lugar de buscar nuestro propio beneficio."
-      },
-      {
-        "id": "13A_q7_b",
-        "question": "¿Qué clase de amor debemos mostrar a nuestros hermanos? (Col. 3:12-17).",
-        "references": "Col. 3:12-17",
-        "directAnswer": "Debemos mostrarnos tiernos, compasivos, bondadosos, humildes, apacibles y pacientes, perdonándonos unos a otros generosamente.",
-        "deepAnswer": "Según Colosenses 3:12-17, nuestro amor por los hermanos se manifiesta vistiéndonos de una nueva personalidad. Esto implica mostrar compasión profunda, bondad, humildad y paciencia. Es vital soportarnos unos a otros y perdonarnos con libertad, tal como Jehová nos perdonó. El vínculo fundamental que une todas estas cualidades es el amor, y todo lo que hagamos debe ser en nombre del Señor Jesús, dando gracias a Dios.",
-        "shortAnswer": "Debemos tratarlos con compasión, bondad, humildad, paciencia y un espíritu perdonador, unidos por el amor."
-      },
-      {
-        "id": "13A_q7_c",
-        "question": "¿Qué clase de amor debemos mostrar al resto de la gente? (Col. 4:5, 6).",
+        "id": "13A_q7",
+        "question": "¿A qué nos obliga “el amor del Cristo”? (2 Cor. 5:14, 15). Di qué clase de amor debemos mostrar:",
         "references": "Col. 4:5, 6",
-        "directAnswer": "Debemos tratarlos con sabiduría, siendo amables y comunicativos, asegurándonos de que nuestras palabras siempre sean agradables y edificantes.",
-        "deepAnswer": "Al interactuar con personas fuera de la congregación, debemos seguir el consejo de 'seguir andando en sabiduría'. Esto significa aprovechar bien el tiempo para dar testimonio y ser estratégicos en nuestra forma de hablar. Nuestras palabras deben estar 'sazonadas con sal', lo que implica ser amables, prudentes y atractivos en nuestra manera de presentar la verdad, para que nuestra respuesta sea siempre la adecuada y refleje el amor cristiano.",
-        "shortAnswer": "Debemos tratarlos con sabiduría, amabilidad y prudencia, aprovechando cada oportunidad para que nuestras palabras sean agradables y útiles."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "13A_q7_a",
+            "question": "¿A qué nos obliga “el amor del Cristo”? (2 Cor. 5:14, 15).",
+            "references": "2 Cor. 5:14, 15",
+            "directAnswer": "El amor de Cristo nos motiva a no vivir más para nosotros mismos, sino para servir a Jehová y al prójimo con abnegación.",
+            "deepAnswer": "El apóstol Pablo explica que el amor que Cristo demostró al morir por nosotros es una fuerza poderosa que 'nos obliga' o nos impulsa. Esto significa que, al reconocer el sacrificio de Jesús, nuestra vida cambia de dirección: ya no buscamos nuestros propios intereses, sino que dedicamos nuestra existencia a honrar a Dios y a servir a nuestro prójimo con amor, reflejando así la gratitud por su rescate.",
+            "shortAnswer": "Nos impulsa a vivir para Dios y servir a los demás en lugar de buscar nuestro propio beneficio."
+          },
+          {
+            "id": "13A_q7_b",
+            "question": "¿Qué clase de amor debemos mostrar a nuestros hermanos? (Col. 3:12-17).",
+            "references": "Col. 3:12-17",
+            "directAnswer": "Debemos mostrarnos tiernos, compasivos, bondadosos, humildes, apacibles y pacientes, perdonándonos unos a otros generosamente.",
+            "deepAnswer": "Según Colosenses 3:12-17, nuestro amor por los hermanos se manifiesta vistiéndonos de una nueva personalidad. Esto implica mostrar compasión profunda, bondad, humildad y paciencia. Es vital soportarnos unos a otros y perdonarnos con libertad, tal como Jehová nos perdonó. El vínculo fundamental que une todas estas cualidades es el amor, y todo lo que hagamos debe ser en nombre del Señor Jesús, dando gracias a Dios.",
+            "shortAnswer": "Debemos tratarlos con compasión, bondad, humildad, paciencia y un espíritu perdonador, unidos por el amor."
+          },
+          {
+            "id": "13A_q7_c",
+            "question": "¿Qué clase de amor debemos mostrar al resto de la gente? (Col. 4:5, 6).",
+            "references": "Col. 4:5, 6",
+            "directAnswer": "Debemos tratarlos con sabiduría, siendo amables y comunicativos, asegurándonos de que nuestras palabras siempre sean agradables y edificantes.",
+            "deepAnswer": "Al interactuar con personas fuera de la congregación, debemos seguir el consejo de 'seguir andando en sabiduría'. Esto significa aprovechar bien el tiempo para dar testimonio y ser estratégicos en nuestra forma de hablar. Nuestras palabras deben estar 'sazonadas con sal', lo que implica ser amables, prudentes y atractivos en nuestra manera de presentar la verdad, para que nuestra respuesta sea siempre la adecuada y refleje el amor cristiano.",
+            "shortAnswer": "Debemos tratarlos con sabiduría, amabilidad y prudencia, aprovechando cada oportunidad para que nuestras palabras sean agradables y útiles."
+          }
+        ]
       },
       {
         "id": "13A_q8",
@@ -6239,36 +6154,46 @@ const lessonsData = [
         "shortAnswer": "Oramos porque dependemos del espíritu de Jehová para tocar el corazón del estudiante."
       },
       {
-        "id": "13B_q18_a",
-        "question": "De la vida, ¿por qué debes fijarte en el título de la lección?",
+        "id": "13B_q18",
+        "question": "De la vida, ¿por qué debes fijarte en...",
         "references": "",
-        "directAnswer": "Debes fijarte en el título de la lección porque este establece la verdad central y el enfoque espiritual que se desarrollará en todo el estudio.",
-        "deepAnswer": "El título de la lección en el libro <em>¡Disfrute de la vida!</em> sirve como un ancla temática. Al analizarlo de antemano, el maestro puede enfocar la conversación en los aspectos más importantes de la verdad bíblica que se trata, asegurándose de que el estudiante comprenda desde el principio cuál es el objetivo de la lección y cómo esta le beneficia personalmente.",
-        "shortAnswer": "El título define el tema central y el propósito espiritual de la lección."
-      },
-      {
-        "id": "13B_q18_b",
-        "question": "De la vida, ¿por qué debes fijarte en los textos con una indicación para que se lean?",
-        "references": "",
-        "directAnswer": "Debes fijarte en los textos indicados porque constituyen la columna vertebral doctrinal y son la base de autoridad para todo lo que aprendemos.",
-        "deepAnswer": "Los textos que tienen una indicación para ser leídos son esenciales porque proporcionan la fuente inspirada de la enseñanza. Al identificarlos, el maestro puede preparar preguntas de análisis que ayuden al estudiante a razonar sobre las Escrituras, permitiendo que sea la Palabra de Dios, y no la opinión del maestro, la que moldee el corazón y la vida del estudiante.",
-        "shortAnswer": "Son la base bíblica fundamental que sustenta las enseñanzas de la lección."
-      },
-      {
-        "id": "13B_q18_c",
-        "question": "De la vida, ¿por qué debes fijarte en las imágenes y los videos?",
-        "references": "",
-        "directAnswer": "Debes fijarte en las imágenes y los videos porque son ayudas visuales diseñadas para hacer que las verdades bíblicas sean más fáciles de asimilar, recordar y sentir.",
-        "deepAnswer": "Las imágenes y los videos apelan a las emociones y a la imaginación del estudiante. Al preparar estas secciones, el maestro puede usar preguntas de reflexión que ayuden al estudiante a visualizarse a sí mismo en las situaciones descritas, lo cual facilita que la verdad bíblica pase de la cabeza al corazón, siendo una herramienta poderosa para la enseñanza dinámica.",
-        "shortAnswer": "Ayudan a visualizar y asimilar profundamente las enseñanzas bíblicas."
-      },
-      {
-        "id": "13B_q18_d",
-        "question": "De la vida, ¿por qué debes fijarte en el resumen, el repaso, el recuadro 'Propóngase esto' y la sección 'Descubra algo más'?",
-        "references": "",
-        "directAnswer": "Debes fijarte en estas secciones finales porque están diseñadas para evaluar la comprensión del estudiante y motivarlo a aplicar activamente lo aprendido en su vida diaria.",
-        "deepAnswer": "El resumen, el repaso y el recuadro 'Propóngase esto' permiten medir cuánto ha asimilado el estudiante y le ayudan a establecer metas teocráticas realistas. Por otro lado, la sección 'Descubra algo más' fomenta el estudio personal y la investigación. Al dominar estas partes, el maestro guía al estudiante a pasar del conocimiento teórico a la acción práctica, fomentando un progreso espiritual constante.",
-        "shortAnswer": "Sirven para evaluar el progreso y motivar al estudiante a aplicar lo aprendido."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "13B_q18_a",
+            "question": "De la vida, ¿por qué debes fijarte en el título de la lección?",
+            "references": "",
+            "directAnswer": "Debes fijarte en el título de la lección porque este establece la verdad central y el enfoque espiritual que se desarrollará en todo el estudio.",
+            "deepAnswer": "El título de la lección en el libro <em>¡Disfrute de la vida!</em> sirve como un ancla temática. Al analizarlo de antemano, el maestro puede enfocar la conversación en los aspectos más importantes de la verdad bíblica que se trata, asegurándose de que el estudiante comprenda desde el principio cuál es el objetivo de la lección y cómo esta le beneficia personalmente.",
+            "shortAnswer": "El título define el tema central y el propósito espiritual de la lección."
+          },
+          {
+            "id": "13B_q18_b",
+            "question": "De la vida, ¿por qué debes fijarte en los textos con una indicación para que se lean?",
+            "references": "",
+            "directAnswer": "Debes fijarte en los textos indicados porque constituyen la columna vertebral doctrinal y son la base de autoridad para todo lo que aprendemos.",
+            "deepAnswer": "Los textos que tienen una indicación para ser leídos son esenciales porque proporcionan la fuente inspirada de la enseñanza. Al identificarlos, el maestro puede preparar preguntas de análisis que ayuden al estudiante a razonar sobre las Escrituras, permitiendo que sea la Palabra de Dios, y no la opinión del maestro, la que moldee el corazón y la vida del estudiante.",
+            "shortAnswer": "Son la base bíblica fundamental que sustenta las enseñanzas de la lección."
+          },
+          {
+            "id": "13B_q18_c",
+            "question": "De la vida, ¿por qué debes fijarte en las imágenes y los videos?",
+            "references": "",
+            "directAnswer": "Debes fijarte en las imágenes y los videos porque son ayudas visuales diseñadas para hacer que las verdades bíblicas sean más fáciles de asimilar, recordar y sentir.",
+            "deepAnswer": "Las imágenes y los videos apelan a las emociones y a la imaginación del estudiante. Al preparar estas secciones, el maestro puede usar preguntas de reflexión que ayuden al estudiante a visualizarse a sí mismo en las situaciones descritas, lo cual facilita que la verdad bíblica pase de la cabeza al corazón, siendo una herramienta poderosa para la enseñanza dinámica.",
+            "shortAnswer": "Ayudan a visualizar y asimilar profundamente las enseñanzas bíblicas."
+          },
+          {
+            "id": "13B_q18_d",
+            "question": "De la vida, ¿por qué debes fijarte en el resumen, el repaso, el recuadro 'Propóngase esto' y la sección 'Descubra algo más'?",
+            "references": "",
+            "directAnswer": "Debes fijarte en estas secciones finales porque están diseñadas para evaluar la comprensión del estudiante y motivarlo a aplicar activamente lo aprendido en su vida diaria.",
+            "deepAnswer": "El resumen, el repaso y el recuadro 'Propóngase esto' permiten medir cuánto ha asimilado el estudiante y le ayudan a establecer metas teocráticas realistas. Por otro lado, la sección 'Descubra algo más' fomenta el estudio personal y la investigación. Al dominar estas partes, el maestro guía al estudiante a pasar del conocimiento teórico a la acción práctica, fomentando un progreso espiritual constante.",
+            "shortAnswer": "Sirven para evaluar el progreso y motivar al estudiante a aplicar lo aprendido."
+          }
+        ]
       },
       {
         "id": "13B_q19",
@@ -6468,44 +6393,54 @@ const lessonsData = [
         "shortAnswer": "Las comparaciones de Jesús revelaban la actitud del corazón y grababan las verdades del Reino en la memoria de los sinceros."
       },
       {
-        "id": "14A_q13_a",
-        "question": "¿Cómo puedes usar las comparaciones con tu estudiante para captar su atención?",
+        "id": "14A_q13",
+        "question": "¿Cómo las puedes usar con tu estudiante para...",
         "references": "",
-        "directAnswer": "Podemos usar comparaciones centradas en aspectos de la creación o situaciones cotidianas que despierten de inmediato la curiosidad y el interés del estudiante.",
-        "deepAnswer": "Para captar la atención de un estudiante, es fundamental elegir comparaciones que le resulten familiares y sorprendentes a la vez. Al presentar una comparación que vincula un hecho sencillo de la vida diaria con una verdad bíblica, el estudiante siente que el tema es relevante para él. Esto logra que su mente se enfoque, dejando de lado las distracciones y preparándolo para asimilar una enseñanza espiritual más profunda.",
-        "shortAnswer": "Usando comparaciones cotidianas o de la creación que generen curiosidad inmediata."
-      },
-      {
-        "id": "14A_q13_b",
-        "question": "¿Cómo puedes usar las comparaciones con tu estudiante para hacerlo pensar?",
-        "references": "",
-        "directAnswer": "Podemos formular comparaciones que requieran que el estudiante analice las causas y efectos, fomentando así la reflexión personal.",
-        "deepAnswer": "Para ayudar al estudiante a pensar, las comparaciones deben actuar como un espejo. Debemos plantear analogías que inviten al estudiante a deducir conclusiones lógicas. Al comparar, por ejemplo, la necesidad de cuidar una planta con el cultivo de la espiritualidad, no solo le damos la respuesta, sino que le permitimos conectar puntos y llegar a sus propias conclusiones, lo cual fortalece su fe y su capacidad de razonamiento.",
-        "shortAnswer": "Planteando analogías que inviten al estudiante a deducir principios lógicos y llegar a sus propias conclusiones."
-      },
-      {
-        "id": "14A_q13_c",
-        "question": "¿Cómo puedes usar las comparaciones con tu estudiante para llegarle al corazón y despertar su conciencia?",
-        "references": "",
-        "directAnswer": "Podemos emplear ejemplos emotivos que toquen sus sentimientos personales y le ayuden a evaluar sus acciones ante los ojos de Dios.",
-        "deepAnswer": "Las comparaciones que apelan al corazón son aquellas que conectan la verdad bíblica con las emociones más profundas del estudiante, como el amor a la familia, el sentido de justicia o la gratitud. Al usar una analogía que resalte el amor de Jehová, ayudamos a que el estudiante no solo comprenda una norma, sino que sienta el deseo de complacer a Dios. Esto estimula su conciencia, motivándole a realizar cambios necesarios desde adentro hacia afuera.<br><br><strong>Experiencia:</strong> Tu estudiante no se atreve a hablar con otros de lo que está aprendiendo. Podrías ayudarle a ver la importancia de hacerlo con un ejemplo. Podrías decirle: “Si usted viera a alguien ahogándose, ¿no intentaría salvarlo aunque le diera un poco de miedo acercarse al agua? Compartir las buenas nuevas es igual; al hablar con otros, estamos ayudando a personas a salvar su vida”. Esta comparación traslada la urgencia de una situación física a una espiritual, ayudando al estudiante a superar el temor al hombre mediante el amor al prójimo.",
-        "shortAnswer": "Usando analogías conmovedoras que conecten la verdad bíblica con sus valores y sentimientos personales."
-      },
-      {
-        "id": "14A_q13_d",
-        "question": "¿Cómo puedes usar las comparaciones con tu estudiante para ayudarle a recordar una enseñanza?",
-        "references": "",
-        "directAnswer": "Podemos utilizar una imagen mental sencilla basada en una comparación para que la lección sea memorable y fácil de recuperar.",
-        "deepAnswer": "El cerebro humano retiene mejor la información cuando está vinculada a imágenes vívidas. Al final de un estudio, resumir el punto principal usando una comparación sencilla (como comparar la lectura de la Biblia con la alimentación diaria) crea un 'ancla' mental. Cada vez que el estudiante se enfrente a esa situación en la vida real, recordará automáticamente la enseñanza bíblica asociada, lo cual facilita que el conocimiento permanezca en su memoria a largo plazo.",
-        "shortAnswer": "Creando una imagen mental sencilla y duradera que ancle la lección en la vida diaria del estudiante."
-      },
-      {
-        "id": "14A_q13_e",
-        "question": "¿Cómo puedes usar las comparaciones con tu estudiante para ayudarle a vencer sus prejuicios?",
-        "references": "",
-        "directAnswer": "Podemos usar comparaciones neutrales que le permitan ver la situación desde una perspectiva diferente, evitando la confrontación directa.",
-        "deepAnswer": "Los prejuicios suelen estar profundamente arraigados y la confrontación directa puede hacer que el estudiante se cierre. Sin embargo, las comparaciones permiten analizar conceptos difíciles en un 'terreno neutral'. Al presentar una analogía que ilustre el error del prejuicio en un contexto ajeno a su conflicto personal, permitimos que el estudiante evalúe la idea de manera objetiva. Esto suaviza su actitud y le ayuda a reconocer la verdad bíblica sin sentirse atacado personalmente.",
-        "shortAnswer": "Presentando analogías en contextos neutrales que permitan al estudiante analizar ideas sin sentirse confrontado."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "14A_q13_a",
+            "question": "¿Cómo puedes usar las comparaciones con tu estudiante para captar su atención?",
+            "references": "",
+            "directAnswer": "Podemos usar comparaciones centradas en aspectos de la creación o situaciones cotidianas que despierten de inmediato la curiosidad y el interés del estudiante.",
+            "deepAnswer": "Para captar la atención de un estudiante, es fundamental elegir comparaciones que le resulten familiares y sorprendentes a la vez. Al presentar una comparación que vincula un hecho sencillo de la vida diaria con una verdad bíblica, el estudiante siente que el tema es relevante para él. Esto logra que su mente se enfoque, dejando de lado las distracciones y preparándolo para asimilar una enseñanza espiritual más profunda.",
+            "shortAnswer": "Usando comparaciones cotidianas o de la creación que generen curiosidad inmediata."
+          },
+          {
+            "id": "14A_q13_b",
+            "question": "¿Cómo puedes usar las comparaciones con tu estudiante para hacerlo pensar?",
+            "references": "",
+            "directAnswer": "Podemos formular comparaciones que requieran que el estudiante analice las causas y efectos, fomentando así la reflexión personal.",
+            "deepAnswer": "Para ayudar al estudiante a pensar, las comparaciones deben actuar como un espejo. Debemos plantear analogías que inviten al estudiante a deducir conclusiones lógicas. Al comparar, por ejemplo, la necesidad de cuidar una planta con el cultivo de la espiritualidad, no solo le damos la respuesta, sino que le permitimos conectar puntos y llegar a sus propias conclusiones, lo cual fortalece su fe y su capacidad de razonamiento.",
+            "shortAnswer": "Planteando analogías que inviten al estudiante a deducir principios lógicos y llegar a sus propias conclusiones."
+          },
+          {
+            "id": "14A_q13_c",
+            "question": "¿Cómo puedes usar las comparaciones con tu estudiante para llegarle al corazón y despertar su conciencia?",
+            "references": "",
+            "directAnswer": "Podemos emplear ejemplos emotivos que toquen sus sentimientos personales y le ayuden a evaluar sus acciones ante los ojos de Dios.",
+            "deepAnswer": "Las comparaciones que apelan al corazón son aquellas que conectan la verdad bíblica con las emociones más profundas del estudiante, como el amor a la familia, el sentido de justicia o la gratitud. Al usar una analogía que resalte el amor de Jehová, ayudamos a que el estudiante no solo comprenda una norma, sino que sienta el deseo de complacer a Dios. Esto estimula su conciencia, motivándole a realizar cambios necesarios desde adentro hacia afuera.<br><br><strong>Experiencia:</strong> Tu estudiante no se atreve a hablar con otros de lo que está aprendiendo. Podrías ayudarle a ver la importancia de hacerlo con un ejemplo. Podrías decirle: “Si usted viera a alguien ahogándose, ¿no intentaría salvarlo aunque le diera un poco de miedo acercarse al agua? Compartir las buenas nuevas es igual; al hablar con otros, estamos ayudando a personas a salvar su vida”. Esta comparación traslada la urgencia de una situación física a una espiritual, ayudando al estudiante a superar el temor al hombre mediante el amor al prójimo.",
+            "shortAnswer": "Usando analogías conmovedoras que conecten la verdad bíblica con sus valores y sentimientos personales."
+          },
+          {
+            "id": "14A_q13_d",
+            "question": "¿Cómo puedes usar las comparaciones con tu estudiante para ayudarle a recordar una enseñanza?",
+            "references": "",
+            "directAnswer": "Podemos utilizar una imagen mental sencilla basada en una comparación para que la lección sea memorable y fácil de recuperar.",
+            "deepAnswer": "El cerebro humano retiene mejor la información cuando está vinculada a imágenes vívidas. Al final de un estudio, resumir el punto principal usando una comparación sencilla (como comparar la lectura de la Biblia con la alimentación diaria) crea un 'ancla' mental. Cada vez que el estudiante se enfrente a esa situación en la vida real, recordará automáticamente la enseñanza bíblica asociada, lo cual facilita que el conocimiento permanezca en su memoria a largo plazo.",
+            "shortAnswer": "Creando una imagen mental sencilla y duradera que ancle la lección en la vida diaria del estudiante."
+          },
+          {
+            "id": "14A_q13_e",
+            "question": "¿Cómo puedes usar las comparaciones con tu estudiante para ayudarle a vencer sus prejuicios?",
+            "references": "",
+            "directAnswer": "Podemos usar comparaciones neutrales que le permitan ver la situación desde una perspectiva diferente, evitando la confrontación directa.",
+            "deepAnswer": "Los prejuicios suelen estar profundamente arraigados y la confrontación directa puede hacer que el estudiante se cierre. Sin embargo, las comparaciones permiten analizar conceptos difíciles en un 'terreno neutral'. Al presentar una analogía que ilustre el error del prejuicio en un contexto ajeno a su conflicto personal, permitimos que el estudiante evalúe la idea de manera objetiva. Esto suaviza su actitud y le ayuda a reconocer la verdad bíblica sin sentirse atacado personalmente.",
+            "shortAnswer": "Presentando analogías en contextos neutrales que permitan al estudiante analizar ideas sin sentirse confrontado."
+          }
+        ]
       },
       {
         "id": "14A_q14",
@@ -6596,36 +6531,46 @@ const lessonsData = [
         "shortAnswer": "Conecta al estudiante con la congregación para ayudarlo a convertirse en discípulo."
       },
       {
-        "id": "14A_q25_a",
-        "question": "¿Cómo te ha servido el método de invitar al estudiante a ir a las reuniones desde el principio?",
+        "id": "14A_q25",
+        "question": "¿Cuál de los siguientes métodos te ha servido para animar al estudiante a ir a las reuniones?",
         "references": "",
-        "directAnswer": "Invitar al estudiante desde el primer día ayuda a normalizar la asistencia como parte esencial de su progreso espiritual y le permite sentirse bienvenido.",
-        "deepAnswer": "Invitar al estudiante desde el principio establece una meta clara y directa. Al hacerlo, le demostramos que nuestro objetivo no es solo estudiar la Biblia, sino ayudarle a formar parte de la congregación cristiana. Esto ayuda a eliminar la ansiedad sobre qué esperar y muestra que la asistencia es un paso natural en su camino hacia la adoración verdadera.",
-        "shortAnswer": "Ayuda a que el estudiante vea la asistencia a las reuniones como una parte normal y necesaria de su aprendizaje bíblico."
-      },
-      {
-        "id": "14A_q25_b",
-        "question": "¿Cómo te ha servido el método de explicarle al estudiante cómo son las reuniones?",
-        "references": "",
-        "directAnswer": "Explicar cómo son las reuniones disipa el miedo a lo desconocido y permite que el estudiante se sienta más cómodo y preparado al asistir por primera vez.",
-        "deepAnswer": "Muchos estudiantes sienten temor ante un entorno nuevo. Al explicarles que en nuestras reuniones se canta, se ora y se analiza la Biblia de manera sencilla, eliminamos barreras mentales. Podemos describirles el ambiente acogedor y el valor educativo del programa, lo que reduce la incertidumbre y aumenta su deseo de experimentar personalmente lo que hemos descrito.",
-        "shortAnswer": "Al explicar el formato y el propósito de las reuniones, reducimos la aprensión y preparamos al estudiante para disfrutar de la experiencia."
-      },
-      {
-        "id": "14A_q25_c",
-        "question": "¿Cómo te ha servido el método de crear expectación por nuestras reuniones especiales (por ejemplo, la Conmemoración, la visita del superintendente de circuito o las asambleas)?",
-        "references": "",
-        "directAnswer": "Crear expectación por eventos especiales resalta la importancia de la hermandad mundial y muestra al estudiante que formamos parte de una organización unida y entusiasta.",
-        "deepAnswer": "Los eventos especiales son hitos en la vida de un estudiante. Al compartir nuestra propia alegría por la Conmemoración o las asambleas, contagiamos ese entusiasmo. Esto les ayuda a ver que servir a Jehová es una actividad emocionante y llena de propósito, no una rutina. La expectación los motiva a hacer los ajustes necesarios en sus agendas para no perderse estas ocasiones especiales.",
-        "shortAnswer": "Generar interés en los eventos especiales ayuda al estudiante a ver la magnitud y la alegría de nuestro ministerio a nivel mundial."
-      },
-      {
-        "id": "14A_q25_d",
-        "question": "¿Cómo te ha servido el método de mencionar las reuniones y lo buenas que son cuando oramos con el estudiante?",
-        "references": "",
-        "directAnswer": "Mencionar las reuniones en la oración demuestra que son una parte fundamental de nuestra adoración a Jehová y que valoramos profundamente los beneficios espirituales que allí recibimos.",
-        "deepAnswer": "La oración es un momento muy íntimo. Cuando incluimos la asistencia a las reuniones en nuestras súplicas a Jehová, le mostramos al estudiante que para nosotros es una prioridad recibir instrucción divina. Esto no solo le da importancia al evento, sino que también le muestra que necesitamos el apoyo de Jehová y de los hermanos para seguir adelante. Es una forma poderosa de invitar al estudiante a buscar el alimento espiritual que Jehová provee.",
-        "shortAnswer": "Incluir las reuniones en nuestras oraciones resalta su valor espiritual y muestra nuestro deseo sincero de que el estudiante se beneficie de ellas."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "14A_q25_a",
+            "question": "¿Cómo te ha servido el método de invitar al estudiante a ir a las reuniones desde el principio?",
+            "references": "",
+            "directAnswer": "Invitar al estudiante desde el primer día ayuda a normalizar la asistencia como parte esencial de su progreso espiritual y le permite sentirse bienvenido.",
+            "deepAnswer": "Invitar al estudiante desde el principio establece una meta clara y directa. Al hacerlo, le demostramos que nuestro objetivo no es solo estudiar la Biblia, sino ayudarle a formar parte de la congregación cristiana. Esto ayuda a eliminar la ansiedad sobre qué esperar y muestra que la asistencia es un paso natural en su camino hacia la adoración verdadera.",
+            "shortAnswer": "Ayuda a que el estudiante vea la asistencia a las reuniones como una parte normal y necesaria de su aprendizaje bíblico."
+          },
+          {
+            "id": "14A_q25_b",
+            "question": "¿Cómo te ha servido el método de explicarle al estudiante cómo son las reuniones?",
+            "references": "",
+            "directAnswer": "Explicar cómo son las reuniones disipa el miedo a lo desconocido y permite que el estudiante se sienta más cómodo y preparado al asistir por primera vez.",
+            "deepAnswer": "Muchos estudiantes sienten temor ante un entorno nuevo. Al explicarles que en nuestras reuniones se canta, se ora y se analiza la Biblia de manera sencilla, eliminamos barreras mentales. Podemos describirles el ambiente acogedor y el valor educativo del programa, lo que reduce la incertidumbre y aumenta su deseo de experimentar personalmente lo que hemos descrito.",
+            "shortAnswer": "Al explicar el formato y el propósito de las reuniones, reducimos la aprensión y preparamos al estudiante para disfrutar de la experiencia."
+          },
+          {
+            "id": "14A_q25_c",
+            "question": "¿Cómo te ha servido el método de crear expectación por nuestras reuniones especiales (por ejemplo, la Conmemoración, la visita del superintendente de circuito o las asambleas)?",
+            "references": "",
+            "directAnswer": "Crear expectación por eventos especiales resalta la importancia de la hermandad mundial y muestra al estudiante que formamos parte de una organización unida y entusiasta.",
+            "deepAnswer": "Los eventos especiales son hitos en la vida de un estudiante. Al compartir nuestra propia alegría por la Conmemoración o las asambleas, contagiamos ese entusiasmo. Esto les ayuda a ver que servir a Jehová es una actividad emocionante y llena de propósito, no una rutina. La expectación los motiva a hacer los ajustes necesarios en sus agendas para no perderse estas ocasiones especiales.",
+            "shortAnswer": "Generar interés en los eventos especiales ayuda al estudiante a ver la magnitud y la alegría de nuestro ministerio a nivel mundial."
+          },
+          {
+            "id": "14A_q25_d",
+            "question": "¿Cómo te ha servido el método de mencionar las reuniones y lo buenas que son cuando oramos con el estudiante?",
+            "references": "",
+            "directAnswer": "Mencionar las reuniones en la oración demuestra que son una parte fundamental de nuestra adoración a Jehová y que valoramos profundamente los beneficios espirituales que allí recibimos.",
+            "deepAnswer": "La oración es un momento muy íntimo. Cuando incluimos la asistencia a las reuniones en nuestras súplicas a Jehová, le mostramos al estudiante que para nosotros es una prioridad recibir instrucción divina. Esto no solo le da importancia al evento, sino que también le muestra que necesitamos el apoyo de Jehová y de los hermanos para seguir adelante. Es una forma poderosa de invitar al estudiante a buscar el alimento espiritual que Jehová provee.",
+            "shortAnswer": "Incluir las reuniones en nuestras oraciones resalta su valor espiritual y muestra nuestro deseo sincero de que el estudiante se beneficie de ellas."
+          }
+        ]
       },
       {
         "id": "14A_q26",
@@ -6794,36 +6739,46 @@ const lessonsData = [
         "shortAnswer": "Sigue ayudando al estudiante para que se arraigue en la verdad, adquiera madurez y persevere en el servicio a Dios."
       },
       {
-        "id": "15A_q10_a",
-        "question": "¿Por qué es muy importante ir capacitándolo en las diferentes facetas del ministerio? (Juec. 7:17)",
-        "references": "Juec. 7:17",
-        "directAnswer": "Capacitar al nuevo publicador en varias facetas del servicio del campo lo convierte en un colaborador versátil, seguro de sí mismo y con mayor gozo en su ministerio, preparándolo para enfrentar diversas situaciones en el territorio.",
-        "deepAnswer": "La capacitación progresiva es fundamental porque el ministerio abarca diversas facetas (predicación de casa en casa, pública, revisitas, cursos bíblicos). Al diversificar su formación, el nuevo publicador no solo se siente más cómodo en distintas situaciones, sino que desarrolla las habilidades necesarias para ser eficaz bajo la guía del espíritu santo. El principio de Jueces 7:17 destaca la importancia de modelar el trabajo, permitiendo que el nuevo vea cómo aplicar los principios bíblicos en la práctica, lo cual es vital para su crecimiento espiritual y confianza personal.",
-        "shortAnswer": "Es importante para que el publicador sea versátil, gane seguridad y encuentre más gozo al enfrentar las distintas facetas de la predicación."
-      },
-      {
-        "id": "15A_q10_b",
-        "question": "Comenta cómo el paso de 'demostrarle en la práctica cómo participar en las diferentes facetas de la predicación' puede servir para ayudar a un publicador nuevo a ir mejorando. (Juec. 7:17)",
-        "references": "Juec. 7:17",
-        "directAnswer": "Demostrar en la práctica es aplicar el principio de 'mírenme a mí', permitiendo que el estudiante observe cómo manejamos las conversaciones, cómo usamos la Biblia y cómo respondemos a las objeciones en un entorno real.",
-        "deepAnswer": "Al demostrar en la práctica, estamos aplicando el modelo de Gedeón (Juec. 7:17). Muchos publicadores nuevos se sienten intimidados por la incertidumbre del ministerio. Al ver cómo nosotros iniciamos una conversación o presentamos un tratado, ellos eliminan el temor a lo desconocido. Este paso no solo es técnico, sino espiritual, ya que les permite ver cómo el amor por el prójimo motiva nuestra forma de hablar y actuar al declarar las buenas nuevas.",
-        "shortAnswer": "Al ver tu ejemplo, el estudiante reduce su temor y aprende métodos eficaces que puede imitar en el servicio."
-      },
-      {
-        "id": "15A_q10_c",
-        "question": "Comenta cómo el paso de 'dejar que él intente hacer lo mismo que tú' puede servir para ayudar a un publicador nuevo a ir mejorando. (Juec. 7:17)",
-        "references": "Juec. 7:17",
-        "directAnswer": "Dejar que el estudiante lo intente es el paso decisivo para convertir la observación en acción, permitiéndole adquirir experiencia propia y fortalecer su fe al ver cómo Jehová lo apoya en la labor.",
-        "deepAnswer": "La instrucción teocrática requiere que el estudiante pase de ser un observador a un participante activo. Al dejarle intentar hacer lo mismo, le demostramos confianza. Aunque pueda cometer errores, este proceso es donde ocurre el verdadero aprendizaje. Es crucial ser pacientes y respetuosos con su ritmo, permitiéndole desarrollar su propia personalidad al enseñar la verdad, siempre recordando que el objetivo es que él aprenda a confiar en el respaldo de Jehová y no solo en sus habilidades.",
-        "shortAnswer": "Le permite pasar a la acción y adquirir confianza propia al aplicar lo que ha observado en el ministerio."
-      },
-      {
-        "id": "15A_q10_d",
-        "question": "Comenta cómo el paso de 'felicitarlo sinceramente para darle confianza' puede servir para ayudar a un publicador nuevo a ir mejorando. (Juec. 7:17)",
-        "references": "Juec. 7:17",
-        "directAnswer": "La felicitación sincera es un bálsamo que edifica al nuevo publicador, ayudándole a enfocarse en sus logros en lugar de en sus errores, lo que estimula su deseo de seguir mejorando.",
-        "deepAnswer": "A menudo, el publicador nuevo es su crítico más severo. Una felicitación sincera, basada en un punto específico (como su buena lectura, su actitud amable o su valentía al hablar), ayuda a que su corazón se sienta animado. Siguiendo el ejemplo de Jesús, quien siempre buscaba lo bueno en sus discípulos a pesar de sus debilidades, al felicitarlo estamos imitando la ternura de Jehová. Esto crea un ambiente de seguridad donde el publicador se siente motivado a esforzarse aún más la próxima vez.<br><br><strong>Experiencia:</strong> Un precursor relató que al empezar, sentía que no servía para la predicación tras un mal inicio. Su compañero, en lugar de corregir sus errores inmediatamente, le felicitó con entusiasmo por la manera en que había sonreído a un amo de casa, a pesar de que el resto de la presentación no salió bien. Esa pequeña dosis de confianza cambió su perspectiva: dejó de pensar en lo que falló y empezó a enfocarse en lo que podía mejorar, transformándolo eventualmente en un maestro eficaz de la Palabra de Dios.",
-        "shortAnswer": "La felicitación sincera fortalece su confianza, reduce su ansiedad y le motiva a seguir esforzándose por mejorar."
+        "id": "15A_q10",
+        "question": "¿Y por qué también es muy importante ir capacitándolo en las diferentes facetas del ministerio? Comenta los siguientes pasos que pueden servirte para ayudar a un publicador nuevo a ir mejorando en el ministerio (Juec. 7:17):",
+        "references": "",
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "15A_q10_a",
+            "question": "¿Por qué es muy importante ir capacitándolo en las diferentes facetas del ministerio? (Juec. 7:17)",
+            "references": "Juec. 7:17",
+            "directAnswer": "Capacitar al nuevo publicador en varias facetas del servicio del campo lo convierte en un colaborador versátil, seguro de sí mismo y con mayor gozo en su ministerio, preparándolo para enfrentar diversas situaciones en el territorio.",
+            "deepAnswer": "La capacitación progresiva es fundamental porque el ministerio abarca diversas facetas (predicación de casa en casa, pública, revisitas, cursos bíblicos). Al diversificar su formación, el nuevo publicador no solo se siente más cómodo en distintas situaciones, sino que desarrolla las habilidades necesarias para ser eficaz bajo la guía del espíritu santo. El principio de Jueces 7:17 destaca la importancia de modelar el trabajo, permitiendo que el nuevo vea cómo aplicar los principios bíblicos en la práctica, lo cual es vital para su crecimiento espiritual y confianza personal.",
+            "shortAnswer": "Es importante para que el publicador sea versátil, gane seguridad y encuentre más gozo al enfrentar las distintas facetas de la predicación."
+          },
+          {
+            "id": "15A_q10_b",
+            "question": "Comenta cómo el paso de 'demostrarle en la práctica cómo participar en las diferentes facetas de la predicación' puede servir para ayudar a un publicador nuevo a ir mejorando. (Juec. 7:17)",
+            "references": "Juec. 7:17",
+            "directAnswer": "Demostrar en la práctica es aplicar el principio de 'mírenme a mí', permitiendo que el estudiante observe cómo manejamos las conversaciones, cómo usamos la Biblia y cómo respondemos a las objeciones en un entorno real.",
+            "deepAnswer": "Al demostrar en la práctica, estamos aplicando el modelo de Gedeón (Juec. 7:17). Muchos publicadores nuevos se sienten intimidados por la incertidumbre del ministerio. Al ver cómo nosotros iniciamos una conversación o presentamos un tratado, ellos eliminan el temor a lo desconocido. Este paso no solo es técnico, sino espiritual, ya que les permite ver cómo el amor por el prójimo motiva nuestra forma de hablar y actuar al declarar las buenas nuevas.",
+            "shortAnswer": "Al ver tu ejemplo, el estudiante reduce su temor y aprende métodos eficaces que puede imitar en el servicio."
+          },
+          {
+            "id": "15A_q10_c",
+            "question": "Comenta cómo el paso de 'dejar que él intente hacer lo mismo que tú' puede servir para ayudar a un publicador nuevo a ir mejorando. (Juec. 7:17)",
+            "references": "Juec. 7:17",
+            "directAnswer": "Dejar que el estudiante lo intente es el paso decisivo para convertir la observación en acción, permitiéndole adquirir experiencia propia y fortalecer su fe al ver cómo Jehová lo apoya en la labor.",
+            "deepAnswer": "La instrucción teocrática requiere que el estudiante pase de ser un observador a un participante activo. Al dejarle intentar hacer lo mismo, le demostramos confianza. Aunque pueda cometer errores, este proceso es donde ocurre el verdadero aprendizaje. Es crucial ser pacientes y respetuosos con su ritmo, permitiéndole desarrollar su propia personalidad al enseñar la verdad, siempre recordando que el objetivo es que él aprenda a confiar en el respaldo de Jehová y no solo en sus habilidades.",
+            "shortAnswer": "Le permite pasar a la acción y adquirir confianza propia al aplicar lo que ha observado en el ministerio."
+          },
+          {
+            "id": "15A_q10_d",
+            "question": "Comenta cómo el paso de 'felicitarlo sinceramente para darle confianza' puede servir para ayudar a un publicador nuevo a ir mejorando. (Juec. 7:17)",
+            "references": "Juec. 7:17",
+            "directAnswer": "La felicitación sincera es un bálsamo que edifica al nuevo publicador, ayudándole a enfocarse en sus logros en lugar de en sus errores, lo que estimula su deseo de seguir mejorando.",
+            "deepAnswer": "A menudo, el publicador nuevo es su crítico más severo. Una felicitación sincera, basada en un punto específico (como su buena lectura, su actitud amable o su valentía al hablar), ayuda a que su corazón se sienta animado. Siguiendo el ejemplo de Jesús, quien siempre buscaba lo bueno en sus discípulos a pesar de sus debilidades, al felicitarlo estamos imitando la ternura de Jehová. Esto crea un ambiente de seguridad donde el publicador se siente motivado a esforzarse aún más la próxima vez.<br><br><strong>Experiencia:</strong> Un precursor relató que al empezar, sentía que no servía para la predicación tras un mal inicio. Su compañero, en lugar de corregir sus errores inmediatamente, le felicitó con entusiasmo por la manera en que había sonreído a un amo de casa, a pesar de que el resto de la presentación no salió bien. Esa pequeña dosis de confianza cambió su perspectiva: dejó de pensar en lo que falló y empezó a enfocarse en lo que podía mejorar, transformándolo eventualmente en un maestro eficaz de la Palabra de Dios.",
+            "shortAnswer": "La felicitación sincera fortalece su confianza, reduce su ansiedad y le motiva a seguir esforzándose por mejorar."
+          }
+        ]
       },
       {
         "id": "15A_q11",
@@ -6842,76 +6797,86 @@ const lessonsData = [
         "shortAnswer": "La lista funciona como un termómetro espiritual para evaluar con amor y objetividad el progreso real del estudiante."
       },
       {
-        "id": "15A_q13_a",
-        "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado al tratar de conocer a Jehová y a su Hijo, Jesucristo? (Juan 17:3).",
-        "references": "Juan 17:3; Mat. 16:24; 1 Ped. 3:21",
-        "directAnswer": "Ayúdelo a profundizar en el amor de Jehová analizando los atributos divinos y mostrando cómo el conocimiento de Jesús es la clave para la vida eterna.",
-        "deepAnswer": "Cuando un estudiante se estanca en este paso fundamental, es posible que no esté viendo a Jehová como una persona real y amorosa. Con paciencia, utilice la Biblia para examinar las cualidades de Jehová. Ayúdelo a ver que conocer a Jehová y a Jesús (Juan 17:3) no es solo memorizar datos, sino desarrollar una relación estrecha y personal. A menudo, esto requiere recordar la importancia de la abnegación (Mat. 16:24) y cómo esta relación es el cimiento de todos los pasos futuros.",
-        "shortAnswer": "Ayúdelo a ver a Jehová y a Jesús como personas reales para fortalecer su deseo de entablar una amistad con ellos."
-      },
-      {
-        "id": "15A_q13_b",
-        "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y su fe no crece a pesar de ir teniendo más conocimiento? (Juan 3:16).",
-        "references": "Juan 3:16; Mat. 16:24; 1 Ped. 3:21",
-        "directAnswer": "Ayúdelo a meditar en el sacrificio de Jesús para que su fe pase del plano intelectual al emocional, tocando su corazón.",
-        "deepAnswer": "Si el conocimiento no está produciendo fe, es posible que el estudiante no esté meditando en cómo la verdad le afecta personalmente. Use <strong>Juan 3:16</strong> para mostrarle cuánto ama Dios a la humanidad. Invite al estudiante a pensar en lo que el sacrificio de Jesús significa para él en particular. Al conectar el conocimiento con la gratitud, su fe crecerá naturalmente como un motor para avanzar hacia la dedicación.",
-        "shortAnswer": "Fomente la meditación personal en el amor de Dios para que el conocimiento se transforme en convicción profunda."
-      },
-      {
-        "id": "15A_q13_c",
-        "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado en el paso de empezar a orar a Jehová con frecuencia? (Hech. 2:21).",
-        "references": "Hech. 2:21; Mat. 16:24; 1 Ped. 3:21",
-        "directAnswer": "Enséñele el valor de la oración como un medio de comunicación y ayúdelo a superar la vergüenza o el miedo enseñándole a orar con sencillez.",
-        "deepAnswer": "La oración suele ser difícil si el estudiante siente que Jehová está lejos. Anime al estudiante a orar mencionando que no necesita palabras complejas. Lea <strong>Hechos 2:21</strong> y explique que Jehová escucha a todos los que lo invocan con sinceridad. Ore junto a él con frecuencia, permitiendo que escuche cómo usted habla con Jehová con confianza y amor, sirviendo esto de modelo para sus propias oraciones personales.",
-        "shortAnswer": "Ayúdelo a superar el temor a orar practicando juntos y explicándole que Jehová valora la sinceridad sobre la elocuencia."
-      },
-      {
-        "id": "15A_q13_d",
-        "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y no ve lo importante que es reunirse regularmente con la congregación? (Heb. 10:24, 25).",
-        "references": "Heb. 10:24, 25; Mat. 16:24; 1 Ped. 3:21",
-        "directAnswer": "Analice con él los beneficios de la asociación espiritual y ayúdele a vencer los obstáculos que le impiden asistir al Salón del Reino.",
-        "deepAnswer": "La asistencia a las reuniones es esencial para el crecimiento (Heb. 10:24, 25). Si se ha estancado aquí, identifique qué le impide asistir: ¿es timidez, falta de transporte o presión familiar? Ofrézcale ayuda práctica y preséntele a hermanos de la congregación antes o después de la reunión. Ayúdele a ver que el ánimo que recibirá de la hermandad es indispensable para mantenerse firme en el camino a la vida.",
-        "shortAnswer": "Identifique los obstáculos que le impiden asistir y ofrézcale ayuda práctica, destacando el ánimo que recibirá de la hermandad."
-      },
-      {
-        "id": "15A_q13_e",
-        "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y le cuesta arrepentirse de sus pecados? (Hech. 17:30).",
-        "references": "Hech. 17:30; Mat. 16:24; 1 Ped. 3:21",
-        "directAnswer": "Ayúdelo a entender la gravedad de sus actos a la luz de las normas de Jehová y enséñele a valorar el perdón divino basado en el rescate.",
-        "deepAnswer": "El arrepentimiento requiere un cambio en la manera de ver las cosas. Si el estudiante minimiza sus errores, léale <strong>Hechos 17:30</strong> y analice qué piensa Jehová sobre las prácticas incorrectas. Es vital ayudarle a comprender que Jehová está dispuesto a perdonar, pero que el estudiante debe asumir la responsabilidad de su conducta. La clave es mover su corazón hacia el amor por las normas de Dios.",
-        "shortAnswer": "Ayúdele a ver la importancia de la perspectiva de Jehová sobre el pecado y cómo su amor abre el camino al perdón mediante el arrepentimiento."
-      },
-      {
-        "id": "15A_q13_f",
-        "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y no da “media vuelta” para abandonar las prácticas que Dios condena? (Hech. 3:19).",
-        "references": "Hech. 3:19; Mat. 16:24; 1 Ped. 3:21",
-        "directAnswer": "Muestre empatía ante la dificultad de hacer cambios en su estilo de vida y analice con él los beneficios a largo plazo de obedecer a Dios.",
-        "deepAnswer": "Dejar atrás antiguas costumbres puede ser muy doloroso o difícil. Aplique <strong>Hechos 3:19</strong> con bondad, enfatizando que Jehová no nos pide nada que no sea para nuestro bien. Utilice ejemplos bíblicos de personas que hicieron cambios radicales. Asegúrele que no tiene que hacerlo solo; ofrézcale apoyo constante para que pueda sustituir sus viejas prácticas por actividades que fortalecen su espiritualidad.",
-        "shortAnswer": "Sea paciente y ofrezca apoyo práctico para sustituir las malas costumbres por hábitos cristianos, destacando los beneficios de obedecer a Dios."
-      },
-      {
-        "id": "15A_q13_g",
-        "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y su fe no lo impulsa a hablar con otros de lo que cree? (2 Cor. 4:13).",
-        "references": "2 Cor. 4:13; Mat. 16:24; 1 Ped. 3:21",
-        "directAnswer": "Ayúdelo a reconocer que el mensaje de la Biblia es tan bueno que debe compartirse y permítale acompañarle en el ministerio de forma sencilla.",
-        "deepAnswer": "A veces, el estudiante siente que no sabe lo suficiente o tiene miedo al rechazo (2 Cor. 4:13). Ayúdele a ver que hablar de su fe es una forma de mostrar gratitud por lo que ha aprendido. Empiece poco a poco: pídale que le cuente lo que ha aprendido a un familiar o amigo cercano. Al acompañarlo en la predicación, sea un modelo de entusiasmo, no de obligación, centrando la atención en el amor al prójimo.",
-        "shortAnswer": "Ayúdele a ver la predicación como una oportunidad de expresar gratitud y enséñele a compartir pequeñas verdades con quienes le rodean."
-      },
-      {
-        "id": "15A_q13_h",
-        "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y le cuesta dedicarse a Jehová para ser un seguidor de Jesús? (1 Ped. 4:2).",
-        "references": "1 Ped. 4:2; Mat. 16:24; 1 Ped. 3:21",
-        "directAnswer": "Analice con él qué significa realmente la dedicación y ayúdele a verla como un paso de lealtad y protección, no como una carga.",
-        "deepAnswer": "El miedo al compromiso es común hoy en día. Use <strong>1 Pedro 4:2</strong> para explicar que vivir para la voluntad de Dios es vivir con un propósito claro y la protección de nuestro Padre celestial. Compare la dedicación con una decisión personal importante, como el matrimonio. Ayúdele a meditar en que, al dedicarse, pasa a ser propiedad de Jehová, quien siempre lo cuidará mejor que nadie.",
-        "shortAnswer": "Ayúdele a ver que la dedicación es un paso de lealtad que le ofrece la protección y guía de Jehová para toda su vida."
-      },
-      {
-        "id": "15A_q13_i",
-        "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y teme bautizarse para demostrar en público su dedicación a Jehová? (1 Ped. 3:21).",
-        "references": "1 Ped. 3:21; Mat. 16:24; 1 Ped. 3:21",
-        "directAnswer": "Ayúdele a entender que el bautismo es un paso de obediencia necesario para una conciencia limpia y la salvación, quitando importancia al miedo al qué dirán.",
-        "deepAnswer": "El bautismo es un paso decisivo (1 Ped. 3:21). Si el estudiante se ha estancado aquí, podría ser por miedo a fallar después. Ayúdele a ver que Jehová no espera perfección, sino lealtad y el deseo de seguir intentándolo. Recuérdele que el bautismo es su respuesta pública al amor que Jehová le ha mostrado. Hable con él sobre la inmensa alegría que produce este paso y cómo la congregación lo apoyará después de ese día especial.",
-        "shortAnswer": "Ayúdele a ver que el bautismo es un acto de obediencia que marca el inicio de una relación cercana y salvadora con Jehová."
+        "id": "15A_q13",
+        "question": "¿Qué harías si te das cuenta de que se ha estancado en uno o varios de los siguientes pasos?",
+        "references": "Mat. 16:24; 1 Ped. 3:21",
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "15A_q13_a",
+            "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado al tratar de conocer a Jehová y a su Hijo, Jesucristo? (Juan 17:3).",
+            "references": "Juan 17:3; Mat. 16:24; 1 Ped. 3:21",
+            "directAnswer": "Ayúdelo a profundizar en el amor de Jehová analizando los atributos divinos y mostrando cómo el conocimiento de Jesús es la clave para la vida eterna.",
+            "deepAnswer": "Cuando un estudiante se estanca en este paso fundamental, es posible que no esté viendo a Jehová como una persona real y amorosa. Con paciencia, utilice la Biblia para examinar las cualidades de Jehová. Ayúdelo a ver que conocer a Jehová y a Jesús (Juan 17:3) no es solo memorizar datos, sino desarrollar una relación estrecha y personal. A menudo, esto requiere recordar la importancia de la abnegación (Mat. 16:24) y cómo esta relación es el cimiento de todos los pasos futuros.",
+            "shortAnswer": "Ayúdelo a ver a Jehová y a Jesús como personas reales para fortalecer su deseo de entablar una amistad con ellos."
+          },
+          {
+            "id": "15A_q13_b",
+            "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y su fe no crece a pesar de ir teniendo más conocimiento? (Juan 3:16).",
+            "references": "Juan 3:16; Mat. 16:24; 1 Ped. 3:21",
+            "directAnswer": "Ayúdelo a meditar en el sacrificio de Jesús para que su fe pase del plano intelectual al emocional, tocando su corazón.",
+            "deepAnswer": "Si el conocimiento no está produciendo fe, es posible que el estudiante no esté meditando en cómo la verdad le afecta personalmente. Use <strong>Juan 3:16</strong> para mostrarle cuánto ama Dios a la humanidad. Invite al estudiante a pensar en lo que el sacrificio de Jesús significa para él en particular. Al conectar el conocimiento con la gratitud, su fe crecerá naturalmente como un motor para avanzar hacia la dedicación.",
+            "shortAnswer": "Fomente la meditación personal en el amor de Dios para que el conocimiento se transforme en convicción profunda."
+          },
+          {
+            "id": "15A_q13_c",
+            "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado en el paso de empezar a orar a Jehová con frecuencia? (Hech. 2:21).",
+            "references": "Hech. 2:21; Mat. 16:24; 1 Ped. 3:21",
+            "directAnswer": "Enséñele el valor de la oración como un medio de comunicación y ayúdelo a superar la vergüenza o el miedo enseñándole a orar con sencillez.",
+            "deepAnswer": "La oración suele ser difícil si el estudiante siente que Jehová está lejos. Anime al estudiante a orar mencionando que no necesita palabras complejas. Lea <strong>Hechos 2:21</strong> y explique que Jehová escucha a todos los que lo invocan con sinceridad. Ore junto a él con frecuencia, permitiendo que escuche cómo usted habla con Jehová con confianza y amor, sirviendo esto de modelo para sus propias oraciones personales.",
+            "shortAnswer": "Ayúdelo a superar el temor a orar practicando juntos y explicándole que Jehová valora la sinceridad sobre la elocuencia."
+          },
+          {
+            "id": "15A_q13_d",
+            "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y no ve lo importante que es reunirse regularmente con la congregación? (Heb. 10:24, 25).",
+            "references": "Heb. 10:24, 25; Mat. 16:24; 1 Ped. 3:21",
+            "directAnswer": "Analice con él los beneficios de la asociación espiritual y ayúdele a vencer los obstáculos que le impiden asistir al Salón del Reino.",
+            "deepAnswer": "La asistencia a las reuniones es esencial para el crecimiento (Heb. 10:24, 25). Si se ha estancado aquí, identifique qué le impide asistir: ¿es timidez, falta de transporte o presión familiar? Ofrézcale ayuda práctica y preséntele a hermanos de la congregación antes o después de la reunión. Ayúdele a ver que el ánimo que recibirá de la hermandad es indispensable para mantenerse firme en el camino a la vida.",
+            "shortAnswer": "Identifique los obstáculos que le impiden asistir y ofrézcale ayuda práctica, destacando el ánimo que recibirá de la hermandad."
+          },
+          {
+            "id": "15A_q13_e",
+            "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y le cuesta arrepentirse de sus pecados? (Hech. 17:30).",
+            "references": "Hech. 17:30; Mat. 16:24; 1 Ped. 3:21",
+            "directAnswer": "Ayúdelo a entender la gravedad de sus actos a la luz de las normas de Jehová y enséñele a valorar el perdón divino basado en el rescate.",
+            "deepAnswer": "El arrepentimiento requiere un cambio en la manera de ver las cosas. Si el estudiante minimiza sus errores, léale <strong>Hechos 17:30</strong> y analice qué piensa Jehová sobre las prácticas incorrectas. Es vital ayudarle a comprender que Jehová está dispuesto a perdonar, pero que el estudiante debe asumir la responsabilidad de su conducta. La clave es mover su corazón hacia el amor por las normas de Dios.",
+            "shortAnswer": "Ayúdele a ver la importancia de la perspectiva de Jehová sobre el pecado y cómo su amor abre el camino al perdón mediante el arrepentimiento."
+          },
+          {
+            "id": "15A_q13_f",
+            "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y no da “media vuelta” para abandonar las prácticas que Dios condena? (Hech. 3:19).",
+            "references": "Hech. 3:19; Mat. 16:24; 1 Ped. 3:21",
+            "directAnswer": "Muestre empatía ante la dificultad de hacer cambios en su estilo de vida y analice con él los beneficios a largo plazo de obedecer a Dios.",
+            "deepAnswer": "Dejar atrás antiguas costumbres puede ser muy doloroso o difícil. Aplique <strong>Hechos 3:19</strong> con bondad, enfatizando que Jehová no nos pide nada que no sea para nuestro bien. Utilice ejemplos bíblicos de personas que hicieron cambios radicales. Asegúrele que no tiene que hacerlo solo; ofrézcale apoyo constante para que pueda sustituir sus viejas prácticas por actividades que fortalecen su espiritualidad.",
+            "shortAnswer": "Sea paciente y ofrezca apoyo práctico para sustituir las malas costumbres por hábitos cristianos, destacando los beneficios de obedecer a Dios."
+          },
+          {
+            "id": "15A_q13_g",
+            "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y su fe no lo impulsa a hablar con otros de lo que cree? (2 Cor. 4:13).",
+            "references": "2 Cor. 4:13; Mat. 16:24; 1 Ped. 3:21",
+            "directAnswer": "Ayúdelo a reconocer que el mensaje de la Biblia es tan bueno que debe compartirse y permítale acompañarle en el ministerio de forma sencilla.",
+            "deepAnswer": "A veces, el estudiante siente que no sabe lo suficiente o tiene miedo al rechazo (2 Cor. 4:13). Ayúdele a ver que hablar de su fe es una forma de mostrar gratitud por lo que ha aprendido. Empiece poco a poco: pídale que le cuente lo que ha aprendido a un familiar o amigo cercano. Al acompañarlo en la predicación, sea un modelo de entusiasmo, no de obligación, centrando la atención en el amor al prójimo.",
+            "shortAnswer": "Ayúdele a ver la predicación como una oportunidad de expresar gratitud y enséñele a compartir pequeñas verdades con quienes le rodean."
+          },
+          {
+            "id": "15A_q13_h",
+            "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y le cuesta dedicarse a Jehová para ser un seguidor de Jesús? (1 Ped. 4:2).",
+            "references": "1 Ped. 4:2; Mat. 16:24; 1 Ped. 3:21",
+            "directAnswer": "Analice con él qué significa realmente la dedicación y ayúdele a verla como un paso de lealtad y protección, no como una carga.",
+            "deepAnswer": "El miedo al compromiso es común hoy en día. Use <strong>1 Pedro 4:2</strong> para explicar que vivir para la voluntad de Dios es vivir con un propósito claro y la protección de nuestro Padre celestial. Compare la dedicación con una decisión personal importante, como el matrimonio. Ayúdele a meditar en que, al dedicarse, pasa a ser propiedad de Jehová, quien siempre lo cuidará mejor que nadie.",
+            "shortAnswer": "Ayúdele a ver que la dedicación es un paso de lealtad que le ofrece la protección y guía de Jehová para toda su vida."
+          },
+          {
+            "id": "15A_q13_i",
+            "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y teme bautizarse para demostrar en público su dedicación a Jehová? (1 Ped. 3:21).",
+            "references": "1 Ped. 3:21; Mat. 16:24; 1 Ped. 3:21",
+            "directAnswer": "Ayúdele a entender que el bautismo es un paso de obediencia necesario para una conciencia limpia y la salvación, quitando importancia al miedo al qué dirán.",
+            "deepAnswer": "El bautismo es un paso decisivo (1 Ped. 3:21). Si el estudiante se ha estancado aquí, podría ser por miedo a fallar después. Ayúdele a ver que Jehová no espera perfección, sino lealtad y el deseo de seguir intentándolo. Recuérdele que el bautismo es su respuesta pública al amor que Jehová le ha mostrado. Hable con él sobre la inmensa alegría que produce este paso y cómo la congregación lo apoyará después de ese día especial.",
+            "shortAnswer": "Ayúdele a ver que el bautismo es un acto de obediencia que marca el inicio de una relación cercana y salvadora con Jehová."
+          }
+        ]
       },
       {
         "id": "15A_q14",
@@ -7023,20 +6988,30 @@ const lessonsData = [
         "shortAnswer": "Prioriza el servicio a Jehová y mantén una vida sencilla libre de la ansiedad por lo material."
       },
       {
-        "id": "15B_q4_a",
-        "question": "¿Qué métodos de enseñanza aprendió Jesús de Jehová?",
+        "id": "15B_q4",
+        "question": "",
         "references": "",
-        "directAnswer": "Jesús aprendió de Jehová métodos de enseñanza basados en el amor, el uso magistral de las Escrituras y una paciencia infinita. Él observó cómo el Padre instruye con claridad, bondad y misericordia.",
-        "deepAnswer": "Jehová es el Gran Instructor, y Jesús aprendió de Él a usar métodos que llegan al corazón. Esto incluye el uso de preguntas directas para estimular la reflexión, la enseñanza mediante comparaciones sencillas de la vida cotidiana y el uso constante y respetuoso de la Palabra de Dios. Al observar a su Padre, Jesús comprendió que la enseñanza verdadera no solo transmite datos, sino que motiva a la persona a actuar por amor a los principios divinos.",
-        "shortAnswer": "Jesús enseñaba como su Padre: con amor, usando la Biblia y tocando el corazón con sencillez."
-      },
-      {
-        "id": "15B_q4_b",
-        "question": "Cuando te preparas para dar un curso bíblico, ¿qué métodos de enseñanza de Jesús puedes aplicar?",
-        "references": "",
-        "directAnswer": "Al prepararme para un curso bíblico, puedo aplicar métodos como preparar preguntas que ayuden al estudiante a razonar, buscar ejemplos sencillos de la vida diaria y centrar toda la enseñanza en lo que dice la Biblia.",
-        "deepAnswer": "Al prepararnos para dar un curso bíblico, debemos esforzarnos por imitar el estilo cálido y directo de Jesús. Esto implica: 1) Planificar preguntas que permitan al estudiante expresar sus sentimientos y comprensión. 2) Buscar ejemplos de la vida cotidiana que hagan claros los principios bíblicos complejos. 3) Asegurarnos de que el enfoque esté en la Palabra de Dios, permitiendo que sea la Biblia la que enseñe y convenza. Al igual que Jesús, debemos ser pacientes y adaptar nuestro enfoque a las necesidades espirituales y el trasfondo de nuestro estudiante.",
-        "shortAnswer": "Debo preparar preguntas que estimulen el razonamiento, usar ejemplos prácticos y basar toda la instrucción en la Biblia."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "15B_q4_a",
+            "question": "¿Qué métodos de enseñanza aprendió Jesús de Jehová?",
+            "references": "",
+            "directAnswer": "Jesús aprendió de Jehová métodos de enseñanza basados en el amor, el uso magistral de las Escrituras y una paciencia infinita. Él observó cómo el Padre instruye con claridad, bondad y misericordia.",
+            "deepAnswer": "Jehová es el Gran Instructor, y Jesús aprendió de Él a usar métodos que llegan al corazón. Esto incluye el uso de preguntas directas para estimular la reflexión, la enseñanza mediante comparaciones sencillas de la vida cotidiana y el uso constante y respetuoso de la Palabra de Dios. Al observar a su Padre, Jesús comprendió que la enseñanza verdadera no solo transmite datos, sino que motiva a la persona a actuar por amor a los principios divinos.",
+            "shortAnswer": "Jesús enseñaba como su Padre: con amor, usando la Biblia y tocando el corazón con sencillez."
+          },
+          {
+            "id": "15B_q4_b",
+            "question": "Cuando te preparas para dar un curso bíblico, ¿qué métodos de enseñanza de Jesús puedes aplicar?",
+            "references": "",
+            "directAnswer": "Al prepararme para un curso bíblico, puedo aplicar métodos como preparar preguntas que ayuden al estudiante a razonar, buscar ejemplos sencillos de la vida diaria y centrar toda la enseñanza en lo que dice la Biblia.",
+            "deepAnswer": "Al prepararnos para dar un curso bíblico, debemos esforzarnos por imitar el estilo cálido y directo de Jesús. Esto implica: 1) Planificar preguntas que permitan al estudiante expresar sus sentimientos y comprensión. 2) Buscar ejemplos de la vida cotidiana que hagan claros los principios bíblicos complejos. 3) Asegurarnos de que el enfoque esté en la Palabra de Dios, permitiendo que sea la Biblia la que enseñe y convenza. Al igual que Jesús, debemos ser pacientes y adaptar nuestro enfoque a las necesidades espirituales y el trasfondo de nuestro estudiante.",
+            "shortAnswer": "Debo preparar preguntas que estimulen el razonamiento, usar ejemplos prácticos y basar toda la instrucción en la Biblia."
+          }
+        ]
       },
       {
         "id": "15B_q5",
@@ -7208,20 +7183,12 @@ const lessonsData = [
         "shortAnswer": "El gozo es un deber cristiano porque es un mandato bíblico y una muestra evidente de que el espíritu santo de Jehová actúa en nosotros."
       },
       {
-        "id": "16A_q7_a",
-        "question": "¿Qué esperanza nos hace felices? (Mat. 6:9, 10; 1 Tim. 1:11).",
-        "references": "Mat. 6:9, 10; 1 Tim. 1:11",
-        "directAnswer": "Nos hace felices la esperanza de que el Reino de Dios santifique el nombre de Jehová y traiga bendiciones a la Tierra, reflejando la personalidad de nuestro \"Dios feliz\".",
-        "deepAnswer": "Nuestra felicidad se fundamenta en la gloriosa esperanza de que el Reino de Dios, bajo el mando de Jesucristo, santificará el nombre de Jehová y establecerá Su voluntad en la Tierra tal como se hace en el cielo (<strong>Mat. 6:9, 10</strong>). Esta confianza nos llena de alegría, ya que servimos a Jehová, quien es descrito como \"el Dios feliz\" (<strong>1 Tim. 1:11</strong>). Al centrar nuestra vida en esta esperanza, imitamos su gozo a pesar de las dificultades actuales.",
-        "shortAnswer": "La esperanza de que el Reino de Dios santifique Su nombre y haga Su voluntad nos llena de felicidad."
-      },
-      {
-        "id": "16A_q7_b",
-        "question": "¿A qué nos anima la Biblia para mantener nuestra alegría? (Filip. 4:4). EXPERIENCIA: Una precursora llamada Janeen dice: “Cada vez que tengo la oportunidad de enseñarle la verdad a alguien, siento que se graba más en mi mente y en mi corazón. Así mi fe sigue creciendo en vez de quedarse estancada”.",
-        "references": "Filip. 4:4",
-        "directAnswer": "La Biblia nos anima a regocijarnos siempre en el Señor, lo cual es más eficaz cuando nos mantenemos activos compartiendo las buenas noticias con otros.",
-        "deepAnswer": "La Biblia nos exhorta de manera directa: \"¡Alégrense siempre en el Señor!\" (<strong>Filip. 4:4</strong>). Este gozo no depende solo de las circunstancias externas, sino de nuestra relación con Jehová. Como muestra la experiencia de la hermana Janeen, una forma práctica de cultivar y mantener esta alegría es participando activamente en el ministerio. Al enseñar la verdad a otros, la Palabra de Dios se graba más profundamente en nuestro propio corazón y nuestra fe se fortalece, evitando que nos estanquemos espiritualmente.<br><br><strong>Experiencia:</strong> El relato de la hermana Janeen subraya una lección teocrática fundamental: el ministerio es un catalizador para nuestro propio progreso espiritual. Al explicar la verdad a otros, reforzamos nuestras propias convicciones y convertimos el conocimiento intelectual en una fe viva y dinámica que nos mantiene felices a pesar de cualquier desafío.",
-        "shortAnswer": "La Biblia nos anima a regocijarnos siempre, algo que logramos más fácilmente al compartir activamente nuestra fe con los demás."
+        "id": "16A_q7",
+        "question": "¿Qué esperanza nos hace felices, y a qué nos anima la Biblia? (Mat. 6:9, 10; Filip. 4:4; 1 Tim. 1:11). EXPERIENCIA: Una precursora llamada Janeen dice: “Cada vez que tengo la oportunidad de enseñarle la verdad a alguien, siento que se graba más en mi mente y en mi corazón. Así mi fe sigue creciendo en vez de quedarse estancada”.",
+        "references": "",
+        "directAnswer": "Nos hace felices la esperanza de ver el Reino de Dios santificar el nombre de Jehová y traer el Paraíso, y la Biblia nos anima a regocijarnos siempre imitando a nuestro \"Dios feliz\".",
+        "deepAnswer": "Nuestra felicidad se basa en la gloriosa esperanza de que el Reino de Dios santificará su santo nombre y eliminará toda la maldad de la Tierra (<strong>Mat. 6:9, 10</strong>). La Biblia nos insta constantemente a mantener una actitud alegre y positiva (<strong>Filip. 4:4</strong>), reflejando la personalidad de Jehová, quien es llamado \"el Dios feliz\" (<strong>1 Tim. 1:11</strong>). Como muestra la experiencia de la hermana Janeen, cuando compartimos activamente esta esperanza con otros en el ministerio de precursor, la verdad se graba más en nuestro corazón y nuestra propia fe se mantiene dinámica y fuerte.",
+        "shortAnswer": "Nos alegra la esperanza del Reino y se nos anima a mantener vivo ese gozo compartiendo activamente las buenas noticias con el prójimo."
       },
       {
         "id": "16A_q8",
@@ -7264,12 +7231,12 @@ const lessonsData = [
         "shortAnswer": "Nuestra labor alegra a Jehová y a sus ángeles, da esperanza a las personas del territorio y nos llena de gozo personal al dar de nosotros mismos."
       },
       {
-        "id": "16A_q13_a",
+        "id": "16A_q13",
         "question": "¿Cómo podría contribuir a la felicidad de tu familia el hecho de que seas precursor? EXPERIENCIA: Una precursora con hijos en edad escolar se organizó para predicar con ellos después de clase dos tardes a la semana; además, en las vacaciones los animaba a hacer el precursorado. Sus cinco hijos se hicieron precursores al terminar la escuela. Nota al instructor: Comenta algunos datos interesantes del pasado año de servicio sobre la predicación a nivel mundial y en el país. Recuérdales a los estudiantes lo mucho que han contribuido como precursores a esos informes (1 Cor. 3:5-9). Nuestros hermanos.",
-        "references": "1 Cor. 3:5-9",
-        "directAnswer": "Ser precursor contribuye a la felicidad familiar al establecer un ejemplo constante de celo por el ministerio y al hacer que el servicio a Jehová sea el centro de la vida cotidiana, fomentando metas espirituales compartidas.",
-        "deepAnswer": "Cuando un miembro de la familia sirve como precursor, contagia su entusiasmo por el Reino a los demás. Al organizar la vida familiar en torno a la predicación, como en el caso de la madre que involucraba a sus hijos después de clase, se crea un ambiente de unidad y propósito. Esto enseña a los hijos que el servicio a Dios es una fuente de alegría y una prioridad absoluta. Como señala <strong>1 Corintios 3:5-9</strong>, todos somos 'colaboradores de Dios'; al esforzarnos en la predicación, ayudamos a que nuestra familia se convierta en un equipo unido que trabaja para Jehová.<br><br><strong>Experiencia:</strong> El ejemplo de esta precursora demuestra que involucrar a los hijos en el ministerio de forma organizada y constante planta semillas de fe. La lección teocrática es clara: cuando los padres modelan el precursorado, no solo cumplen con su ministerio, sino que facilitan que sus hijos tomen la decisión personal de servir a Jehová a tiempo completo, garantizando que el servicio sagrado sea la columna vertebral de la felicidad familiar.",
-        "shortAnswer": "El precursorado ayuda a la familia al convertir el servicio a Jehová en un estilo de vida compartido y lleno de metas espirituales."
+        "references": "",
+        "directAnswer": "Ser precursor ayuda a la familia al establecer un ejemplo de dedicación espiritual y prioridades correctas, lo cual fomenta un ambiente de servicio a Jehová en el hogar.",
+        "deepAnswer": "Cuando los padres son precursores, transmiten a sus hijos un amor profundo por el ministerio. Al organizar la vida familiar en torno a la predicación, como en el ejemplo mencionado, los hijos aprenden que el servicio a Dios no es una carga, sino una fuente de alegría. Esto fortalece la unidad familiar, ya que todos comparten la misma meta espiritual, y como dice <strong>1 Corintios 3:5-9</strong>, somos 'colaboradores de Dios', trabajando juntos por el crecimiento espiritual de nuestro hogar y de nuestra comunidad.",
+        "shortAnswer": "El ejemplo del precursor enseña a la familia a poner el Reino de Dios en primer lugar."
       },
       {
         "id": "16A_q14",
@@ -7738,60 +7705,12 @@ const lessonsData = [
         "shortAnswer": "La oración de Ana me asegura que Jehová siempre interviene a favor de sus siervos fieles."
       },
       {
-        "id": "17A_q25_a",
-        "question": "¿Te has encontrado en la situación de necesitar que Jehová te guíe para cumplir con alguna asignación, como le pasó a Eliezer? (Gén. 24:12-14)",
-        "references": "Gén. 24:12-14",
-        "directAnswer": "Sí, al igual que Eliezer, podemos pedir a Jehová que nos dirija mediante su espíritu y su Palabra al aceptar responsabilidades teocráticas.",
-        "deepAnswer": "El ejemplo de Eliezer nos enseña que, ante una tarea importante, la humildad nos debe llevar a orar específicamente por guía divina. Él no confió en su propia sabiduría, sino que buscó una señal clara de la voluntad de Jehová. Al igual que él, cuando recibimos una asignación, debemos orar con confianza, sabiendo que Jehová se interesa en que tengamos éxito en nuestro servicio. <br><br><strong>Lección:</strong> La dependencia total de Jehová nos permite cumplir nuestras asignaciones con la seguridad de que contamos con su respaldo.",
-        "shortAnswer": "Sí, podemos imitar a Eliezer orando específicamente por la dirección de Jehová al cumplir nuestras asignaciones."
-      },
-      {
-        "id": "17A_q25_b",
-        "question": "¿Te has encontrado en la situación de que tu familia se ponga en tu contra, como le pasó a Jacob? (Gén. 32:9-12)",
-        "references": "Gén. 32:9-12",
-        "directAnswer": "Sí, cuando afrontamos la oposición familiar, el ejemplo de Jacob nos muestra la importancia de suplicar la protección y la ayuda de Jehová.",
-        "deepAnswer": "Jacob se sintió profundamente angustiado al enfrentarse a su hermano Esaú. En su oración, recordó las promesas de Jehová y expresó su indignidad, demostrando humildad y fe. Si nuestra familia se opone a nuestras creencias, podemos imitar a Jacob al recordarle a Jehová su promesa de estar con sus siervos y pedirle sabiduría para actuar con calma y amor. <br><br><strong>Lección:</strong> La oración nos da la tranquilidad necesaria para no reaccionar con miedo, sino con fe ante la oposición familiar.",
-        "shortAnswer": "Sí, ante la oposición familiar, debemos imitar a Jacob orando fervientemente y recordando las promesas de Dios."
-      },
-      {
-        "id": "17A_q25_c",
-        "question": "¿Te has encontrado en la situación de querer conocer mejor a Dios, como Moisés? (Éx. 33:12-17)",
-        "references": "Éx. 33:12-17",
-        "directAnswer": "Sí, Moisés anhelaba conocer mejor los caminos de Jehová; nosotros también debemos hacer de nuestro estudio personal y oración una prioridad para profundizar nuestra amistad con él.",
-        "deepAnswer": "Moisés no se conformó con tener una relación superficial con Jehová; le pidió: 'Hazme conocer tus caminos'. Esta petición indica que Moisés quería entender la personalidad y los propósitos de Dios para actuar en armonía con ellos. Podemos imitar esta actitud buscando siempre profundizar nuestra comprensión de las cualidades de Jehová a través de la lectura diaria de la Biblia. <br><br><strong>Lección:</strong> Conocer a Dios es un proceso continuo que se alimenta mediante la oración constante y el estudio meditado.",
-        "shortAnswer": "Sí, al igual que Moisés, nuestro deseo de conocer a Dios debe impulsarnos a estudiar su Palabra y orar con sinceridad."
-      },
-      {
-        "id": "17A_q25_d",
-        "question": "¿Te has encontrado en la situación de enfrentarte a enemigos de Jehová, como Elías? (1 Rey. 18:36, 37)",
-        "references": "1 Rey. 18:36, 37",
-        "directAnswer": "Sí, cuando nos enfrentamos a quienes se oponen a la adoración verdadera, la oración de Elías nos enseña a centrarnos en la vindicación del nombre de Jehová.",
-        "deepAnswer": "La oración de Elías en el monte Carmelo es un ejemplo de celo por el nombre de Jehová. Él no buscó su propio beneficio, sino que el pueblo supiera quién es el Dios verdadero. Cuando nos enfrentamos a críticos o enemigos de la verdad, debemos orar pidiendo valor y sabiduría para defender nuestra fe con respeto, siempre deseando que el nombre de Jehová sea glorificado. <br><br><strong>Lección:</strong> Nuestra principal preocupación ante la oposición debe ser la santificación del nombre de Jehová, no nuestra propia reputación.",
-        "shortAnswer": "Sí, debemos imitar el celo de Elías, orando para que Jehová sea glorificado incluso ante los opositores."
-      },
-      {
-        "id": "17A_q25_e",
-        "question": "¿Te has encontrado en la situación de que se te hagan difíciles algunas facetas de la predicación, como a Jeremías? (Jer. 20:7-12)",
-        "references": "Jer. 20:7-12",
-        "directAnswer": "Sí, Jeremías experimentó desaliento en su labor, pero mediante la oración reconoció que la palabra de Jehová era como un fuego en su interior que no podía contener.",
-        "deepAnswer": "A veces, la indiferencia de la gente o el rechazo pueden hacernos sentir desanimados en la predicación. Jeremías fue sincero con Jehová acerca de sus sentimientos. Sin embargo, al meditar en el apoyo de Jehová, su fe se fortaleció. Si nos sentimos agotados o desanimados, debemos hablar con Jehová, pedirle que renueve nuestro entusiasmo y recordar que el mensaje que llevamos es una salvación para otros. <br><br><strong>Lección:</strong> Jehová comprende nuestro desánimo y puede darnos las fuerzas necesarias para continuar nuestra labor evangelizadora.",
-        "shortAnswer": "Sí, cuando la predicación resulta difícil, debemos orar para expresar nuestro sentir y pedirle a Jehová que nos sostenga."
-      },
-      {
-        "id": "17A_q25_f",
-        "question": "¿Te has encontrado en la situación de sentir la necesidad de pedirle perdón a Jehová, como mencionó Salomón? (1 Rey. 8:38, 39)",
-        "references": "1 Rey. 8:38, 39",
-        "directAnswer": "Sí, en momentos de debilidad personal, la oración de dedicación de Salomón nos recuerda que podemos acudir a Jehová con arrepentimiento sincero.",
-        "deepAnswer": "Salomón reconoció que Jehová es el único que conoce lo que hay en el corazón de cada persona. Si hemos cometido un error, debemos seguir el ejemplo de buscar el perdón de Jehová con humildad. Jehová es misericordioso y, si nos arrepentimos de corazón, él está listo para perdonar y restaurar nuestra relación con él. <br><br><strong>Lección:</strong> La transparencia ante Jehová al orar nos permite limpiar nuestra conciencia y recibir su perdón.",
-        "shortAnswer": "Sí, siempre podemos pedir perdón a Jehová, confiando en su misericordia y en que él conoce nuestro corazón arrepentido."
-      },
-      {
-        "id": "17A_q25_g",
-        "question": "¿Te has encontrado en la situación de enfrentarte a persecución, como los discípulos de Jesús? (Hech. 4:24-31)",
-        "references": "Hech. 4:24-31",
-        "directAnswer": "Sí, ante la persecución, los cristianos del primer siglo oraron pidiendo valentía, una petición que Jehová respondió de inmediato dándoles espíritu santo.",
-        "deepAnswer": "Cuando los discípulos fueron amenazados, no pidieron que la persecución cesara, sino que Jehová les diera 'denuedo' para seguir hablando su palabra. Esta es una lección poderosa para nosotros: ante la presión extrema, nuestra mayor prioridad debe ser mantener la integridad y seguir predicando. La oración nos une como hermandad y nos permite sentir el poder del espíritu santo en momentos de crisis. <br><br><strong>Lección:</strong> La oración en comunidad y la petición de valentía son las claves para permanecer fieles bajo persecución.",
-        "shortAnswer": "Sí, ante la persecución, debemos pedir a Jehová valor y denuedo para seguir predicando sin miedo."
+        "id": "17A_q25",
+        "question": "¿Te has encontrado tú en alguna de las siguientes situaciones? ˙ Necesitas que Jehová te guíe para cumplir con alguna asignación, como le pasó a Eliezer (Gén. 24:12-14). ˙ Tu familia se pone en tu contra, como le pasó a Jacob (Gén. 32:9-12). ˙ Quieres conocer mejor a Dios, como Moisés (Éx. 33:12-17). ˙ Te enfrentas a enemigos de Jehová, como Elías (1 Rey. 18:36, 37). ˙ Se te hacen difíciles algunas facetas de la predicación, como a Jeremías (Jer. 20:7-12). ˙ Sientes la necesidad de pedirle perdón a Jehová, como mencionó Salomón (1 Rey. 8:38, 39). ˙ Te enfrentas a persecución, como los discípulos de Jesús (Hech. 4:24-31). Proyecto de investigación: En la Biblia hay unas 180 oraciones. Podrías buscar información sobre ellas en la BIBLIOTECA EN LÍNEA Watchtower, JW Library, Watchtower Library, el Índice de las publicaciones Watch Tower, la Guía de estudio para los testigos de Jehová o cualquier herramienta de estudio disponible en tu idioma. Te animará mucho estudiar las oraciones de otros siervos fieles de Jehová (w11 15/2 pág. 19). Respalda tus oraciones con hechos.",
+        "references": "",
+        "directAnswer": "Sí, como precursores a menudo enfrentamos desafíos similares, y recurrir a estas oraciones bíblicas nos enseña cómo buscar la guía y el apoyo divino en cada faceta de nuestro ministerio.",
+        "deepAnswer": "Estudiar las oraciones de siervos como Elías, Jeremías o Nehemías nos ayuda a entender que no estamos solos en nuestras luchas. Ya sea que necesitemos valor para predicar, guía para organizar nuestras actividades o perdón por errores cometidos, Jehová desea que usemos el privilegio de la oración para estrechar nuestro vínculo con él.",
+        "shortAnswer": "Las oraciones de los siervos del pasado son modelos perfectos para nuestras propias necesidades actuales."
       },
       {
         "id": "17A_q26",
@@ -7951,116 +7870,28 @@ const lessonsData = [
         "shortAnswer": "Centrar nuestra mente en alegrar a Jehová y en la recompensa futura."
       },
       {
-        "id": "17B_q12_a",
-        "question": "¿Por qué puede que se requiera aguante al empezar a predicar temprano, y qué podría ayudarte a aguantar?",
+        "id": "17B_q12",
+        "question": "¿Por qué puede que se requiera aguante en las siguientes situaciones, y qué podría ayudarte a aguantar? ˙ Empezar a predicar temprano. ˙ Pasar mucho calor o mucho frío. ˙ Tener diferencias de personalidad con tu compañero de precursorado o con algún otro hermano. ˙ Enfrentarse a la indiferencia o apatía de la gente.",
         "references": "",
-        "directAnswer": "Se requiere aguante para vencer el cansancio o la falta de motivación inicial, y lo que ayuda es recordar la importancia de nuestra obra de salvación.",
-        "deepAnswer": "Empezar a predicar temprano suele implicar vencer la inclinación a la comodidad física o al descanso. Para aguantar, debemos recordar que nuestra labor es vital para la salvación de las personas. Mantener una rutina equilibrada la noche anterior y orar a Jehová para que nos dé fuerzas al despertar son pasos fundamentales para comenzar el día con entusiasmo en el servicio.",
-        "shortAnswer": "El aguante es necesario para vencer la fatiga; la oración y recordar la importancia de la obra nos ayudan a persistir."
+        "directAnswer": "El aguante es necesario debido a nuestra naturaleza imperfecta y a los desafíos del ministerio; vencer estos retos requiere oración constante y buen ánimo.",
+        "deepAnswer": "Cada situación, como el clima extremo o los roces personales, pone a prueba nuestra determinación. Para superarlas, debemos <em>'seguir pidiendo sabiduría'</em> a Jehová y enfocarnos en el valor de nuestra obra de salvación. Recordar que nuestro compañero de precursorado es, al igual que nosotros, alguien imperfecto, nos ayudará a aplicar la paciencia y a buscar la unidad cristiana en todo momento.",
+        "shortAnswer": "La oración, la humildad y el enfoque en la importancia de nuestra obra ayudan a superar cualquier obstáculo."
       },
       {
-        "id": "17B_q12_b",
-        "question": "¿Por qué puede que se requiera aguante al pasar mucho calor o mucho frío, y qué podría ayudarte a aguantar?",
+        "id": "17B_q13",
+        "question": "¿Qué te ayudará a aguantar en los siguientes casos? ˙ Al enfrentar la oposición de tu familia (Sal. 27:10; Mat. 10:34-37; Mar. 10:29, 30). ˙ Al recibir —tú o un ser querido— algún tipo de disciplina (Prov. 1:8; Heb. 12:11). ˙ Si tienes mala salud o pasas por periodos de depresión (Sal. 41:3; Mat. 11:28-30; Rom. 12:12). ˙ Al enfrentarte a tentaciones. Por ejemplo, tal vez te ofrezcan un puesto de trabajo más importante o mejor pagado pero que te quita tiempo de las actividades espirituales (Sal. 37:25; Mat. 5:3; 6:33). ˙ Si te presionan en el trabajo. Por ejemplo, si se burlan de ti por seguir los principios de la Biblia (Sal. 55:22; Juan 16:33). EXPERIENCIA: Hace muchos años, un hermano sufrió las burlas de un compañero de trabajo que por meses estuvo riéndose de él y criticando su religión. El hermano ya no podía soportarlo más, así que le pidió a Jehová que lo ayudara a aguantar como un verdadero cristiano, sin devolver mal por mal. Para su sorpresa, su compañero le pidió perdón y le prometió que no volvería a hablar mal de Dios delante de él; poco después, se fue de la empresa. Pasaron 24 años hasta que nuestro hermano volvió a ver a su excompañero de trabajo. Resulta que había estudiado la Biblia y ahora era testigo de Jehová. Le dijo que, aunque habían pasado muchos años, nunca olvidó “aquel Testigo que con tanta paciencia soportó las constantes burlas que hacía de él y de su Dios”.",
         "references": "",
-        "directAnswer": "Se requiere aguante debido al desgaste físico y la incomodidad, lo cual se supera enfocándonos en el privilegio de servir a Jehová a pesar de las condiciones meteorológicas.",
-        "deepAnswer": "Las condiciones climáticas extremas ponen a prueba nuestra determinación y nuestra salud. Para aguantar, es vital ser razonables tomando precauciones físicas, pero, sobre todo, debemos meditar en que nuestro servicio es un sacrificio de alabanza que agrada a Jehová. Enfocarnos en la alegría de estar en el ministerio, en lugar de centrarnos en la incomodidad del clima, fortalece nuestra aguante.",
-        "shortAnswer": "La preparación física y el enfoque en el privilegio de servir a Jehová nos ayudan a soportar los desafíos climáticos."
+        "directAnswer": "En momentos difíciles, nos sostiene confiar plenamente en que Jehová nunca nos abandona y buscar siempre el apoyo de nuestra hermandad y de la Biblia.",
+        "deepAnswer": "Frente a la oposición familiar, debemos recordar que el amor a Dios debe ser lo primero (Mat. 10:37). Si enfrentamos disciplina, aceptémosla como una prueba del amor de Jehová (Heb. 12:11). En casos de salud o tentaciones laborales, <strong>depositemos nuestras cargas en Jehová</strong>, recordando que él cuida de nosotros y que buscar primero el Reino nos garantiza todo lo necesario (Mat. 6:33).",
+        "shortAnswer": "Confiar en el cuidado de Jehová y en el valor de sus principios nos mantiene firmes."
       },
       {
-        "id": "17B_q12_c",
-        "question": "¿Por qué puede que se requiera aguante al tener diferencias de personalidad con tu compañero de precursorado o con algún otro hermano, y qué podría ayudarte a aguantar?",
-        "references": "",
-        "directAnswer": "Se requiere aguante para mantener la unidad cristiana ante las imperfecciones de los demás, lo cual se logra aplicando la humildad y la paciencia.",
-        "deepAnswer": "Las diferencias de personalidad son una oportunidad para demostrar amor fraternal. Al trabajar con alguien imperfecto, debemos recordar que Jehová nos usa a ambos a pesar de nuestras limitaciones. Para aguantar, es fundamental seguir el consejo de 'seguir soportándose unos a otros', aplicar la sabiduría divina para buscar puntos en común y enfocarnos en las virtudes de nuestro compañero en lugar de en sus defectos.",
-        "shortAnswer": "La humildad y el recordar que todos somos imperfectos nos ayudan a cultivar la paciencia y la unidad cristiana."
-      },
-      {
-        "id": "17B_q12_d",
-        "question": "¿Por qué puede que se requiera aguante al enfrentarse a la indiferencia o apatía de la gente, y qué podría ayudarte a aguantar?",
-        "references": "",
-        "directAnswer": "Se requiere aguante porque la falta de respuesta puede desanimarnos, y lo que ayuda es recordar que nuestra obra tiene valor independientemente de la reacción de la gente.",
-        "deepAnswer": "La indiferencia es uno de los mayores desafíos en el ministerio. Para seguir adelante, debemos cambiar nuestra perspectiva: nuestra obra tiene éxito cuando predicamos fielmente, no solo cuando alguien acepta el mensaje. Pedirle a Jehová 'sabiduría' constante nos permite ver a las personas con sus mismos ojos —como necesitadas de ayuda—, lo que nos impulsa a seguir sembrando las semillas de la verdad con perseverancia.",
-        "shortAnswer": "La oración y el enfoque en que el éxito consiste en nuestra fidelidad, no en la reacción de la gente, son claves."
-      },
-      {
-        "id": "17B_q13_a",
-        "question": "¿Qué te ayudará a aguantar al enfrentar la oposición de tu familia? (Sal. 27:10; Mat. 10:34-37; Mar. 10:29, 30)",
-        "references": "Sal. 27:10; Mat. 10:34-37; Mar. 10:29, 30",
-        "directAnswer": "Para aguantar la oposición familiar, es fundamental recordar que el amor por Jehová debe ocupar el primer lugar en nuestro corazón y confiar plenamente en que él nos adoptará como parte de su familia espiritual si los parientes nos abandonan.",
-        "deepAnswer": "Cuando la familia se opone a nuestra fe, el dolor puede ser intenso. Sin embargo, Jesús nos aseguró que, aunque debamos enfrentar divisiones, Jehová nos compensará con creces mediante una familia espiritual mundial mucho mayor (Mar. 10:29, 30). Meditar en que Jehová nunca nos abandona (Sal. 27:10) nos da la fortaleza necesaria para mantener nuestra lealtad, recordando siempre que nuestra prioridad principal es servir al Dios que nos dio la vida.",
-        "shortAnswer": "Poner a Jehová en primer lugar y confiar en el apoyo de nuestra familia espiritual."
-      },
-      {
-        "id": "17B_q13_b",
-        "question": "¿Qué te ayudará a aguantar al recibir —tú o un ser querido— algún tipo de disciplina? (Prov. 1:8; Heb. 12:11)",
-        "references": "Prov. 1:8; Heb. 12:11",
-        "directAnswer": "Lo que ayuda a aguantar la disciplina es verla como una prueba del amor de Jehová, quien desea corregirnos para que alcancemos una vida recta y pacífica.",
-        "deepAnswer": "La disciplina, aunque puede resultar dolorosa en el momento, es una expresión del cuidado de nuestro Padre celestial. Debemos verla no como un castigo injusto, sino como un medio para desarrollar una paz fruto de la justicia (Heb. 12:11). Escuchar los consejos basados en la Biblia, incluyendo la guía de nuestros padres o de los ancianos, nos protege de cometer errores graves y nos mantiene en el camino que lleva a la vida.",
-        "shortAnswer": "Aceptar la disciplina como una muestra del amor y el interés de Jehová por nuestra espiritualidad."
-      },
-      {
-        "id": "17B_q13_c",
-        "question": "¿Qué te ayudará a aguantar si tienes mala salud o pasas por periodos de depresión? (Sal. 41:3; Mat. 11:28-30; Rom. 12:12)",
-        "references": "Sal. 41:3; Mat. 11:28-30; Rom. 12:12",
-        "directAnswer": "Aguantar estas dificultades es posible si acudimos a Jehová mediante la oración constante, confiando en que él nos sostiene en nuestro lecho de enfermo y nos ofrece descanso espiritual.",
-        "deepAnswer": "La mala salud o la depresión pueden drenar nuestras fuerzas. La clave para aguantar es 'perseverar en la oración' (Rom. 12:12) y aceptar la invitación de Jesús de ir a él para encontrar alivio (Mat. 11:28-30). Jehová promete sostener a quienes sufren, fortaleciéndolos física y emocionalmente mediante su espíritu santo y el ánimo de la congregación.",
-        "shortAnswer": "Perseverar en la oración y acudir a Jehová, quien promete sostenernos y darnos alivio."
-      },
-      {
-        "id": "17B_q13_d",
-        "question": "¿Qué te ayudará a aguantar al enfrentarte a tentaciones, como cuando te ofrecen un puesto de trabajo mejor pagado que te quita tiempo de las actividades espirituales? (Sal. 37:25; Mat. 5:3; 6:33)",
-        "references": "Sal. 37:25; Mat. 5:3; 6:33",
-        "directAnswer": "Para resistir las tentaciones materiales, es esencial reconocer nuestras necesidades espirituales y confiar plenamente en la promesa de que Jehová nos proveerá lo necesario si buscamos primero el Reino.",
-        "deepAnswer": "Las ofertas de puestos importantes pueden parecer atractivas, pero si comprometen nuestra adoración a Jehová, se convierten en un lazo. Jesús enseñó que quienes reconocen su necesidad espiritual son felices (Mat. 5:3). Poner el Reino en primer lugar (Mat. 6:33) y confiar en que Jehová no desampara a sus siervos fieles (Sal. 37:25) nos da la sabiduría para rechazar lo que nos aleja de nuestra meta eterna.",
-        "shortAnswer": "Dar prioridad a los intereses del Reino y confiar en que Jehová nos proveerá lo esencial."
-      },
-      {
-        "id": "17B_q13_e",
-        "question": "¿Qué te ayudará a aguantar si te presionan en el trabajo, como cuando se burlan de ti por seguir los principios de la Biblia? (Sal. 55:22; Juan 16:33) EXPERIENCIA: Hace muchos años, un hermano sufrió las burlas de un compañero de trabajo que por meses estuvo riéndose de él y criticando su religión. El hermano ya no podía soportarlo más, así que le pidió a Jehová que lo ayudara a aguantar como un verdadero cristiano, sin devolver mal por mal. Para su sorpresa, su compañero le pidió perdón y le prometió que no volvería a hablar mal de Dios delante de él; poco después, se fue de la empresa. Pasaron 24 años hasta que nuestro hermano volvió a ver a su excompañero de trabajo. Resulta que había estudiado la Biblia y ahora era testigo de Jehová. Le dijo que, aunque habían pasado muchos años, nunca olvidó “aquel Testigo que con tanta paciencia soportó las constantes burlas que hacía de él y de su Dios”.",
-        "references": "Sal. 55:22; Juan 16:33",
-        "directAnswer": "Para aguantar la presión y las burlas en el trabajo, lo más eficaz es arrojar nuestra carga sobre Jehová y mantener una conducta ejemplar, paciente y cristiana en todo momento.",
-        "deepAnswer": "Soportar la hostilidad laboral requiere fe y paciencia. Al orar a Jehová y dejar el asunto en sus manos (Sal. 55:22), demostramos que confiamos en su justicia. Jesús advirtió que en el mundo tendríamos aflicción, pero también nos dio el ánimo necesario para vencer (Juan 16:33). Mantener una conducta irreprochable puede, con el tiempo, conmover el corazón de quienes nos critican.<br><br><strong>Experiencia:</strong> Este relato demuestra que la paciencia cristiana es una poderosa herramienta de testimonio. Al no responder a las burlas con ira, el hermano dejó que su comportamiento hablara por él. La lección teocrática aquí es que nunca sabemos cómo nuestra fidelidad bajo presión puede influir en otros; la conducta mansa y leal no solo nos ayuda a aguantar, sino que puede llegar a tocar el corazón de los opositores años después.",
-        "shortAnswer": "Confiar en Jehová mediante la oración y mantener una conducta paciente que dé buen testimonio."
-      },
-      {
-        "id": "17B_q14_a",
-        "question": "¿Cómo te ayudará el estudiar y meditar a aguantar los problemas y a mantenerte cerca de Jehová? (Prov. 15:28; 2 Tim. 2:15). EXPERIENCIA: Un hermano que había estado en campos de concentración nazis escribió: “Cuando me arrestaron, me sentí agradecido de no haber descuidado el estudio personal, ya que este me ayudó a tener fe para aguantar las pruebas”.",
-        "references": "Prov. 15:28; 2 Tim. 2:15; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
-        "directAnswer": "El estudio y la meditación nos proporcionan el alimento espiritual y la base doctrinal necesarios para fortalecer nuestra fe antes de que lleguen las pruebas difíciles.",
-        "deepAnswer": "El estudio personal diligente y la meditación profunda sobre la Palabra de Dios actúan como una reserva de fortaleza espiritual. Tal como indica 2 Timoteo 2:15, al manejar bien la palabra de la verdad, nos aseguramos de tener la armadura mental necesaria para resistir ataques contra nuestra integridad. Meditar permite que las verdades bíblicas pasen de la mente al corazón, convirtiéndose en convicciones inamovibles.<br><br><strong>Experiencia:</strong> El relato del hermano en los campos de concentración nazis subraya una lección teocrática fundamental: el aguante bajo presión extrema no se improvisa. Aquel hermano pudo resistir el horror del cautiverio porque ya había edificado una fe sólida mediante el estudio constante antes de ser arrestado. Su experiencia nos enseña que el estudio personal es una inversión preventiva que nos permite mantenernos cerca de Jehová incluso en las circunstancias más inhumanas.",
-        "shortAnswer": "El estudio y la meditación construyen la fe que necesitamos para aguantar pruebas futuras."
-      },
-      {
-        "id": "17B_q14_b",
-        "question": "¿Cómo te ayudará pasar tiempo con los hermanos a aguantar los problemas y a mantenerte cerca de Jehová? (1 Cor. 15:33; Heb. 10:24, 25).",
-        "references": "1 Cor. 15:33; Heb. 10:24, 25; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
-        "directAnswer": "Pasar tiempo con los hermanos nos proporciona el estímulo, el apoyo emocional y el ejemplo de aguante necesarios para no desfallecer.",
-        "deepAnswer": "Jehová no quiere que enfrentemos las pruebas en aislamiento. Según Hebreos 10:24, 25, al reunirnos, nos incitamos al amor y a las obras excelentes. La asociación con hermanos que tienen metas espirituales claras nos protege de las malas influencias (1 Cor. 15:33) y nos permite ver cómo otros superan obstáculos similares, lo cual fortalece nuestra resolución de mantenernos fieles.",
-        "shortAnswer": "La compañía de los hermanos nos anima y fortalece nuestra determinación de servir a Jehová."
-      },
-      {
-        "id": "17B_q14_c",
-        "question": "¿Cómo te ayudará el predicar a aguantar los problemas y a mantenerte cerca de Jehová? (Mat. 24:14; 28:19, 20).",
-        "references": "Mat. 24:14; 28:19, 20; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
-        "directAnswer": "La predicación nos mantiene enfocados en el Reino de Dios y en la esperanza futura, lo que evita que los problemas personales eclipsen nuestra perspectiva espiritual.",
-        "deepAnswer": "Participar activamente en la obra de predicar y hacer discípulos nos permite ser 'colaboradores de Dios'. Al transmitir esperanza a otros, nuestra propia fe se reafirma. El mandato de Mateo 28:19, 20 es una garantía de que Jesús está con nosotros todos los días. Al mantenernos ocupados en la obra de Jehová, demostramos que confiamos en su soberanía, lo que nos da propósito y fuerzas para aguantar cualquier tribulación.",
-        "shortAnswer": "Predicar nos mantiene centrados en la esperanza del Reino y activos en el servicio a Dios."
-      },
-      {
-        "id": "17B_q14_d",
-        "question": "¿Cómo te ayudará el orar a aguantar los problemas y a mantenerte cerca de Jehová? (Prov. 15:29).",
-        "references": "Prov. 15:29; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
-        "directAnswer": "La oración nos abre una línea directa de comunicación con Jehová, quien nos brinda paz mental y fortaleza espiritual para soportar las dificultades.",
-        "deepAnswer": "Prov. 15:29 asegura que Jehová escucha las oraciones de los justos. En momentos de prueba, la oración no es solo una petición de alivio, sino un medio para obtener 'el poder que va más allá de lo normal'. Al orar, reconocemos nuestra dependencia de Jehová, lo cual fortalece nuestro vínculo con él y nos permite sentir su paz, la cual protege nuestro corazón y facultades mentales.",
-        "shortAnswer": "La oración permite recibir el apoyo directo y la paz que solo Jehová puede dar."
-      },
-      {
-        "id": "17B_q14_e",
-        "question": "¿Cómo te ayudará tener una buena conciencia a aguantar los problemas y a mantenerte cerca de Jehová? (1 Tim. 1:18, 19; 1 Ped. 3:16).",
-        "references": "1 Tim. 1:18, 19; 1 Ped. 3:16; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
-        "directAnswer": "Una buena conciencia nos brinda la confianza y la paz interior necesarias para enfrentar cualquier situación con la frente en alto ante Dios y los hombres.",
-        "deepAnswer": "La conciencia es un protector vital. Como indica 1 Timoteo 1:18, 19, mantener una buena conciencia es necesario para no sufrir un naufragio en nuestra fe. Cuando sabemos que nuestra conducta es agradable a Jehová, no tenemos que cargar con el peso adicional de la culpa o el remordimiento, lo que nos permite concentrar todas nuestras fuerzas en aguantar la prueba presente con dignidad y esperanza.",
-        "shortAnswer": "Una conciencia limpia nos da confianza ante Dios y nos protege del desánimo."
+        "id": "17B_q14",
+        "question": "¿Cómo te ayudarán los siguientes puntos a aguantar los problemas y a mantenerte cerca de Jehová? ˙ Estudiar y meditar (Prov. 15:28; 2 Tim. 2:15). EXPERIENCIA: Un hermano que había estado en campos de concentración nazis escribió: “Cuando me arrestaron, me sentí agradecido de no haber descuidado el estudio personal, ya que este me ayudó a tener fe para aguantar las pruebas”. ˙ Pasar tiempo con los hermanos (1 Cor. 15:33; Heb. 10:24, 25). ˙ Predicar (Mat. 24:14; 28:19, 20). ˙ Orar (Prov. 15:29). ˙ Tener una buena conciencia (1 Tim. 1:18, 19; 1 Ped. 3:16). “Que el aguante complete su obra” Mientras esperamos a que se cumplan las promesas de Jehová, el aguante nos ayuda a cultivar buenas cualidades.",
+        "references": "Sant. 1:2-4; w21.02 pág. 28 párr. 7",
+        "directAnswer": "Para mantenernos cerca de Jehová, es vital desarrollar hábitos espirituales sólidos, como el estudio personal, la oración y la participación activa en el ministerio.",
+        "deepAnswer": "La fe se fortalece con el <strong>estudio y la meditación</strong>, que nos dan el conocimiento necesario para enfrentar pruebas. La compañía de los hermanos en las reuniones nos estimula a no desfallecer, mientras que la predicación mantiene nuestro corazón enfocado en la obra de Dios. Además, mantener una buena conciencia ante él es un escudo protector que nos permite seguir adelante con confianza (1 Ped. 3:16).",
+        "shortAnswer": "La rutina espiritual activa es el ancla que nos une a Jehová frente a las pruebas."
       },
       {
         "id": "17B_q15",

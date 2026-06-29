@@ -535,6 +535,120 @@ body {
     transition: border var(--transition-speed);
 }
 
+/* Sub-Accordions for nested questions */
+.sub-accordion-container {
+    margin-top: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 12px;
+    border-left: 2px solid rgba(var(--primary-rgb), 0.15);
+}
+
+.sub-accordion-item {
+    background: rgba(var(--primary-rgb), 0.01);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    overflow: hidden;
+    transition: box-shadow 0.2s ease;
+}
+
+.sub-accordion-item:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+.sub-accordion-header {
+    padding: 12px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    background: rgba(var(--primary-rgb), 0.02);
+    gap: 12px;
+    user-select: none;
+}
+
+.sub-accordion-title-container {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex: 1;
+}
+
+.sub-item-checkbox {
+    width: 18px;
+    height: 18px;
+    min-width: 18px;
+    min-height: 18px;
+    max-width: 18px;
+    max-height: 18px;
+    flex-shrink: 0;
+    border-radius: 50%;
+    border: 1.5px solid var(--text-light);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    background: white;
+    transition: all 0.2s;
+}
+
+.theme-nocturno .sub-item-checkbox {
+    background: #1f2937;
+}
+
+.sub-item-checkbox:hover {
+    border-color: var(--accent-color);
+    transform: scale(1.1);
+}
+
+.sub-item-checkbox.checked {
+    background: var(--accent-color);
+    border-color: var(--accent-color);
+    color: white;
+}
+
+.sub-item-checkbox.checked::after {
+    content: "✓";
+    font-size: 0.65rem;
+    font-weight: 800;
+}
+
+.sub-accordion-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--text-color);
+    line-height: 1.4;
+}
+
+.sub-accordion-icon {
+    font-size: 0.75rem;
+    color: var(--text-light);
+    transition: transform 0.3s;
+}
+
+.sub-accordion-item.open .sub-accordion-icon {
+    transform: rotate(180deg);
+}
+
+.sub-accordion-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-out, padding 0.3s ease-out;
+    padding: 0 16px;
+    background: var(--card-bg);
+}
+
+.sub-accordion-item.open .sub-accordion-content {
+    max-height: 3000px;
+    padding: 16px;
+    border-top: 1px solid var(--border-color);
+}
+
+.sub-tab-header {
+    margin-bottom: 12px;
+}
+
 .accordion-header {
     padding: 16px 20px;
     display: flex;
