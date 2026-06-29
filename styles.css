@@ -1259,15 +1259,15 @@ mark.search-highlight {
     align-items: center;
     justify-content: center;
     padding: 0 16px;
-    height: 34px; /* Altura fija para centrado vertical perfecto */
+    height: 34px;
     box-sizing: border-box;
-    border: 1px solid transparent;
-    background: transparent;
+    border: 1px solid rgba(var(--primary-rgb), 0.15);
+    background: rgba(var(--primary-rgb), 0.04);
     font-family: inherit;
-    font-size: 0.85rem;
+    font-size: 0.88rem;
     font-weight: 600;
-    color: var(--text-light);
-    border-radius: 17px; /* Forma de píldora perfecta */
+    color: var(--primary-color);
+    border-radius: 17px;
     cursor: pointer;
     transition: all 0.2s;
     white-space: nowrap;
@@ -1275,15 +1275,15 @@ mark.search-highlight {
 }
 
 .modal-tab-btn:hover {
-    background: rgba(var(--primary-rgb), 0.05);
+    background: rgba(var(--primary-rgb), 0.1);
     color: var(--primary-color);
 }
 
 .modal-tab-btn.active {
-    background: var(--accent-color); /* Color de realce (Naranja/Brillante) */
+    background: var(--primary-color) !important;
     color: white !important;
     font-weight: 800;
-    box-shadow: 0 4px 12px rgba(var(--primary-rgb), 0.15);
+    box-shadow: 0 4px 12px rgba(var(--primary-rgb), 0.2);
 }
 
 .modal-body-content {
