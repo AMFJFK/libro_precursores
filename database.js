@@ -1306,11 +1306,29 @@ const lessonsData = [
       },
       {
         "id": "3B_q8",
-        "question": "¿Por qué estamos tan seguros de que el nombre de Dios tiene que estar en la Biblia? (parte 2) “¡Cuánto amo tu ley!” (Salmo 119:97). • Menciona algunas ayudas de la Traducción del Nuevo Mundo revisada que aparecen en los apéndices.",
+        "question": "¿Por qué estamos tan seguros de que el nombre de Dios tiene que estar en la Biblia? (parte 2) “¡Cuánto amo tu ley!” (Salmo 119:97).",
         "references": "",
-        "directAnswer": "Estamos seguros de que el nombre de Dios debe estar en la Biblia porque aparece miles de veces en los manuscritos hebreos originales y Dios mismo declaró su nombre.",
-        "deepAnswer": "Estamos seguros de que el nombre de Dios, Jehová, debe estar en la Biblia porque aparece miles de veces, representado por el Tetragrámaton, en los manuscritos hebreos originales. Además, Jehová mismo se identificó por su nombre en las Escrituras, y su propósito es que su nombre sea conocido por toda la Tierra. La omisión de este nombre vital en muchas traducciones es una pérdida inmensa para la identificación de Dios. <br> En cuanto a las ayudas de la <em>Traducción del Nuevo Mundo</em> revisada, sus apéndices ofrecen valiosos recursos como <strong>mapas detallados, diagramas ilustrativos, un glosario de términos y explicaciones fundamentales</strong> sobre los principios de traducción, todos diseñados para enriquecer nuestro estudio.",
-        "shortAnswer": "El nombre de Dios está en la Biblia por su aparición original y porque Dios mismo lo reveló."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "3B_q8_a",
+            "question": "¿Por qué estamos tan seguros de que el nombre de Dios tiene que estar en la Biblia? (parte 2) “¡Cuánto amo tu ley!” (Salmo 119:97).",
+            "references": "Salmo 119:97",
+            "directAnswer": "Estamos seguros de que el nombre de Dios debe estar en la Biblia porque aparece miles de veces en los manuscritos hebreos originales y el propósito de Jehová es que su nombre sea conocido.",
+            "deepAnswer": "Estamos seguros de que el nombre de Dios, Jehová, debe estar en la Biblia porque aparece miles de veces, representado por el Tetragrámaton, en los manuscritos hebreos originales. Jehová mismo se identificó por su nombre en las Escrituras, y su propósito soberano es que su nombre sea santificado y conocido por toda la Tierra (Éxodo 3:15; Salmo 83:18). La omisión de este nombre vital en muchas traducciones es una pérdida inmensa, ya que impide que los lectores identifiquen correctamente al Dios verdadero y establezcan una relación personal con él.",
+            "shortAnswer": "El nombre de Dios debe estar en la Biblia porque aparece miles de veces en los originales y Dios quiere que sea conocido."
+          },
+          {
+            "id": "3B_q8_b",
+            "question": "Menciona algunas ayudas de la Traducción del Nuevo Mundo revisada que aparecen en los apéndices.",
+            "references": "Apéndice de la Traducción del Nuevo Mundo",
+            "directAnswer": "La Traducción del Nuevo Mundo revisada incluye ayudas como mapas, diagramas, un glosario de términos y explicaciones sobre los principios de traducción.",
+            "deepAnswer": "Los apéndices de la <em>Traducción del Nuevo Mundo</em> revisada han sido preparados con el fin de facilitar un estudio profundo de la Palabra de Dios. Entre las ayudas valiosas que ofrecen se encuentran: <strong>mapas detallados</strong> que nos ayudan a visualizar los lugares donde ocurrieron los sucesos bíblicos, <strong>diagramas ilustrativos</strong> que clarifican conceptos complejos, un <strong>glosario de términos</strong> bíblicos para entender mejor la terminología sagrada y <strong>explicaciones fundamentales</strong> sobre los principios que siguieron los traductores para mantener la fidelidad al texto original. Estos recursos son herramientas esenciales para enriquecer nuestra adoración personal y nuestro ministerio.",
+            "shortAnswer": "Incluye mapas, diagramas, un glosario de términos y explicaciones sobre los principios de traducción."
+          }
+        ]
       },
       {
         "id": "3B_q9",
@@ -1356,11 +1374,29 @@ const lessonsData = [
       },
       {
         "id": "3B_q11",
-        "question": "¿qué crees que te puede ser útil cuando leas la Traducción del Nuevo Mundo? • Cuando salgas a predicar o cuando estés con los",
+        "question": "¿qué crees que te puede ser útil cuando leas la Traducción del Nuevo Mundo?",
         "references": "",
-        "directAnswer": "Las referencias marginales y las notas de la Traducción del Nuevo Mundo me serán útiles para profundizar en el significado de los versículos, encontrar textos paralelos y entender mejor el contexto original.",
-        "deepAnswer": "Las referencias marginales y las notas en la <em>Traducción del Nuevo Mundo</em> son tesoros para el estudio personal. Me resultarán extremadamente útiles para <strong>encontrar textos paralelos que arrojen más luz</strong> sobre un pasaje, explorar otras posibles traducciones de palabras clave y comprender matices del idioma original que enriquecen el sentido. Esto me permitirá un análisis más profundo y preciso de la Palabra de Dios, lo cual es esencial para 'manejar la palabra de la verdad correctamente' en mi vida y ministerio.",
-        "shortAnswer": "Las referencias marginales y notas profundizan el significado y el contexto bíblico."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "3B_q11_a",
+            "question": "¿Qué crees que te puede ser útil cuando leas la Traducción del Nuevo Mundo cuando salgas a predicar?",
+            "references": "",
+            "directAnswer": "Al predicar, las referencias marginales y las notas de la Traducción del Nuevo Mundo son herramientas útiles para explicar versículos con claridad, fundamentar nuestras enseñanzas en la Biblia y responder preguntas con precisión.",
+            "deepAnswer": "Cuando estamos en la predicación, nuestra meta es comunicar el mensaje de forma que llegue al corazón de las personas. Las referencias marginales nos permiten <strong>conectar rápidamente un versículo con otros pasajes bíblicos</strong> que refuerzan el mismo punto, lo que ayuda a que el interlocutor vea que la Biblia se explica a sí misma. Asimismo, las notas permiten aclarar términos o expresiones que podrían ser confusos para alguien que no conoce las Escrituras, facilitando así que presentemos 'la palabra de la verdad' de manera clara y convincente.",
+            "shortAnswer": "Las herramientas de la Traducción del Nuevo Mundo ayudan a explicar la Biblia con claridad y exactitud al predicar."
+          },
+          {
+            "id": "3B_q11_b",
+            "question": "¿Qué crees que te puede ser útil cuando leas la Traducción del Nuevo Mundo cuando estés con los hermanos?",
+            "references": "",
+            "directAnswer": "Cuando estoy con los hermanos, estas ayudas nos sirven para enriquecer nuestras conversaciones espirituales, analizar juntos los puntos de la reunión y profundizar en el entendimiento de las verdades bíblicas.",
+            "deepAnswer": "Estar con los hermanos es una oportunidad para el intercambio de estímulo. Al estudiar o conversar sobre la Biblia, las referencias marginales y las notas nos permiten <strong>explorar juntos 'la anchura, la longitud, la altura y la profundidad' del conocimiento bíblico</strong>. Estas herramientas nos ayudan a analizar el contexto de los relatos, entender el cumplimiento de profecías y aplicar los principios bíblicos a nuestra vida diaria, fortaleciendo nuestra fe y nuestra unidad como congregación al centrarnos en la exactitud de lo que dice la Palabra de Dios.",
+            "shortAnswer": "Las notas y referencias facilitan el estudio compartido y fortalecen la fe mediante un análisis bíblico más profundo."
+          }
+        ]
       },
       {
         "id": "3B_q12",
@@ -2826,11 +2862,45 @@ const lessonsData = [
       },
       {
         "id": "7A_q32",
-        "question": "¿Cómo puedes aprovechar al máximo estas ayudas que se han preparado para los precursores? ˙ La reunión que se celebra durante la visita del superintendente de circuito. ˙ La reunión anual con los ancianos de la congregación en diciembre o enero. ˙ La reunión que se celebra antes o después de la asamblea de circuito. ˙ La Escuela del Servicio de Precursor.",
+        "question": "¿Cómo puedes aprovechar al máximo estas ayudas que se han preparado para los precursores?",
         "references": "",
-        "directAnswer": "Aprovechamos al máximo estas ayudas al asistir con la actitud correcta, tomar notas y esforzarnos por poner en práctica las instrucciones recibidas.",
-        "deepAnswer": "Jehová ha provisto una rica variedad de ayudas para que los precursores mejoremos nuestro servicio, y es un gran privilegio contar con ellas. La reunión durante la visita del superintendente de circuito, la reunión anual con los ancianos, la reunión pre o post asamblea, y la Escuela del Servicio de Precursor, todas están diseñadas para fortalecer nuestra fe y capacidad. Nuestra responsabilidad es asistir con un corazón receptivo, tomar apuntes diligentes y, lo más importante, aplicar fielmente las sugerencias para progresar en nuestra asignación y glorificar a Jehová.",
-        "shortAnswer": "Asiste, toma notas y aplica las enseñanzas recibidas."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "7A_q32_a",
+            "question": "¿Cómo puedes aprovechar al máximo la ayuda de 'La reunión que se celebra durante la visita del superintendente de circuito' para los precursores?",
+            "references": "",
+            "directAnswer": "Puedes aprovechar esta reunión asistiendo con una actitud positiva y receptiva, tomando notas de los consejos espirituales y aplicándolos directamente en tu ministerio.",
+            "deepAnswer": "La visita del superintendente de circuito es un tiempo de refrigerio espiritual. Para los precursores, la reunión específica con el superintendente es una oportunidad de oro para recibir guía práctica y ánimo. Se debe aprovechar al máximo llegando puntual, prestando atención a los puntos que ayudan a superar los retos del ministerio y estando dispuestos a ajustar nuestros métodos según las sugerencias recibidas, siempre con el objetivo de mejorar nuestra eficacia en la predicación.",
+            "shortAnswer": "Asiste con buena actitud, toma notas y aplica los consejos del superintendente."
+          },
+          {
+            "id": "7A_q32_b",
+            "question": "¿Cómo puedes aprovechar al máximo la ayuda de 'La reunión anual con los ancianos de la congregación en diciembre o enero' para los precursores?",
+            "references": "",
+            "directAnswer": "Prepara tu corazón para esta reunión revisando tus metas en el ministerio y escuchando con atención las directrices que los ancianos comparten para fortalecer la labor de los precursores en la congregación.",
+            "deepAnswer": "Los ancianos de congregación son pastores que cuidan del rebaño y conocen bien las necesidades locales. En la reunión anual, ellos ofrecen dirección específica adaptada al territorio y a las circunstancias de la congregación. Los precursores deben aprovechar este momento para coordinarse mejor con el cuerpo de ancianos, expresar sus necesidades y mostrar un espíritu de cooperación que fortalezca la unidad y el entusiasmo de toda la congregación.",
+            "shortAnswer": "Coordínate con los ancianos y escucha con atención las directrices locales."
+          },
+          {
+            "id": "7A_q32_c",
+            "question": "¿Cómo puedes aprovechar al máximo la ayuda de 'La reunión que se celebra antes o después de la asamblea de circuito' para los precursores?",
+            "references": "",
+            "directAnswer": "Utiliza este tiempo para meditar en las instrucciones recibidas sobre la organización y los objetivos del circuito, y aplícalas inmediatamente en tu actividad como precursor.",
+            "deepAnswer": "Estas reuniones son esenciales para mantenernos en sintonía con las metas globales y regionales del pueblo de Jehová. Aprovechar esta ayuda significa ver estas instrucciones como una guía necesaria para nuestro servicio. Es vital que cada precursor analice cómo las sugerencias presentadas en estas reuniones pueden ayudarle a mejorar su predicación y su calidad de vida espiritual, asegurándose de implementar los cambios necesarios de manera entusiasta.",
+            "shortAnswer": "Medita en las instrucciones y aplícalas de inmediato en tu servicio."
+          },
+          {
+            "id": "7A_q32_d",
+            "question": "¿Cómo puedes aprovechar al máximo la ayuda de 'La Escuela del Servicio de Precursor' para los precursores?",
+            "references": "",
+            "directAnswer": "Aprovecha esta capacitación intensa participando activamente, analizando profundamente el manual de la escuela y haciendo ajustes concretos en tu ministerio basados en lo aprendido.",
+            "deepAnswer": "La Escuela del Servicio de Precursor es una provisión amorosa de Jehová para elevar la calidad de nuestra enseñanza y fortalecer nuestra espiritualidad. Para beneficiarse al máximo, el estudiante debe llegar bien preparado, participar con comentarios edificantes en clase, ser humilde para reconocer áreas donde necesita mejorar y, una vez finalizada la escuela, utilizar el manual como material de consulta permanente para seguir puliendo su técnica al enseñar la verdad.",
+            "shortAnswer": "Participa activamente, estudia el manual y aplica lo aprendido constantemente."
+          }
+        ]
       }
     ],
     "image": "pioneer_studying.png",
@@ -2991,11 +3061,76 @@ const lessonsData = [
       },
       {
         "id": "7B_q18",
-        "question": "¿Qué opina Jehová de... ˙ ... la inmoralidad sexual? (Lev. 20:10, 13, 15, 16; Rom.1:24, 26, 27, 32; 1 Cor. 6:9, 10; nwt pág. 1827). ˙ ... la apostasía? (Deut. 13:13, 15; 2 Cor. 6:14, 15, 17, 18; 2 Juan 7, 9, 10; Apoc. 18:4). ˙ ... el aborto? (Éx. 21:22-25; Sal. 127:3; 139:14-16). ˙ ... la mentira descarada y malintencionada y el testimonio falso? (Prov. 6:16, 19; Col. 3:9; Apoc. 22:15; it-2 pág. 368 párr. 4). ˙ ... el maltrato verbal y la calumnia? (Lev. 19:16; 1 Cor. 6:10; it-1 pág. 473 párr. 4). ˙ ... la impureza y la conducta descarada? (2 Cor. 12:21; Gál. 5:19; Efes. 4:18, 19; 2 Ped. 2:7; nwt pág. 1820; w12 15/3 págs. 30, 31). ˙ ... la borrachera? (1 Cor. 5:11; 6:9, 10). Si ves o te enteras de que alguien del pueblo de Jehová ha cometido un pecado grave, ¿por qué no debes quedarte callado?",
+        "question": "¿Qué opina Jehová de...",
         "references": "",
-        "directAnswer": "Jehová aborrece profundamente estas prácticas pecaminosas porque violan sus justas normas, corrompen a las personas y empañan la santidad de su santo nombre.",
-        "deepAnswer": "A través de toda la Biblia, Jehová deja en claro que detesta la inmoralidad sexual (<strong>Levítico 20:10</strong>), la apostasía, el aborto y la mentira, pues reflejan la rebelión satánica. Si un precursor llega a saber de un pecado grave de este tipo dentro de la congregación, su amor a Jehová y al pecador lo obligará a actuar con prontitud para proteger la limpieza del pueblo de Dios, animando al implicado a buscar la ayuda de los ancianos o informándoles directamente a ellos si fuera necesario.",
-        "shortAnswer": "Jehová exige santidad absoluta de su pueblo y aborrece cualquier conducta que contamine la pureza de su congregación."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "7B_q18_a",
+            "question": "¿Qué opina Jehová de la inmoralidad sexual? (Lev. 20:10, 13, 15, 16; Rom. 1:24, 26, 27, 32; 1 Cor. 6:9, 10; nwt pág. 1827).",
+            "references": "Lev. 20:10, 13, 15, 16; Rom. 1:24, 26, 27, 32; 1 Cor. 6:9, 10; nwt pág. 1827",
+            "directAnswer": "Jehová considera la inmoralidad sexual como un pecado grave que contamina a la persona y que, si no hay arrepentimiento, impide entrar en el Reino de Dios.",
+            "deepAnswer": "Jehová, como nuestro Creador, estableció las normas para el uso correcto del sexo dentro del matrimonio. Cualquier forma de inmoralidad sexual —ya sea adulterio, homosexualidad o incesto— es una violación de sus leyes santas y una falta de respeto a la santidad de la vida y la familia. Dios aborrece estas prácticas porque degradan al ser humano y debilitan la relación espiritual con Él.",
+            "shortAnswer": "Es una conducta que Jehová condena firmemente por ser contraria a sus normas de pureza."
+          },
+          {
+            "id": "7B_q18_b",
+            "question": "¿Qué opina Jehová de la apostasía? (Deut. 13:13, 15; 2 Cor. 6:14, 15, 17, 18; 2 Juan 7, 9, 10; Apoc. 18:4).",
+            "references": "Deut. 13:13, 15; 2 Cor. 6:14, 15, 17, 18; 2 Juan 7, 9, 10; Apoc. 18:4",
+            "directAnswer": "Jehová rechaza enérgicamente la apostasía y exige que su pueblo se mantenga separado de quienes rechazan la verdad, evitando cualquier lealtad dividida.",
+            "deepAnswer": "La apostasía es una rebelión contra Jehová y su organización. Él considera a los apóstatas como personas que se han dejado engañar y que intentan apartar a otros de la verdad. Por eso, Jehová manda que sus siervos 'salgan' de la religión falsa y eviten el contacto espiritual con los apóstatas, para proteger su fe y mantener la pureza de la adoración verdadera.",
+            "shortAnswer": "La considera una traición a la verdad que exige una separación total para evitar la contaminación espiritual."
+          },
+          {
+            "id": "7B_q18_c",
+            "question": "¿Qué opina Jehová del aborto? (Éx. 21:22-25; Sal. 127:3; 139:14-16).",
+            "references": "Éx. 21:22-25; Sal. 127:3; 139:14-16",
+            "directAnswer": "Jehová valora la vida desde la concepción; por lo tanto, ve el aborto como un acto que desprecia la santidad de la vida que Él otorga.",
+            "deepAnswer": "Para Jehová, la vida comienza mucho antes del nacimiento. Las Escrituras indican que Dios 've' al ser humano mientras se está formando en el vientre (Sal. 139:16). Por lo tanto, quitar intencionadamente la vida a un no nacido es equivalente a quitarle la vida a un ser humano ante los ojos de Dios. Él ve los hijos como un regalo valioso y una herencia.",
+            "shortAnswer": "Jehová condena el aborto porque la vida es un regalo sagrado que comienza en la concepción."
+          },
+          {
+            "id": "7B_q18_d",
+            "question": "¿Qué opina Jehová de la mentira descarada y malintencionada y el testimonio falso? (Prov. 6:16, 19; Col. 3:9; Apoc. 22:15; it-2 pág. 368 párr. 4).",
+            "references": "Prov. 6:16, 19; Col. 3:9; Apoc. 22:15; it-2 pág. 368 párr. 4",
+            "directAnswer": "Jehová aborrece la mentira y el testimonio falso porque contradicen su naturaleza veraz y dañan gravemente el tejido de la congregación y las relaciones humanas.",
+            "deepAnswer": "La mentira malintencionada es una de las cosas que Jehová detesta, ya que Satanás es el 'padre de la mentira'. Al mentir, una persona imita al Diablo y falta al respeto al prójimo. El testimonio falso, en particular, puede destruir vidas y nombres honrados, algo que el Dios de justicia no tolera bajo ninguna circunstancia.",
+            "shortAnswer": "Son actos que Jehová aborrece profundamente, pues proceden del 'padre de la mentira'."
+          },
+          {
+            "id": "7B_q18_e",
+            "question": "¿Qué opina Jehová del maltrato verbal y la calumnia? (Lev. 19:16; 1 Cor. 6:10; it-1 pág. 473 párr. 4).",
+            "references": "Lev. 19:16; 1 Cor. 6:10; it-1 pág. 473 párr. 4",
+            "directAnswer": "El maltrato verbal y la calumnia son ofensas graves ante Jehová, ya que usan la lengua para dañar la reputación y la paz de los demás.",
+            "deepAnswer": "La calumnia es una forma de odio expresado con palabras. Jehová nos ordena no difamar a nadie. El uso del lenguaje abusivo o malicioso demuestra falta de amor y pone en peligro la posición de la persona ante Dios. Debemos recordar que nuestras palabras reflejan lo que hay en nuestro corazón.",
+            "shortAnswer": "Jehová reprueba el uso dañino de la lengua, considerándolo una falta grave contra el prójimo."
+          },
+          {
+            "id": "7B_q18_f",
+            "question": "¿Qué opina Jehová de la impureza y la conducta descarada? (2 Cor. 12:21; Gál. 5:19; Efes. 4:18, 19; 2 Ped. 2:7; nwt pág. 1820; w12 15/3 págs. 30, 31).",
+            "references": "2 Cor. 12:21; Gál. 5:19; Efes. 4:18, 19; 2 Ped. 2:7; nwt pág. 1820; w12 15/3 págs. 30, 31",
+            "directAnswer": "Jehová exige que su pueblo sea santo y puro; por ello, rechaza la conducta descarada y la impureza, que muestran un desprecio cínico por sus normas.",
+            "deepAnswer": "La 'conducta descarada' (o libertinaje) implica una actitud desafiante y una falta de respeto por las leyes de Dios. Quienes practican la impureza de manera persistente demuestran que no tienen temor de Dios y han perdido el sentido de lo que es correcto. Jehová requiere que sus siervos se aparten de cualquier estilo de vida que refleje estas obras de la carne.",
+            "shortAnswer": "Son conductas contrarias a la santidad que Dios exige de quienes desean servirle."
+          },
+          {
+            "id": "7B_q18_g",
+            "question": "¿Qué opina Jehová de la borrachera? (1 Cor. 5:11; 6:9, 10).",
+            "references": "1 Cor. 5:11; 6:9, 10",
+            "directAnswer": "Jehová condena la borrachera porque despoja a la persona del autocontrol y puede llevarla a cometer actos contrarios a la voluntad de Dios.",
+            "deepAnswer": "Aunque beber alcohol no es pecado, la borrachera sí lo es. Esta nubla el juicio, fomenta la pérdida del dominio propio y suele conducir a la inmoralidad o la violencia. El cristiano debe mantener sus facultades mentales claras para servir a Jehová, por lo que la borrachera es motivo de disciplina en la congregación.",
+            "shortAnswer": "Es una conducta que el cristiano debe evitar para mantener el control de sus facultades y su integridad espiritual."
+          },
+          {
+            "id": "7B_q18_h",
+            "question": "Si ves o te enteras de que alguien del pueblo de Jehová ha cometido un pecado grave, ¿por qué no debes quedarte callado?",
+            "references": "Lev. 5:1; Gál. 6:1; Sant. 5:19, 20",
+            "directAnswer": "No debemos quedarnos callados porque el silencio podría ser cómplice, y el amor a Jehová, a la congregación y al propio pecador nos mueve a procurar que reciba ayuda espiritual.",
+            "deepAnswer": "El amor verdadero nos obliga a actuar. Si sabemos de un pecado grave, nuestro silencio podría permitir que la situación empeore y que la congregación se contamine (1 Cor. 5:6). Al informar a los ancianos, estamos ayudando al pecador a arrepentirse y a restaurar su relación con Jehová, tal como manda la Biblia en Gálatas 6:1. Es una muestra de lealtad a la santidad del nombre de Dios."
+          }
+        ]
       },
       {
         "id": "7B_q19",
@@ -3092,11 +3227,37 @@ const lessonsData = [
       },
       {
         "id": "8A_q4",
-        "question": "¿Cómo han sido neutrales los cristianos verdaderos en los siguientes campos? ˙ Las guerras (Is. 2:4). ˙ La política y las votaciones (w21.05 pág. 7 párr. 19; w16.04 pág. 29 párrs. 9, 10). ˙ Las banderas, los símbolos patrios y los himnos nacionales.",
+        "question": "¿Cómo han sido neutrales los cristianos verdaderos en los siguientes campos?",
         "references": "1 Juan 5:21",
-        "directAnswer": "Los cristianos verdaderos demuestran neutralidad al negarse a participar en la guerra, abstenerse por completo de la política y rehusar rendir adoración o tributo a símbolos patrios.",
-        "deepAnswer": "En el campo de los conflictos armados, cumplimos <strong>Isaías 2:4</strong> al transformar las espadas en arados y negarnos a aprender a guerrear. Respecto a la política y votaciones, reconocemos que no somos parte del mundo, por lo que nos abstenemos de votar o buscar cargos públicos, confiando únicamente en el Reino de Dios. Finalmente, en relación con las banderas y los himnos, obedecemos la advertencia de <strong>1 Juan 5:21</strong> de guardarnos de los ídolos, por lo que respetamos cortésmente las costumbres nacionales pero rehusamos rendirles actos de devoción o adoración que solo le corresponden a Jehová.",
-        "shortAnswer": "Somos neutrales al rechazar la violencia militar, la participación política y los actos nacionalistas de devoción."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "8A_q4_a",
+            "question": "¿Cómo han sido neutrales los cristianos verdaderos en el campo de las guerras? (Is. 2:4)",
+            "references": "Is. 2:4",
+            "directAnswer": "Los cristianos verdaderos demuestran neutralidad al negarse a participar en conflictos armados o aprender el arte de la guerra.",
+            "deepAnswer": "En el campo de los conflictos armados, cumplimos <strong>Isaías 2:4</strong> al transformar las espadas en arados. Como siervos de Jehová, no aprendemos más la guerra porque nuestra lealtad pertenece al Reino de Dios, que es la única solución duradera a los conflictos humanos.",
+            "shortAnswer": "Rechazamos la violencia militar y no aprendemos a guerrear."
+          },
+          {
+            "id": "8A_q4_b",
+            "question": "¿Cómo han sido neutrales los cristianos verdaderos en el campo de la política y las votaciones? (w21.05 pág. 7 párr. 19; w16.04 pág. 29 párrs. 9, 10)",
+            "references": "w21.05 pág. 7 párr. 19; w16.04 pág. 29 párrs. 9, 10",
+            "directAnswer": "Los cristianos se abstienen por completo de la política y las votaciones, ya que reconocen que no son parte del mundo y confían únicamente en el Reino de Dios.",
+            "deepAnswer": "Respecto a la política y las votaciones, reconocemos que no somos parte del mundo. Al mantenernos neutrales, no votamos ni buscamos cargos públicos, demostrando así nuestra lealtad absoluta al Reino de Dios. Esta postura nos permite servir a todos, sin importar su afiliación política.",
+            "shortAnswer": "No votamos ni participamos en asuntos políticos para apoyar lealmente el Reino de Dios."
+          },
+          {
+            "id": "8A_q4_c",
+            "question": "¿Cómo han sido neutrales los cristianos verdaderos en el campo de las banderas, los símbolos patrios y los himnos nacionales? (1 Juan 5:21)",
+            "references": "1 Juan 5:21",
+            "directAnswer": "Los cristianos verdaderos rehusan rendir adoración o tributo a símbolos patrios, obedeciendo el mandato de guardarse de los ídolos.",
+            "deepAnswer": "En relación con las banderas y los himnos, obedecemos la advertencia bíblica de <strong>1 Juan 5:21</strong> de guardarnos de los ídolos. Aunque respetamos cortésmente las costumbres nacionales y a las autoridades, rehusamos realizar actos de devoción o adoración (como saludar la bandera o cantar el himno nacional) que solo le pertenecen a Jehová Dios.",
+            "shortAnswer": "Respetamos las leyes, pero no rendimos adoración ni devoción a símbolos nacionales."
+          }
+        ]
       },
       {
         "id": "8A_q5",
@@ -3180,11 +3341,29 @@ const lessonsData = [
       },
       {
         "id": "8A_q15",
-        "question": "˙ ¿Qué les dijo Pablo a los cristianos sobre la obediencia a los gobernantes? (Rom. 13:1, 7; Tito 3:1, 2). ˙ Hay algo que le debemos a Jehová y que nunca le podremos dar al césar. ¿Qué es?",
+        "question": "",
         "references": "",
-        "directAnswer": "Pablo enseñó que los cristianos deben someterse a las autoridades superiores, pues han sido colocadas por Dios, y cumplir con sus obligaciones cívicas respetuosamente.",
-        "deepAnswer": "En Romanos 13:1, 7 y Tito 3:1, 2, se nos recuerda que el cristiano debe ser obediente a los gobiernos, ya que estos actúan como ministros de Dios para mantener cierto orden. Esta sujeción implica pagar impuestos, mostrar honra y ser razonables, evitando hablar mal de otros y siendo pacíficos en nuestro trato diario con todos los hombres.",
-        "shortAnswer": "Debemos ser ciudadanos ejemplares y obedientes, siempre que no se nos exija desobedecer a Jehová."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "8A_q15_a",
+            "question": "¿Qué les dijo Pablo a los cristianos sobre la obediencia a los gobernantes? (Rom. 13:1, 7; Tito 3:1, 2).",
+            "references": "Rom. 13:1, 7; Tito 3:1, 2",
+            "directAnswer": "Pablo enseñó que los cristianos deben someterse a las autoridades superiores, pues estas ocupan sus puestos relativos por permiso de Dios, y debemos darles lo que les corresponde: impuestos, honra y respeto.",
+            "deepAnswer": "El apóstol Pablo subraya que los cristianos debemos ser ciudadanos ejemplares. En Romanos 13:1, explica que todas las autoridades 'están colocadas por Dios en sus puestos relativos', lo que significa que Jehová permite su existencia para mantener el orden social. Por tanto, obedecer a los gobiernos es parte de nuestra sujeción a Dios, siempre que no infrinjan las leyes divinas. En Tito 3:1, 2, se nos insta a ser razonables, a estar listos para toda buena obra y a no hablar mal de nadie, mostrando una conducta pacífica que refleje nuestro amor por el prójimo.",
+            "shortAnswer": "Debemos someternos a las autoridades como ministros de Dios para mantener el orden, pagando impuestos y mostrando la honra debida."
+          },
+          {
+            "id": "8A_q15_b",
+            "question": "Hay algo que le debemos a Jehová y que nunca le podremos dar al césar. ¿Qué es?",
+            "references": "Mat. 22:21",
+            "directAnswer": "Lo que le debemos exclusivamente a Jehová es nuestra devoción exclusiva y adoración.",
+            "deepAnswer": "Aunque debemos cumplir con nuestras obligaciones civiles hacia el 'César' (el Estado), Jesús estableció un principio claro: 'Paguen a César lo que es de César, pero a Dios lo que es de Dios' (Mat. 22:21). Lo que le debemos a Jehová y que el César nunca podrá reclamar es nuestra adoración, nuestra lealtad incondicional y nuestro amor con todo el corazón, alma y mente. Intentar darle al César lo que le pertenece solo a Jehová (como la adoración o la obediencia total que comprometa nuestra conciencia) sería un acto de idolatría, pues Jehová es el único que merece nuestra devoción absoluta.",
+            "shortAnswer": "Le debemos a Jehová nuestra devoción exclusiva, adoración y lealtad total, algo que jamás debe darse a un ser humano o gobierno."
+          }
+        ]
       },
       {
         "id": "8A_q16",
@@ -3212,19 +3391,191 @@ const lessonsData = [
       },
       {
         "id": "8A_q19",
-        "question": "˙ ¿Cuáles son algunas cosas que sí le damos al césar? (Rom. 13:1, 5, 6). Teniendo en cuenta los principios bíblicos que hemos visto, ¿qué harías en las siguientes situaciones? El gobierno nos prohíbe: ˙ Predicar las buenas noticias. ˙ Ir de casa en casa. ˙ Distribuir publicaciones bíblicas a domicilio. ˙ Celebrar nuestras reuniones. El gobierno nos exige: ˙ Inscribirnos en el censo electoral y votar en las elecciones locales o nacionales. ˙ Registrarnos en un censo nacional. ˙ Obtener determinados documentos antes de cruzar las fronteras políticas. ˙ Cumplir con ciertos requisitos para casarnos. ˙ Inscribir a los recién nacidos en el registro civil. Menciona otras situaciones a las que te enfrentas donde vives.",
+        "question": "",
         "references": "",
-        "directAnswer": "Al César le damos lo que la ley exige legítimamente, como el pago de impuestos, el respeto a las autoridades y el cumplimiento de las leyes que no contravienen la voluntad divina.",
-        "deepAnswer": "Basándonos en Romanos 13:1, 5, 6, entendemos que someterse a las autoridades no es solo por temor al castigo, sino también por motivos de conciencia. Esto incluye ser honestos al declarar impuestos, registrar documentos civiles y obedecer reglamentos públicos, demostrando así que somos ciudadanos respetuosos de la ley mientras mantenemos nuestra integridad ante Jehová.",
-        "shortAnswer": "Pagamos impuestos y cumplimos las leyes civiles como parte de nuestra sujeción relativa."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "8A_q19_a",
+            "question": "¿Cuáles son algunas cosas que sí le damos al césar? (Rom. 13:1, 5, 6).",
+            "references": "Rom. 13:1, 5, 6",
+            "directAnswer": "Al César le damos lo que la ley exige legítimamente, como el pago de impuestos, el respeto a las autoridades y el cumplimiento de las leyes que no contravienen la voluntad divina.",
+            "deepAnswer": "Basándonos en Romanos 13:1, 5, 6, entendemos que someterse a las autoridades no es solo por temor al castigo, sino también por motivos de conciencia. Esto incluye ser honestos al declarar impuestos, pagar tributos, respetar a los funcionarios y obedecer los reglamentos públicos, demostrando así que somos ciudadanos ejemplares mientras mantenemos nuestra lealtad principal a Jehová.",
+            "shortAnswer": "Pagamos impuestos y cumplimos las leyes civiles que no contradicen las leyes de Dios."
+          },
+          {
+            "id": "8A_q19_b",
+            "question": "Teniendo en cuenta los principios bíblicos, ¿qué harías si el gobierno nos prohíbe predicar las buenas noticias?",
+            "references": "Hech. 5:29",
+            "directAnswer": "Si el gobierno nos prohíbe predicar, debemos obedecer a Dios como gobernante más bien que a los hombres, buscando maneras prudentes de continuar nuestra obra.",
+            "deepAnswer": "Cuando una ley humana entra en conflicto directo con el mandato de Dios de predicar (Mat. 28:19, 20), nuestra prioridad es clara: 'Tenemos que obedecer a Dios como gobernante más bien que a los hombres' (Hech. 5:29). Esto implica que no dejamos de predicar, pero sí adaptamos nuestros métodos para ser precavidos y no exponer innecesariamente a los hermanos a peligros, actuando con la astucia de la serpiente y la inocencia de la paloma.",
+            "shortAnswer": "Continuamos predicando obedeciendo a Dios antes que a los hombres."
+          },
+          {
+            "id": "8A_q19_c",
+            "question": "Teniendo en cuenta los principios bíblicos, ¿qué harías si el gobierno nos prohíbe ir de casa en casa?",
+            "references": "Hech. 5:42",
+            "directAnswer": "Si se prohíbe ir de casa en casa, buscaríamos métodos alternativos de predicación, como el testimonio público, el contacto telefónico o las cartas.",
+            "deepAnswer": "Aunque el método de 'casa en casa' es nuestra forma principal de predicar siguiendo el ejemplo de los apóstoles (Hech. 5:42), si las autoridades lo prohíben, no abandonamos la comisión de hacer discípulos. Ajustamos nuestra estrategia para emplear otros medios que nos permitan cumplir con el mandato bíblico sin desafiar abiertamente la prohibición local si esta no impide totalmente la predicación por otros medios.",
+            "shortAnswer": "Buscamos otros métodos eficaces para dar testimonio sin usar el método prohibido."
+          },
+          {
+            "id": "8A_q19_d",
+            "question": "Teniendo en cuenta los principios bíblicos, ¿qué harías si el gobierno nos prohíbe distribuir publicaciones bíblicas a domicilio?",
+            "references": "1 Ped. 2:17",
+            "directAnswer": "Si se prohíbe la distribución de publicaciones a domicilio, nos aseguraríamos de seguir las directrices de la organización sobre cómo usar medios electrónicos o digitales.",
+            "deepAnswer": "En situaciones donde el material físico está restringido, los cristianos demostramos respeto a la ley pero buscamos formas legales de seguir compartiendo el mensaje bíblico. Hoy en día, esto suele realizarse mediante el envío de enlaces a nuestro sitio web, jw.org, o el uso de dispositivos digitales para compartir la verdad sin violar las normativas locales sobre la distribución de impresos.",
+            "shortAnswer": "Utilizamos medios digitales o electrónicos que no infrinjan la normativa local."
+          },
+          {
+            "id": "8A_q19_e",
+            "question": "Teniendo en cuenta los principios bíblicos, ¿qué harías si el gobierno nos prohíbe celebrar nuestras reuniones?",
+            "references": "Heb. 10:24, 25",
+            "directAnswer": "Si se prohíben las reuniones, nos organizaríamos en grupos pequeños y discretos para seguir adorando a Jehová y animándonos unos a otros.",
+            "deepAnswer": "La Biblia nos manda a no abandonar nuestra reunión (Heb. 10:24, 25). Si el gobierno prohíbe nuestras reuniones, nos adaptamos celebrándolas en lugares privados, en grupos pequeños o mediante conexiones seguras en línea, asegurándonos de que la seguridad de los hermanos no se vea comprometida mientras protegemos nuestro privilegio de adoración.",
+            "shortAnswer": "Nos reunimos en grupos pequeños o medios digitales para seguir adorando a Dios."
+          },
+          {
+            "id": "8A_q19_f",
+            "question": "Teniendo en cuenta los principios bíblicos, ¿qué harías si el gobierno nos exige inscribirnos en el censo electoral y votar en las elecciones locales o nacionales?",
+            "references": "Juan 17:16; Dan. 2:44",
+            "directAnswer": "Como cristianos, mantenemos nuestra neutralidad política y no participamos en procesos electorales, explicando nuestra postura con respeto.",
+            "deepAnswer": "La neutralidad cristiana es absoluta. Dado que somos súbditos del Reino de Dios, no participamos en las elecciones políticas de ninguna nación (Juan 17:16). Si un gobierno nos obliga a votar, explicamos con respeto que nuestra conciencia nos impide participar en procesos electorales, pues nuestra lealtad está depositada en el gobierno celestial de Jehová.",
+            "shortAnswer": "Mantenemos nuestra neutralidad política explicando respetuosamente nuestra postura."
+          },
+          {
+            "id": "8A_q19_g",
+            "question": "Teniendo en cuenta los principios bíblicos, ¿qué harías si el gobierno nos exige registrarnos en un censo nacional?",
+            "references": "Luc. 2:1-5",
+            "directAnswer": "Si el gobierno exige un registro censal, cumplimos con ello, ya que es una medida administrativa legal que no contraviene nuestros principios bíblicos.",
+            "deepAnswer": "Al igual que José y María obedecieron el decreto de empadronamiento (Luc. 2:1-5), nosotros como cristianos acatamos las leyes civiles de censo. Este es un trámite administrativo que permite a las autoridades organizar mejor los servicios públicos y no supone ninguna forma de compromiso con actividades contrarias a nuestra fe.",
+            "shortAnswer": "Nos registramos, ya que es una obligación civil que no afecta nuestra conciencia."
+          },
+          {
+            "id": "8A_q19_h",
+            "question": "Teniendo en cuenta los principios bíblicos, ¿qué harías si el gobierno nos exige obtener determinados documentos antes de cruzar las fronteras políticas?",
+            "references": "Rom. 13:7",
+            "directAnswer": "Debemos cumplir con todos los trámites migratorios y de aduanas, dando 'a cada uno lo que le corresponde', incluyendo la documentación necesaria.",
+            "deepAnswer": "Obedecer las leyes de inmigración es parte de 'dar a cada uno lo que le corresponde' (Rom. 13:7). Como cristianos, somos honestos al tramitar visas, pasaportes y permisos fronterizos, mostrando así que respetamos la autoridad y las leyes del país en el que nos encontramos o por el que transitamos.",
+            "shortAnswer": "Tramitamos y obtenemos toda la documentación legal requerida por la ley."
+          },
+          {
+            "id": "8A_q19_i",
+            "question": "Teniendo en cuenta los principios bíblicos, ¿qué harías si el gobierno nos exige cumplir con ciertos requisitos para casarnos?",
+            "references": "Mat. 22:21",
+            "directAnswer": "Debemos cumplir con los requisitos legales para registrar el matrimonio, pues la Biblia nos insta a sujetarnos a las leyes del César.",
+            "deepAnswer": "Aunque el matrimonio es una unión instituida por Dios, el registro civil es un requisito legal del César. Al casarnos legalmente, no solo cumplimos con el mandato de 'pagar a César lo que es de César' (Mat. 22:21), sino que también protegemos nuestros derechos, los de nuestro cónyuge y los de nuestra futura familia ante la sociedad.",
+            "shortAnswer": "Cumplimos con los requisitos legales de registro para formalizar nuestro matrimonio."
+          },
+          {
+            "id": "8A_q19_j",
+            "question": "Teniendo en cuenta los principios bíblicos, ¿qué harías si el gobierno nos exige inscribir a los recién nacidos en el registro civil?",
+            "references": "Rom. 13:1",
+            "directAnswer": "Es nuestra responsabilidad como padres registrar a nuestros hijos en el registro civil, ya que esto cumple con el respeto debido a la autoridad.",
+            "deepAnswer": "Inscribir a los recién nacidos es un paso esencial para el bienestar del niño y una muestra de sujeción a las leyes superiores (Rom. 13:1). Este registro es una obligación civil fundamental que permite que los niños tengan acceso a servicios básicos como salud y educación, siendo algo totalmente compatible con nuestra adoración a Jehová.",
+            "shortAnswer": "Registramos a nuestros hijos cumpliendo así con las leyes civiles pertinentes."
+          },
+          {
+            "id": "8A_q19_k",
+            "question": "Menciona otras situaciones a las que te enfrentas donde vives donde debas demostrar sujeción a las autoridades manteniendo tu integridad cristiana.",
+            "references": "1 Tim. 2:1, 2",
+            "directAnswer": "Otras situaciones incluyen el pago de impuestos sobre la renta, el respeto a las señales de tránsito y la obtención de permisos para realizar eventos públicos.",
+            "deepAnswer": "En cada país, los cristianos enfrentamos desafíos diarios como pagar multas de tránsito, declarar ingresos honestamente para el pago de impuestos, obtener permisos de construcción según las normas municipales o cumplir con las leyes de salud pública. En todo ello, buscamos ser ciudadanos irreprochables para que nadie pueda hablar mal de nuestra conducta, orando siempre por los gobernantes para poder seguir viviendo una vida tranquila y piadosa (1 Tim. 2:1, 2).",
+            "shortAnswer": "Obedecemos toda ley humana que no contravenga directamente los mandatos de Jehová."
+          }
+        ]
       },
       {
         "id": "8A_q20",
-        "question": "visto, ¿qué harías en las siguientes situaciones? El gobierno nos prohíbe: ˙ Predicar las buenas noticias. ˙ Ir de casa en casa. ˙ Distribuir publicaciones bíblicas a domicilio. ˙ Celebrar nuestras reuniones. El gobierno nos exige: ˙ Inscribirnos en el censo electoral y votar en las elecciones locales o nacionales. ˙ Registrarnos en un censo nacional. ˙ Obtener determinados documentos antes de cruzar las fronteras políticas. ˙ Cumplir con ciertos requisitos para casarnos. ˙ Inscribir a los recién nacidos en el registro civil. Menciona otras situaciones a las que te enfrentas donde vives.",
+        "question": "visto, ¿qué harías en las siguientes situaciones? El gobierno nos prohíbe:",
         "references": "",
-        "directAnswer": "Ante cualquier exigencia, aplicamos el principio de obedecer a Dios como gobernante más bien que a los hombres, manteniendo nuestra integridad sin dejar de ser respetuosos.",
-        "deepAnswer": "Si el gobierno prohíbe actividades mandadas por Dios, como predicar o reunirnos, debemos encontrar maneras prudentes de seguir obedeciendo a Jehová, tal como hicieron los apóstoles. En cambio, si nos piden trámites como censos o registros civiles que no violan nuestra neutralidad, cumplimos de buena gana, pues no entran en conflicto con nuestra lealtad a Dios.",
-        "shortAnswer": "Obedecemos a Dios primero; si la ley no viola principios bíblicos, cooperamos respetuosamente."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "8A_q20_a",
+            "question": "Visto lo anterior, ¿qué harías si el gobierno nos prohíbe predicar las buenas noticias?",
+            "references": "Hch 5:29",
+            "directAnswer": "Continuamos predicando de manera prudente, ya que nuestra prioridad es obedecer a Dios antes que a los hombres.",
+            "deepAnswer": "Cuando una autoridad humana prohíbe una actividad que Jehová ha mandado, como la predicación del Reino, seguimos el ejemplo de los apóstoles. Buscamos métodos discretos, como el testimonio informal o el uso de medios digitales, para no dejar de compartir las buenas noticias, pero sin buscar innecesariamente el conflicto con las autoridades.",
+            "shortAnswer": "Seguimos predicando buscando formas prudentes de obedecer a Dios."
+          },
+          {
+            "id": "8A_q20_b",
+            "question": "Visto lo anterior, ¿qué harías si el gobierno nos prohíbe ir de casa en casa?",
+            "references": "Hch 5:42",
+            "directAnswer": "Adaptamos nuestros métodos de predicación utilizando otras formas, como el testimonio telefónico, por carta o en lugares públicos.",
+            "deepAnswer": "La prohibición de ir de casa en casa no nos impide cumplir con nuestro ministerio. Jehová nos da sabiduría para encontrar otros canales. El apóstol Pablo predicaba de casa en casa y 'en público', lo que nos enseña que, si un método es bloqueado, debemos ser flexibles y usar otros medios para contactar a las personas.",
+            "shortAnswer": "Nos adaptamos usando otros métodos eficaces como cartas o teléfono."
+          },
+          {
+            "id": "8A_q20_c",
+            "question": "Visto lo anterior, ¿qué harías si el gobierno nos prohíbe distribuir publicaciones bíblicas a domicilio?",
+            "references": "Mt 28:19, 20",
+            "directAnswer": "Buscamos formas seguras de compartir el mensaje bíblico, aprovechando herramientas digitales o encuentros casuales, respetando la ley siempre que no choque con los mandatos divinos.",
+            "deepAnswer": "Si se restringe la entrega física de publicaciones, enfocamos nuestros esfuerzos en dirigir a las personas al sitio web jw.org o en compartir el mensaje mediante conversaciones. Nuestra comisión es hacer discípulos; el formato del material es secundario frente a la importancia del mensaje de salvación.",
+            "shortAnswer": "Utilizamos medios digitales o compartimos el mensaje de viva voz."
+          },
+          {
+            "id": "8A_q20_d",
+            "question": "Visto lo anterior, ¿qué harías si el gobierno nos prohíbe celebrar nuestras reuniones?",
+            "references": "Heb 10:24, 25",
+            "directAnswer": "Nos reunimos en grupos pequeños o por medios virtuales para seguir animándonos, priorizando la seguridad y la adoración a Jehová.",
+            "deepAnswer": "El mandato de no dejar de reunirnos es fundamental para nuestra fe. En situaciones de prohibición, los cristianos verdaderos han demostrado gran ingenio reuniéndose en grupos pequeños y privados, o utilizando la tecnología actual para mantener la unidad y recibir el alimento espiritual necesario para perseverar.",
+            "shortAnswer": "Nos reunimos de forma discreta o virtual para mantener nuestra unidad."
+          },
+          {
+            "id": "8A_q20_e",
+            "question": "Visto lo anterior, ¿qué harías si el gobierno nos exige inscribirnos en el censo electoral y votar en las elecciones locales o nacionales?",
+            "references": "Jn 17:16; Jn 18:36",
+            "directAnswer": "Mantenemos nuestra neutralidad cristiana, explicando respetuosamente que no participamos en asuntos políticos por lealtad exclusiva al Reino de Dios.",
+            "deepAnswer": "La neutralidad es una marca distintiva de los seguidores de Cristo. Al negarnos a votar, no estamos siendo rebeldes contra el gobierno, sino que reafirmamos que nuestro apoyo total es para el Reino de Dios. Respondemos con respeto, explicando que nuestro compromiso es con la soberanía universal de Jehová.",
+            "shortAnswer": "Mantenemos nuestra neutralidad explicando respetuosamente nuestra lealtad al Reino."
+          },
+          {
+            "id": "8A_q20_f",
+            "question": "Visto lo anterior, ¿qué harías si el gobierno nos exige registrarnos en un censo nacional?",
+            "references": "Luc 2:1-5",
+            "directAnswer": "Cumplimos con este requisito, ya que es una gestión administrativa legítima que no viola los principios bíblicos.",
+            "deepAnswer": "Jesús y su familia cumplieron con las leyes de censo de su época sin que esto afectara su fe. Los censos nacionales son trámites administrativos que ayudan a la organización de la sociedad; mientras no se nos obligue a realizar actos de idolatría o contrarios a nuestra neutralidad, cooperamos de buena gana.",
+            "shortAnswer": "Cumplimos con el trámite, pues es una obligación ciudadana legítima."
+          },
+          {
+            "id": "8A_q20_g",
+            "question": "Visto lo anterior, ¿qué harías si el gobierno nos exige obtener determinados documentos antes de cruzar las fronteras políticas?",
+            "references": "Rom 13:1, 7",
+            "directAnswer": "Obedecemos las leyes de inmigración y aduanas, dando a cada uno lo que le corresponde, incluyendo los documentos necesarios.",
+            "deepAnswer": "Como ciudadanos que respetan el orden, debemos cumplir con los requisitos legales para viajar o residir en otro país. Esto es parte de nuestra sujeción a las 'autoridades superiores' y demuestra que los cristianos somos personas honradas y legales en todos nuestros asuntos.",
+            "shortAnswer": "Obedecemos las leyes de extranjería siendo honrados y legales."
+          },
+          {
+            "id": "8A_q20_h",
+            "question": "Visto lo anterior, ¿qué harías si el gobierno nos exige cumplir con ciertos requisitos para casarnos?",
+            "references": "Mt 22:21",
+            "directAnswer": "Cumplimos con los requisitos legales y civiles para el matrimonio, asegurándonos de que el matrimonio sea 'honroso entre todos'.",
+            "deepAnswer": "Jehová estableció el matrimonio y las autoridades permiten su reconocimiento legal. Siempre que los requisitos gubernamentales no nos obliguen a participar en actos religiosos contrarios a la Biblia, es nuestro deber registrarnos legalmente para validar nuestra unión ante el Estado y la sociedad.",
+            "shortAnswer": "Cumplimos con los requisitos legales para que el matrimonio sea honroso."
+          },
+          {
+            "id": "8A_q20_i",
+            "question": "Visto lo anterior, ¿qué harías si el gobierno nos exige inscribir a los recién nacidos en el registro civil?",
+            "references": "Rom 13:1",
+            "directAnswer": "Registramos a los hijos puntualmente, pues es un deber cívico que protege los derechos del menor y respeta la ley.",
+            "deepAnswer": "El registro de los recién nacidos es una medida protectora y legal que no entra en conflicto con nuestra adoración a Jehová. Al hacerlo, demostramos que somos ciudadanos ejemplares que cooperan con las autoridades en beneficio de la familia y la sociedad.",
+            "shortAnswer": "Registramos a los niños puntualmente como parte de nuestros deberes cívicos."
+          },
+          {
+            "id": "8A_q20_j",
+            "question": "Visto lo anterior, ¿a qué otras situaciones a las que te enfrentas donde vives te enfrentas y cómo las manejarías?",
+            "references": "1 Ped 2:12",
+            "directAnswer": "Debemos analizar cada situación bajo los principios bíblicos, buscando consejo en los ancianos si es necesario para mantener nuestra integridad y buena conducta.",
+            "deepAnswer": "La vida diaria presenta retos, como impuestos, normativas laborales o exigencias de juramentos. El principio clave siempre será: ¿viola esta exigencia una ley de Dios? Si la respuesta es no, cooperamos con gusto. Si la respuesta es sí, buscamos la guía de los ancianos para proceder con firmeza, pero con la mayor cortesía y respeto posibles.",
+            "shortAnswer": "Analizamos cada caso bajo principios bíblicos y buscamos guía si es necesario."
+          }
+        ]
       },
       {
         "id": "8A_q21",
@@ -3273,11 +3624,37 @@ const lessonsData = [
       },
       {
         "id": "8B_q3",
-        "question": "¿Por qué nos sentiremos motivados a predicar si meditamos en los siguientes puntos? ˙ La bondad de Jehová (Sal. 40:5). ˙ Los tesoros espirituales que Jehová da a sus siervos (Mat. 13:52). ˙ Lo mucho que sufre la gente.",
+        "question": "¿Por qué nos sentiremos motivados a predicar si meditamos en los siguientes puntos?",
         "references": "Jon. 4:11",
-        "directAnswer": "Nos sentimos motivados a predicar porque el amor y la gratitud por la bondad de Jehová, sus enseñanzas y la compasión por quienes sufren nos impulsan a compartir el mensaje.",
-        "deepAnswer": "Al reflexionar en la bondad inmerecida de Jehová, en los ricos tesoros espirituales que nos da y en el estado lamentable de las personas que no conocen la verdad (Jonás 4:11), nuestro corazón se conmueve. Este amor nos mueve a actuar como testigos activos, deseosos de ofrecer a otros la misma esperanza y alivio que nosotros hemos encontrado.",
-        "shortAnswer": "La gratitud y la compasión son los motores que nos impulsan a compartir el mensaje de salvación."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "8B_q3_a",
+            "question": "¿Por qué nos sentiremos motivados a predicar si meditamos en la bondad de Jehová? (Sal. 40:5)",
+            "references": "Sal. 40:5",
+            "directAnswer": "Meditar en la bondad de Jehová nos hace sentir profundamente agradecidos, lo cual nos impulsa de forma natural a hablar de sus maravillas y a compartir con otros el mensaje que nos ha confiado.",
+            "deepAnswer": "El Salmo 40:5 destaca que las obras maravillosas de Jehová y sus pensamientos a favor nuestro son tan numerosos que no pueden ponerse en orden ante él. Cuando dedicamos tiempo a meditar en estos actos de bondad —como el regalo de la vida, el rescate y la guía espiritual—, nuestro corazón se llena de gratitud. Esa gratitud actúa como una fuerza interna que nos impide callar; nos sentimos motivados a alabar a Jehová y a informar a otros sobre la grandeza de nuestro Dios, convirtiendo la predicación en un acto de adoración sincera.",
+            "shortAnswer": "La gratitud por los innumerables actos de bondad de Jehová nos impulsa a alabarle y hablar de él a los demás."
+          },
+          {
+            "id": "8B_q3_b",
+            "question": "¿Por qué nos sentiremos motivados a predicar si meditamos en los tesoros espirituales que Jehová da a sus siervos? (Mat. 13:52)",
+            "references": "Mat. 13:52",
+            "directAnswer": "Al valorar los 'tesoros' o verdades espirituales que Jehová nos revela, deseamos compartir esa riqueza con otros para que ellos también puedan enriquecer su vida con el conocimiento divino.",
+            "deepAnswer": "Jesús comparó al instructor enseñado respecto al Reino con un dueño de casa que saca de su tesoro cosas nuevas y cosas viejas (Mateo 13:52). Jehová nos ha dado una comprensión profunda de las profecías, principios prácticos para la vida diaria y la esperanza segura del Reino. Al meditar en lo afortunados que somos al poseer esta 'riqueza' espiritual que el mundo desconoce, nos sentimos movidos por el deseo de ser generosos. Así como valoramos nuestro alimento espiritual, comprendemos que otros necesitan desesperadamente estas mismas verdades para encontrar propósito y salvación.",
+            "shortAnswer": "Valorar nuestros tesoros espirituales nos motiva a ser generosos y compartir las verdades de la Biblia con quienes nos rodean."
+          },
+          {
+            "id": "8B_q3_c",
+            "question": "¿Por qué nos sentiremos motivados a predicar si meditamos en lo mucho que sufre la gente? (Jon. 4:11)",
+            "references": "Jon. 4:11",
+            "directAnswer": "La compasión al ver el sufrimiento y la confusión de las personas nos motiva a llevarles el mensaje de esperanza de la Biblia, tal como Jehová mostró compasión por los habitantes de Nínive.",
+            "deepAnswer": "Al igual que Jehová le mostró a Jonás que sentía lástima por las personas que 'no saben distinguir entre su mano derecha y su izquierda' (Jonás 4:11), cuando nosotros observamos el mundo actual, vemos una sociedad sumida en el dolor, la falta de dirección y la desesperanza. Meditar en este sufrimiento ajeno no debe dejarnos indiferentes; por el contrario, debe despertar en nosotros un amor cristiano activo. Al entender que el mensaje del Reino es el único remedio verdadero para su angustia, la predicación se convierte en una labor de auxilio y misericordia.",
+            "shortAnswer": "La compasión por el sufrimiento de las personas nos impulsa a predicar para ofrecerles el alivio y la esperanza que solo Dios brinda."
+          }
+        ]
       },
       {
         "id": "8B_q4",
@@ -4550,19 +4927,47 @@ const lessonsData = [
       },
       {
         "id": "11A_q11",
-        "question": "¿Cómo te ayudan las siguientes ideas a evaluar tu progreso espiritual? • Hacerte un autoexamen con la ayuda de la oración",
+        "question": "¿Cómo te ayudan las siguientes ideas a evaluar tu progreso espiritual?",
         "references": "Sal. 26:2; 2 Cor. 13:5",
-        "directAnswer": "Hacerse un autoexamen con la ayuda de la oración, como sugieren Salmo 26:2 y 2 Corintios 13:5, nos permite evaluar honestamente nuestras motivaciones y acciones. Nos ayuda a identificar las áreas en las que necesitamos mejorar para agradar a Jehová.",
-        "deepAnswer": "Un autoexamen sincero, guiado por la oración y las Escrituras como Salmo 26:2 y 2 Corintios 13:5, es fundamental. Al pedirle a Jehová que sonde nuestro corazón y conozca nuestros pensamientos, podemos identificar nuestras verdaderas motivaciones, nuestras debilidades y las áreas en las que necesitamos cultivar más fe y amor. Esto nos permite corregir el rumbo y asegurar que nuestro servicio sea acepto a Sus ojos.",
-        "shortAnswer": "La oración y el autoexamen revelan nuestras motivaciones."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "11A_q11_a",
+            "question": "¿Cómo te ayuda el 'Hacerte un autoexamen con la ayuda de la oración' a evaluar tu progreso espiritual?",
+            "references": "Sal. 26:2; 2 Cor. 13:5",
+            "directAnswer": "Hacerse un autoexamen con la ayuda de la oración, como sugieren Salmo 26:2 y 2 Corintios 13:5, nos permite evaluar honestamente nuestras motivaciones y acciones, identificando las áreas donde necesitamos mejorar para agradar a Jehová.",
+            "deepAnswer": "Un autoexamen sincero, guiado por la oración y las Escrituras como Salmo 26:2 y 2 Corintios 13:5, es fundamental para el progreso espiritual. Al pedirle a Jehová que sondee nuestro corazón y examine nuestros pensamientos más íntimos, podemos identificar nuestras verdaderas motivaciones, reconocer debilidades ocultas y percibir las áreas en las que necesitamos cultivar una mayor fe y amor. Este proceso de reflexión espiritual bajo la guía del espíritu santo nos permite corregir el rumbo con humildad y asegurar que nuestro servicio sea siempre acepto a los ojos de Jehová.",
+            "shortAnswer": "La oración y el autoexamen nos permiten evaluar nuestras motivaciones ante Jehová y corregir nuestro rumbo espiritual."
+          }
+        ]
       },
       {
         "id": "11A_q12",
-        "question": "Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”. • Estudiar regularmente la Biblia y nuestras publicaciones",
+        "question": "Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”.",
         "references": "Sal. 1:2, 3",
-        "directAnswer": "Preguntarnos sobre nuestra motivación y debilidades, junto con el estudio regular de la Biblia y las publicaciones, nos ayuda a entender nuestras fallas y fortalezas. El estudio, al igual que para el hombre feliz de Salmo 1:2, 3, nos nutre espiritualmente.",
-        "deepAnswer": "Al preguntarnos '¿Cuál es mi motivación? ¿Cuáles son mis debilidades?', nos adentramos en un proceso introspectivo crucial para el progreso. Esto, combinado con el estudio regular de la Biblia y nuestras publicaciones (Salmo 1:2, 3), nos brinda el alimento espiritual necesario para discernir nuestras fallas y las razones por las cuales actuamos de cierta manera. Nos equipa para corregir lo que no agrada a Jehová y para fortalecer nuestros puntos débiles con sabiduría divina.",
-        "shortAnswer": "Identificar motivaciones y debilidades con estudio bíblico."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "11A_q12_a",
+            "question": "Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”.",
+            "references": "Sal. 1:2, 3",
+            "directAnswer": "Hacernos estas preguntas nos ayuda a realizar un examen de conciencia honesto para identificar qué nos impulsa a servir a Jehová y en qué áreas necesitamos mejorar espiritualmente.",
+            "deepAnswer": "Al reflexionar sobre nuestra motivación, podemos asegurarnos de que nuestro servicio nace de un amor sincero hacia Dios y no de una obligación o presión social. Asimismo, identificar nuestras debilidades nos permite trabajar específicamente en ellas con la ayuda de la oración y el espíritu santo, evitando que se conviertan en obstáculos para nuestra relación con Jehová.",
+            "shortAnswer": "El autoexamen honesto permite purificar nuestra motivación y fortalecer nuestras debilidades."
+          },
+          {
+            "id": "11A_q12_b",
+            "question": "¿Cómo nos ayuda a nuestro progreso espiritual el estudiar regularmente la Biblia y nuestras publicaciones?",
+            "references": "Sal. 1:2, 3",
+            "directAnswer": "El estudio regular nos permite meditar en la ley de Jehová, lo cual nos fortalece espiritualmente, nos da sabiduría y nos asegura prosperar en nuestras decisiones, tal como se menciona en Salmo 1:2, 3.",
+            "deepAnswer": "Estudiar regularmente la Biblia y las publicaciones cristianas es comparable a ser un árbol bien plantado junto a corrientes de agua. Esta práctica nos permite 'meditar día y noche' en la Palabra de Dios, llenando nuestra mente de pensamientos divinos que reemplazan las inclinaciones humanas imperfectas. Es la fuente de alimento espiritual que sostiene nuestra integridad y nos guía por el camino de la vida.",
+            "shortAnswer": "El estudio constante nos nutre, nos da guía divina y asegura nuestra estabilidad espiritual."
+          }
+        ]
       },
       {
         "id": "11A_q13",
@@ -4574,11 +4979,29 @@ const lessonsData = [
       },
       {
         "id": "11A_q14",
-        "question": "¿Cómo te ayuda la meditación a no repetir los errores del pasado? • Escuchar a cristianos maduros",
+        "question": "¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
         "references": "Sant. 1:19",
-        "directAnswer": "La meditación, al permitirnos examinar nuestras acciones y pensamientos a la luz de la Palabra de Dios, nos ayuda a evitar repetir errores pasados. Nos enfocamos en la sabiduría divina para no tropezar de nuevo, tal como nos enseña Santiago 1:19.",
-        "deepAnswer": "La meditación nos ayuda a no repetir los errores del pasado al permitirnos analizar críticamente nuestras acciones y pensamientos en comparación con los principios bíblicos. Al ponderar las advertencias y las lecciones de la Palabra de Dios, podemos identificar patrones de comportamiento perjudiciales y hacer los ajustes necesarios. Tal como Santiago 1:19 nos anima a ser lentos en cuanto a hablar y lentos en cuanto a airarnos, la meditación nos cultiva la paciencia y el control propio, previniendo así tropiezos.",
-        "shortAnswer": "Meditar nos da la sabiduría para evitar repetir errores."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "11A_q14_a",
+            "question": "¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
+            "references": "Sant. 1:19",
+            "directAnswer": "La meditación, al permitirnos examinar nuestras acciones y pensamientos a la luz de la Palabra de Dios, nos ayuda a evitar repetir errores pasados, permitiéndonos enfocarnos en la sabiduría divina para no tropezar de nuevo.",
+            "deepAnswer": "<p>La meditación nos ayuda a no repetir los errores del pasado al permitirnos analizar críticamente nuestras acciones y pensamientos en comparación con los principios bíblicos. Al ponderar las advertencias y las lecciones de la Palabra de Dios, podemos identificar patrones de comportamiento perjudiciales y hacer los ajustes necesarios. Tal como Santiago 1:19 nos anima a ser lentos en cuanto a hablar y lentos en cuanto a airarnos, la meditación nos cultiva la paciencia y el control propio, previniendo así tropiezos.</p>",
+            "shortAnswer": "Meditar nos da la sabiduría para evitar repetir errores."
+          },
+          {
+            "id": "11A_q14_b",
+            "question": "¿Cómo te ayuda el escuchar a cristianos maduros a no repetir los errores del pasado?",
+            "references": "Sant. 1:19",
+            "directAnswer": "Escuchar a cristianos maduros nos permite beneficiarnos de su experiencia y sabiduría espiritual. Al prestar atención a sus consejos basados en la Biblia, podemos corregir nuestro rumbo y evitar los errores en los que ellos pudieron haber caído o que han aprendido a evitar.",
+            "deepAnswer": "<p>Siguiendo el principio de Santiago 1:19 de ser 'prontos para oír', el escuchar a cristianos maduros es una herramienta vital para el crecimiento espiritual. Los hermanos con más experiencia han pasado por situaciones similares a las nuestras y su guía nos ayuda a discernir mejor entre el bien y el mal. Al ser receptivos a su consejo, adquirimos una perspectiva madura que nos protege de la insensatez, permitiéndonos tomar decisiones piadosas y evitando así los errores que, por falta de experiencia, podríamos cometer fácilmente.</p>",
+            "shortAnswer": "El consejo de cristianos maduros nos guía para no tropezar."
+          }
+        ]
       },
       {
         "id": "11A_q15",
@@ -6904,7 +7327,7 @@ const lessonsData = [
       },
       {
         "id": "15A_q17",
-        "question": "¿Cómo puedes ayudar al estudiante a reflexionar sobre su verdadera motivación para bautizarse, y por qué es eso tan importante? (Mat. 24:13; 28:19, 20). Ayúdalos a ser cristianos maduros.",
+        "question": "Explícales la relación entre la dedicación y el bautismo. ¿Cómo puedes ayudar al estudiante a entender lo que implica cada uno de estos pasos?",
         "references": "",
         "directAnswer": "Lo logramos analizando con ellos pasajes bíblicos clave sobre el compromiso cristiano y explicando claramente la distinción entre la dedicación íntima y el bautismo público.",
         "deepAnswer": "Para ayudar al estudiante a entender la seriedad de este paso, debemos explicarle pacientemente que la dedicación es una oración íntima de entrega total, mientras que el bautismo es la demostración pública de ese compromiso previo. Podemos analizar juntos lo que significa poner el Reino en primer lugar y animarlo a examinar sus prioridades de vida bajo la guía de los principios bíblicos. Al hacerle preguntas de opinión sinceras y bondadosas, logramos que reflexione sobre si está listo para hacer de Jehová el centro absoluto de su existencia.",
@@ -6912,7 +7335,7 @@ const lessonsData = [
       },
       {
         "id": "15A_q18",
-        "question": "¿Cómo puedes ayudar al estudiante a reflexionar sobre su verdadera motivación para bautizarse, y por qué es eso tan importante? (Mat. 24:13; 28:19, 20). Ayúdalos a ser cristianos maduros.",
+        "question": "¿Cómo puedes ayudar al estudiante a reflexionar sobre su verdadera motivación para bautizarse, y por qué es eso tan importante? (Mat. 24:13; 28:19, 20)",
         "references": "",
         "directAnswer": "Ayudamos al estudiante haciéndole preguntas reflexivas para asegurarnos de que se bautiza por un amor sincero a Jehová y no por presiones o para complacer a otros, lo cual es vital para su aguante.",
         "deepAnswer": "Basándonos en <strong>Mateo 24:13</strong> y <strong>Mateo 28:19, 20</strong>, el bautismo no es una meta final, sino el comienzo de un camino de aguante cristiano que requiere paciencia. Debemos formular preguntas profundas que apelen al corazón, como: '¿Qué te impulsa en tu interior a dar este paso?' o '¿Cómo te ayudará tu amor por Jehová cuando pases por pruebas difíciles?'. Esto es sumamente importante porque solo una motivación pura basada en el amor leal le dará las fuerzas espirituales necesarias para permanecer fiel ante la oposición o la apatía en el territorio.",
@@ -7706,11 +8129,77 @@ const lessonsData = [
       },
       {
         "id": "17A_q25",
-        "question": "¿Te has encontrado tú en alguna de las siguientes situaciones? ˙ Necesitas que Jehová te guíe para cumplir con alguna asignación, como le pasó a Eliezer (Gén. 24:12-14). ˙ Tu familia se pone en tu contra, como le pasó a Jacob (Gén. 32:9-12). ˙ Quieres conocer mejor a Dios, como Moisés (Éx. 33:12-17). ˙ Te enfrentas a enemigos de Jehová, como Elías (1 Rey. 18:36, 37). ˙ Se te hacen difíciles algunas facetas de la predicación, como a Jeremías (Jer. 20:7-12). ˙ Sientes la necesidad de pedirle perdón a Jehová, como mencionó Salomón (1 Rey. 8:38, 39). ˙ Te enfrentas a persecución, como los discípulos de Jesús (Hech. 4:24-31). Proyecto de investigación: En la Biblia hay unas 180 oraciones. Podrías buscar información sobre ellas en la BIBLIOTECA EN LÍNEA Watchtower, JW Library, Watchtower Library, el Índice de las publicaciones Watch Tower, la Guía de estudio para los testigos de Jehová o cualquier herramienta de estudio disponible en tu idioma. Te animará mucho estudiar las oraciones de otros siervos fieles de Jehová (w11 15/2 pág. 19). Respalda tus oraciones con hechos.",
+        "question": "¿Te has encontrado tú en alguna de las siguientes situaciones?",
         "references": "",
-        "directAnswer": "Sí, como precursores a menudo enfrentamos desafíos similares, y recurrir a estas oraciones bíblicas nos enseña cómo buscar la guía y el apoyo divino en cada faceta de nuestro ministerio.",
-        "deepAnswer": "Estudiar las oraciones de siervos como Elías, Jeremías o Nehemías nos ayuda a entender que no estamos solos en nuestras luchas. Ya sea que necesitemos valor para predicar, guía para organizar nuestras actividades o perdón por errores cometidos, Jehová desea que usemos el privilegio de la oración para estrechar nuestro vínculo con él.",
-        "shortAnswer": "Las oraciones de los siervos del pasado son modelos perfectos para nuestras propias necesidades actuales."
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "17A_q25_a",
+            "question": "¿Te has encontrado tú en la situación de necesitar que Jehová te guíe para cumplir con alguna asignación, tal como le pasó a Eliezer? (Gén. 24:12-14)",
+            "references": "Gén. 24:12-14",
+            "directAnswer": "Sí, al recibir una nueva asignación, podemos imitar la oración específica y humilde de Eliezer para pedir la guía de Jehová.",
+            "deepAnswer": "El relato de Eliezer es un modelo de dependencia total en Jehová. Cuando recibimos una asignación, nuestra prioridad debe ser buscar el éxito de la voluntad de Dios, no el nuestro. Al orar específicamente como lo hizo Eliezer, demostramos fe en que Jehová está interesado en los detalles de nuestro servicio y que él puede dirigir nuestros pasos.",
+            "shortAnswer": "Podemos pedir guía específica a Jehová para cumplir nuestras asignaciones tal como Eliezer."
+          },
+          {
+            "id": "17A_q25_b",
+            "question": "¿Te has encontrado tú en la situación de que tu familia se ponga en tu contra, tal como le pasó a Jacob? (Gén. 32:9-12)",
+            "references": "Gén. 32:9-12",
+            "directAnswer": "Sí, cuando nuestra familia se opone, podemos recurrir a la oración de Jacob, quien recordó a Jehová sus promesas y pidió protección con humildad.",
+            "deepAnswer": "La oposición familiar es una prueba dolorosa. Jacob, temeroso por el encuentro con Esaú, reconoció su propia indignidad y apeló a la fidelidad de Jehová a sus promesas. Cuando nuestra familia se opone, orar de manera similar nos ayuda a mantener la calma y a confiar en que Jehová protege a los suyos en momentos de tensión familiar.",
+            "shortAnswer": "La oración de Jacob nos enseña a pedir protección y recordar las promesas de Dios frente a la oposición familiar."
+          },
+          {
+            "id": "17A_q25_c",
+            "question": "¿Te has encontrado tú en la situación de querer conocer mejor a Dios, tal como le pasó a Moisés? (Éx. 33:12-17)",
+            "references": "Éx. 33:12-17",
+            "directAnswer": "Sí, el deseo de Moisés de conocer los caminos de Jehová debe ser también nuestro objetivo constante mediante el estudio personal y la oración.",
+            "deepAnswer": "Moisés no solo quería ver la gloria de Jehová, sino comprender sus caminos y su manera de tratar con la gente. Esto refleja un deseo profundo de amistad íntima con el Creador. Al pedirle a Jehová que nos enseñe sus caminos, abrimos nuestro corazón para que él nos moldee mediante su Palabra, permitiéndonos desarrollar cualidades como las suyas.",
+            "shortAnswer": "El deseo de conocer mejor a Dios fortalece nuestra amistad con él."
+          },
+          {
+            "id": "17A_q25_d",
+            "question": "¿Te has encontrado tú en la situación de enfrentarte a enemigos de Jehová, tal como le pasó a Elías? (1 Rey. 18:36, 37)",
+            "references": "1 Rey. 18:36, 37",
+            "directAnswer": "Sí, en situaciones donde la verdad es desafiada, debemos orar, como Elías, para que Jehová santifique su nombre y abra los ojos de las personas.",
+            "deepAnswer": "Elías oró en el monte Carmelo no para buscar gloria personal, sino para que el pueblo supiera que Jehová es el Dios verdadero. Al enfrentarnos a enemigos o a una oposición pública feroz, nuestra oración debe enfocarse en la vindicación de Jehová, confiando en que él actuará en el momento adecuado para demostrar quién es el Soberano Universal.",
+            "shortAnswer": "Ante los enemigos de Jehová, debemos orar enfocados en la santificación de Su nombre."
+          },
+          {
+            "id": "17A_q25_e",
+            "question": "¿Te has encontrado tú en la situación de que se te hacen difíciles algunas facetas de la predicación, tal como le pasó a Jeremías? (Jer. 20:7-12)",
+            "references": "Jer. 20:7-12",
+            "directAnswer": "Sí, cuando sentimos desánimo en el ministerio, la oración sincera de Jeremías nos recuerda que Jehová es un poderoso guerrero que nos ayuda a continuar.",
+            "deepAnswer": "Incluso profetas fieles como Jeremías sintieron el peso de la predicación y el desánimo ante la indiferencia o la hostilidad. Al expresar nuestras frustraciones a Jehová, encontramos alivio y fuerzas renovadas. Recordar que Jehová está con nosotros 'como un guerrero terrible' nos permite superar las dificultades en la predicación y seguir adelante a pesar de los obstáculos.",
+            "shortAnswer": "La oración nos ayuda a recuperar el entusiasmo en el ministerio cuando enfrentamos dificultades."
+          },
+          {
+            "id": "17A_q25_f",
+            "question": "¿Te has encontrado tú en la situación de sentir la necesidad de pedirle perdón a Jehová, como mencionó Salomón? (1 Rey. 8:38, 39)",
+            "references": "1 Rey. 8:38, 39",
+            "directAnswer": "Sí, al reconocer que todos cometemos errores, la oración de Salomón nos invita a reconocer nuestro 'propio mal' y acudir a Jehová buscando su misericordia.",
+            "deepAnswer": "Salomón reconoció que Jehová conoce lo que hay en el corazón de cada persona. Cuando fallamos o cometemos errores, debemos ser honestos y humildes ante él, reconociendo nuestras faltas y buscando el perdón basado en el sacrificio de rescate. Esto no nos aleja de Dios, sino que nos acerca al buscar su perdón sincero.",
+            "shortAnswer": "Pedir perdón a Jehová con humildad es esencial para mantener nuestra relación con él."
+          },
+          {
+            "id": "17A_q25_g",
+            "question": "¿Te has encontrado tú en la situación de enfrentarte a persecución, tal como los discípulos de Jesús? (Hech. 4:24-31)",
+            "references": "Hech. 4:24-31",
+            "directAnswer": "Sí, cuando sufrimos persecución, la oración de la congregación primitiva nos enseña a pedir valentía para seguir declarando la palabra de Dios sin temor.",
+            "deepAnswer": "Los discípulos no oraron para que la persecución terminara inmediatamente, sino para recibir fuerzas para seguir predicando. Esta es la clave para soportar la prueba: pedir valor y apoyo divino para ser testigos fieles. Jehová respondió llenándolos de espíritu santo, lo cual demuestra que él nos dará el poder necesario cuando el mundo trata de silenciarnos.",
+            "shortAnswer": "Ante la persecución, debemos pedir valentía para continuar predicando con denuedo."
+          },
+          {
+            "id": "17A_q25_h",
+            "question": "Proyecto de investigación: ¿Podrías estudiar las oraciones de otros siervos fieles de Jehová usando la BIBLIOTECA EN LÍNEA Watchtower, JW Library u otras herramientas para animarte y respaldar tus oraciones con hechos? (w11 15/2 pág. 19)",
+            "references": "w11 15/2 pág. 19",
+            "directAnswer": "Sí, realizar este proyecto de investigación sobre las 180 oraciones bíblicas nos proporcionará modelos prácticos y fortalecerá nuestro deseo de respaldar nuestras peticiones con acciones.",
+            "deepAnswer": "El estudio profundo de las oraciones bíblicas no es un ejercicio académico, es una forma de entrenamiento espiritual. Al investigar cómo hombres y mujeres de fe abordaron sus problemas, descubrimos que nuestras luchas no son únicas. Este estudio nos motiva a ser específicos en nuestras oraciones y a actuar en armonía con ellas, pues la oración sin acción carece de la fe necesaria para mover la mano de Dios.<br><br><strong>Experiencia:</strong> Hace muchos años, una hermana que se sentía agobiada por su asignación de campo encontró gran alivio al estudiar la oración de Jeremías. Comprendió que sus sentimientos no la hacían mala cristiana, sino humana. Al aprender de la determinación de Jeremías, decidió realizar visitas de regreso adicionales, respaldando su petición de 'fortaleza' con la 'acción' de predicar más. Esto le permitió superar su temor y encontrar gozo en su ministerio una vez más.",
+            "shortAnswer": "Investigar las oraciones bíblicas nos ayuda a orar mejor y a respaldar nuestra fe con hechos."
+          }
+        ]
       },
       {
         "id": "17A_q26",
@@ -7791,7 +8280,7 @@ const lessonsData = [
       },
       {
         "id": "17B_q2",
-        "question": "¿Cómo nos ayudan esos relatos hoy? (Rom. 15:4). La Biblia anima a los cristianos a que “piensen detenidamente en el que aguantó” (Heb. 12:3). ¿Qué nos dice",
+        "question": "¿Cómo nos ayudan esos relatos hoy? (Rom. 15:4)",
         "references": "",
         "directAnswer": "Estos relatos nos dan esperanza y nos enseñan a mantener una postura positiva ante las pruebas actuales mediante la paciencia y el consuelo de las Escrituras.",
         "deepAnswer": "<strong>Romanos 15:4</strong> nos asegura que todo lo que se escribió en el pasado fue para nuestra enseñanza. Al leer cómo Jehová ayudó a sus siervos a superar situaciones difíciles, nuestra fe se fortalece, lo que produce en nosotros la <em>paciencia y el consuelo</em> necesarios para no rendirnos frente a los desafíos modernos de nuestro servicio de precursor.",
@@ -7799,7 +8288,7 @@ const lessonsData = [
       },
       {
         "id": "17B_q3",
-        "question": "Hebreos 5:7-9 sobre el aguante de Jesús? ¿Cómo nos beneficia su obediencia?",
+        "question": "La Biblia anima a los cristianos a que “piensen detenidamente en el que aguantó” (Heb. 12:3). ¿Cómo nos ayuda esto a no cansarnos ni desanimarnos?",
         "references": "",
         "directAnswer": "Pensar detenidamente en Jesús nos ayuda a evitar el cansancio y el desánimo, pues él enfrentó oposición sin rendirse.",
         "deepAnswer": "Al reflexionar sobre el aguante de Jesús, según <strong>Hebreos 12:3</strong>, recordamos que él sufrió una hostilidad tremenda de parte de pecadores. Esto nos ayuda a no 'cansarnos ni desmayar' cuando enfrentamos críticas en la predicación o dificultades personales, ya que el ejemplo perfecto de nuestro Líder nos recuerda que el aguante es esencial para obtener la aprobación divina.",
@@ -7807,7 +8296,7 @@ const lessonsData = [
       },
       {
         "id": "17B_q4",
-        "question": "Hebreos 5:7-9 sobre el aguante de Jesús? ¿Cómo nos beneficia su obediencia?",
+        "question": "¿Qué nos dice Hebreos 5:7-9 sobre el aguante de Jesús? ¿Cómo nos beneficia su obediencia?",
         "references": "Rom. 5:19",
         "directAnswer": "Hebreos 5:7-9 muestra que Jesús aprendió la obediencia mediante el sufrimiento; su sacrificio nos beneficia al abrir el camino a la salvación eterna.",
         "deepAnswer": "Jesús ofreció ruegos con fuertes gritos y lágrimas, demostrando una sumisión total a la voluntad de Jehová. Al ser obediente hasta la muerte, <strong>Romanos 5:19</strong> explica que \"mediante la obediencia de una sola persona, muchos serán declarados justos\". Su aguante perfeccionó su idoneidad como nuestro Sumo Sacerdote y Rey.",
