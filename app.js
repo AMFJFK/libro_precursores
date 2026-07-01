@@ -9,7 +9,6 @@ let isGlobalFlashcardMode = false;
 let globalFlashcards = [];
 let currentGlobalFlashcardIndex = 0;
 
-// --- INICIALIZACIÓN ---
 document.addEventListener("DOMContentLoaded", () => {
     // Cargar Tema Guardado (Forzado a JW.ORG)
     changeTheme("jw");
@@ -19,8 +18,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Cargar Lección Inicial
     loadLesson(currentLessonIndex);
-});
 
+    // Inicializar Resaltador de Texto
+    initTextHighlighter();
+});
 // --- MENÚ DE LECCIONES ---
 function renderLessonsMenu() {
     const nav = document.getElementById("lessons-nav");
@@ -142,6 +143,9 @@ function renderQuestions(lesson) {
             let subItemsHtml = "";
             q.subQuestions.forEach((subQ, sIdx) => {
                 const isSubCompleted = completedState[subQ.id] || false;
+                const subDirectHtml = localStorage.getItem(`pioneer_html_text-direct-${subQ.id}`) || subQ.directAnswer;
+                const subDeepHtml = localStorage.getItem(`pioneer_html_text-deep-${subQ.id}`) || subQ.deepAnswer;
+                const subQuoteHtml = localStorage.getItem(`pioneer_html_text-quote-${subQ.id}`) || `“${subQ.shortAnswer}”`;
                 
                 // Generar spans clicables para las referencias de la subpregunta
                 let subRefsHtml = "";
@@ -184,7 +188,7 @@ function renderQuestions(lesson) {
                                         <h4>Respuesta Directa</h4>
                                         <button class="speak-btn" onclick="speakText(event, 'text-direct-${subQ.id}', 'speak-direct-${subQ.id}')" id="speak-direct-${subQ.id}" title="Escuchar respuesta">🔊</button>
                                     </div>
-                                    <p id="text-direct-${subQ.id}">${subQ.directAnswer}</p>
+                                    <p id="text-direct-${subQ.id}">${subDirectHtml}</p>
                                 </div>
                             </div>
                             
@@ -192,7 +196,7 @@ function renderQuestions(lesson) {
                             <div class="tab-content" id="tab-content-deep-${subQ.id}">
                                 <div class="deep-answer">
                                     <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
-                                        <div id="text-deep-${subQ.id}" style="flex: 1;">${subQ.deepAnswer}</div>
+                                        <div id="text-deep-${subQ.id}" style="flex: 1;">${subDeepHtml}</div>
                                         <button class="speak-btn" onclick="speakText(event, 'text-deep-${subQ.id}', 'speak-deep-${subQ.id}')" id="speak-deep-${subQ.id}" style="margin-left: 8px;" title="Escuchar estudio profundo">🔊</button>
                                     </div>
                                     <div class="ref-section">
@@ -214,7 +218,7 @@ function renderQuestions(lesson) {
                                         <h4>Lema del Precursor</h4>
                                         <button class="speak-btn" onclick="speakText(event, 'text-quote-${subQ.id}', 'speak-quote-${subQ.id}')" id="speak-quote-${subQ.id}" title="Escuchar lema">🔊</button>
                                     </div>
-                                    <p id="text-quote-${subQ.id}">“${subQ.shortAnswer}”</p>
+                                    <p id="text-quote-${subQ.id}">${subQuoteHtml}</p>
                                 </div>
                             </div>
                             
@@ -254,6 +258,10 @@ function renderQuestions(lesson) {
                 </div>
             `;
         } else {
+            const directHtml = localStorage.getItem(`pioneer_html_text-direct-${q.id}`) || q.directAnswer;
+            const deepHtml = localStorage.getItem(`pioneer_html_text-deep-${q.id}`) || q.deepAnswer;
+            const quoteHtml = localStorage.getItem(`pioneer_html_text-quote-${q.id}`) || `“${q.shortAnswer}”`;
+
             // Render standard layout
             contentHtml = `
                 <div class="accordion-header" onclick="toggleAccordion('${q.id}')">
@@ -283,7 +291,7 @@ function renderQuestions(lesson) {
                                     <h4>Respuesta Directa</h4>
                                     <button class="speak-btn" onclick="speakText(event, 'text-direct-${q.id}', 'speak-direct-${q.id}')" id="speak-direct-${q.id}" title="Escuchar respuesta">🔊</button>
                                 </div>
-                                <p id="text-direct-${q.id}">${q.directAnswer}</p>
+                                <p id="text-direct-${q.id}">${directHtml}</p>
                             </div>
                         </div>
 
@@ -291,7 +299,7 @@ function renderQuestions(lesson) {
                         <div class="tab-content" id="tab-content-deep-${q.id}">
                             <div class="deep-answer">
                                 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 6px;">
-                                    <div id="text-deep-${q.id}" style="flex: 1;">${q.deepAnswer}</div>
+                                    <div id="text-deep-${q.id}" style="flex: 1;">${deepHtml}</div>
                                     <button class="speak-btn" onclick="speakText(event, 'text-deep-${q.id}', 'speak-deep-${q.id}')" id="speak-deep-${q.id}" style="margin-left: 8px;" title="Escuchar estudio profundo">🔊</button>
                                 </div>
                                 
@@ -314,7 +322,7 @@ function renderQuestions(lesson) {
                                     <h4>Lema del Precursor</h4>
                                     <button class="speak-btn" onclick="speakText(event, 'text-quote-${q.id}', 'speak-quote-${q.id}')" id="speak-quote-${q.id}" title="Escuchar lema">🔊</button>
                                 </div>
-                                <p id="text-quote-${q.id}">“${q.shortAnswer}”</p>
+                                <p id="text-quote-${q.id}">${quoteHtml}</p>
                             </div>
                         </div>
 
@@ -1182,6 +1190,138 @@ function toggleSubCheck(event, lessonId, parentId, subId) {
             }
         }
     }
-    
     updateProgressBar();
+}
+
+// --- RESALTADOR DE TEXTO FLOTANTE ---
+function initTextHighlighter() {
+    // Crear el elemento de la barra flotante
+    const toolbar = document.createElement("div");
+    toolbar.id = "highlighter-toolbar";
+    toolbar.innerHTML = `
+        <button class="highlighter-color-btn" style="background-color: #fef08a;" onclick="highlightSelection('#fef08a')" title="Resaltar Amarillo"></button>
+        <button class="highlighter-color-btn" style="background-color: #bbf7d0;" onclick="highlightSelection('#bbf7d0')" title="Resaltar Verde"></button>
+        <button class="highlighter-color-btn" style="background-color: #bfdbfe;" onclick="highlightSelection('#bfdbfe')" title="Resaltar Azul"></button>
+        <button class="highlighter-color-btn" style="background-color: #fbcfe8;" onclick="highlightSelection('#fbcfe8')" title="Resaltar Rosa"></button>
+        <button class="highlighter-clear-btn" onclick="clearSelectionHighlight()" title="Quitar Resaltado">Borrar</button>
+    `;
+    document.body.appendChild(toolbar);
+
+    // Registrar eventos para detectar la selección de texto
+    document.addEventListener("mouseup", handleTextSelection);
+    document.addEventListener("keyup", handleTextSelection);
+    document.addEventListener("touchend", handleTextSelection);
+}
+
+function handleTextSelection() {
+    const selection = window.getSelection();
+    if (!selection.rangeCount || selection.isCollapsed) {
+        hideHighlighterToolbar();
+        return;
+    }
+
+    // Comprobar si la selección está dentro de una respuesta
+    let node = selection.anchorNode;
+    let isInsideAnswer = false;
+    while (node) {
+        if (node.classList && (node.classList.contains('direct-answer') || node.classList.contains('deep-answer') || node.classList.contains('short-answer'))) {
+            isInsideAnswer = true;
+            break;
+        }
+        node = node.parentNode;
+    }
+
+    if (!isInsideAnswer) {
+        hideHighlighterToolbar();
+        return;
+    }
+
+    // Mostrar barra flotante cerca de la selección
+    const range = selection.getRangeAt(0);
+    const rect = range.getBoundingClientRect();
+    const toolbar = document.getElementById("highlighter-toolbar");
+    
+    if (toolbar) {
+        const toolbarWidth = toolbar.offsetWidth || 230;
+        const left = rect.left + window.scrollX + (rect.width / 2) - (toolbarWidth / 2);
+        const top = rect.top + window.scrollY - 45;
+        
+        toolbar.style.left = `${Math.max(10, left)}px`;
+        toolbar.style.top = `${top}px`;
+        toolbar.style.display = "flex";
+    }
+}
+
+function hideHighlighterToolbar() {
+    const toolbar = document.getElementById("highlighter-toolbar");
+    if (toolbar) {
+        toolbar.style.display = "none";
+    }
+}
+
+function highlightSelection(color) {
+    const selection = window.getSelection();
+    if (!selection.rangeCount || selection.isCollapsed) return;
+
+    let node = selection.anchorNode;
+    while (node && !node.classList?.contains('direct-answer') && !node.classList?.contains('deep-answer') && !node.classList?.contains('short-answer')) {
+        node = node.parentNode;
+    }
+    if (!node) return;
+
+    let textEl = node.querySelector('[id^="text-"]');
+    if (!textEl) {
+        if (node.id.startsWith("text-")) {
+            textEl = node;
+        } else {
+            return;
+        }
+    }
+
+    const elementId = textEl.id;
+
+    textEl.contentEditable = true;
+    document.execCommand("backColor", false, color);
+    textEl.contentEditable = false;
+
+    // Guardar el HTML resultante
+    localStorage.setItem(`pioneer_html_${elementId}`, textEl.innerHTML);
+
+    // Limpiar selección
+    window.getSelection().removeAllRanges();
+    hideHighlighterToolbar();
+}
+
+function clearSelectionHighlight() {
+    const selection = window.getSelection();
+    if (!selection.rangeCount || selection.isCollapsed) return;
+
+    let node = selection.anchorNode;
+    while (node && !node.classList?.contains('direct-answer') && !node.classList?.contains('deep-answer') && !node.classList?.contains('short-answer')) {
+        node = node.parentNode;
+    }
+    if (!node) return;
+
+    let textEl = node.querySelector('[id^="text-"]');
+    if (!textEl) {
+        if (node.id.startsWith("text-")) {
+            textEl = node;
+        } else {
+            return;
+        }
+    }
+
+    const elementId = textEl.id;
+
+    textEl.contentEditable = true;
+    // Poner el color de fondo a transparente
+    document.execCommand("backColor", false, "rgba(0,0,0,0)");
+    textEl.contentEditable = false;
+
+    // Guardar el HTML resultante
+    localStorage.setItem(`pioneer_html_${elementId}`, textEl.innerHTML);
+
+    // Limpiar selección
+    window.getSelection().removeAllRanges();
+    hideHighlighterToolbar();
 }
