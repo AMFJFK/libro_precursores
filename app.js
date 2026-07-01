@@ -1220,18 +1220,18 @@ function handleTextSelection() {
         return;
     }
 
-    // Comprobar si la selección está dentro de una respuesta
+    // Buscar el contenedor de respuesta más cercano con ID que empiece por "text-"
     let node = selection.anchorNode;
-    let isInsideAnswer = false;
+    let textEl = null;
     while (node) {
-        if (node.classList && (node.classList.contains('direct-answer') || node.classList.contains('deep-answer') || node.classList.contains('short-answer'))) {
-            isInsideAnswer = true;
+        if (node.id && node.id.startsWith("text-")) {
+            textEl = node;
             break;
         }
         node = node.parentNode;
     }
 
-    if (!isInsideAnswer) {
+    if (!textEl) {
         hideHighlighterToolbar();
         return;
     }
@@ -1263,20 +1263,17 @@ function highlightSelection(color) {
     const selection = window.getSelection();
     if (!selection.rangeCount || selection.isCollapsed) return;
 
+    // Buscar el contenedor de respuesta más cercano con ID que empiece por "text-"
     let node = selection.anchorNode;
-    while (node && !node.classList?.contains('direct-answer') && !node.classList?.contains('deep-answer') && !node.classList?.contains('short-answer')) {
+    let textEl = null;
+    while (node) {
+        if (node.id && node.id.startsWith("text-")) {
+            textEl = node;
+            break;
+        }
         node = node.parentNode;
     }
-    if (!node) return;
-
-    let textEl = node.querySelector('[id^="text-"]');
-    if (!textEl) {
-        if (node.id.startsWith("text-")) {
-            textEl = node;
-        } else {
-            return;
-        }
-    }
+    if (!textEl) return;
 
     const elementId = textEl.id;
 
@@ -1296,25 +1293,21 @@ function clearSelectionHighlight() {
     const selection = window.getSelection();
     if (!selection.rangeCount || selection.isCollapsed) return;
 
+    // Buscar el contenedor de respuesta más cercano con ID que empiece por "text-"
     let node = selection.anchorNode;
-    while (node && !node.classList?.contains('direct-answer') && !node.classList?.contains('deep-answer') && !node.classList?.contains('short-answer')) {
+    let textEl = null;
+    while (node) {
+        if (node.id && node.id.startsWith("text-")) {
+            textEl = node;
+            break;
+        }
         node = node.parentNode;
     }
-    if (!node) return;
-
-    let textEl = node.querySelector('[id^="text-"]');
-    if (!textEl) {
-        if (node.id.startsWith("text-")) {
-            textEl = node;
-        } else {
-            return;
-        }
-    }
+    if (!textEl) return;
 
     const elementId = textEl.id;
 
     textEl.contentEditable = true;
-    // Poner el color de fondo a transparente
     document.execCommand("backColor", false, "rgba(0,0,0,0)");
     textEl.contentEditable = false;
 
@@ -1325,3 +1318,5 @@ function clearSelectionHighlight() {
     window.getSelection().removeAllRanges();
     hideHighlighterToolbar();
 }
+
+
