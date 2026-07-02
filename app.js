@@ -12,17 +12,12 @@ let currentGlobalFlashcardIndex = 0;
 // Helper to get direct document URL on wol.jw.org if mapped
 function getDirectWolUrl(ref) {
     if (!ref) return null;
-    let normalized = ref.toLowerCase()
-        .replace(/p\u00e1gs?\.?/gi, "")
-        .replace(/pags?\.?/gi, "")
-        .replace(/p\u00e1g\.?/gi, "")
-        .replace(/pag\.?/gi, "")
-        .replace(/\s+/g, " ")
-        .trim();
-        
+    let normalized = ref.toLowerCase().trim();
+    
     // Mapping for New World Translation (NWT) appendices and introductory materials
-    if (normalized.startsWith("nwt ")) {
-        let pages = normalized.substring(4).trim();
+    if (normalized.startsWith("nwt")) {
+        // Strip everything except digits, hyphens, and commas from the page part
+        let pages = normalized.substring(3).replace(/[^0-9,-]/g, "");
         if (pages === "1846-1849") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061101"; // A1
         if (pages === "1850-1853" || pages === "1853") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061102"; // A2
         if (pages === "1854-1858") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061103"; // A3
@@ -30,21 +25,20 @@ function getDirectWolUrl(ref) {
         if (pages === "1864-1869") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061105"; // A5
         if (pages === "1872-1875") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061106"; // A6
         if (pages === "1876-1891") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061107"; // A7
-        if (pages === "1893" || pages === "1894, 1895" || pages === "1894" || pages === "1895") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061108"; // A8
+        if (pages === "1893" || pages === "1894,1895" || pages === "1894" || pages === "1895") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061108"; // A8
         if (pages === "1814-1844") return "https://wol.jw.org/es/wol/d/r4/lp-s/2013850"; // Glosario
         if (pages === "5-36") return "https://wol.jw.org/es/wol/d/r4/lp-s/1102014603"; // Intro
         if (pages === "39") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061005"; // Declaración
     }
     
     // Mapping for El Reino de Dios ya está gobernando! (kr) book chapters
-    if (normalized.startsWith("kr ")) {
-        let pages = normalized.substring(3).trim();
-        // kr pág. 39 párr. 1 or 2 ➔ Chapter 4
-        if (pages.startsWith("39") || pages.includes("pág. 39") || pages.includes("pag. 39")) {
+    if (normalized.startsWith("kr")) {
+        // Strip everything except digits, hyphens, and commas from the page/paragraph part
+        let pages = normalized.substring(2).replace(/[^0-9,-]/g, "");
+        if (pages.startsWith("39")) {
             return "https://wol.jw.org/es/wol/d/r4/lp-s/1102014242";
         }
-        // kr pág. 84 párr. 16 ➔ Chapter 8
-        if (pages.startsWith("84") || pages.includes("pág. 84") || pages.includes("pag. 84")) {
+        if (pages.startsWith("84")) {
             return "https://wol.jw.org/es/wol/d/r4/lp-s/1102014246";
         }
     }
@@ -56,17 +50,11 @@ function getDirectWolUrl(ref) {
 function cleanWolQuery(ref) {
     if (!ref) return "";
     let clean = ref.trim();
-    let normalized = clean.toLowerCase()
-        .replace(/p\u00e1gs?\.?/gi, "")
-        .replace(/pags?\.?/gi, "")
-        .replace(/p\u00e1g\.?/gi, "")
-        .replace(/pag\.?/gi, "")
-        .replace(/\s+/g, " ")
-        .trim();
-        
+    let normalized = clean.toLowerCase().trim();
+    
     // Translate New World Translation page ranges to direct search terms
-    if (normalized.startsWith("nwt ")) {
-        let pages = normalized.substring(4).trim();
+    if (normalized.startsWith("nwt")) {
+        let pages = normalized.substring(3).replace(/[^0-9,-]/g, "");
         if (pages === "1846-1849") return '"Apéndice A1"';
         if (pages === "1850-1853" || pages === "1853") return '"Apéndice A2"';
         if (pages === "1854-1858") return '"Apéndice A3"';
@@ -74,7 +62,7 @@ function cleanWolQuery(ref) {
         if (pages === "1864-1869") return '"Apéndice A5"';
         if (pages === "1872-1875") return '"Apéndice A6"';
         if (pages === "1876-1891") return '"Apéndice A7"';
-        if (pages === "1893" || pages === "1894, 1895" || pages === "1894" || pages === "1895") return '"Apéndice A8"';
+        if (pages === "1893" || pages === "1894,1895" || pages === "1894" || pages === "1895") return '"Apéndice A8"';
         if (pages === "1814-1844") return '"Glosario de términos bíblicos"';
         if (pages === "5-36") return '"Introducción a la Palabra de Dios"';
         if (pages === "39") return '"Comité de Traducción de la Biblia del Nuevo Mundo"';
@@ -225,9 +213,7 @@ function renderQuestions(lesson) {
         
         if (q.references) {
             const refsArray = q.references.split(";").map(r => r.trim());
-            referencesHtml = refsArray.map(ref => `
-                <span class="scripture-link" onclick="showScripture('${ref}')">${ref}</span>
-            `).join(" | ");
+            referencesHtml = refsArray.map(ref => `<span class="scripture-link" onclick="showScripture('${ref}')">${ref}</span>`).join(" | ");
             
             let directUrl = getDirectWolUrl(refsArray[0]);
             if (directUrl) {
@@ -255,9 +241,7 @@ function renderQuestions(lesson) {
                 let subWolSearchUrl = "";
                 if (subQ.references) {
                     const refsArray = subQ.references.split(";").map(r => r.trim());
-                    subRefsHtml = refsArray.map(ref => `
-                        <span class="scripture-link" onclick="showScripture('${ref}')">${ref}</span>
-                    `).join(" | ");
+                    subRefsHtml = refsArray.map(ref => `<span class="scripture-link" onclick="showScripture('${ref}')">${ref}</span>`).join(" | ");
                     
                     let directUrl = getDirectWolUrl(refsArray[0]);
                     if (directUrl) {
@@ -318,9 +302,7 @@ function renderQuestions(lesson) {
                                             <span>Referencias y Textos Clave</span>
                                             <a href="${subWolSearchUrl}" target="_blank" class="wol-link">Ver en wol.org ↗</a>
                                         </div>
-                                        <div style="font-size:0.85rem; font-weight:600; color:var(--text-light);">
-                                            ${subRefsHtml || 'Sin referencias registradas.'}
-                                        </div>
+                                        <div style="font-size:0.85rem; font-weight:600; color:var(--text-light);">${subRefsHtml || 'Sin referencias registradas.'}</div>
                                     </div>
                                 </div>
                             </div>
@@ -427,9 +409,7 @@ function renderQuestions(lesson) {
                                         <span>Referencias y Textos Clave</span>
                                         <a href="${wolSearchUrl}" target="_blank" class="wol-link">Ver en wol.org ↗</a>
                                     </div>
-                                    <div style="font-size:0.85rem; font-weight:600; color:var(--text-light);">
-                                        ${referencesHtml || 'Sin referencias registradas.'}
-                                    </div>
+                                    <div style="font-size:0.85rem; font-weight:600; color:var(--text-light);">${referencesHtml || 'Sin referencias registradas.'}</div>
                                 </div>
                             </div>
                         </div>
