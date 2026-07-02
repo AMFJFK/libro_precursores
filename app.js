@@ -9,6 +9,26 @@ let isGlobalFlashcardMode = false;
 let globalFlashcards = [];
 let currentGlobalFlashcardIndex = 0;
 
+// Helper to clean search query for wol.jw.org
+function cleanWolQuery(ref) {
+    if (!ref) return "";
+    let clean = ref;
+    // Remove "págs." or "págs" or "pág." or "pág" or "pag." or "pag" or "pags." or "pags"
+    clean = clean.replace(/\bp\u00e1gs?\b\.?/gi, "");
+    clean = clean.replace(/\bpags?\b\.?/gi, "");
+    clean = clean.replace(/\bp\u00e1g\b\.?/gi, "");
+    clean = clean.replace(/\bpag\b\.?/gi, "");
+    // Remove "párrs." or "párrs" or "párr." or "párr" or "parr." or "parr" or "parrs." or "parrs"
+    clean = clean.replace(/\bp\u00e1rrs?\b\.?/gi, "");
+    clean = clean.replace(/\bparrs?\b\.?/gi, "");
+    clean = clean.replace(/\bp\u00e1rr\b\.?/gi, "");
+    clean = clean.replace(/\bparr\b\.?/gi, "");
+    
+    // Replace multiple spaces with a single space and trim
+    clean = clean.replace(/\s+/g, " ").trim();
+    return clean;
+}
+
 document.addEventListener("DOMContentLoaded", () => {
     // Cargar Tema Guardado (Forzado a JW.ORG)
     changeTheme("jw");
@@ -138,7 +158,7 @@ function renderQuestions(lesson) {
                 <span class="scripture-link" onclick="showScripture('${ref}')">${ref}</span>
             `).join(" | ");
             
-            wolSearchUrl += encodeURIComponent(refsArray[0]);
+            wolSearchUrl += encodeURIComponent(cleanWolQuery(refsArray[0]));
         } else {
             wolSearchUrl += encodeURIComponent(q.question);
         }
@@ -162,7 +182,7 @@ function renderQuestions(lesson) {
                     subRefsHtml = refsArray.map(ref => `
                         <span class="scripture-link" onclick="showScripture('${ref}')">${ref}</span>
                     `).join(" | ");
-                    subWolSearchUrl += encodeURIComponent(refsArray[0]);
+                    subWolSearchUrl += encodeURIComponent(cleanWolQuery(refsArray[0]));
                 } else {
                     subWolSearchUrl += encodeURIComponent(subQ.question);
                 }
@@ -543,7 +563,7 @@ function showScripture(ref) {
         viewer.innerHTML = `
             “${text}”
             <div style="margin-top: 8px; text-align: right;">
-                <a href="https://wol.jw.org/es/wol/s/r4/lp-s?q=${encodeURIComponent(ref)}" target="_blank" class="wol-link" style="font-size:0.75rem;">Corroborar en wol.org ↗</a>
+                <a href="https://wol.jw.org/es/wol/s/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link" style="font-size:0.75rem;">Corroborar en wol.org ↗</a>
             </div>
         `;
     } else {
@@ -552,7 +572,7 @@ function showScripture(ref) {
         viewer.innerHTML = `
             Texto bíblico no pre-cargado. 
             <br><br>
-            <a href="https://wol.jw.org/es/wol/s/r4/lp-s?q=${encodeURIComponent(ref)}" target="_blank" class="wol-link">Buscar "${ref}" directamente en la Biblioteca en Línea ↗</a>
+            <a href="https://wol.jw.org/es/wol/s/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link">Buscar "${ref}" directamente en la Biblioteca en Línea ↗</a>
         `;
     }
 
