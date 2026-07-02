@@ -12,27 +12,47 @@ let currentGlobalFlashcardIndex = 0;
 // Helper to clean search query for wol.jw.org
 function cleanWolQuery(ref) {
     if (!ref) return "";
-    let clean = ref;
+    let clean = ref.trim();
+    let normalized = clean.toLowerCase()
+        .replace(/p\u00e1gs?\.?/gi, "")
+        .replace(/pags?\.?/gi, "")
+        .replace(/p\u00e1g\.?/gi, "")
+        .replace(/pag\.?/gi, "")
+        .replace(/\s+/g, " ")
+        .trim();
+        
+    // Translate New World Translation page ranges to direct search terms
+    if (normalized.startsWith("nwt ")) {
+        let pages = normalized.substring(4).trim();
+        if (pages === "1846-1849") return '"Apéndice A1"';
+        if (pages === "1850-1853" || pages === "1853") return '"Apéndice A2"';
+        if (pages === "1854-1858") return '"Apéndice A3"';
+        if (pages === "1859-1863") return '"Apéndice A4"';
+        if (pages === "1864-1869") return '"Apéndice A5"';
+        if (pages === "1872-1875") return '"Apéndice A6"';
+        if (pages === "1876-1891") return '"Apéndice A7"';
+        if (pages === "1893" || pages === "1894, 1895" || pages === "1894" || pages === "1895") return '"Apéndice A8"';
+        if (pages === "1814-1844") return '"Glosario de términos bíblicos"';
+        if (pages === "5-36") return '"Introducción a la Palabra de Dios"';
+        if (pages === "39") return '"Comité de Traducción de la Biblia del Nuevo Mundo"';
+    }
+    
     if (clean.includes("-")) {
-        // Remove "págs." or "págs" or "pág." or "pág" or "pag." or "pag" or "pags." or "pags"
         clean = clean.replace(/\bp\u00e1gs?\b\.?/gi, "");
         clean = clean.replace(/\bpags?\b\.?/gi, "");
         clean = clean.replace(/\bp\u00e1g\b\.?/gi, "");
         clean = clean.replace(/\bpag\b\.?/gi, "");
-        // Remove "párrs." or "párrs" or "párr." or "párr" or "parr." or "parr" or "parrs." or "parrs"
         clean = clean.replace(/\bp\u00e1rrs?\b\.?/gi, "");
         clean = clean.replace(/\bparrs?\b\.?/gi, "");
         clean = clean.replace(/\bp\u00e1rr\b\.?/gi, "");
         clean = clean.replace(/\bparr\b\.?/gi, "");
     } else {
-        // Keep singular "pág." and "párr." (convert plurals "págs." and "párrs." to singular for WOL)
         clean = clean.replace(/\bp\u00e1gs\b\.?/gi, "pág.");
         clean = clean.replace(/\bpags\b\.?/gi, "pág.");
         clean = clean.replace(/\bp\u00e1rrs\b\.?/gi, "párr.");
         clean = clean.replace(/\bparrs\b\.?/gi, "párr.");
     }
     
-    // Replace multiple spaces with a single space and trim
     clean = clean.replace(/\s+/g, " ").trim();
     return clean;
 }
@@ -158,7 +178,7 @@ function renderQuestions(lesson) {
 
         // Generar spans clicables para las referencias bíblicas
         let referencesHtml = "";
-        let wolSearchUrl = "https://wol.jw.org/es/wol/bc/r4/lp-s?q=";
+        let wolSearchUrl = "https://wol.jw.org/es/wol/s/r4/lp-s?q=";
         
         if (q.references) {
             const refsArray = q.references.split(";").map(r => r.trim());
@@ -184,7 +204,7 @@ function renderQuestions(lesson) {
                 
                 // Generar spans clicables para las referencias de la subpregunta
                 let subRefsHtml = "";
-                let subWolSearchUrl = "https://wol.jw.org/es/wol/bc/r4/lp-s?q=";
+                let subWolSearchUrl = "https://wol.jw.org/es/wol/s/r4/lp-s?q=";
                 if (subQ.references) {
                     const refsArray = subQ.references.split(";").map(r => r.trim());
                     subRefsHtml = refsArray.map(ref => `
@@ -571,7 +591,7 @@ function showScripture(ref) {
         viewer.innerHTML = `
             “${text}”
             <div style="margin-top: 8px; text-align: right;">
-                <a href="https://wol.jw.org/es/wol/bc/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link" style="font-size:0.75rem;">Corroborar en wol.org ↗</a>
+                <a href="https://wol.jw.org/es/wol/s/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link" style="font-size:0.75rem;">Corroborar en wol.org ↗</a>
             </div>
         `;
     } else {
@@ -580,7 +600,7 @@ function showScripture(ref) {
         viewer.innerHTML = `
             Texto bíblico no pre-cargado. 
             <br><br>
-            <a href="https://wol.jw.org/es/wol/bc/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link">Buscar "${ref}" directamente en la Biblioteca en Línea ↗</a>
+            <a href="https://wol.jw.org/es/wol/s/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link">Buscar "${ref}" directamente en la Biblioteca en Línea ↗</a>
         `;
     }
 
