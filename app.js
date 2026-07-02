@@ -9,6 +9,49 @@ let isGlobalFlashcardMode = false;
 let globalFlashcards = [];
 let currentGlobalFlashcardIndex = 0;
 
+// Helper to get direct document URL on wol.jw.org if mapped
+function getDirectWolUrl(ref) {
+    if (!ref) return null;
+    let normalized = ref.toLowerCase()
+        .replace(/p\u00e1gs?\.?/gi, "")
+        .replace(/pags?\.?/gi, "")
+        .replace(/p\u00e1g\.?/gi, "")
+        .replace(/pag\.?/gi, "")
+        .replace(/\s+/g, " ")
+        .trim();
+        
+    // Mapping for New World Translation (NWT) appendices and introductory materials
+    if (normalized.startsWith("nwt ")) {
+        let pages = normalized.substring(4).trim();
+        if (pages === "1846-1849") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061101"; // A1
+        if (pages === "1850-1853" || pages === "1853") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061102"; // A2
+        if (pages === "1854-1858") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061103"; // A3
+        if (pages === "1859-1863") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061104"; // A4
+        if (pages === "1864-1869") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061105"; // A5
+        if (pages === "1872-1875") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061106"; // A6
+        if (pages === "1876-1891") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061107"; // A7
+        if (pages === "1893" || pages === "1894, 1895" || pages === "1894" || pages === "1895") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061108"; // A8
+        if (pages === "1814-1844") return "https://wol.jw.org/es/wol/d/r4/lp-s/2013850"; // Glosario
+        if (pages === "5-36") return "https://wol.jw.org/es/wol/d/r4/lp-s/1102014603"; // Intro
+        if (pages === "39") return "https://wol.jw.org/es/wol/d/r4/lp-s/1001061005"; // Declaración
+    }
+    
+    // Mapping for El Reino de Dios ya está gobernando! (kr) book chapters
+    if (normalized.startsWith("kr ")) {
+        let pages = normalized.substring(3).trim();
+        // kr pág. 39 párr. 1 or 2 ➔ Chapter 4
+        if (pages.startsWith("39") || pages.includes("pág. 39") || pages.includes("pag. 39")) {
+            return "https://wol.jw.org/es/wol/d/r4/lp-s/1102014242";
+        }
+        // kr pág. 84 párr. 16 ➔ Chapter 8
+        if (pages.startsWith("84") || pages.includes("pág. 84") || pages.includes("pag. 84")) {
+            return "https://wol.jw.org/es/wol/d/r4/lp-s/1102014246";
+        }
+    }
+    
+    return null;
+}
+
 // Helper to clean search query for wol.jw.org
 function cleanWolQuery(ref) {
     if (!ref) return "";
@@ -178,7 +221,7 @@ function renderQuestions(lesson) {
 
         // Generar spans clicables para las referencias bíblicas
         let referencesHtml = "";
-        let wolSearchUrl = "https://wol.jw.org/es/wol/s/r4/lp-s?q=";
+        let wolSearchUrl = "";
         
         if (q.references) {
             const refsArray = q.references.split(";").map(r => r.trim());
@@ -186,9 +229,14 @@ function renderQuestions(lesson) {
                 <span class="scripture-link" onclick="showScripture('${ref}')">${ref}</span>
             `).join(" | ");
             
-            wolSearchUrl += encodeURIComponent(cleanWolQuery(refsArray[0]));
+            let directUrl = getDirectWolUrl(refsArray[0]);
+            if (directUrl) {
+                wolSearchUrl = directUrl;
+            } else {
+                wolSearchUrl = "https://wol.jw.org/es/wol/s/r4/lp-s?q=" + encodeURIComponent(cleanWolQuery(refsArray[0]));
+            }
         } else {
-            wolSearchUrl += encodeURIComponent(q.question);
+            wolSearchUrl = "https://wol.jw.org/es/wol/s/r4/lp-s?q=" + encodeURIComponent(q.question);
         }
 
         let contentHtml = "";
@@ -204,15 +252,21 @@ function renderQuestions(lesson) {
                 
                 // Generar spans clicables para las referencias de la subpregunta
                 let subRefsHtml = "";
-                let subWolSearchUrl = "https://wol.jw.org/es/wol/s/r4/lp-s?q=";
+                let subWolSearchUrl = "";
                 if (subQ.references) {
                     const refsArray = subQ.references.split(";").map(r => r.trim());
                     subRefsHtml = refsArray.map(ref => `
                         <span class="scripture-link" onclick="showScripture('${ref}')">${ref}</span>
                     `).join(" | ");
-                    subWolSearchUrl += encodeURIComponent(cleanWolQuery(refsArray[0]));
+                    
+                    let directUrl = getDirectWolUrl(refsArray[0]);
+                    if (directUrl) {
+                        subWolSearchUrl = directUrl;
+                    } else {
+                        subWolSearchUrl = "https://wol.jw.org/es/wol/s/r4/lp-s?q=" + encodeURIComponent(cleanWolQuery(refsArray[0]));
+                    }
                 } else {
-                    subWolSearchUrl += encodeURIComponent(subQ.question);
+                    subWolSearchUrl = "https://wol.jw.org/es/wol/s/r4/lp-s?q=" + encodeURIComponent(subQ.question);
                 }
 
                 subItemsHtml += `
@@ -585,13 +639,16 @@ function showScripture(ref) {
     // Buscar en el diccionario de citas
     const text = scripturesText[ref] || scripturesText[ref.replace(/\./g, "")];
 
+    let directUrl = getDirectWolUrl(ref);
+    let targetUrl = directUrl ? directUrl : "https://wol.jw.org/es/wol/s/r4/lp-s?q=" + encodeURIComponent(cleanWolQuery(ref));
+
     if (text) {
         badge.textContent = ref;
         viewer.className = "scripture-text";
         viewer.innerHTML = `
             “${text}”
             <div style="margin-top: 8px; text-align: right;">
-                <a href="https://wol.jw.org/es/wol/s/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link" style="font-size:0.75rem;">Corroborar en wol.org ↗</a>
+                <a href="${targetUrl}" target="_blank" class="wol-link" style="font-size:0.75rem;">Corroborar en wol.org ↗</a>
             </div>
         `;
     } else {
@@ -600,7 +657,7 @@ function showScripture(ref) {
         viewer.innerHTML = `
             Texto bíblico no pre-cargado. 
             <br><br>
-            <a href="https://wol.jw.org/es/wol/s/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link">Buscar "${ref}" directamente en la Biblioteca en Línea ↗</a>
+            <a href="${targetUrl}" target="_blank" class="wol-link">Buscar "${ref}" directamente en la Biblioteca en Línea ↗</a>
         `;
     }
 
