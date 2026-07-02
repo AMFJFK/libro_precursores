@@ -13,16 +13,24 @@ let currentGlobalFlashcardIndex = 0;
 function cleanWolQuery(ref) {
     if (!ref) return "";
     let clean = ref;
-    // Remove "págs." or "págs" or "pág." or "pág" or "pag." or "pag" or "pags." or "pags"
-    clean = clean.replace(/\bp\u00e1gs?\b\.?/gi, "");
-    clean = clean.replace(/\bpags?\b\.?/gi, "");
-    clean = clean.replace(/\bp\u00e1g\b\.?/gi, "");
-    clean = clean.replace(/\bpag\b\.?/gi, "");
-    // Remove "párrs." or "párrs" or "párr." or "párr" or "parr." or "parr" or "parrs." or "parrs"
-    clean = clean.replace(/\bp\u00e1rrs?\b\.?/gi, "");
-    clean = clean.replace(/\bparrs?\b\.?/gi, "");
-    clean = clean.replace(/\bp\u00e1rr\b\.?/gi, "");
-    clean = clean.replace(/\bparr\b\.?/gi, "");
+    if (clean.includes("-")) {
+        // Remove "págs." or "págs" or "pág." or "pág" or "pag." or "pag" or "pags." or "pags"
+        clean = clean.replace(/\bp\u00e1gs?\b\.?/gi, "");
+        clean = clean.replace(/\bpags?\b\.?/gi, "");
+        clean = clean.replace(/\bp\u00e1g\b\.?/gi, "");
+        clean = clean.replace(/\bpag\b\.?/gi, "");
+        // Remove "párrs." or "párrs" or "párr." or "párr" or "parr." or "parr" or "parrs." or "parrs"
+        clean = clean.replace(/\bp\u00e1rrs?\b\.?/gi, "");
+        clean = clean.replace(/\bparrs?\b\.?/gi, "");
+        clean = clean.replace(/\bp\u00e1rr\b\.?/gi, "");
+        clean = clean.replace(/\bparr\b\.?/gi, "");
+    } else {
+        // Keep singular "pág." and "párr." (convert plurals "págs." and "párrs." to singular for WOL)
+        clean = clean.replace(/\bp\u00e1gs\b\.?/gi, "pág.");
+        clean = clean.replace(/\bpags\b\.?/gi, "pág.");
+        clean = clean.replace(/\bp\u00e1rrs\b\.?/gi, "párr.");
+        clean = clean.replace(/\bparrs\b\.?/gi, "párr.");
+    }
     
     // Replace multiple spaces with a single space and trim
     clean = clean.replace(/\s+/g, " ").trim();
