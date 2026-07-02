@@ -158,7 +158,7 @@ function renderQuestions(lesson) {
 
         // Generar spans clicables para las referencias bíblicas
         let referencesHtml = "";
-        let wolSearchUrl = "https://wol.jw.org/es/wol/s/r4/lp-s?q=";
+        let wolSearchUrl = "https://wol.jw.org/es/wol/bc/r4/lp-s?q=";
         
         if (q.references) {
             const refsArray = q.references.split(";").map(r => r.trim());
@@ -184,7 +184,7 @@ function renderQuestions(lesson) {
                 
                 // Generar spans clicables para las referencias de la subpregunta
                 let subRefsHtml = "";
-                let subWolSearchUrl = "https://wol.jw.org/es/wol/s/r4/lp-s?q=";
+                let subWolSearchUrl = "https://wol.jw.org/es/wol/bc/r4/lp-s?q=";
                 if (subQ.references) {
                     const refsArray = subQ.references.split(";").map(r => r.trim());
                     subRefsHtml = refsArray.map(ref => `
@@ -571,7 +571,7 @@ function showScripture(ref) {
         viewer.innerHTML = `
             “${text}”
             <div style="margin-top: 8px; text-align: right;">
-                <a href="https://wol.jw.org/es/wol/s/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link" style="font-size:0.75rem;">Corroborar en wol.org ↗</a>
+                <a href="https://wol.jw.org/es/wol/bc/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link" style="font-size:0.75rem;">Corroborar en wol.org ↗</a>
             </div>
         `;
     } else {
@@ -580,7 +580,7 @@ function showScripture(ref) {
         viewer.innerHTML = `
             Texto bíblico no pre-cargado. 
             <br><br>
-            <a href="https://wol.jw.org/es/wol/s/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link">Buscar "${ref}" directamente en la Biblioteca en Línea ↗</a>
+            <a href="https://wol.jw.org/es/wol/bc/r4/lp-s?q=${encodeURIComponent(cleanWolQuery(ref))}" target="_blank" class="wol-link">Buscar "${ref}" directamente en la Biblioteca en Línea ↗</a>
         `;
     }
 
