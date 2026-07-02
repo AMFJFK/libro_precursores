@@ -117,6 +117,13 @@ function renderQuestions(lesson) {
     lesson.questions.forEach((q, qIndex) => {
         const isCompleted = completedState[q.id] || false;
 
+        if (q.subtitle) {
+            const subtitleEl = document.createElement("h3");
+            subtitleEl.className = "lesson-subtitle";
+            subtitleEl.textContent = q.subtitle;
+            container.appendChild(subtitleEl);
+        }
+
         const accordion = document.createElement("div");
         accordion.className = "accordion-item";
         accordion.id = `accordion-${q.id}`;
@@ -172,8 +179,13 @@ function renderQuestions(lesson) {
                             </div>
                             <span class="sub-accordion-icon">▼</span>
                         </div>
-                        
                         <div class="sub-accordion-content">
+                            ${subQ.note ? `
+                            <div class="question-note-callout" style="margin: 8px 12px 16px 12px;">
+                                <div class="question-note-title">Nota / Observación</div>
+                                <p class="question-note-text">${subQ.note}</p>
+                            </div>
+                            ` : ''}
                             <!-- Cabecera de 3 Pestañas para el hijo -->
                             <div class="tab-header sub-tab-header">
                                 <button class="tab-btn active" id="tab-btn-direct-${subQ.id}" onclick="switchTab('${subQ.id}', 'direct')">Respuesta Directa</button>
@@ -274,9 +286,14 @@ function renderQuestions(lesson) {
                     </div>
                     <span class="accordion-icon">▼</span>
                 </div>
-                
                 <div class="accordion-content">
                     <div class="accordion-body">
+                        ${q.note ? `
+                        <div class="question-note-callout">
+                            <div class="question-note-title">Observación / Nota</div>
+                            <p class="question-note-text">${q.note}</p>
+                        </div>
+                        ` : ''}
                         <!-- Cabecera de 3 Pestañas -->
                         <div class="tab-header">
                             <button class="tab-btn active" id="tab-btn-direct-${q.id}" onclick="switchTab('${q.id}', 'direct')">Respuesta Directa</button>

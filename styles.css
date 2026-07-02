@@ -1575,3 +1575,38 @@ mark.search-highlight {
 strong {
     font-weight: 800 !important;
 }
+
+/* Subtitles inside the lessons */
+.lesson-subtitle {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--primary-color);
+    margin: 28px 0 16px 0;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--border-color);
+    letter-spacing: 0.5px;
+}
+
+/* Observations/notes callouts */
+.question-note-callout {
+    background-color: var(--card-bg);
+    border-left: 4px solid var(--accent-color);
+    border-radius: 6px;
+    padding: 14px 18px;
+    margin: 16px 0;
+    box-shadow: var(--card-shadow);
+}
+.question-note-title {
+    font-weight: 700;
+    font-size: 0.95rem;
+    margin-bottom: 6px;
+    color: var(--accent-color);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+.question-note-text {
+    font-size: 0.95rem;
+    line-height: 1.55;
+    color: var(--text-color);
+    margin: 0;
+}

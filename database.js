@@ -309,331 +309,304 @@ const lessonsData = [
         "id": "2A_q1",
         "question": "¿Por qué hacía falta una nueva traducción?",
         "references": "w15 15/12 pág. 8 párrs. 16, 17",
-        "directAnswer": "Hacía falta una nueva traducción por dos razones principales: primero, <strong>el descubrimiento de manuscritos bíblicos más antiguos y exactos requería corregir errores acumulados en traducciones anteriores</strong>; segundo, <strong>la evolución constante del idioma exigía verter el mensaje divino en un lenguaje contemporáneo y claro para llegar al corazón.</strong>",
-        "deepAnswer": "Con el paso de los años, los idiomas cambian y muchas expresiones se vuelven obsoletas o difíciles de entender. Además, <strong>se han descubierto manuscritos bíblicos más antiguos y confiables que nos acercan más al texto original en hebreo, arameo y griego.</strong> Para que la Palabra de Dios siga teniendo fuerza, <strong>debe estar en el lenguaje que la gente común habla hoy en día, sin adulterar su sentido original.</strong> Por eso, el Comité de Traducción de la Biblia del Nuevo Mundo realizó este gran trabajo.",
-        "shortAnswer": "Para que la verdad brille, debe hablar en el idioma del corazón de la gente del día de hoy."
+        "subtitle": "Una mejor traducción",
+        "directAnswer": "Hacía falta una nueva traducción para <strong>restituir el nombre divino al lugar que le corresponde por derecho</strong>, <strong>asegurar la máxima fidelidad al texto original</strong>, <strong>adaptarlo a la evolución del lenguaje actual</strong> y <strong>facilitar la comprensión profunda para todos los lectores</strong>.",
+        "deepAnswer": "La necesidad de una nueva traducción surgió porque muchos traductores, influenciados por tradiciones religiosas, <strong>habían omitido sistemáticamente el nombre de Dios, Jehová</strong>, reemplazándolo por títulos como Señor o Dios, despojando así al texto de la identidad del Creador. Además, el paso del tiempo causó que <strong>el lenguaje de versiones anteriores se volviera arcaico o eclesiástico</strong>, dificultando que las personas sintieran que Jehová les habla directamente en un lenguaje claro y sencillo. Asimismo, era crucial <strong>contar con una versión que utilizara los manuscritos antiguos más confiables y precisos</strong>, evitando que las creencias personales o dogmas de los traductores sesgaran la interpretación del mensaje original. Finalmente, el objetivo era <strong>alcanzar a los lectores actuales con un estilo natural y universal</strong>, libre de regionalismos, permitiendo que la Palabra de Dios llegue directamente a sus corazones.",
+        "shortAnswer": "Necesitábamos una Biblia que devolviera a Jehová su nombre, fuera fiel a los escritos originales y hablara al corazón de las personas en un lenguaje claro y actual."
       },
       {
         "id": "2A_q2",
-        "question": "¿Cuánto tiempo tomó terminar la Traducción del Nuevo Mundo en inglés?",
-        "references": "",
-        "directAnswer": "La Traducción del Nuevo Mundo de las Santas Escrituras <strong>se completó inicialmente en un período de dieciocho años, desde que se estableció el comité de traducción en 1942 hasta la publicación del último volumen en 1960.</strong>",
-        "deepAnswer": "Es verdaderamente inspirador reflexionar sobre el arduo trabajo y la devoción invertidos en la Traducción del Nuevo Mundo. El comité de traducción, confiando plenamente en la dirección de Jehová, <strong>trabajó diligentemente durante dieciocho años para producir esta valiosa herramienta.</strong><br><strong>Desde su formación en 1942 hasta la finalización del último volumen en 1960</strong>, este esfuerzo monumental fue una clara prueba del apoyo de Jehová, quien deseaba que su Palabra estuviera disponible de forma clara y precisa para la edificación de su pueblo. Nos recuerda el gran amor de Jehová por todos sus siervos, al proveer una Biblia que honra su nombre.",
-        "shortAnswer": "Dieciocho años de diligente trabajo y guía divina para la gloria de Jehová."
+        "question": "¿Cuánto tiempo tomó terminar la Traducción del Nuevo Mundo en inglés? ¿Cómo reaccionan algunas personas al leerla en su idioma?",
+        "references": "kr pág. 39 párr. 1; kr pág. 84 párr. 16",
+        "directAnswer": "La Traducción del Nuevo Mundo <strong>tomó exactamente doce años, tres meses y once días de arduo trabajo</strong> en inglés, iniciándose el 2 de diciembre de 1947 y concluyendo el 13 de marzo de 1960. Al leerla en su propio idioma, las personas <strong>sienten que Jehová les habla directamente mediante un lenguaje claro y sencillo que llega a sus corazones</strong>.",
+        "deepAnswer": "El proceso de traducción al inglés fue una labor minuciosa que abarcó desde el 2 de diciembre de 1947 hasta el 13 de marzo de 1960. Este esfuerzo culminó con la edición del volumen completo en 1961. La razón de su impacto en los lectores es que la Biblia utiliza un lenguaje moderno, claro y natural, evitando el tono arcaico o eclesiástico de otras versiones. Además, su valor reside en que <strong>restituye fielmente el nombre divino, Jehová, a su lugar legítimo</strong> en las Escrituras, permitiendo que <strong>las personas sientan que Jehová les está hablando directamente</strong>, lo cual genera una profunda gratitud y una conexión emocional directa al entender el mensaje bíblico sin obstáculos lingüísticos.",
+        "shortAnswer": "La Traducción del Nuevo Mundo es una herramienta de amor que permite que Jehová hable al corazón de las personas en su propio idioma."
       },
       {
         "id": "2A_q3",
-        "question": "(kr pág. 39 párr. 1). ¿Cómo reaccionan algunas personas al leerla en su idioma?",
-        "references": "kr pág. 84 párr. 16",
-        "directAnswer": "Al leer la Traducción del Nuevo Mundo en su idioma, <strong>muchas personas de corazón sincero se sienten profundamente conmovidas por su claridad y la restauración del nombre divino de Jehová</strong>, mientras que otras quizás reaccionen con escepticismo o rechazo.",
-        "deepAnswer": "Cuando las personas leen la <em>Traducción del Nuevo Mundo</em> en su lengua materna, <strong>muchas de ellas reaccionan con un profundo aprecio y alegría.</strong> La fidelidad y claridad de esta traducción, particularmente al restaurar el nombre divino de Jehová, como se destaca en <em>kr</em> pág. 39, párr. 1, <strong>les permite captar las verdades bíblicas de una manera que toca su corazón y les proporciona perspicacia espiritual.</strong> Sin embargo, tal como se explica en <em>kr</em> pág. 84, párr. 16, no todos reaccionan igual; algunos quizás muestren indiferencia, escepticismo, o incluso oposición, dependiendo de la condición de su corazón y su disposición a aceptar el mensaje del Reino.",
-        "shortAnswer": "Algunos la acogen con gozo por su claridad y el nombre divino, otros la rechazan."
+        "question": "¿Por qué razón en particular es la Traducción del Nuevo Mundo mejor que otras traducciones de la Biblia?",
+        "references": "kr pág. 39 párr. 2",
+        "directAnswer": "La razón fundamental por la que la Traducción del Nuevo Mundo es superior a otras traducciones es porque <strong>restituye fielmente el nombre divino, Jehová, al lugar que le corresponde por derecho en el texto sagrado</strong>, <strong>eliminando la omisión sistemática causada por la superstición</strong>.",
+        "deepAnswer": "La superioridad de la Traducción del Nuevo Mundo radica principalmente en su fidelidad al texto original al <strong>restituir el nombre personal de Dios, Jehová, cerca de 7.000 veces en las Escrituras Hebreas</strong>, <strong>corrigiendo la práctica de muchas otras versiones que lo han reemplazado con títulos como Señor o Dios</strong> por influencias de tradiciones religiosas o supersticiones. Además de esta restitución, la traducción se destaca por ser exacta y fiel, <strong>evitando sesgos doctrinales y recurriendo a criterios lingüísticos objetivos</strong>. A diferencia de las paráfrasis, esta versión traduce directamente del hebreo, arameo y griego, buscando un equilibrio entre la literalidad y la claridad, lo que permite que el lenguaje sea natural, sencillo y actual, facilitando que el mensaje de Jehová llegue al corazón de los lectores sin las barreras de un estilo arcaico o eclesiástico.",
+        "shortAnswer": "La Traducción del Nuevo Mundo destaca porque devuelve a Jehová su nombre y su lugar en la Biblia."
       },
       {
         "id": "2A_q4",
-        "question": "¿Por qué razón en particular es la Traducción del Nuevo Mundo mejor que otras traducciones de la Biblia?",
-        "references": "kr pág. 39 párr. 2",
-        "directAnswer": "La Traducción del Nuevo Mundo sobresale porque <strong>ha restituido el nombre personal de Dios, Jehová, más de 7.000 veces en los lugares donde aparecía originalmente en el texto hebreo y griego.</strong> Además, <strong>evita sesgos basados en dogmas o credos humanos, apegándose a la exactitud.</strong>",
-        "deepAnswer": "La característica más destacada es la <strong>restauración del nombre divino, Jehová.</strong> La mayoría de las traducciones comerciales lo han reemplazado por títulos como 'SEÑOR' debido a tradiciones supersticiosas. Restaurar el nombre de Dios en las Escrituras permite que las personas entiendan que Dios es una persona real con la que pueden tener una relación estrecha. Además, <strong>es una traducción que busca ser lo más literal posible siempre que el idioma receptor lo permita, asegurando la transmisión fiel del pensamiento de Dios.</strong>",
-        "shortAnswer": "Una traducción que honra el nombre de su Autor está destinada a guiar a las personas al Dios verdadero."
+        "question": "¿Por qué hacía falta revisar la Traducción del Nuevo Mundo? ¿Cuál fue el objetivo del Comité de Traducción de la Biblia del Nuevo Mundo?",
+        "references": "nwt pág. 39",
+        "directAnswer": "La Traducción del Nuevo Mundo se revisó <strong>para seguir el ritmo de la evolución del lenguaje, incorporar el estudio de manuscritos más antiguos y confiables, y mejorar la claridad del texto</strong>. El objetivo del Comité de Traducción fue <strong>verter la Palabra de Dios con la mayor exactitud y fidelidad posible, restituyendo el nombre divino a su lugar legítimo y presentando el mensaje en un lenguaje moderno, natural y comprensible</strong> que facilite el entendimiento profundo.",
+        "deepAnswer": "La revisión de 2013 fue necesaria <strong>debido al cambio natural en el uso de las palabras</strong>, que con el tiempo pueden volverse obsoletas o cambiar de significado. Asimismo, el <strong>acceso a descubrimientos arqueológicos</strong>, como los Manuscritos del Mar Muerto, y <strong>avances en el estudio del hebreo y el griego</strong>, permitieron lograr una mayor precisión. El Comité de Traducción siempre ha tenido como objetivo principal transmitir la voluntad de Dios de forma exacta, respetando la santidad de las Escrituras y <strong>evitando que las creencias personales o doctrinas eclesiásticas sesguen la traducción</strong>. Un pilar fundamental de su trabajo ha sido <strong>restituir el nombre de Dios, Jehová, al lugar que le corresponde por derecho</strong>, eliminando las omisiones causadas por supersticiones religiosas. Además, el Comité buscó que la Biblia se presentara en un lenguaje claro, sencillo y vivo, evitando arcaísmos o localismos para que cualquier persona, independientemente de su región, pueda sentir que Jehová le habla directamente al corazón.",
+        "shortAnswer": "La revisión busca mantener la Palabra de Dios clara, exacta y al alcance del corazón de todas las personas, restituyendo el honor del nombre divino."
       },
       {
         "id": "2A_q5",
-        "question": "¿Por qué hacía falta revisar la Traducción del Nuevo Mundo?",
-        "references": "",
-        "directAnswer": "<strong>Se hizo necesaria para mejorar la exactitud y claridad de la traducción, adaptándola a los cambios del lenguaje moderno y a una comprensión más profunda de los idiomas originales.</strong>",
-        "deepAnswer": "El fiel esclavo, guiado por el espíritu santo, se ha esforzado continuamente por hacer que la verdad de la Palabra de Dios sea cada vez más clara y fácil de entender. <strong>A medida que nuestro entendimiento de los idiomas bíblicos originales ha crecido y el lenguaje moderno ha evolucionado, se hizo evidente la necesidad de revisar y pulir la Traducción del Nuevo Mundo.</strong> Esto permite que el mensaje de Jehová llegue a los corazones de más personas con mayor exactitud y sencillez, tal como la luz que se hace más brillante, en armonía con Proverbios 4:18. Así se asegura que la voz de nuestro Padre celestial resuene con máxima claridad para las nuevas generaciones, facilitando que comprendan <em>“las cosas profundas de Dios”</em> (1 Cor. 2:10).",
-        "shortAnswer": "Era esencial para mayor claridad, exactitud y entendimiento moderno de la Palabra de Dios."
+        "question": "¿Por qué una traducción literal, palabra por palabra, no es siempre más exacta?",
+        "references": "nwt págs. 1846-1849",
+        "subtitle": "APÉNDICE A\nA1 Criterios para la traducción de la Biblia",
+        "directAnswer": "Una traducción literal, palabra por palabra, no es siempre más exacta porque <strong>cada idioma tiene su propia gramática, sintaxis y modismos</strong>. Si se traduce de forma literal, <strong>el significado real de las expresiones puede distorsionarse o confundirse</strong>, haciendo que el texto sea difícil de entender o incluso que transmita una idea equivocada.",
+        "deepAnswer": "El objetivo de una traducción confiable es transmitir el mensaje original con fidelidad, pero esto <strong>no implica una equivalencia palabra por palabra</strong>, ya que los idiomas originales como el hebreo, el arameo y el griego utilizan estructuras que no tienen un equivalente directo en español. La Traducción del Nuevo Mundo <strong>evita la literalidad cuando esta oscurece el sentido</strong>, pues traducir modismos literalmente resulta en expresiones sin lógica en el idioma de destino. Por ejemplo, la expresión hebrea en Éxodo 6:12 traducida literalmente como incircunciso de labios, carecería de sentido para un lector moderno, por lo que se vierte correctamente como se me hace difícil hablar. De igual manera, en Deuteronomio 32:14, la grasa de los riñones del trigo se traduce como lo mejor del trigo, y en Romanos 12:11, hirvientes en el espíritu se vierte como radiantes con el espíritu. Si un traductor se limita a una literalidad rígida, pierde la capacidad de comunicar el pensamiento y la intención del autor original. Además, <strong>la traducción debe estar libre de sesgos dogmáticos</strong>, buscando siempre un lenguaje claro, natural y preciso que permita al lector comprender el mensaje tal como lo entendieron los lectores originales.",
+        "shortAnswer": "El objetivo de la traducción es comunicar el significado original con claridad, no realizar una sustitución mecánica de palabras que podría distorsionar el mensaje."
       },
       {
         "id": "2A_q6",
-        "question": "¿Cuál fue el objetivo del Comité de Traducción de la Biblia del Nuevo Mundo? (nwt pág. 39). La Traducción del Nuevo Mundo (parte 1) APÉNDICE A A1 Criterios para la traducción de la Biblia.",
+        "question": "Da ejemplos de cómo una traducción palabra por palabra podría entenderse mal.",
         "references": "nwt págs. 1846-1849",
-        "directAnswer": "El objetivo del Comité de Traducción de la Biblia del Nuevo Mundo fue <strong>producir una traducción fiel y precisa de la Palabra de Dios, libre de las tradiciones y credos humanos.</strong>",
-        "deepAnswer": "El Comité de Traducción de la Biblia del Nuevo Mundo se propuso el noble objetivo de <strong>presentar una traducción literal y fiel de la Palabra de Dios directamente de los idiomas originales.</strong> Su meta principal era <strong>restaurar el nombre divino, Jehová, a los lugares donde legítimamente aparecía en los manuscritos antiguos, y transmitir el significado exacto de los textos, evitando la influencia de doctrinas y prejuicios sectarios</strong> que a menudo distorsionaban otras versiones bíblicas. <br> Querían que el mensaje divino fuera claro y accesible para todos.",
-        "shortAnswer": "Traducir la Biblia de forma fiel, precisa y restaurar el nombre divino."
+        "directAnswer": "Una traducción palabra por palabra <strong>no siempre es exacta porque los idiomas originales tienen su propia gramática, sintaxis y modismos</strong>. <strong>Si se traduce de forma literal, se puede distorsionar el significado real del texto</strong> y dificultar su comprensión. Por ejemplo, en Efesios 4:14, traducir literalmente 'juego de dados de los hombres' sería confuso, por lo que se vierte como 'tretas de los hombres'. Otros ejemplos son 'la grasa de los riñones del trigo' en Deuteronomio 32:14, que significa 'lo mejor del trigo', o 'incircunciso de labios' en Éxodo 6:12, que se entiende mejor como 'se me hace difícil hablar'.",
+        "deepAnswer": "La traducción palabra por palabra es insuficiente porque las lenguas hebrea, aramea y griega utilizan estructuras y expresiones idiomáticas que no tienen equivalentes directos en otros idiomas. El objetivo de una traducción confiable, como la Traducción del Nuevo Mundo, <strong>es ser fiel al texto original traduciendo de manera literal solo cuando esto no oscurece el sentido</strong>, recurriendo a traducciones de sentido cuando la literalidad genera confusión. Por ejemplo, en Romanos 12:11, una traducción literal como 'en el espíritu, hirvientes' resulta arcaica y antinatural, mientras que 'radiantes con el espíritu' transmite el significado original con claridad. El Comité de Traducción busca <strong>evitar que la literalidad convierta el mensaje de la Biblia en un texto de difícil comprensión</strong>, asegurándose de que el lenguaje utilizado sea natural y moderno, permitiendo así que el mensaje de Jehová llegue directamente al corazón de los lectores sin las barreras que imponen las formas gramaticales obsoletas o las traducciones demasiado rígidas.",
+        "shortAnswer": "La traducción literal debe subordinarse a la claridad y exactitud del sentido original para evitar malentendidos."
       },
       {
         "id": "2A_q7",
-        "question": "¿Por qué una traducción literal, palabra por palabra, no es siempre más exacta? Da ejemplos de cómo una traducción palabra por palabra podría entenderse mal.",
-        "references": "",
-        "directAnswer": "Una traducción palabra por palabra no es siempre más exacta porque <strong>cada idioma tiene su propia gramática, sintaxis y modismos que, si se vierten de forma literal, podrían distorsionar o incluso oscurecer el significado original del texto bíblico.</strong> Por ejemplo, <strong>un modismo hebreo o griego traducido literalmente perdería su sentido figurado en otro idioma.</strong>",
-        "deepAnswer": "Mis queridos hermanos y hermanas, es fundamental entender que el objetivo primordial de una traducción bíblica es transmitir fielmente el <em>mensaje inspirado de Jehová</em>, no simplemente las palabras individuales. <strong>Cada idioma posee su propia estructura, y una riqueza de modismos y expresiones que, al ser traducidos palabra por palabra, a menudo pierden su verdadero sentido o incluso dan lugar a malentendidos.</strong> Por ejemplo, la expresión 'conocer a' en sentido bíblico para referirse a las relaciones sexuales; si se vierte literalmente como 'conocer', no comunica la idea exacta. De ahí la importancia de que <strong>los traductores se esfuercen por captar el pensamiento original, asegurando que el lector reciba el significado completo y preciso de la Palabra de Dios</strong>, lo cual nos permite edificar nuestra fe con exactitud.",
-        "shortAnswer": "La exactitud en la traducción bíblica radica en transmitir el pensamiento original, no una mera correspondencia palabra por palabra."
+        "question": "¿Cómo podrían influir las creencias religiosas de un traductor en la traducción que hace?",
+        "references": "nwt págs. 1846-1849",
+        "directAnswer": "Las creencias religiosas de un traductor pueden influir negativamente cuando este <strong>sesga el texto original para adaptarlo a sus propios dogmas o tradiciones eclesiásticas</strong>. Esto ocurre frecuentemente al <strong>omitir el nombre divino por superstición o al alterar términos doctrinales</strong> para defender enseñanzas que no tienen base bíblica.",
+        "deepAnswer": "La objetividad en la traducción es fundamental para preservar el mensaje inspirado. Muchos traductores <strong>permiten que sus prejuicios teológicos condicionen su trabajo</strong>, por ejemplo, al traducir el término griego stauros como cruz, cuando en realidad se refiere a un madero de tormento o poste vertical, una elección influenciada por la tradición religiosa y no por el significado léxico original. Además, <strong>la omisión deliberada del nombre de Dios, Jehová, reemplazándolo por títulos como Señor o Dios, obedece a tradiciones judías o modas teológicas</strong> que buscan despojar al texto de la identidad personal del Creador. En contraste, <strong>una traducción fiel debe regirse por criterios lingüísticos objetivos</strong>, traduciendo literalmente cuando el sentido original lo permite sin oscurecer el mensaje, y manteniendo la integridad del texto al restituir el nombre divino y evitar imponer opiniones personales o paráfrasis que desvirtúen la Palabra de Dios.",
+        "shortAnswer": "Un traductor debe traducir fielmente lo que dicen las Escrituras, no lo que él o su religión deseen que digan."
       },
       {
         "id": "2A_q8",
-        "question": "¿Cómo podrían influir las creencias religiosas de un traductor en la traducción que hace?",
-        "references": "",
-        "directAnswer": "Los prejuicios religiosos de un traductor <strong>pueden llevarle a distorsionar el significado original del texto bíblico o a insertar ideas para apoyar sus propias doctrinas.</strong>",
-        "deepAnswer": "Los prejuicios teológicos de un traductor <strong>pueden influir significativamente, llevándolo a manipular deliberadamente pasajes para que apoyen sus doctrinas o a ocultar verdades fundamentales.</strong> Por ejemplo, muchos traductores influenciados por la doctrina de la Trinidad o la inmortalidad del alma han evitado el uso del nombre divino Jehová o han traducido mal textos clave. Esto resulta en una versión que refleja <em>tradiciones humanas</em> más que la Palabra inspirada de Dios, afectando profundamente la comprensión de la verdad por parte del lector, y desviándolos del propósito divino.",
-        "shortAnswer": "Los prejuicios religiosos pueden distorsionar gravemente la Palabra inspirada de Dios."
+        "question": "¿Qué libertades se han tomado algunos traductores con el nombre de Dios?",
+        "references": "nwt págs. 1846-1849",
+        "directAnswer": "Lamentablemente, <strong>muchos traductores han eliminado el nombre de Dios, Jehová, del texto bíblico</strong> y <strong>lo han reemplazado por títulos como Señor o Dios</strong>, <strong>basándose en supersticiones religiosas o en la idea errónea de que el nombre no es necesario</strong>.",
+        "deepAnswer": "Algunos traductores se han tomado la libertad de <strong>omitir el nombre divino debido a una antigua superstición judía que evitaba pronunciarlo</strong>, o <strong>por seguir la tradición de traducciones como la Vulgata latina y la Septuaginta griega que lo sustituyeron por títulos honoríficos</strong>. Otros justifican esta acción argumentando que el Dios único no requiere un nombre distintivo o que se ha perdido la pronunciación exacta del Tetragrámaton. Sin embargo, estas razones carecen de fundamento, ya que el nombre de Dios aparece unas 7.000 veces en los manuscritos originales, lo que <strong>demuestra que su Autor desea que lo conozcamos por su identidad personal</strong>. A diferencia de tales versiones, la Traducción del Nuevo Mundo restituye fielmente el nombre Jehová al lugar que le corresponde, respetando la voluntad de Dios de revelarse a la humanidad.",
+        "shortAnswer": "El nombre de Dios fue eliminado por prejuicios humanos, ocultando así la identidad personal del Creador."
       },
       {
         "id": "2A_q9",
-        "question": "¿Qué libertades se han tomado algunos traductores con el nombre de Dios?",
-        "references": "",
-        "directAnswer": "Algunos traductores se han tomado la libertad de <strong>sustituir el nombre personal de Dios, Jehová, por títulos como “Señor” o “Dios”, o incluso de omitirlo por completo de sus traducciones.</strong>",
-        "deepAnswer": "Es lamentable que <strong>muchos traductores bíblicos hayan optado por eliminar o reemplazar el nombre sagrado de Dios, Jehová, el Tetragrámaton, de las Escrituras Hebreas originales</strong>, donde aparece miles de veces. Esto ha impedido que millones de personas <em>conozcan y honren a Dios por su nombre personal</em>, como Él mismo nos invita (Salmo 83:18). Al hacerlo, se obstaculiza una relación personal con nuestro Creador y se debilita el propósito divino de dar a conocer su nombre por toda la Tierra, algo que Jesús mismo hizo (Juan 17:6, 26).",
-        "shortAnswer": "Han suprimido o sustituido el nombre personal de Dios, Jehová, por títulos comunes."
+        "question": "¿Es la Traducción del Nuevo Mundo una paráfrasis de la Biblia?",
+        "references": "nwt págs. 1846-1849",
+        "directAnswer": "<strong>No, la Traducción del Nuevo Mundo no es una paráfrasis.</strong> <strong>Es una traducción directa y precisa que se esfuerza por ser fiel al texto original</strong>, manteniendo la literalidad siempre que esto no oscurezca el significado del mensaje, evitando así las opiniones o sesgos personales del traductor.",
+        "deepAnswer": "A diferencia de una paráfrasis, donde el traductor reescribe el texto usando sus propias palabras para expresar lo que él cree que es el sentido —lo cual a menudo introduce opiniones personales—, la Traducción del Nuevo Mundo <strong>busca verter la Palabra de Dios de manera exacta.</strong> El Comité de Traducción reconoció que una traducción literal, palabra por palabra, no siempre es posible debido a que los idiomas originales tienen sus propios modismos y gramática; por ejemplo, traducir literalmente expresiones como 'incircunciso de labios' carecería de sentido en español. Por ello, el comité mantuvo la literalidad cuando era posible y utilizó un lenguaje claro y natural solo cuando una traducción palabra por palabra distorsionaría o confundiría el significado original. Además, este enfoque permite <strong>evitar el sesgo religioso que sí presentan otras versiones</strong>, las cuales a menudo modifican el texto para ajustarlo a dogmas eclesiásticos o para omitir el nombre divino, Jehová, a pesar de que este aparece cerca de 7.000 veces en los manuscritos antiguos.",
+        "shortAnswer": "La Traducción del Nuevo Mundo es una traducción fiel y precisa, no una paráfrasis subjetiva."
       },
       {
         "id": "2A_q10",
-        "question": "¿Es la Traducción del Nuevo Mundo una paráfrasis de la Biblia?",
-        "references": "",
-        "directAnswer": "No, la Traducción del Nuevo Mundo no es una paráfrasis. Más bien, <strong>es una traducción literal y fiel de los idiomas originales, realizada con gran cuidado y reverencia por la Palabra de Dios.</strong>",
-        "deepAnswer": "Absolutamente no, querido estudiante. La Traducción del Nuevo Mundo se distingue por ser una traducción <em>literal y exacta</em> de los idiomas originales hebreo, arameo y griego, no una paráfrasis. <br>El comité de traducción se esforzó por verter el sentido preciso del texto inspirado, con un profundo respeto por la Palabra de Dios, buscando reflejar fielmente la mente de Jehová. Su meta principal fue ofrecer una Biblia que fuera clara, fiel al texto original y que restaurara el nombre divino, Jehová, a su lugar legítimo, a diferencia de las paráfrasis que a menudo interpretan y diluyen el mensaje original.",
-        "shortAnswer": "No, es una traducción literal y fiel a los idiomas originales."
+        "question": "¿Qué objetivos debe cumplir una traducción confiable?",
+        "references": "nwt págs. 1846-1849",
+        "directAnswer": "Una traducción confiable debe ser <strong>fiel y exacta al texto original</strong>, <strong>restituir el nombre divino al lugar que le corresponde</strong> y <strong>utilizar un lenguaje claro, moderno y natural</strong> que permita un entendimiento profundo del mensaje sin recurrir a paráfrasis ni sesgos doctrinales.",
+        "deepAnswer": "Una traducción que merece confianza debe cumplir tres pilares fundamentales. Primero, debe mostrar <strong>fidelidad absoluta al texto original</strong>, traduciendo de forma literal siempre que esto no oscurezca el sentido, evitando así la paráfrasis que permite introducir opiniones personales. Segundo, es imprescindible la <strong>restitución del nombre divino, Jehová, a su lugar legítimo</strong> en las Escrituras, revirtiendo la práctica de omitirlo por superstición o tradiciones teológicas. Tercero, el <strong>lenguaje utilizado debe ser moderno, claro y vivo</strong>, lo cual facilita que el mensaje llegue directamente al corazón del lector en su lengua materna, evitando arcaísmos o expresiones eclesiásticas que dificulten la comprensión. Finalmente, una traducción confiable debe <strong>basarse en los manuscritos más antiguos y precisos disponibles</strong>, <strong>rigiéndose por criterios lingüísticos objetivos</strong> en lugar de adaptar el texto para forzar dogmas religiosos.",
+        "shortAnswer": "Una traducción confiable restituye el nombre de Dios, respeta el texto original y utiliza un lenguaje claro que llega al corazón del lector."
       },
       {
         "id": "2A_q11",
-        "question": "¿Qué objetivos debe cumplir una traducción confiable? A2 Características de esta revisión.",
+        "question": "¿Por qué se han hecho algunos cambios de estilo y vocabulario?",
         "references": "nwt págs. 1850-1853",
-        "directAnswer": "Una traducción confiable debe <strong>ser exacta al texto original, literal cuando sea posible, y usar un lenguaje claro y comprensible que transmita el significado correcto.</strong>",
-        "deepAnswer": "Una traducción bíblica confiable debe cumplir varios objetivos cruciales. Primero, <strong>ser exacta, transmitiendo con fidelidad el mensaje de las lenguas originales.</strong> Segundo, debe ser <em>lo más literal posible</em> sin sacrificar la claridad, para que el lector capte el estilo y el significado del texto original. Tercero, <strong>debe usar un lenguaje moderno y comprensible que facilite el estudio</strong>, pero que al mismo tiempo inspire reverencia al nombre de Dios y eleve a Jehová como el Autor de las Santas Escrituras.",
-        "shortAnswer": "Exacta, literal y con lenguaje claro que honre a Dios."
+        "subtitle": "A2 Características de esta revisión",
+        "directAnswer": "Los cambios de estilo y vocabulario se hicieron principalmente <strong>debido a la constante evolución del idioma</strong>, para <strong>integrar nuevos descubrimientos de manuscritos antiguos</strong> y para <strong>mejorar la claridad, fluidez y naturalidad del texto a fin de llegar al corazón de todos los lectores hispanohablantes</strong>.",
+        "deepAnswer": "La revisión de 2013 fue necesaria porque <strong>los idiomas son entes vivos que cambian con el tiempo</strong>; palabras que antes eran comunes pueden caer en desuso o cambiar de significado, lo que podría confundir al lector. Además, <strong>gracias a los avances en el estudio del hebreo y el griego, y al descubrimiento de manuscritos más antiguos y confiables</strong>, fue posible aumentar la precisión de la traducción. El Comité de Traducción se enfocó en tres pilares fundamentales: primero, actualizar el lenguaje para que sea actual y fácil de captar, sustituyendo términos arcaicos; segundo, expresar con mayor exactitud el sentido de figuras retóricas complejas; y tercero, emplear un vocabulario castellano neutral y universal que evite localismos, <strong>logrando que el mensaje de Jehová llegue directamente al corazón de los lectores en toda Hispanoamérica y España</strong> mediante una lectura más fluida y natural.",
+        "shortAnswer": "La revisión busca que el mensaje de la Biblia sea siempre claro, natural y fácil de entender para todas las personas."
       },
       {
         "id": "2A_q12",
-        "question": "¿Por qué se han hecho algunos cambios de estilo y vocabulario? Da ejemplos de cambios que se hicieron teniendo en cuenta los siguientes objetivos:",
-        "references": "nwt págs. 1854-1858",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": "",
+        "question": "Da ejemplos de cambios que se hicieron teniendo en cuenta los siguientes objetivos:",
+        "references": "nwt págs. 1850-1853",
         "subQuestions": [
           {
             "id": "2A_q12_a",
-            "question": "¿Por qué se han hecho algunos cambios de estilo y vocabulario?",
-            "references": "nwt págs. 1854-1858",
-            "directAnswer": "Los cambios se han realizado <strong>para que el mensaje de la Biblia sea claro, moderno y accesible para todos los lectores actuales</strong>, asegurando que la Palabra de Dios llegue al corazón con la máxima precisión.",
-            "deepAnswer": "La revisión de la Traducción del Nuevo Mundo busca superar las barreras del tiempo y las variaciones lingüísticas. Al ajustar el estilo y el vocabulario, <strong>se garantiza que los lectores contemporáneos puedan comprender los principios bíblicos sin las dificultades que presentan los términos arcaicos o las estructuras gramaticales complejas</strong>, permitiendo que el mensaje penetre profundamente en el corazón, tal como indica Hebreos 4:12.",
-            "shortAnswer": "Para que la Palabra de Dios sea fácil de entender y llegue con claridad a todos los lectores de hoy."
+            "question": "Utilizar un lenguaje actual y fácil de captar.",
+            "references": "nwt págs. 1850-1853",
+            "directAnswer": "La Traducción del Nuevo Mundo <strong>utiliza un lenguaje actual y fácil de captar para que los lectores comprendan el mensaje de Dios con claridad y este llegue directamente a sus corazones</strong>, evitando términos arcaicos o eclesiásticos que dificultan la lectura.",
+            "deepAnswer": "La revisión de 2013 de la Traducción del Nuevo Mundo se realizó principalmente porque los idiomas evolucionan con el tiempo, haciendo que algunas palabras caigan en desuso o cambien su significado original. Al actualizar el vocabulario a términos modernos y naturales, <strong>se logra que el lector se sienta identificado, percibiendo que Jehová le habla directamente en su lenguaje cotidiano</strong>. Esto incluye el cambio de expresiones obsoletas por otras más claras, como reemplazar 'longanimidad' por 'paciencia' o 'Seol' y 'Hades' por 'tumba'. Además, <strong>el uso de un español neutro y universal busca eliminar localismos, permitiendo que el mensaje bíblico sea comprensible y fluido para todos los hispanohablantes</strong>, facilitando así una conexión emocional más profunda con el Autor divino.",
+            "shortAnswer": "Un lenguaje sencillo y actual permite que la Biblia llegue directamente al corazón de las personas."
           },
           {
             "id": "2A_q12_b",
-            "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Utilizar un lenguaje actual y fácil de captar. A3 Cómo llegó la Biblia hasta nuestros días.",
-            "references": "nwt págs. 1854-1858",
-            "directAnswer": "<strong>Se han sustituido términos antiguos o poco comunes por palabras que usamos en la conversación diaria</strong>, haciendo que el texto sagrado sea mucho más cercano y comprensible.",
-            "deepAnswer": "El objetivo de utilizar un lenguaje actual implica <strong>reemplazar palabras que han caído en desuso o que han cambiado de significado con el paso de los siglos.</strong> Por ejemplo, al emplear giros idiomáticos modernos que mantienen la precisión del original hebreo o griego, se evita que el lector se distraiga con dudas sobre el significado de las palabras y pueda concentrarse plenamente en la enseñanza divina. Esto facilita que el mensaje de Jehová se sienta como una comunicación viva para nuestra época.",
-            "shortAnswer": "Se usan términos de uso cotidiano en lugar de palabras arcaicas para facilitar la comprensión."
+            "question": "Presentar de forma clara ciertas expresiones bíblicas.",
+            "references": "nwt págs. 1850-1853",
+            "directAnswer": "La Traducción del Nuevo Mundo <strong>presenta de forma clara ciertas expresiones bíblicas mediante la actualización de términos obsoletos, el uso de un lenguaje natural que evita arcaísmos, y la traducción precisa de figuras retóricas</strong> para que el mensaje original sea comprensible para los lectores modernos.",
+            "deepAnswer": "La revisión de 2013 se enfocó en <strong>garantizar que el mensaje divino llegue al corazón de los lectores eliminando barreras lingüísticas</strong>. <strong>Se sustituyeron expresiones arcaicas o confusas por vocabulario de uso cotidiano</strong>; por ejemplo, se reemplazaron términos como 'seol' o 'hades' por 'tumba' y 'longanimidad' por 'paciencia' para facilitar la comprensión. Además, el comité trabajó arduamente para traducir las figuras retóricas de los idiomas originales de una forma que mantenga la exactitud del significado sin recurrir a una paráfrasis. Al utilizar un lenguaje castellano neutral y universal, <strong>se evita el uso de localismos, logrando que el texto sea claro, fluido y natural</strong>, tal como si Jehová estuviera hablándole directamente al lector en su propia lengua.",
+            "shortAnswer": "La Biblia debe entenderse con claridad para que el mensaje de Jehová llegue directo al corazón."
           },
           {
             "id": "2A_q12_c",
-            "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Presentar de forma clara ciertas expresiones bíblicas. A3 Cómo llegó la Biblia hasta nuestros días.",
-            "references": "nwt págs. 1854-1858",
-            "directAnswer": "<strong>Se han refinado expresiones bíblicas complejas para que su significado exacto sea evidente, evitando interpretaciones ambiguas y permitiendo una comprensión fiel del texto.</strong>",
-            "deepAnswer": "Muchas expresiones bíblicas tienen un trasfondo cultural único que a veces puede confundir al lector moderno. Al traducir con claridad, <strong>se busca transmitir el sentido pleno de la expresión original, como ocurre en casos donde se usan paráfrasis que explican el contexto o términos actuales que mantienen la esencia del mandato o concepto bíblico.</strong> Esto garantiza que las verdades de las Escrituras se presenten sin distorsiones, tal como se detalla en el apéndice A3 sobre cómo llegó la Biblia hasta nuestros días.",
-            "shortAnswer": "Se han hecho más explícitas las expresiones idiomáticas o antiguas para asegurar que se entienda el sentido original."
+            "question": "Facilitar la lectura.",
+            "references": "nwt págs. 1850-1853",
+            "directAnswer": "La Traducción del Nuevo Mundo facilita la lectura al <strong>emplear un lenguaje actual, claro y natural</strong>, junto con una puntuación y acentuación cuidadosas, eliminando términos obsoletos para <strong>que el mensaje llegue directamente al corazón de los lectores</strong> sin importar su región.",
+            "deepAnswer": "El objetivo principal de la revisión de 2013 fue <strong>mejorar la fluidez del texto bíblico para que su lectura resulte amena y comprensible</strong>. Para lograrlo, se sustituyeron palabras que habían caído en desuso o cuyo significado había cambiado por términos de uso diario, manteniendo siempre la fidelidad al mensaje original. Además de utilizar un vocabulario castellano neutral y universal que evita localismos, se prestó especial atención a la puntuación y a la estructura de las frases para <strong>ayudar al lector a captar mejor el sentido de las figuras retóricas y el mensaje de las Escrituras</strong>. Este esfuerzo garantiza que Jehová nos hable en un lenguaje claro y vivo que permite un entendimiento profundo, evitando el estilo arcaico o eclesiástico que a menudo dificulta la lectura.",
+            "shortAnswer": "Facilitar la lectura significa usar un lenguaje claro, actual y natural para que el mensaje de Dios llegue directamente al corazón."
           },
           {
             "id": "2A_q12_d",
-            "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Facilitar la lectura. A3 Cómo llegó la Biblia hasta nuestros días.",
-            "references": "nwt págs. 1854-1858",
-            "directAnswer": "<strong>Se han ajustado la estructura de las oraciones y la puntuación para que el texto fluya con naturalidad, haciendo que la lectura personal y en voz alta sea más fluida y placentera.</strong>",
-            "deepAnswer": "La claridad en la estructura gramatical es esencial para el estudio personal. <strong>Al simplificar oraciones excesivamente largas y mejorar la puntuación, el lector puede seguir el hilo de pensamiento del escritor bíblico sin tropiezos.</strong> Esto no solo hace que la lectura sea más amena, sino que <strong>permite que la persona medite en el contenido con mayor profundidad, al no tener que esforzarse en descifrar la sintaxis del texto.</strong>",
-            "shortAnswer": "Se ha mejorado la estructura de las oraciones y la puntuación para una lectura más natural y fluida."
-          },
-          {
-            "id": "2A_q12_e",
-            "question": "Da ejemplos de cambios de estilo y vocabulario que se hicieron teniendo en cuenta el objetivo de: Llegar al corazón de todos los hispanohablantes. A3 Cómo llegó la Biblia hasta nuestros días.",
-            "references": "nwt págs. 1854-1858",
-            "directAnswer": "<strong>Se ha adoptado un español neutral y universal, eliminando regionalismos innecesarios para que cualquier persona que hable español, sin importar su país de origen, se sienta identificada con el mensaje.</strong>",
-            "deepAnswer": "Para llegar al corazón, el lenguaje debe ser cálido y cercano. <strong>El uso de un español neutral evita que el lector se distraiga con expresiones locales que podrían no ser comprendidas en otras partes del mundo.</strong> <strong>Al emplear un vocabulario común a todos los hispanohablantes, la Palabra de Jehová logra un impacto universal, demostrando que su mensaje de amor y esperanza trasciende fronteras y es verdaderamente para toda la humanidad.</strong>",
-            "shortAnswer": "Se emplea un español neutral y universal que elimina regionalismos para que el mensaje llegue a todos por igual."
+            "question": "Llegar al corazón de todos los hispanohablantes.",
+            "references": "nwt págs. 1850-1853",
+            "directAnswer": "La Traducción del Nuevo Mundo <strong>utiliza un vocabulario castellano neutral y universal, comprensible y natural en España y toda Hispanoamérica, para evitar los localismos</strong> y así <strong>llegar al corazón de todos los hispanohablantes</strong>.",
+            "deepAnswer": "Para lograr que el mensaje bíblico sea accesible y conmovedor para todos, la revisión de 2013 de la Traducción del Nuevo Mundo se enfocó en alcanzar un lenguaje actual, claro y vivo. Se optó deliberadamente por <strong>emplear un vocabulario neutral y universal, evitando modismos o regionalismos</strong> que podrían limitar el alcance del mensaje a una zona geográfica específica. Este enfoque permite que personas de cualquier país de habla hispana lean las Escrituras de forma fluida, sintiendo que Jehová les habla directamente en un lenguaje sencillo y de uso diario. De esta manera, al eliminar las barreras del lenguaje arcaico o las confusiones derivadas de expresiones regionales, la traducción <strong>permite que la verdad bíblica llegue sin obstáculos al corazón de los lectores</strong>, sin importar su origen nacional.",
+            "shortAnswer": "El uso de un lenguaje neutral y universal asegura que el mensaje de Jehová llegue directamente al corazón de todos los hispanohablantes sin barreras geográficas."
           }
         ]
       },
       {
         "id": "2A_q13",
         "question": "¿Cuál era un motivo por el que era necesario hacer copias de los manuscritos?",
-        "references": "",
-        "directAnswer": "Era necesario hacer copias de los manuscritos porque <strong>los materiales originales, como el papiro y el pergamino, eran perecederos y se deterioraban con el tiempo, lo que amenazaba la supervivencia de la Palabra inspirada de Dios.</strong>",
-        "deepAnswer": "<strong>La razón principal por la que era indispensable hacer copias de los manuscritos bíblicos era la naturaleza <em>perecedera</em> de los materiales en que se escribieron originalmente.</strong> El papiro y el pergamino no podían durar indefinidamente, y el paso del tiempo, así como los desastres naturales y la acción humana, los harían desaparecer.<br><br>Jehová, en su infinita sabiduría y amor, quería que su preciosa Palabra perdurara y estuviera disponible para toda la humanidad. Así que, mediante la fiel labor de copistas dedicados, <strong>se aseguró que su mensaje se multiplicara y se transmitiera a futuras generaciones, garantizando su preservación hasta el día de hoy.</strong>",
-        "shortAnswer": "Para preservar la Palabra de Dios del deterioro y asegurar su difusión."
+        "references": "nwt págs. 1854-1858",
+        "subtitle": "A3 Cómo llegó la Biblia hasta nuestros días",
+        "directAnswer": "Era necesario hacer copias porque <strong>los manuscritos originales estaban escritos en materiales perecederos, como el papiro y el pergamino, que se degradan con el paso del tiempo.</strong>",
+        "deepAnswer": "La razón fundamental para la constante reproducción de las Escrituras era <strong>la fragilidad física de los materiales de escritura antiguos</strong>. Como <strong>los originales no podían sobrevivir indefinidamente debido a la degradación natural</strong>, <strong>los escribas debían realizar copias continuamente para preservar el texto sagrado</strong>. Este proceso fue ejecutado con extrema meticulosidad por especialistas como los soferim y posteriormente los masoretas, quienes llegaron al punto de contar cada letra y palabra para garantizar que el mensaje inspirado se transmitiera sin errores ni alteraciones a través de las generaciones.",
+        "shortAnswer": "Hacer copias era necesario porque los materiales originales eran perecederos y se degradaban con el tiempo."
       },
       {
         "id": "2A_q14",
         "question": "¿Quiénes fueron los soferim y los masoretas? ¿Cómo contribuyeron a la conservación de la Biblia?",
-        "references": "",
-        "directAnswer": "<strong>Los soferim fueron escribas judíos antiguos que copiaron las Escrituras Hebreas con sumo cuidado</strong>, y <strong>los masoretas, siglos después, añadieron puntos vocálicos y notas para preservar el texto y su pronunciación, asegurando así la fidelidad de la Biblia.</strong>",
-        "deepAnswer": "Amados hermanos y hermanas, es edificante recordar que Jehová, en su amor, usó a hombres fieles para preservar su preciosa Palabra. <strong>Los <em>soferim</em> fueron escribas dedicados desde el siglo V a. C. que copiaron con una minuciosidad asombrosa las Escrituras Hebreas</strong>, creyendo que cada palabra era sagrada y digna de extrema atención. Siglos más tarde, <strong>los <em>masoretas</em>, con el mismo celo, desarrollaron un ingenioso sistema de puntos vocálicos y notas marginales, la Masora, para estandarizar el texto consonántico hebreo y garantizar su pronunciación y lectura correctas para futuras generaciones.</strong> Su esmero garantiza que la Palabra de Dios ha llegado hasta nosotros prácticamente inalterada, demostrando la promesa de que la 'declaración de Jehová permanece para siempre' (1 Pedro 1:25).",
-        "shortAnswer": "Soferim y masoretas fueron guardianes diligentes de las Escrituras, instrumentos de Jehová para preservar Su Palabra."
+        "references": "nwt págs. 1854-1858",
+        "directAnswer": "<strong>Los soferim fueron los escribas judíos antiguos y los masoretas fueron copistas medievales.</strong> Ambos contribuyeron a la conservación de la Biblia mediante una labor extremadamente minuciosa, en la que <strong>contaban cada letra y palabra de los manuscritos para garantizar que el texto sagrado se transmitiera sin errores ni alteraciones.</strong>",
+        "deepAnswer": "Debido a que los manuscritos originales fueron redactados en materiales perecederos como el papiro y el pergamino, <strong>fue necesario realizar copias continuas para evitar que el mensaje divino se perdiera con el paso del tiempo.</strong> Los soferim y posteriormente los masoretas asumieron la responsabilidad de ser guardianes del texto. <strong>Su método de trabajo consistió en un conteo riguroso de cada letra y palabra de los manuscritos para prevenir cualquier tipo de error o alteración.</strong> Esta dedicación ha sido validada históricamente; por ejemplo, al comparar el Códice de Leningrado —que es el manuscrito completo más antiguo de las Escrituras Hebreas, fechado en 1008 d.C.— con los Rollos del Mar Muerto, se confirma que, a pesar de los siglos transcurridos, <strong>el texto bíblico permaneció prácticamente idéntico.</strong> Esto demuestra que la fidelidad en la preservación de las Escrituras es un hecho histórico comprobable y un testimonio de la protección divina sobre su Palabra.",
+        "shortAnswer": "Gracias a la meticulosa labor de conteo y copia de los soferim y los masoretas, la Biblia ha llegado a nosotros con una exactitud asombrosa."
       },
       {
         "id": "2A_q15",
         "question": "¿Qué es el Códice de Leningrado?",
-        "references": "",
-        "directAnswer": "<strong>El Códice de Leningrado es el manuscrito más antiguo y completo de las Escrituras Hebreas (Antiguo Testamento) en hebreo, que sirve de base para muchas traducciones modernas de la Biblia, incluida nuestra preciada Traducción del Nuevo Mundo.</strong>",
-        "deepAnswer": "¡Qué animador es saber que Jehová se ha asegurado de que su Palabra se preserve fielmente! El Códice de Leningrado, datado en el año 1008 o 1009 E.C., es un <em>testimonio poderoso</em> de ello. <strong>Se trata del manuscrito más antiguo y completo de las Escrituras Hebreas masoréticas que tenemos hoy día</strong>, y su gran precisión lo convierte en una fuente fundamental para los eruditos bíblicos. <strong>Este valioso códice ha sido un recurso indispensable para los traductores de la <em>Traducción del Nuevo Mundo</em>, permitiéndoles transmitir el mensaje de Jehová con la mayor exactitud posible</strong> y así bendecir a millones de personas con la verdad pura.",
-        "shortAnswer": "Es el manuscrito hebreo completo más antiguo, esencial para la exactitud de la Traducción del Nuevo Mundo."
+        "references": "nwt págs. 1854-1858",
+        "directAnswer": "El Códice de Leningrado es <strong>el manuscrito completo más antiguo que existe de las Escrituras Hebreas</strong>, fechado en el año 1008 de nuestra era, y sirve como <strong>base fundamental para las ediciones académicas de la Biblia en hebreo</strong>.",
+        "deepAnswer": "El Códice de Leningrado es de suma importancia para la precisión bíblica porque <strong>representa el texto masorético más antiguo y completo de las Escrituras Hebreas</strong>. Durante siglos, los escribas conocidos como masoretas realizaron una labor minuciosa de copiado, contando letras y palabras para evitar alteraciones. Su valor ha quedado confirmado al compararse con los Rollos del mar Muerto; a pesar de haber transcurrido mil años de copiado manual entre ambos, <strong>el texto bíblico se ha mantenido prácticamente idéntico</strong>, lo cual demuestra que Jehová ha preservado su Palabra con fidelidad a través del tiempo. Por estas razones, este códice <strong>constituye la base esencial para las ediciones modernas de la Biblia</strong>, permitiendo que la Traducción del Nuevo Mundo sea una versión exacta y confiable del texto original.",
+        "shortAnswer": "El Códice de Leningrado es el manuscrito hebreo completo más antiguo, una prueba de la preservación exacta de la Palabra de Dios."
       },
       {
         "id": "2A_q16",
-        "question": "¿Qué se confirma al comparar los Rollos del mar Muerto y el Códice de Leningrado? No todos los manuscritos bíblicos antiguos utilizan",
-        "references": "",
-        "directAnswer": "Al comparar los Rollos del mar Muerto con el Códice de Leningrado, <strong>se confirma la <em>extraordinaria exactitud</em> con la que se ha transmitido el texto de las Escrituras Hebreas a lo largo de los siglos.</strong>",
-        "deepAnswer": "La comparación de los Rollos del mar Muerto (que datan de los siglos II y I a.e.c.) con el Códice de Leningrado (siglo XI e.c.), el manuscrito hebreo completo más antiguo, es una prueba contundente de la fidelidad con la que se ha copiado la Biblia hebrea. Aunque hay variaciones mínimas en ortografía y gramática, <strong>el contenido esencial y el mensaje divino se han conservado <em>asombrosamente intactos</em> a lo largo de más de mil años</strong>, dándonos confianza en la Palabra inspirada de Dios.",
-        "shortAnswer": "Confirma la asombrosa exactitud de la transmisión del texto hebreo."
+        "question": "¿Qué se confirma al comparar los Rollos del mar Muerto y el Códice de Leningrado?",
+        "references": "nwt págs. 1854-1858",
+        "directAnswer": "Al comparar los Rollos del mar Muerto con el Códice de Leningrado, se confirma que, a pesar de haber transcurrido mil años de copiado a mano, <strong>el texto de las Escrituras Hebreas permaneció prácticamente idéntico</strong>, lo que <strong>demuestra la fidelidad y la preservación divina de las Escrituras</strong>.",
+        "deepAnswer": "El Códice de Leningrado, fechado en el año 1008 d.C., es el manuscrito completo más antiguo de las Escrituras Hebreas y ha servido como base para las ediciones académicas modernas. Por otro lado, el descubrimiento de los Rollos del mar Muerto proporcionó textos mucho más antiguos. Al comparar ambos, los expertos observaron que, aunque durante un milenio los copistas hicieron el trabajo a mano, <strong>el mensaje bíblico se mantuvo inalterado en lo fundamental</strong>. Esto <strong>confirma la minuciosidad de escribas como los soferim y los masoretas</strong>, quienes contaban cada letra y palabra para evitar alteraciones, <strong>asegurando así que la Biblia llegara a nosotros con su fidelidad y pureza preservadas divinamente</strong>.",
+        "shortAnswer": "La comparación demuestra que el texto bíblico ha llegado a nuestros días prácticamente idéntico, confirmando su preservación divina a través de los siglos."
       },
       {
         "id": "2A_q17",
-        "question": "exactamente las mismas palabras. ¿Qué ejemplo nos",
-        "references": "",
-        "directAnswer": "El ejemplo más sobresaliente que nos demuestra la importancia de usar \"exactamente las mismas palabras\" es <strong>la restauración del nombre divino, Jehová, en la Traducción del Nuevo Mundo, tal como aparece en los escritos originales.</strong>",
-        "deepAnswer": "Este ejemplo capital es, sin duda, <strong>la fiel restauración del <em>nombre divino de Jehová</em>.</strong> En los manuscritos originales en hebreo y griego, el nombre personal de Dios, representado por el Tetragrámaton, aparece miles de veces. Sin embargo, muchas traducciones lo han sustituido por títulos como \"Señor\" o \"Dios\", privando a los lectores de conocer y honrar al verdadero Dios. La Traducción del Nuevo Mundo nos demuestra la importancia de la exactitud al <strong>devolver \"exactamente las mismas palabras\" que Dios inspiró, permitiéndonos identificar con claridad a nuestro amoroso Creador y entender mejor su propósito</strong>, un privilegio que fortalece nuestra fe y honra a nuestro Dios.",
-        "shortAnswer": "La restauración del nombre divino, Jehová, resalta la vital importancia de una traducción exacta."
+        "question": "No todos los manuscritos bíblicos antiguos utilizan exactamente las mismas palabras. ¿Qué ejemplo nos ayuda a entender esas diferencias? ¿Por qué no les preocupa eso a los estudiantes de la Biblia?",
+        "references": "nwt págs. 1854-1858",
+        "directAnswer": "<strong>Un ejemplo que ilustra estas diferencias es la comparación entre los Rollos del Mar Muerto y el Códice de Leningrado</strong>, que fueron copiados con siglos de diferencia pero que muestran que el mensaje se ha preservado fielmente. <strong>A los estudiantes de la Biblia no les preocupa esto porque las pequeñas diferencias encontradas no afectan el mensaje general ni la integridad de las doctrinas bíblicas</strong>, lo que confirma que el texto ha llegado hasta nosotros esencialmente tal como fue escrito.",
+        "deepAnswer": "La existencia de variaciones menores en manuscritos antiguos es un fenómeno natural derivado del proceso de copia manual sobre materiales perecederos. <strong>El ejemplo clave es la comparación entre el Códice de Leningrado (del año 1008 d.C.) y los Rollos del Mar Muerto</strong> (que datan de siglos antes). A pesar de haber sido copiados durante un lapso de mil años, ambos coinciden de manera asombrosa, lo que demuestra que el texto bíblico se mantuvo prácticamente idéntico. <strong>A los estudiantes de la Biblia no les preocupan estas leves diferencias porque el trabajo diligente de los soferim y masoretas, sumado a la gran cantidad de manuscritos disponibles hoy, permite a los eruditos identificar fácilmente cualquier error de copiado menor</strong>. <strong>Estas discrepancias no cambian ni la esencia del mensaje divino ni la veracidad de las enseñanzas bíblicas</strong>, lo que refuerza nuestra confianza en que el mensaje original ha sido preservado correctamente para nosotros.",
+        "shortAnswer": "Las leves variaciones en los manuscritos no alteran el mensaje bíblico, lo cual demuestra su extraordinaria conservación a través de los siglos."
       },
       {
         "id": "2A_q18",
-        "question": "ayuda a entender esas diferencias? ¿Por qué no les preocupa eso a los estudiantes de la Biblia?",
-        "references": "",
-        "directAnswer": "Las diferencias en la Traducción del Nuevo Mundo se entienden <strong>al reconocer su compromiso inquebrantable con la exactitud basada en los manuscritos originales y la restauración del nombre divino, Jehová.</strong> Esto no nos preocupa, pues <strong>nos asegura que tenemos un reflejo fiel del mensaje de Dios.</strong>",
-        "deepAnswer": "Para los estudiantes de la Biblia, entender las aparentes diferencias de la <em>Traducción del Nuevo Mundo</em> es, en realidad, un motivo de gran gozo y confianza. Nuestro profundo estudio nos revela que <strong>estas “diferencias” a menudo se deben a la fidelidad inquebrantable a los idiomas originales (hebreo, arameo y griego)</strong>, en contraste con otras traducciones que, lamentablemente, han sido influenciadas por credos y tradiciones humanas. La restauración del nombre divino, Jehová, a su legítimo lugar en miles de ocasiones es un ejemplo sobresaliente de este compromiso con la verdad. Por ello, no solo no nos preocupan, sino que <strong>valoramos enormemente esta traducción por su <em>claridad y precisión espiritual</em>, que nos permite percibir con mayor nitidez el propósito de nuestro amoroso Padre celestial.</strong>",
-        "shortAnswer": "La exactitud de la Traducción del Nuevo Mundo, fiel a los originales y al nombre divino, nos da plena confianza."
+        "question": "¿Qué texto sirvió de base para la primera edición de la Traducción del Nuevo Mundo de las Escrituras Hebreas en inglés (1953-1960)?",
+        "references": "nwt págs. 1854-1858",
+        "directAnswer": "La primera edición de la Traducción del Nuevo Mundo de las Escrituras Hebreas en inglés utilizó como base principal <strong>la Biblia Hebraica de Kittel (BHK)</strong>.",
+        "deepAnswer": "Para la elaboración de la primera edición de la Traducción del Nuevo Mundo de las Escrituras Hebreas, publicada por entregas entre 1953 y 1960, el Comité de Traducción optó por <strong>utilizar la Biblia Hebraica de Kittel (BHK) como texto base</strong>. Esta elección se debió a que era una obra académica rigurosa que presentaba <strong>el texto masorético, el cual es el resultado de siglos de trabajo meticuloso por parte de los soferim y masoretas</strong>. Su labor de conteo de letras y palabras aseguró una transmisión sumamente fiel de las Escrituras a lo largo de los siglos, lo cual se corroboró posteriormente mediante la comparación con los Rollos del Mar Muerto, que demostraron que el texto hebreo se había conservado prácticamente idéntico durante más de mil años.",
+        "shortAnswer": "La base académica de la primera edición de las Escrituras Hebreas fue la Biblia Hebraica de Kittel."
       },
       {
         "id": "2A_q19",
-        "question": "¿Qué texto sirvió de base para la primera edición de la Traducción del Nuevo Mundo de las Escrituras Hebreas en inglés (1953-1960)?",
-        "references": "",
-        "directAnswer": "<strong>La primera edición de la Traducción del Nuevo Mundo de las Escrituras Hebreas en inglés se basó principalmente en el Texto Masorético.</strong>",
-        "deepAnswer": "Estimados precursores, <strong>la base principal para la primera edición de las Escrituras Hebreas de la Traducción del Nuevo Mundo fue, en efecto, el Texto Masorético.</strong> Este texto, meticulosamente preservado por los masoretas, es reconocido por su asombrosa exactitud y fiabilidad. Sin embargo, para garantizar una traducción lo más fiel posible al mensaje original de Jehová, <strong>también se consultaron otros manuscritos importantes, como los valiosos Rollos del Mar Muerto y la Septuaginta griega.</strong> Esto permitió a los traductores comparar y verificar las lecturas, asegurando que la Palabra inspirada de Dios llegara a nosotros con la mayor precisión posible, ¡una verdadera bendición para el pueblo de Jehová!",
-        "shortAnswer": "El Texto Masorético fue la base principal."
+        "question": "¿Qué otros textos y manuscritos se han usado para traducir las Escrituras Hebreas de la Traducción del Nuevo Mundo revisada en inglés?",
+        "references": "nwt págs. 1854-1858",
+        "directAnswer": "Para la traducción de las Escrituras Hebreas en la edición revisada, el Comité utilizó como base principal <strong>la Biblia Hebraica Stuttgartensia</strong>, además de consultar <strong>los Rollos del Mar Muerto y otras traducciones antiguas</strong> en diversos idiomas para verificar la precisión y el sentido del texto original.",
+        "deepAnswer": "El Comité de Traducción de la Biblia del Nuevo Mundo utilizó un enfoque riguroso basado en los avances académicos más recientes. Mientras que la primera edición de la Traducción del Nuevo Mundo se basó en la Biblia Hebraica de Kittel, la versión revisada de 2013 utiliza <strong>la Biblia Hebraica Stuttgartensia (BHS)</strong>, que es el texto maestro de referencia actual. Asimismo, el Comité <strong>cotejó el texto con los Rollos del Mar Muerto</strong>, cuyos hallazgos confirman la increíble fidelidad del texto masorético a través de los siglos. Además, se <strong>consultaron otras versiones antiguas</strong>, como la Septuaginta griega, la Vulgata latina y diversas traducciones en idiomas antiguos, para garantizar que la versión en inglés reflejara con exactitud el significado original del mensaje de Dios cuando el texto hebreo presentaba desafíos interpretativos.",
+        "shortAnswer": "La revisión se basó en la Biblia Hebraica Stuttgartensia y en hallazgos antiguos como los Rollos del Mar Muerto para garantizar la máxima fidelidad al texto original."
       },
       {
         "id": "2A_q20",
-        "question": "¿Qué otros textos y manuscritos se han usado para traducir las Escrituras Hebreas de la Traducción del Nuevo Mundo revisada en inglés?",
-        "references": "",
-        "directAnswer": "Para traducir las Escrituras Hebreas de la Traducción del Nuevo Mundo revisada en inglés, además del Texto Masorético, <strong>se consultaron manuscritos valiosos como los Rollos del Mar Muerto, la Septuaginta griega y el Pentateuco Samaritano.</strong>",
-        "deepAnswer": "Queridos precursores, es verdaderamente emocionante saber que, para asegurar la mayor exactitud en la Traducción del Nuevo Mundo revisada, los traductores no se limitaron a un solo texto base. Aunque el Texto Masorético, especialmente el Códice de Leningrado, fue fundamental, diligentemente recurrieron a <em>otros manuscritos antiguos</em> para comparar y corroborar. Entre estos, destacan los Rollos del Mar Muerto, que nos ofrecen una ventana a textos hebreos muy antiguos, y la Septuaginta griega, una valiosa traducción del hebreo al griego que a menudo arroja luz sobre pasajes difíciles.<br>También se consultó el Pentateuco Samaritano y otras versiones antiguas. Este esfuerzo minucioso demuestra el profundo respeto por la Palabra inspirada de Jehová y nos da una confianza inquebrantable en la fidelidad de nuestra traducción.",
-        "shortAnswer": "Se emplearon los Rollos del Mar Muerto, la Septuaginta griega y el Pentateuco Samaritano para garantizar la fidelidad."
+        "question": "A mediados del siglo veinte, ¿qué texto griego maestro usó el Comité de Traducción de la Biblia del Nuevo Mundo para traducir las Escrituras Griegas Cristianas?",
+        "references": "nwt págs. 1854-1858",
+        "directAnswer": "A mediados del siglo veinte, el Comité de Traducción de la Biblia del Nuevo Mundo utilizó <strong>el texto griego maestro de Westcott y Hort, publicado en 1881</strong>, para traducir las Escrituras Griegas Cristianas.",
+        "deepAnswer": "Para la producción de la primera edición de la Traducción del Nuevo Mundo de las Escrituras Griegas Cristianas, el comité seleccionó como base académica el <strong>texto griego maestro editado por Brooke Foss Westcott y Fenton John Anthony Hort</strong>, publicado originalmente en 1881. Este texto es reconocido por los especialistas como una de las obras más rigurosas y fiables de la crítica textual, ya que <strong>se basó en los manuscritos más antiguos y conservados disponibles</strong> hasta ese momento. La elección de esta obra refleja el compromiso del Comité de Traducción con la fidelidad al mensaje original, priorizando la precisión académica y científica sobre las traducciones basadas en textos de menor antigüedad o mayor sesgo dogmático.",
+        "shortAnswer": "El Comité de Traducción eligió el prestigioso texto griego de Westcott y Hort por su rigor académico y fidelidad a los manuscritos más antiguos."
       },
       {
         "id": "2A_q21",
-        "question": "A mediados del siglo veinte, ¿qué texto griego maestro usó el Comité de Traducción de la Biblia del Nuevo Mundo para traducir las Escrituras Griegas Cristianas? A fin de producir las Escrituras Griegas Cristianas de la Traducción del Nuevo Mundo en inglés que se",
-        "references": "",
-        "directAnswer": "<strong>El Comité de Traducción de la Biblia del Nuevo Mundo usó principalmente el texto griego maestro de Westcott y Hort para traducir las Escrituras Griegas Cristianas.</strong>",
-        "deepAnswer": "Para su traducción de las Escrituras Griegas Cristianas a mediados del siglo XX, <strong>el Comité de Traducción de la Biblia del Nuevo Mundo se basó principalmente en el texto griego maestro de Westcott y Hort.</strong> Este texto se considera uno de los más respetados y confiables, ya que fue compilado con gran esmero a partir de los manuscritos griegos antiguos más autorizados disponibles en ese momento. Su rigurosa base textual garantizó una traducción fiel y precisa para los siervos de Jehová.",
-        "shortAnswer": "Usó el texto griego maestro de Westcott y Hort."
+        "question": "A fin de producir las Escrituras Griegas Cristianas de la Traducción del Nuevo Mundo en inglés que se publicó en el 2013, ¿qué textos griegos maestros y qué otras fuentes usó el Comité de Traducción de la Biblia del Nuevo Mundo?",
+        "references": "nwt págs. 1854-1858",
+        "directAnswer": "Para la edición de 2013, el Comité de Traducción utilizó como base principal <strong>el texto griego maestro de Westcott y Hort</strong>, cotejándolo además con <strong>ediciones modernas de referencia como Nestle-Aland y las Sociedades Bíblicas Unidas, así como con otros manuscritos griegos antiguos y confiables</strong>.",
+        "deepAnswer": "El Comité de Traducción del Nuevo Mundo se ha esforzado siempre por emplear los textos maestros más fiables disponibles. Aunque la edición inicial se basó fundamentalmente en el texto de Westcott y Hort, la revisión de 2013 incorporó un análisis más exhaustivo, <strong>cotejando dicho texto con ediciones académicas modernas, como la Nestle-Aland y la de las Sociedades Bíblicas Unidas</strong>. Estos textos académicos reúnen los resultados de décadas de investigación sobre manuscritos griegos antiguos. El uso de estas fuentes permitió al comité <strong>eliminar añadiduras posteriores y versículos que no aparecían en los manuscritos originales más antiguos</strong>, asegurando así que la traducción sea lo más exacta y fiel posible a la Palabra inspirada de Dios.",
+        "shortAnswer": "La revisión de 2013 empleó textos griegos maestros de referencia y manuscritos antiguos para garantizar la máxima exactitud bíblica."
       },
       {
         "id": "2A_q22",
-        "question": "publicó en el 2013, ¿qué textos griegos maestros y qué otras fuentes usó el Comité de Traducción de la Biblia del Nuevo Mundo?",
-        "references": "",
-        "directAnswer": "Para la edición de 2013, <strong>el Comité de Traducción de la Biblia del Nuevo Mundo se basó principalmente en el **texto maestro griego de Westcott y Hort**, consultando además con los textos críticos de **Nestle-Aland** y de las **Sociedades Bíblicas Unidas (UBS)**.</strong>",
-        "deepAnswer": "¡Qué excelente pregunta, hermanos! La edición revisada de la <em>Traducción del Nuevo Mundo</em>, publicada en 2013, es un regalo preciado de Jehová que demuestra su deseo de que tengamos un entendimiento claro de su Palabra. Para los textos griegos maestros de las Escrituras Griegas Cristianas, <strong>el Comité se apoyó fundamentalmente en la excelente obra de los eruditos Westcott y Hort</strong>, la cual ha sido reconocida por su fidelidad a los manuscritos más antiguos y confiables. Además, <strong>se hizo un estudio exhaustivo comparándolo con otras fuentes importantes, como los textos críticos de Nestle-Aland y los de las Sociedades Bíblicas Unidas (UBS)</strong>, asegurando así una comprensión aún más clara y precisa. Este esmero meticuloso, guiado por el espíritu santo, refleja el profundo amor de Jehová por sus siervos.",
-        "shortAnswer": "La edición de 2013 de la Traducción del Nuevo Mundo utilizó el fiable texto griego de Westcott y Hort, además de otras fuentes críticas."
+        "question": "¿Por qué en la Traducción del Nuevo Mundo revisada no se han incluido algunos versículos que sí aparecen en la King James Version (Versión del Rey Jacobo) y en La Biblia del Oso? ¿Cómo se han usado las notas para indicar esas omisiones?",
+        "references": "nwt págs. 1854-1858",
+        "directAnswer": "La Traducción del Nuevo Mundo no incluye ciertos versículos presentes en versiones como la King James o la Biblia del Oso porque estos <strong>no aparecen en los manuscritos griegos más antiguos y confiables</strong>. La omisión <strong>se indica mediante notas al pie que documentan estos casos</strong> para asegurar la fidelidad al texto original sin añadir contenido que no es inspirado.",
+        "deepAnswer": "La razón principal para la omisión es que la Traducción del Nuevo Mundo busca verter fielmente los escritos originales. Con el paso de los siglos, se han descubierto manuscritos griegos mucho más antiguos y precisos que los que estuvieron disponibles para los traductores de versiones anteriores. Se ha demostrado que algunos versículos breves, así como pasajes como la conclusión larga o corta de Marcos 16 y el relato de Juan 7:53 a 8:11, son añadiduras posteriores que <strong>no forman parte del texto inspirado</strong>. Para mantener la integridad del mensaje, el Comité de Traducción optó por <strong>excluir estas adiciones espurias y documentar su ausencia mediante notas al pie</strong>, proporcionando así al lector una base textual académicamente sólida y espiritualmente confiable.",
+        "shortAnswer": "La omisión se debe al uso de manuscritos más antiguos y precisos, garantizando que solo el contenido original inspirado forme parte del texto bíblico."
       },
       {
         "id": "2A_q23",
-        "question": "¿Por qué en la Traducción del Nuevo Mundo revisada no se han incluido algunos versículos que sí aparecen en la King James Version (Versión del Rey Jacobo) y en",
-        "references": "",
-        "directAnswer": "La Traducción del Nuevo Mundo revisada no incluye algunos versículos porque <strong>estos no se encuentran en los manuscritos griegos más antiguos y confiables, los cuales revelan que fueron añadiduras posteriores al texto bíblico.</strong>",
-        "deepAnswer": "El propósito de la Traducción del Nuevo Mundo es reflejar con la mayor exactitud posible la Palabra de Dios tal como se escribió originalmente. Gracias a la crítica textual moderna, se ha podido comparar una gran cantidad de manuscritos bíblicos antiguos. Este estudio riguroso ha revelado que <strong>algunos versículos que aparecen en traducciones posteriores, como la King James Version, son en realidad <em>añadiduras o glosas que no forman parte de los escritos inspirados originales</em>.</strong> Por lo tanto, para garantizar la integridad y la fidelidad al texto bíblico original, la Traducción del Nuevo Mundo omite estos pasajes, permitiéndonos tener un entendimiento claro y exacto del mensaje de Jehová Dios.",
-        "shortAnswer": "La Traducción del Nuevo Mundo omite añadiduras posteriores, garantizando fidelidad a la Palabra inspirada original."
+        "question": "¿Por qué en la Traducción del Nuevo Mundo revisada no se han incluido la conclusión larga de Marcos 16 (versículos 9 a 20), la conclusión corta de Marcos 16 y el pasaje que va de Juan 7:53 a 8:11?",
+        "references": "nwt págs. 1854-1858",
+        "directAnswer": "La Traducción del Nuevo Mundo no ha incluido estos pasajes porque la evidencia textual demuestra que <strong>no forman parte de los escritos originales inspirados por Dios</strong>, sino que <strong>son añadiduras posteriores</strong>.",
+        "deepAnswer": "El Comité de Traducción de la Biblia del Nuevo Mundo tiene como objetivo principal verter la Palabra de Dios con la mayor exactitud posible basándose en los manuscritos más antiguos y confiables. La investigación bíblica ha confirmado que los versículos mencionados, específicamente la conclusión larga y corta de Marcos 16 y el relato de Juan 7:53 a 8:11, <strong>no aparecen en los manuscritos griegos más antiguos y fidedignos disponibles</strong>. Al ser añadiduras posteriores que no fueron escritas originalmente bajo inspiración divina, se han omitido del cuerpo principal del texto para preservar la integridad y autenticidad de las Escrituras, documentando este hecho mediante notas al pie para informar al lector sin adulterar la Palabra de Dios.",
+        "shortAnswer": "Se han omitido estos pasajes porque no forman parte de los escritos originales inspirados por Dios."
       },
       {
         "id": "2A_q24",
-        "question": "La Biblia del Oso? ¿Cómo se han usado las notas para indicar esas omisiones?",
-        "references": "",
-        "directAnswer": "<strong>La Traducción del Nuevo Mundo usa notas al pie de página para indicar pasajes que no aparecen en los manuscritos bíblicos más antiguos y confiables, aunque sí se hallen en otras traducciones, como la Biblia del Oso.</strong>",
-        "deepAnswer": "Hermanos, nuestra amada <em>Traducción del Nuevo Mundo</em> se distingue por su compromiso inquebrantable con la Palabra inspirada de Jehová y la búsqueda del texto original más puro. En vez de incluir pasajes que no tienen un sólido respaldo en los manuscritos más antiguos y dignos de confianza, aunque se hallen en otras versiones históricas como la Biblia del Oso, nuestros traductores han actuado con profunda integridad.<br>Así, <strong>se valen de valiosas notas al pie de página o en los apéndices para señalar tales variaciones textuales y mantener la fidelidad a la inspiración divina.</strong> Esto nos asegura que estamos leyendo el mensaje puro y sin adulterar que Jehová Dios quiso comunicarnos, fortaleciendo nuestra fe en que 'toda Escritura es inspirada de Dios' y es teológicamente exacta.",
-        "shortAnswer": "Las notas de la NWT indican omisiones para garantizar la pureza del texto original."
+        "question": "¿Por qué muchas versiones de la Biblia no tienen el nombre de Dios?",
+        "references": "nwt págs. 1859-1863",
+        "subtitle": "A4 El nombre de Dios en las Escrituras Hebreas",
+        "directAnswer": "Muchas versiones de la Biblia no tienen el nombre de Dios <strong>debido al temor supersticioso judío a pronunciarlo y a la tradición de reemplazarlo por títulos como \"Señor\" o \"Dios\"</strong> siguiendo el ejemplo de la Vulgata latina y la Septuaginta griega.",
+        "deepAnswer": "La ausencia del nombre de Dios en la mayoría de las traducciones bíblicas tiene su origen en una tradición judía que consideraba sagrado e impronunciable el Tetragrámaton, lo que llevó a los copistas a sustituirlo por términos como Adonay (Señor). Esta práctica fue adoptada posteriormente por traductores cristianos que, bajo la influencia de la Vulgata latina y la Septuaginta, prefirieron usar \"Señor\" o \"Dios\" en lugar del nombre personal del Creador. Además, algunos traductores modernos han argumentado erróneamente que el Dios único no requiere un nombre distintivo o que su pronunciación original se perdió. No obstante, estas razones son inválidas, ya que el nombre de Dios aparece cerca de 7.000 veces en los manuscritos originales de las Escrituras Hebreas, lo que demuestra que <strong>el Autor divino desea que su nombre sea conocido</strong>, tal como ocurre con otros nombres bíblicos cuya pronunciación exacta desconocemos pero que seguimos utilizando con respeto.",
+        "shortAnswer": "El nombre de Dios fue omitido por superstición religiosa y tradición, no por falta de pruebas textuales."
       },
       {
         "id": "2A_q25",
-        "question": "¿Por qué en la Traducción del Nuevo Mundo revisada no se han incluido la conclusión larga de Marcos 16 (versículos 9 a 20), la conclusión corta de Marcos 16 y el pasaje que va de Juan 7:53 a 8:11?",
-        "references": "",
-        "directAnswer": "<strong>Estos pasajes no se incluyen en la Traducción del Nuevo Mundo porque no aparecen en los manuscritos griegos más antiguos y confiables, considerándose adiciones posteriores.</strong>",
-        "deepAnswer": "La Traducción del Nuevo Mundo, en su compromiso con la exactitud, no incluye la conclusión larga ni la conclusión corta de Marcos 16, ni el pasaje de Juan 7:53 a 8:11. La razón es que <strong>estos textos no se encuentran en los manuscritos griegos más antiguos y autorizados.</strong> <strong>La erudición moderna los identifica como <em>adiciones posteriores al texto original inspirado</em></strong>, y su exclusión garantiza que la traducción refleje fielmente la Palabra de Dios tal como fue escrita originalmente por los siervos de Jehová.",
-        "shortAnswer": "Son adiciones posteriores no halladas en manuscritos antiguos y confiables."
+        "question": "¿Qué razones han dado algunos traductores para omitir el nombre de Dios? ¿Por qué sus razones no son válidas?",
+        "references": "nwt págs. 1859-1863",
+        "directAnswer": "Muchos traductores han omitido el nombre de Dios <strong>siguiendo la tradición judía de no pronunciarlo por superstición o basándose en versiones como la Vulgata y la Septuaginta que lo reemplazaron por títulos</strong>. Estas razones no son válidas porque <strong>el nombre divino aparece cerca de 7.000 veces en los manuscritos originales, lo que demuestra que Dios desea que se le conozca, y el argumento de que se perdió la pronunciación exacta es irrelevante</strong>, ya que hacemos lo mismo con nombres como Jesús sin dejar de usarlos.",
+        "deepAnswer": "La omisión del nombre divino en la mayoría de las traducciones responde a una mezcla de temor supersticioso y modas teológicas. Algunos traductores argumentan que el Dios único no requiere un nombre distintivo o que la pronunciación exacta del Tetragrámaton, YHWH, se ha perdido. Sin embargo, estas razones son inválidas. Primero, <strong>la presencia del nombre unas 7.000 veces en las Escrituras Hebreas indica claramente que el Autor sagrado desea que su nombre sea conocido y honrado</strong>. Segundo, <strong>el hecho de que no conozcamos la pronunciación exacta de otros nombres bíblicos, como el de Jesús o Moisés, no es un impedimento para utilizarlos</strong>; los aceptamos en sus formas actuales en cada idioma. La Traducción del Nuevo Mundo es superior precisamente porque restituye el nombre Jehová al lugar que le corresponde por derecho, rechazando la tradición de ocultar la identidad personal del Creador bajo títulos como Señor o Dios.",
+        "shortAnswer": "El nombre de Dios debe estar en la Biblia porque aparece miles de veces en los originales y el Creador desea que le conozcamos por su nombre propio."
       },
       {
         "id": "2A_q26",
-        "question": "¿Por qué muchas versiones de la Biblia no tienen el nombre de Dios?",
-        "references": "",
-        "directAnswer": "Muchas versiones de la Biblia no tienen el nombre de Dios, Jehová, principalmente porque <strong>los traductores siguieron una tradición de sustituirlo por títulos como \"Señor\" o \"Dios\", a menudo por superstición o la creencia errónea de que no era esencial.</strong>",
-        "deepAnswer": "Hermanos, <strong>la ausencia del nombre personal de Dios, Jehová, en muchas versiones de la Biblia es el resultado de una <em>tradición humana</em> profundamente arraigada, no de una base bíblica.</strong> Históricamente, se desarrolló la costumbre, incluso por superstición, de sustituir el sagrado Tetragrammaton (YHWH) por títulos como \"Señor\" o \"Dios\", a veces bajo la falsa premisa de que ya no era relevante o demasiado santo para usarse.<br> <strong>Esta práctica priva a los lectores de la oportunidad de conocer a nuestro Padre celestial por su nombre propio, lo cual es fundamental para entablar una relación cercana con él</strong>, como la Traducción del Nuevo Mundo se esfuerza por restaurar fielmente.",
-        "shortAnswer": "Tradiciones y supersticiones hicieron que muchas versiones omitieran el nombre personal de Dios."
+        "question": "¿Por qué emplea la Traducción del Nuevo Mundo la forma Jehová?",
+        "references": "nwt págs. 1859-1863",
+        "directAnswer": "La Traducción del Nuevo Mundo emplea la forma Jehová porque <strong>es la pronunciación tradicionalmente más conocida y aceptada en español para el nombre de Dios</strong>, y porque su objetivo fundamental es <strong>restituir fielmente el nombre divino al lugar que le corresponde por derecho en el texto sagrado</strong>.",
+        "deepAnswer": "El uso del nombre Jehová responde a la necesidad de <strong>respetar la santidad de la identidad personal del Creador</strong>, quien reveló su nombre en el texto original cerca de 7.000 veces. A diferencia de otras traducciones que lo han omitido sistemáticamente por supersticiones judías o tradiciones eclesiásticas que lo reemplazan por títulos como Señor o Dios, el Comité de Traducción determinó que, al igual que aceptamos versiones castellanizadas de otros nombres bíblicos, la forma Jehová representa la manera más establecida en nuestro idioma para referirse al Tetragrámaton. Este nombre significa Él Hace que Llegue a Ser, reflejando la capacidad ilimitada de Dios para cumplir sus promesas, y su restauración permite que los lectores sientan <strong>que Jehová les habla directamente</strong>, en lugar de usar un lenguaje que oculta al Autor divino.",
+        "shortAnswer": "Usamos la forma Jehová porque restituye fielmente el nombre personal de Dios a su lugar legítimo en la Biblia para que sea conocido por todos."
       },
       {
         "id": "2A_q27",
-        "question": "¿Qué razones han dado algunos traductores para",
-        "references": "",
-        "directAnswer": "<strong>Algunos traductores han aducido razones como la reverencia tradicional o la creencia de que el nombre divino, Jehová, no era esencial en las Escrituras Griegas Cristianas para omitirlo o reemplazarlo.</strong>",
-        "deepAnswer": "Algunos eruditos y traductores han argumentado que, <strong>por reverencia extrema o siguiendo la tradición judía de evitar la pronunciación, optaron por reemplazar el Tetragrámaton con títulos como 'Señor' o 'Dios'.</strong> <strong>Otros han razonado que, al no hallarse el nombre divino en ciertos manuscritos más tardíos de las Escrituras Griegas Cristianas, su uso no era indispensable en el Nuevo Testamento.</strong><br> Sin embargo, al hacer esto, se <em_>oscurece la identidad única y la gloriosa personalidad de Jehová</em_>, quien desea ser conocido y honrado por su nombre. La Traducción del Nuevo Mundo, con <em_>fidelidad inquebrantable a los manuscritos antiguos</em_>, ha restaurado con valentía el nombre divino, permitiéndonos <em_>acercarnos a nuestro Padre celestial</em_> y glorificarlo como él desea.",
-        "shortAnswer": "Las principales razones aducidas para omitir el nombre divino han sido la reverencia supersticiosa y la tradición."
+        "question": "¿Qué significa el nombre Jehová?",
+        "references": "nwt págs. 1859-1863",
+        "directAnswer": "El nombre Jehová <strong>significa \"Él Hace que Llegue a Ser\"</strong>. Esto indica que <strong>Dios tiene la capacidad ilimitada de convertirse en lo que sea necesario para cumplir su voluntad, sus promesas y sus propósitos.</strong>",
+        "deepAnswer": "El nombre divino, representado por el Tetragrámaton (YHWH) en hebreo, es un nombre de acción. A diferencia de los títulos como Dios o Señor, <strong>este nombre personal expresa la capacidad de Jehová de adaptarse y actuar según las circunstancias para lograr lo que se propone</strong>. Aunque en Éxodo 3:14 se menciona una expresión relacionada, \"Yo resultaré ser lo que resultaré ser\", esto destaca su capacidad de cumplir sus promesas, mientras que el nombre Jehová, revelado formalmente en Éxodo 3:15, es el identificador único del Creador. Muchos traductores han omitido este nombre debido a supersticiones judías o tradiciones eclesiásticas, reemplazándolo por títulos. Sin embargo, al aparecer cerca de 7.000 veces en las Escrituras Hebreas originales, queda claro que <strong>Dios desea que conozcamos y usemos su nombre personal.</strong>",
+        "shortAnswer": "Jehová es el nombre del Dios que hace que todo llegue a ser según su propósito."
       },
       {
         "id": "2A_q28",
-        "question": "omitir el nombre de Dios? ¿Por qué sus razones no son válidas?",
-        "references": "",
-        "directAnswer": "<strong>Las razones para omitir el nombre de Dios, como la suposición de que los autores del Nuevo Testamento no lo usaron o el temor a deshonrarlo, no son válidas.</strong>",
-        "deepAnswer": "Las principales razones esgrimidas para omitir el nombre de Dios, Jehová, suelen ser dos: la idea errónea de que los escritores del Nuevo Testamento no usaron el Tetragrámaton, y la tradición judía de no pronunciar el nombre por reverencia. Sin embargo, estas razones no son válidas. <strong>La evidencia histórica y textual sólida demuestra que el Tetragrámaton <em>sí aparecía en los manuscritos griegos originales</em> de las Escrituras Cristianas.</strong> Además, <strong>ocultar el nombre de Dios impide que la gente conozca a la Persona detrás de la Biblia, lo cual contradice el propósito de Jesús de darlo a conocer.</strong>",
-        "shortAnswer": "No son válidas porque el nombre sí aparecía y es esencial para conocer a Dios."
+        "question": "¿Por qué no definen por completo el nombre de Dios las palabras de Éxodo 3:14?",
+        "references": "Ex. 3:14; Ex. 3:15",
+        "note": "Después de investigar detalladamente algunos manuscritos antiguos, se descubrió que el nombre de Dios aparece en otros seis lugares: Jueces 19:18; 1 Samuel 2:25; 6:3; 10:26; 23:14, 16.",
+        "directAnswer": "Éxodo 3:14 no define el nombre de Dios por completo porque esa expresión <strong>revela la capacidad ilimitada de Jehová para actuar y convertirse en lo que sea necesario</strong>, mientras que <strong>el nombre formal que identifica su personalidad y propósito se declara explícitamente en el versículo siguiente, Éxodo 3:15</strong>.",
+        "deepAnswer": "La expresión Yo resultaré ser lo que resultaré ser en Éxodo 3:14 es una declaración profunda sobre la naturaleza de Dios, que destaca su capacidad soberana de adaptarse y llegar a ser lo que sea preciso para cumplir su voluntad y sus promesas. Sin embargo, este versículo <strong>no constituye el nombre de Dios, sino una revelación de sus cualidades</strong>. <strong>El nombre propio distintivo y personal del Creador, Jehová, se presenta formalmente y de forma inequívoca en Éxodo 3:15</strong>. Por lo tanto, mientras que el versículo 14 profundiza nuestra comprensión sobre quién es Dios, el versículo 15 establece su nombre eterno, un nombre que Dios quiere que su pueblo conozca, use y respete, en contraste con las versiones bíblicas que lo han omitido indebidamente.",
+        "shortAnswer": "Éxodo 3:14 revela la naturaleza de Dios, pero es en Éxodo 3:15 donde se nos da su nombre personal: Jehová."
       },
       {
         "id": "2A_q29",
-        "question": "¿Por qué emplea la Traducción del Nuevo Mundo la forma Jehová?",
-        "references": "",
-        "directAnswer": "<strong>La Traducción del Nuevo Mundo emplea la forma Jehová para *restaurar* el nombre personal de Dios</strong>, que aparece miles de veces en los textos originales, tanto en las Escrituras Hebreas como en las Griegas Cristianas.",
-        "deepAnswer": "<strong>La Traducción del Nuevo Mundo emplea la forma Jehová por una razón fundamental: dignificar y restaurar el nombre personal del Creador.</strong> Este nombre sagrado, representado por el Tetragrámaton (YHWH), aparece miles de veces en los manuscritos originales de las Escrituras Hebreas. Sin embargo, con el tiempo, fue eliminado de la mayoría de las traducciones bíblicas y reemplazado por títulos como “Señor” o “Dios”.<br><br>Nuestra traducción valientemente restituye el nombre Jehová en las Escrituras Hebreas y, <strong>basándose en un cuidadoso examen de manuscritos antiguos y citas del Antiguo Testamento en el Nuevo, también lo *restaura* en las Escrituras Griegas Cristianas.</strong> Esto permite a los lectores identificar claramente al Dios verdadero y único, fortaleciendo nuestra relación con Él y distinguiéndolo de otros dioses.",
-        "shortAnswer": "Para restaurar y honrar el nombre inigualable de nuestro Dios, Jehová."
+        "question": "Cuando en las Escrituras Griegas se cita de las Escrituras Hebreas y en esas citas aparece el Tetragrámaton, ¿qué hacen la mayoría de los traductores?",
+        "references": "nwt págs. 1864-1869",
+        "subtitle": "A5 El nombre de Dios en las Escrituras Griegas Cristianas",
+        "directAnswer": "Cuando las Escrituras Griegas citan pasajes de las Escrituras Hebreas donde aparece el Tetragrámaton, la mayoría de los traductores optan por <strong>reemplazar el nombre de Dios por títulos como Señor o Dios</strong>, <strong>omitiendo así el nombre personal del Creador del texto sagrado</strong>.",
+        "deepAnswer": "La mayoría de los traductores han seguido tradiciones judías basadas en la superstición o modas teológicas que consideran innecesario o inapropiado usar el nombre divino. Por esta razón, al traducir las citas que los escritores inspirados hicieron de las Escrituras Hebreas, sustituyen sistemáticamente el Tetragrámaton por términos como Kyrios (Señor) o Theos (Dios). No obstante, el Comité de Traducción del Nuevo Mundo reconoce que los primeros cristianos tenían acceso a copias de la Septuaginta que sí contenían el Tetragrámaton en letras hebreas, y que tanto Jesús como sus apóstoles pronunciaban el nombre divino al leer y predicar, por lo cual <strong>es fundamental restituir fielmente el nombre Jehová a su lugar correspondiente en el texto</strong>.",
+        "shortAnswer": "La mayoría de los traductores reemplazan el nombre divino por títulos, ocultando la identidad personal de Dios, mientras que la Traducción del Nuevo Mundo lo restituye fielmente."
       },
       {
         "id": "2A_q30",
-        "question": "¿Qué significa el nombre Jehová?",
-        "references": "",
-        "directAnswer": "<strong>El nombre Jehová significa \"Él Hace Que Llegue a Ser\".</strong>",
-        "deepAnswer": "El nombre más importante del universo, Jehová, se deriva del verbo hebreo *hawáh*, que significa \"llegar a ser\". <strong>Su significado más acertado es \"Él Hace Que Llegue a Ser\".</strong><br>Esto revela que <strong>Jehová no solo es el Creador de todo, sino que también es el Dios de Propósito, quien tiene la capacidad infinita de <em>convertirse en cualquier cosa que sea necesaria</em> para cumplir sus promesas y su voluntad.</strong> Por ejemplo, él puede llegar a ser un Sustentador, un Libertador o un Maestro, siempre asegurándose de que su propósito se cumpla a la perfección.",
-        "shortAnswer": "Jehová: Él Hace Que Llegue a Ser."
+        "question": "¿Cuántas veces aparece el nombre Jehová en las Escrituras Griegas Cristianas de la Traducción del Nuevo Mundo?",
+        "references": "nwt págs. 1864-1869",
+        "directAnswer": "En la Traducción del Nuevo Mundo, <strong>el nombre Jehová aparece 237 veces en las Escrituras Griegas Cristianas</strong>.",
+        "deepAnswer": "Aunque el Tetragrámaton no aparece en los manuscritos griegos más antiguos que han llegado hasta nosotros, el Comité de Traducción de la Biblia del Nuevo Mundo <strong>restituyó el nombre divino al texto</strong> por dos razones principales: primero, porque los primeros cristianos utilizaban copias de la Septuaginta que sí contenían el nombre de Dios escrito en letras hebreas, y segundo, porque Jesús y sus apóstoles pronunciaban el nombre divino al leer las Escrituras Hebreas y al predicar. Esta restitución garantiza que <strong>se preserve la identidad personal del Creador</strong>, evitando que el nombre sea reemplazado por títulos como Señor o Dios, una práctica común en otras traducciones basada en tradiciones judías o modas teológicas.",
+        "shortAnswer": "El nombre Jehová aparece 237 veces en las Escrituras Griegas Cristianas para restituir la identidad del Autor divino."
       },
       {
         "id": "2A_q31",
-        "question": "¿Por qué no definen por completo el nombre de Dios las palabras de Éxodo 3:14? Después de investigar detalladamente algunos manuscritos antiguos, se descubrió que el nombre de Dios aparece en otros seis lugares: Jueces 19:18; 1 Samuel 2:25; 6:3; 10:26; 23:14, 16. A5 El nombre de Dios en las Escrituras Griegas Cristianas (nwt págs. 1864-1869). Cuando en las Escrituras Griegas se cita de las Escrituras Hebreas y en esas citas aparece el Tetragrámaton,",
-        "references": "",
-        "directAnswer": "<strong>Las palabras de Éxodo 3:14 (\"Llegaré a ser lo que quiera llegar a ser\") no definen por completo el nombre de Dios porque solo describen un aspecto de su personalidad y capacidad.</strong>",
-        "deepAnswer": "Aunque Éxodo 3:14 proporciona una valiosa perspectiva al decir “Llegaré a ser lo que quiera llegar a ser”, estas palabras no agotan el significado del nombre de Dios, Jehová. Más bien, <strong>revelan una faceta maravillosa de su personalidad: su capacidad de convertirse en lo que sea necesario para cumplir sus propósitos.</strong> <strong>El nombre Jehová es mucho más profundo; abarca también su carácter, sus cualidades de amor, justicia, sabiduría y poder, y su promesa de que él es el Magnífico Cumplidor de Propósitos.</strong>",
-        "shortAnswer": "Éxodo 3:14 muestra solo una faceta de su capacidad, no su significado completo."
+        "question": "¿En qué dos hechos se basó el Comité de Traducción de la Biblia del Nuevo Mundo para usar el nombre Jehová en las Escrituras Griegas Cristianas?",
+        "references": "nwt págs. 1864-1869",
+        "note": "Si hay tiempo, puedes comentar las pruebas sólidas que hay de que el Tetragrámaton aparecía en los manuscritos griegos originales.",
+        "directAnswer": "El Comité de Traducción se basó en dos hechos históricos: primero, que <strong>los primeros cristianos utilizaban copias de la Septuaginta que contenían el Tetragrámaton en letras hebreas</strong>, y segundo, que <strong>Jesús y sus apóstoles pronunciaban el nombre divino al predicar y al leer las Escrituras Hebreas en las sinagogas</strong>.",
+        "deepAnswer": "Para restituir el nombre de Jehová en las Escrituras Griegas Cristianas, el Comité de Traducción tuvo en cuenta que, aunque los manuscritos griegos actuales han sustituido el nombre de Dios por títulos como 'Señor' (Kyrios) o 'Dios' (Theos), existían pruebas de que esto no fue así originalmente. En primer lugar, se confirmó que las copias de la Septuaginta —la traducción griega de las Escrituras Hebreas que circulaba en tiempos de Jesús— conservaban el Tetragrámaton en caracteres hebreos dentro del texto griego. Por lo tanto, los escritores de las Escrituras Griegas Cristianas, al citar esos pasajes, habrían visto el nombre divino. En segundo lugar, se reconoció que Jesús y sus discípulos, al ser judíos y leer o citar las Escrituras Hebreas en las sinagogas, utilizaban y pronunciaban el nombre de Dios fielmente. Así, el uso de 'Jehová' en la Traducción del Nuevo Mundo es un esfuerzo por devolver el nombre a su lugar legítimo basándose en el uso histórico que le dieron los autores inspirados y los primeros seguidores de Jesús.",
+        "shortAnswer": "El nombre Jehová se restituyó en las Escrituras Griegas porque era parte del texto que los cristianos leían y era el nombre que Jesús pronunciaba al enseñar."
       },
       {
         "id": "2A_q32",
-        "question": "¿qué hacen la mayoría de los traductores?",
-        "references": "",
-        "directAnswer": "<strong>La mayoría de los traductores, influenciados por las tradiciones de la cristiandad, a menudo sustituyen el nombre personal de Dios, Jehová, por títulos como “Señor” o “Dios” en sus versiones de la Biblia.</strong>",
-        "deepAnswer": "Amados hermanos, muchos traductores, al traducir la Palabra de Dios, a menudo <em>se dejan llevar por credos y dogmas religiosos</em> en lugar de adherirse estrictamente al texto original. <strong>Una práctica común es eliminar o reemplazar el nombre divino, Jehová, cientos de veces en las Escrituras, lo cual priva al lector de conocer y honrar a nuestro Creador por su propio nombre.</strong> Esto desvirtúa el propósito divino de dar a conocer Su nombre. Además, sus versiones a menudo <em>reflejan prejuicios doctrinales</em> que pueden oscurecer verdades bíblicas vitales, como la condición de los muertos o el rescate. <br>Por ello, la Traducción del Nuevo Mundo destaca por su esfuerzo de restaurar el nombre divino y ofrecer un texto sin contaminaciones religiosas.",
-        "shortAnswer": "La mayoría elimina el nombre divino de Jehová y se rige por las tradiciones religiosas."
+        "question": "¿Qué puedes hacer para que tus estudiantes de la Biblia y otros también se beneficien de esta información sobre el uso del nombre de Dios en la Biblia?",
+        "references": "nwt págs. 1864-1869",
+        "directAnswer": "Para que nuestros estudiantes se beneficien, podemos mostrarles que el nombre de Dios aparece cerca de 7.000 veces en las Escrituras Hebreas y 237 veces en las Escrituras Griegas en la Traducción del Nuevo Mundo. Esto les ayuda a ver que <strong>Jehová desea que lo conozcamos por su nombre</strong>, <strong>personalizando así su relación con él</strong> y evitando que lo vean como un Dios distante o un simple título.",
+        "deepAnswer": "Podemos ayudar a nuestros estudiantes explicándoles que <strong>el nombre de Dios fue omitido en muchas traducciones por superstición o tradiciones religiosas</strong>, reemplazándolo por títulos como 'Señor'. Al enseñarles el Apéndice A5, les mostramos que los primeros cristianos sí usaban el nombre divino al leer las Escrituras y que, <strong>al restituirlo, la Traducción del Nuevo Mundo honra el deseo de Dios de ser conocido</strong>. Es fundamental enseñarles que <strong>conocer el nombre Jehová, que significa 'Él Hace que Llegue a Ser', les permite entender la capacidad ilimitada de nuestro Creador</strong> para cumplir sus propósitos. Al usar las notas y los apéndices, el estudiante percibe que nuestra Biblia es exacta, fiel al texto original y que <strong>el uso del nombre divino es esencial para desarrollar una amistad estrecha y personal</strong> con el Autor de las Escrituras.",
+        "shortAnswer": "Enseñar el nombre de Jehová permite que el estudiante pase de conocer a un 'Señor' anónimo a tener una relación personal con un Dios que desea ser conocido."
       },
       {
         "id": "2A_q33",
-        "question": "¿Cuántas veces aparece el nombre Jehová en las Escrituras Griegas Cristianas de la Traducción del Nuevo Mundo?",
-        "references": "",
-        "directAnswer": "<strong>El nombre Jehová aparece 237 veces en las Escrituras Griegas Cristianas de la Traducción del Nuevo Mundo.</strong>",
-        "deepAnswer": "Es verdaderamente inspirador saber que <strong>el nombre divino, Jehová, se ha restaurado 237 veces en las Escrituras Griegas Cristianas de la Traducción del Nuevo Mundo.</strong> Esta cuidadosa labor no es una mera suposición, sino que <strong>se basa en una profunda investigación de manuscritos antiguos, incluyendo la <em>Septuaginta</em>, donde el Tetragrámaton aparece en citas que se hacen del Antiguo Testamento.</strong> Al emplear el nombre sagrado, se aclara la identidad de Dios, se magnifica su soberanía y se entiende con mayor nitidez la relación entre Jehová y su Hijo, Jesús. Sin duda, esto fortalece nuestra fe y nuestro celo por Su nombre en el ministerio.",
-        "shortAnswer": "El nombre Jehová se restituye 237 veces en las Escrituras Griegas Cristianas."
-      },
-      {
-        "id": "2A_q34",
-        "question": "¿En qué dos hechos se basó el Comité de Traducción de la Biblia del Nuevo Mundo para usar el nombre Jehová en las Escrituras Griegas Cristianas? Si hay tiempo, puedes comentar las pruebas sólidas que hay de que el Tetragrámaton aparecía en los manuscritos griegos originales.",
-        "references": "",
-        "directAnswer": "<strong>El Comité se basó en el hecho de que el Tetragrámaton aparecía en los manuscritos griegos de las Escrituras Hebreas</strong> <strong>y en la práctica de Jesús y sus discípulos de usar y glorificar el nombre de Dios.</strong>",
-        "deepAnswer": "El Comité de Traducción de la Biblia del Nuevo Mundo tuvo dos bases sólidas para restaurar el nombre Jehová en las Escrituras Griegas Cristianas. Primero, <strong>la evidencia irrefutable de que el Tetragrámaton aparecía en traducciones antiguas de las Escrituras Hebreas al griego (como la Septuaginta), las cuales eran citadas por los escritores cristianos.</strong> Segundo, <strong>el claro ejemplo de <em>Jesús mismo</em> y sus discípulos, quienes obviamente conocían, usaban y glorificaban el nombre de su Padre.</strong> Sería ilógico que omitieran el nombre que Jehová había dado a conocer, especialmente cuando citaban pasajes del Antiguo Testamento donde el nombre aparecía. La coherencia interna de las Escrituras y el respeto por el Autor Divino respaldaron esta importante decisión.",
-        "shortAnswer": "La aparición en manuscritos griegos antiguos y la práctica de Jesús y discípulos."
-      },
-      {
-        "id": "2A_q35",
-        "question": "¿Qué puedes hacer para que tus estudiantes de la Biblia y otros también se beneficien de esta información sobre el uso del nombre de Dios en la Biblia?",
-        "references": "",
-        "directAnswer": "<strong>Podemos animar a nuestros estudiantes a comparar la Traducción del Nuevo Mundo con sus propias Biblias, señalando la restitución del nombre de Jehová y explicando por qué es vital usarlo para conocer al Dios verdadero.</strong>",
-        "deepAnswer": "Una forma efectiva es <em>mostrarles directamente</em> en sus Biblias la omisión del nombre divino y luego cómo la Traducción del Nuevo Mundo lo ha restituido en miles de lugares, basándose en abundantes pruebas manuscritas. Esto les permitirá entender que la Biblia enseña que debemos conocer a Dios por su nombre personal, Jehová, no solo como un título, como se destaca en Salmo 83:18. Explicarles con cariño esta verdad les ayudará a forjar una relación personal e íntima con el Soberano Universal, el Dios que tiene un nombre y desea que lo usemos.",
-        "shortAnswer": "Ayudémoslos a descubrir y valorar el sagrado nombre de Jehová."
-      },
-      {
-        "id": "2A_q36",
         "question": "¿Qué piensas de la Traducción del Nuevo Mundo?",
         "references": "",
-        "directAnswer": "<strong>La Traducción del Nuevo Mundo es una maravillosa provisión de Jehová que nos permite tener un conocimiento exacto de su Palabra, restaurando fielmente su santo nombre.</strong>",
-        "deepAnswer": "¡Es un verdadero tesoro! Considero que <strong>la Traducción del Nuevo Mundo es una expresión tangible del amor de Jehová por su pueblo.</strong> Nos permite acceder a las profundas verdades de su Palabra con <em>claridad y fidelidad inigualables</em>.<br> <strong>Su característica principal es la restauración del nombre divino, Jehová, a su legítimo lugar, lo que nos ayuda a conocer y honrar a nuestro Padre celestial.</strong> Es una herramienta indispensable que fortalece nuestra fe y nos equipa plenamente para toda buena obra, sin la influencia de dogmas humanos.",
-        "shortAnswer": "¡Una traducción fiel que honra a Jehová!"
+        "directAnswer": "La Traducción del Nuevo Mundo es una herramienta excelente y precisa, porque <strong>restituye el nombre divino a su lugar legítimo</strong> y <strong>emplea un lenguaje claro y natural que permite que Jehová nos hable directamente al corazón</strong>.",
+        "deepAnswer": "Considero que esta Biblia es una obra excepcional por tres razones fundamentales. Primero, porque <strong>es fiel a los manuscritos originales</strong>, evitando paráfrasis que podrían sesgar el mensaje bíblico. Segundo, porque <strong>honra al Autor divino al restituir el nombre Jehová cerca de 7.000 veces</strong>, corrigiendo una omisión histórica basada en supersticiones. Tercero, porque <strong>su lenguaje moderno y universal facilita un entendimiento profundo del propósito de Dios</strong>, eliminando barreras de términos arcaicos o eclesiásticos. Además, sus ayudas visuales, notas de estudio y apéndices cronológicos convierten el estudio personal y la predicación en una experiencia mucho más rica y eficaz.",
+        "shortAnswer": "La Traducción del Nuevo Mundo es la voz de Dios en un lenguaje claro que restaura su nombre y llega directo al corazón."
       }
     ],
     "image": "pioneer_studying.png",
@@ -654,181 +627,291 @@ const lessonsData = [
     "questions": [
       {
         "id": "2B_q1",
-        "question": "¿Para qué sirven las notas que dicen “Ver glosario”? (Mat. 24:3; Mar. 8:34; nwt págs. 1851, 1852). La Traducción del Nuevo Mundo (parte 2). Algunas notas nos dirigen a los apéndices, como en Juan 12:38 y 1 Corintios 7:17. Explica cómo te ayudan esas notas a comprender mejor estos textos.",
-        "references": "",
-        "directAnswer": "<strong>Las notas de “Ver glosario” y las que remiten a los apéndices sirven para proporcionar información adicional y aclaraciones, ayudándonos a entender mejor términos bíblicos o el contexto de ciertos pasajes.</strong>",
-        "deepAnswer": "Las notas de estudio en la <em>Traducción del Nuevo Mundo</em> son herramientas invaluables para nuestro estudio personal. <strong>Las que dicen “Ver glosario” nos dirigen a definiciones concisas de términos clave, lo cual enriquece nuestra comprensión del vocabulario teocrático.</strong> <strong>Otras notas que nos remiten a los apéndices, como en Juan 12:38 o 1 Corintios 7:17, ofrecen <em>explicaciones detalladas</em> sobre referencias bíblicas, información textual o contextos históricos y culturales</strong>, permitiéndonos ahondar en el significado profundo de los versículos y fortalecer así nuestra fe en la Palabra inspirada de Jehová.",
-        "shortAnswer": "Aclaran términos y proveen contexto para una comprensión más profunda de la Palabra de Dios."
-      },
-      {
-        "id": "2B_q2",
-        "question": "¿Cómo podemos aprovechar bien el “Índice de palabras bíblicas”?",
-        "references": "nwt págs. 1784-1813",
-        "directAnswer": "<strong>Podemos aprovechar el “Índice de palabras bíblicas” para localizar rápidamente textos bíblicos que contengan palabras clave, lo cual facilita un estudio personal más profundo y la preparación para el ministerio.</strong>",
-        "deepAnswer": "El “Índice de palabras bíblicas” es una herramienta indispensable para el ministro diligente de la Palabra de Dios. <strong>Nos permite <em>localizar rápidamente versículos</em> que contengan una palabra en particular, facilitando así un estudio bíblico profundo y exhaustivo.</strong><br>Al recopilar todos los pasajes relacionados con un tema, podemos obtener un entendimiento completo y exacto de las verdades divinas, enriqueciendo nuestra preparación para las reuniones, nuestros comentarios y, sobre todo, fortaleciendo nuestra capacidad de enseñar con precisión en el ministerio.",
-        "shortAnswer": "Esencial para encontrar versículos y profundizar en el entendimiento bíblico."
-      },
-      {
-        "id": "2B_q3",
-        "question": "¿Cómo se podrían usar en una visita de pastoreo las entradas “Consolar” y “Consuelo”?",
-        "references": "",
-        "directAnswer": "<strong>En una visita de pastoreo, las entradas ‘Consolar’ y ‘Consuelo’ son inestimables para localizar rápidamente textos bíblicos que ofrezcan apoyo y ánimo a quienes lo necesiten, reflejando así el amor de Jehová.</strong>",
-        "deepAnswer": "Las entradas ‘Consolar’ y ‘Consuelo’ son herramientas poderosas para ministrar. <strong>Nos permiten localizar con prontitud los tesoros de la Palabra de Dios que brindan verdadero alivio.</strong> Piense en 2 Corintios 1:3,4, donde se nos recuerda que Jehová es <em>‘el Dios de todo consuelo’</em> y nos consuela para que nosotros podamos consolar a otros. <br> Al usar estas referencias, <strong>podemos escoger escrituras específicas que fortalezcan la fe del hermano o hermana, infundan esperanza y les recuerden el amor y la atención de Jehová</strong>, sin importar la carga emocional o espiritual que estén llevando. Así, cumplimos nuestro papel de pastores solícitos.",
-        "shortAnswer": "Son claves para aplicar el bálsamo consolador de la Palabra de Jehová a quienes lo necesitan."
-      },
-      {
-        "id": "2B_q4",
-        "question": "¿Por qué es práctico el glosario? ¿Cómo puedes usarlo en la adoración en familia o en tu estudio personal? Pon ejemplos.",
-        "references": "nwt págs. 1814-1844",
-        "directAnswer": "<strong>El glosario es práctico porque nos proporciona definiciones claras de términos bíblicos, lugares y personajes, lo que enriquece nuestra comprensión de las Escrituras.</strong>",
-        "deepAnswer": "El glosario de la *Traducción del Nuevo Mundo* es una herramienta valiosa que define con exactitud palabras y conceptos bíblicos importantes, así como información sobre ubicaciones geográficas y figuras históricas. <strong>Podemos usarlo en nuestra adoración en familia o estudio personal para ahondar en el significado de un término, como por ejemplo, investigar qué significa “rescate” o “alma”</strong>, lo que nos permite meditar con mayor profundidad en las verdades divinas y apreciar la precisión de la Palabra de Dios.",
-        "shortAnswer": "Define términos bíblicos para mayor comprensión."
-      },
-      {
-        "id": "2B_q5",
-        "question": "¿Por qué son prácticas las tablas de “Los cuatro Evangelios en orden cronológico”?",
-        "references": "",
-        "directAnswer": "Las tablas son prácticas porque <strong>nos permiten visualizar la vida y el ministerio de Jesús en orden cronológico</strong>, lo que <strong>nos ayuda a entender mejor la armonía de los Evangelios</strong>.",
-        "deepAnswer": "Estas tablas son una herramienta sumamente práctica y valiosa para nuestro estudio personal y para el ministerio del campo. <strong>Nos permiten armonizar los relatos de los cuatro Evangelios</strong>, lo que <strong>nos ayuda a visualizar con claridad la secuencia cronológica de los acontecimientos en la vida y el ministerio de nuestro Señor Jesucristo</strong>. Este entendimiento más profundo de la Palabra de Dios <em><strong>fortalece nuestra fe</strong></em>, <strong>nos equipa para enseñar con mayor precisión</strong> y <strong>nos ayuda a apreciar la unidad de las Escrituras inspiradas por Jehová</strong>.",
-        "shortAnswer": "Armonizan los Evangelios y aclaran la cronología del ministerio de Jesús."
-      },
-      {
-        "id": "2B_q6",
-        "question": "¿Qué información encontramos bajo “Símbolos de los mapas”?",
-        "references": "",
-        "directAnswer": "Bajo 'Símbolos de los mapas' <strong>encontramos una leyenda completa que explica el significado de los colores, las líneas, los iconos y otros elementos gráficos que se utilizan en los mapas para que podamos entender su información con claridad</strong>.",
-        "deepAnswer": "Amados hermanos, la sección <em>'Símbolos de los mapas'</em> es una herramienta didáctica fundamental que <strong>nos capacita para descifrar la riqueza de información geográfica contenida en nuestra Traducción del Nuevo Mundo</strong>. Al entender la leyenda de colores, líneas y otros iconos, <strong>podemos visualizar los lugares y rutas bíblicas</strong>, lo que hace que los relatos cobren vida. Esta comprensión profunda nos permite apreciar la exactitud de la Palabra de Jehová y <strong>fortalece nuestra fe</strong>, <strong>ayudándonos a predicar y enseñar con mayor convicción y claridad sobre los escenarios donde se desarrollaron los propósitos divinos</strong>. Es una bendición que nos acerca más a los siervos fieles de la antigüedad.",
-        "shortAnswer": "La leyenda esencial para explorar la geografía bíblica."
-      },
-      {
-        "id": "2B_q7",
-        "question": "¿Cómo nos ayudan los mapas y las explicaciones de esta sección a comprender mejor los relatos? Nota al instructor: Comenta otros detalles interesantes del apéndice A7. Apéndice B.",
-        "references": "",
-        "directAnswer": "Los mapas y las explicaciones de los apéndices nos ayudan a comprender mejor los relatos bíblicos al <strong>ubicar geográficamente los sucesos</strong> y <strong>visualizar el contexto de los acontecimientos</strong>.",
-        "deepAnswer": "Los mapas (Apéndice A7) y las explicaciones del Apéndice B son herramientas extraordinarias que dan vida a los relatos bíblicos. <strong>Nos permiten visualizar las rutas de los personajes</strong>, como los viajes de Pablo o el recorrido de Jesús, y <strong>entender la geografía de la Tierra Santa</strong>, lo que <strong>facilita que captemos el contexto histórico y cultural</strong>. Esto hace que nuestro estudio sea más real y nos ayuda a apreciar la exactitud de la Palabra de Dios, fortaleciendo nuestra fe.",
-        "shortAnswer": "Visualizan el contexto y enriquecen los relatos."
-      },
-      {
-        "id": "2B_q8",
-        "question": "¿Qué información útil encontramos bajo “Símbolos de los mapas”?",
-        "references": "nwt pág. 1893",
-        "directAnswer": "Bajo “Símbolos de los mapas” <strong>encontramos una guía clara para comprender la leyenda y las convenciones geográficas usadas en los mapas de la Traducción del Nuevo Mundo</strong>, lo que <strong>nos permite ubicarnos mejor en los relatos bíblicos</strong>.",
-        "deepAnswer": "Hermanos, la sección <em>“Símbolos de los mapas”</em> en nuestra Traducción del Nuevo Mundo es una herramienta invaluable para nuestro estudio personal. <strong>Nos proporciona la clave para interpretar correctamente los distintos elementos visuales de los mapas, como fronteras, rutas de viaje, altitudes y la importancia de diversas ciudades y sitios</strong>. Esto <strong>nos ayuda a visualizar y comprender mejor el contexto geográfico de los relatos bíblicos</strong>, haciendo que las Escrituras cobren vida y profundizando nuestro aprecio por la exactitud de la Palabra de Jehová. Nos permite seguir los viajes de personajes fieles y entender el significado de los lugares mencionados, lo que enriquece nuestro entendimiento y nuestra enseñanza en el ministerio.",
-        "shortAnswer": "Los símbolos de los mapas nos ayudan a ubicar y visualizar mejor los relatos bíblicos."
-      },
-      {
-        "id": "2B_q9",
-        "question": "¿Para qué podrías usar la sección “El mensaje de la Biblia”? (nwt págs. 1894, 1895). Da ejemplos de cómo usar las siguientes ayudas del apéndice B en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien:",
-        "references": "",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": "",
+        "question": "Con la ayuda de los siguientes versículos, explica para qué sirven estas cuatro categorías de notas (nwt pág. 1853):",
+        "references": "nwt pág. 1853",
+        "subtitle": "Notas (apéndice A2)",
+        "note": "Cuando hay una nota para la misma palabra varias veces en la misma página, se unen en una sola nota (Hech. 15:20, 29).",
         "subQuestions": [
           {
-            "id": "2B_q9_a",
-            "question": "¿Para qué podrías usar la sección “El mensaje de la Biblia”? (nwt págs. 1894, 1895).",
-            "references": "nwt págs. 1894, 1895",
-            "directAnswer": "Esta sección <strong>permite captar rápidamente el tema central de las Escrituras, que es la vindicación de la soberanía de Jehová mediante su Reino</strong>.",
-            "deepAnswer": "La sección “El mensaje de la Biblia” es una excelente herramienta para entender el propósito divino a través de los siglos. <strong>Nos ayuda a ver la Biblia no como una colección de historias aisladas, sino como un libro unificado que explica cómo Jehová santificará su nombre</strong>. <strong>Es especialmente útil para introducir cursos bíblicos o para refrescar nuestra propia visión panorámica del propósito de Dios</strong>.",
-            "shortAnswer": "Sirve para captar el tema central de la Biblia y ver su mensaje como un todo coherente."
+            "id": "2B_q1_a",
+            "question": "“O” (Job 21:13; Sal. 51:5; Luc. 14:26).",
+            "references": "Job 21:13; Sal. 51:5; Luc. 14:26",
+            "directAnswer": "La nota \"O\" se utiliza en la Traducción del Nuevo Mundo para <strong>ofrecer una traducción alternativa o una expresión diferente del texto original que ayuda a entender mejor el sentido del versículo</strong>.",
+            "deepAnswer": "La nota \"O\" cumple una función fundamental al <strong>proporcionar flexibilidad en la traducción cuando el término o frase en el idioma original permite más de una interpretación válida</strong> o cuando una traducción literal podría ser ambigua o poco natural. Por ejemplo, en Job 21:13, la nota ayuda a captar el matiz de la expresión; en Salmo 51:5, permite una comprensión más clara de la condición humana, y en Lucas 14:26, donde Jesús menciona \"odiar\" a la familia, la nota \"O\" (que indica \"amar menos\") es crucial para entender correctamente el sentido bíblico de priorizar el amor a Dios por encima del afecto familiar sin que esto signifique aborrecer físicamente a los seres queridos. Estas notas demuestran el compromiso de los traductores con la fidelidad al mensaje original, <strong>asegurando que el lector no solo acceda a las palabras, sino al significado profundo que el autor inspirado quiso transmitir</strong>.",
+            "shortAnswer": "La nota \"O\" ofrece alternativas de traducción que clarifican el sentido exacto del mensaje original."
           },
           {
-            "id": "2B_q9_b",
-            "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Mapas' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
-            "references": "nwt Apéndice B",
-            "directAnswer": "Los mapas nos ayudan a <strong>visualizar los trayectos bíblicos</strong> y <strong>la ubicación geográfica de los sucesos</strong>, <strong>fortaleciendo nuestra fe en la precisión de las Escrituras</strong>.",
-            "deepAnswer": "Al estudiar eventos como los viajes misioneros de Pablo o el éxodo de Israel, los mapas del apéndice B <strong>nos permiten comprender los desafíos geográficos y la magnitud de las distancias que recorrieron los siervos de Dios</strong>. Esto da realismo a la lectura y <strong>nos permite explicar mejor a nuestros estudiantes de la Biblia los detalles de las narraciones sagradas</strong>.",
-            "shortAnswer": "Ayudan a visualizar las ubicaciones y distancias, dando realismo y precisión a la lectura bíblica."
+            "id": "2B_q1_b",
+            "question": "“O quizás” (Ecl. 7:9; Gál. 5:14).",
+            "references": "Ecl. 7:9; Gál. 5:14",
+            "directAnswer": "La nota \"O quizás\" <strong>indica que el texto original admite una interpretación alternativa válida que ayuda a entender mejor el matiz o el sentido del versículo en su contexto</strong>.",
+            "deepAnswer": "En la Traducción del Nuevo Mundo, la nota \"O quizás\" se utiliza cuando los traductores han elegido una lectura principal por ser la más probable, pero reconocen que el texto hebreo o griego permite una traducción adicional que también tiene sentido. Por ejemplo, en Eclesiastés 7:9, esta nota <strong>ayuda al lector a considerar un posible matiz en la advertencia</strong> contra la ira. En Gálatas 5:14, permite apreciar la profundidad de la ley del amor. Estas notas son herramientas valiosas para el estudio personal, pues <strong>ofrecen al lector una visión más completa de las posibles interpretaciones, enriqueciendo la comprensión del mensaje inspirado</strong> sin apartarse de la exactitud del texto original.",
+            "shortAnswer": "La nota \"O quizás\" nos permite ampliar nuestra comprensión al ofrecer una interpretación alternativa válida del texto original."
           },
           {
-            "id": "2B_q9_c",
-            "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Diagramas' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
-            "references": "nwt Apéndice B",
-            "directAnswer": "Los diagramas <strong>clarifican conceptos complejos o estructuras</strong>, como la organización del tabernáculo o las profecías, <strong>facilitando la enseñanza</strong>.",
-            "deepAnswer": "Los diagramas son herramientas visuales potentes. Por ejemplo, al estudiar sobre el tabernáculo o la estructura de los gobiernos, los diagramas <strong>permiten que el estudiante capture visualmente información que, descrita solo con palabras, podría resultar abstracta</strong>. En el estudio personal, <strong>ayudan a organizar nuestra comprensión mental de temas profundos</strong>.",
-            "shortAnswer": "Facilitan la comprensión de temas técnicos o abstractos mediante una representación visual clara."
+            "id": "2B_q1_c",
+            "question": "“Lit.” (Juan 2:4).",
+            "references": "Juan 2:4",
+            "directAnswer": "La abreviatura Lit. en Juan 2:4 <strong>indica que el texto contiene una traducción literal de las palabras originales en griego</strong>, <strong>permitiendo al lector conocer el sentido básico del idioma original cuando una traducción más fluida podría ocultar un matiz importante</strong>.",
+            "deepAnswer": "La nota Lit. en Juan 2:4 es fundamental para comprender que el Comité de Traducción <strong>busca equilibrar la naturalidad con la exactitud</strong>. Aunque la Traducción del Nuevo Mundo evita una literalidad palabra por palabra cuando esta oscurece el significado o suena poco natural, <strong>utiliza la nota Lit. para mostrar el sentido literal de la expresión original</strong>. En este versículo, la respuesta de Jesús a su madre al decir literalmente qué tengo que ver contigo, ayuda al lector a entender la intención detrás de sus palabras en el contexto de su ministerio, algo que una paráfrasis o una traducción menos precisa podría suavizar innecesariamente. Este recurso <strong>permite que el estudiante de la Biblia acceda a la estructura del pensamiento original sin sacrificar la claridad y la fluidez del lenguaje moderno</strong> que caracteriza a nuestra traducción.",
+            "shortAnswer": "La nota Lit. nos permite conocer el sentido original del texto cuando una traducción fluida no captura todos sus matices."
           },
           {
-            "id": "2B_q9_d",
-            "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Periodos de tiempo' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
-            "references": "nwt Apéndice B",
-            "directAnswer": "Estas tablas <strong>nos ayudan a situar correctamente a los profetas, reyes y eventos bíblicos en la cronología de la historia humana</strong>.",
-            "deepAnswer": "Los periodos de tiempo son fundamentales para entender el contexto profético. <strong>Ayudan a identificar qué rey gobernaba al mismo tiempo que un profeta específico</strong>, lo que <strong>permite entender el mensaje de advertencia o ánimo que Dios envió a su pueblo</strong>. Es esencial para preparar comentarios en la reunión donde se requiere precisión cronológica.",
-            "shortAnswer": "Permiten ubicar correctamente eventos y personajes bíblicos en la línea del tiempo histórica."
-          },
-          {
-            "id": "2B_q9_e",
-            "question": "Da ejemplos de cómo usar la ayuda del apéndice B 'Medidas' en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien.",
-            "references": "nwt Apéndice B",
-            "directAnswer": "Las tablas de medidas <strong>nos permiten convertir unidades antiguas a modernas</strong>, <strong>dándonos una idea tangible del tamaño de objetos como el arca de Noé o el templo</strong>.",
-            "deepAnswer": "A menudo, las medidas bíblicas nos resultan ajenas. Al usar las tablas del apéndice B, <strong>podemos dimensionar correctamente la magnitud de la obra de Noé o las especificaciones del arca del pacto</strong>. Esto <strong>aumenta nuestro asombro ante la magnitud de los proyectos bíblicos y ayuda al estudiante a apreciar la exactitud de los detalles inspirados</strong>.",
-            "shortAnswer": "Ayudan a entender el tamaño y las distancias mencionadas en la Biblia convirtiéndolas a unidades modernas."
-          },
-          {
-            "id": "2B_q9_f",
-            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando predicas de casa en casa.",
-            "references": "nwt págs. 5-36",
-            "directAnswer": "Podemos usarla para <strong>mostrar al amo de casa, de forma rápida, cómo la Biblia responde a sus inquietudes sobre la vida, el futuro o el propósito de Dios</strong>.",
-            "deepAnswer": "Al predicar, podemos abrir esta sección para <strong>mostrar secciones que explican por qué confiar en la Biblia</strong>. Es ideal para cuando alguien plantea una duda sobre la veracidad de las Escrituras o su utilidad práctica, permitiéndonos <strong>demostrar que la Biblia es un libro relevante y actual</strong>.",
-            "shortAnswer": "Sirve como una guía rápida para demostrar la autoridad y relevancia práctica de la Biblia a las personas."
-          },
-          {
-            "id": "2B_q9_g",
-            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando haces revisitas.",
-            "references": "nwt págs. 5-36",
-            "directAnswer": "Podemos <strong>profundizar en los temas introductorios para establecer una base sólida sobre la importancia de la Biblia en la vida diaria del interesado</strong>.",
-            "deepAnswer": "En una revisita, si detectamos que la persona tiene dudas sobre si la Biblia es de origen divino, esta sección <strong>nos proporciona puntos clave y textos bíblicos que respaldan su autoridad</strong>. Es un recurso excelente para <strong>edificar fe gradualmente en cada visita</strong>.",
-            "shortAnswer": "Es un recurso valioso para fortalecer la confianza del interesado en la veracidad de las Escrituras."
-          },
-          {
-            "id": "2B_q9_h",
-            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando das cursos de la Biblia.",
-            "references": "nwt págs. 5-36",
-            "directAnswer": "Nos ayuda a <strong>establecer desde las primeras lecciones la autoridad divina de la Biblia y su capacidad para guiar a las personas</strong>.",
-            "deepAnswer": "Durante un curso bíblico, esta sección es la base para <strong>enseñar al estudiante que Jehová se comunica con la humanidad</strong>. Podemos usar las gráficas y explicaciones para <strong>mostrar cómo se ha preservado la Biblia y por qué podemos confiar en lo que leemos</strong>, haciendo el estudio más dinámico y convincente.",
-            "shortAnswer": "Establece la base necesaria sobre la inspiración y la autoridad de la Biblia al comenzar un curso."
-          },
-          {
-            "id": "2B_q9_i",
-            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) en las reuniones para el servicio del campo.",
-            "references": "nwt págs. 5-36",
-            "directAnswer": "Sirve para <strong>extraer puntos clave que nos ayuden a preparar introducciones sencillas o reflexiones que podamos compartir al predicar</strong>.",
-            "deepAnswer": "En la reunión para el servicio del campo, el grupo puede analizar brevemente un recuadro o punto de esta introducción para <strong>encontrar una idea estimulante que presentar</strong>. Esto nos da seguridad al saber que estamos usando información directamente de la Palabra de Dios para iniciar conversaciones significativas.",
-            "shortAnswer": "Es una excelente fuente de ideas para preparar el enfoque de nuestras presentaciones en el ministerio."
-          },
-          {
-            "id": "2B_q9_j",
-            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando ensayas lo que vas a decir en la predicación.",
-            "references": "nwt págs. 5-36",
-            "directAnswer": "Permite <strong>practicar cómo presentar la Biblia de manera atractiva</strong> y cómo <strong>responder objeciones comunes utilizando la información teocrática ahí expuesta</strong>.",
-            "deepAnswer": "Al ensayar, esta sección nos ayuda a <strong>seleccionar pasajes clave que demuestren por qué la Biblia es útil hoy en día</strong>. Nos permite <strong>organizar nuestros pensamientos para ser claros y directos al hablar con otros</strong>, asegurándonos de que nuestro mensaje esté siempre fundamentado en la verdad.",
-            "shortAnswer": "Ayuda a estructurar nuestras ideas para presentar la Biblia con claridad y convicción durante el ensayo."
-          },
-          {
-            "id": "2B_q9_k",
-            "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” (nwt págs. 5-36) cuando preparas a un estudiante para el ministerio.",
-            "references": "nwt págs. 5-36",
-            "directAnswer": "<strong>Capacita al estudiante para que sepa defender su fe y usar la Biblia con pericia al hablar con otras personas sobre el Reino</strong>.",
-            "deepAnswer": "Para un estudiante, esta sección es como un manual de entrenamiento. Le enseña que la Biblia tiene respuestas confiables. Al <strong>enseñarle a usarla, le estamos dando herramientas para que, cuando salga a predicar, sepa navegar en las Escrituras y responder preguntas con la seguridad de que cuenta con la guía de Jehová</strong>.",
-            "shortAnswer": "Es una herramienta de entrenamiento esencial que da confianza al estudiante para usar la Biblia con pericia en el ministerio."
+            "id": "2B_q1_d",
+            "question": "Significados e información adicional (Gén. 24:32; 25:8; Jos. 3:4; Juec. 7:19).",
+            "references": "Gén. 24:32; 25:8; Jos. 3:4; Juec. 7:19",
+            "directAnswer": "Las notas que ofrecen significados e información adicional sirven para <strong>explicar términos, costumbres, medidas o contextos históricos necesarios para entender correctamente el sentido de un versículo</strong>, tal como se ilustra en Génesis 24:32, 25:8, Josué 3:4 y Jueces 7:19.",
+            "deepAnswer": "Estas notas son herramientas fundamentales de la Biblia de estudio que permiten al lector comprender detalles que no son evidentes a primera vista debido a la distancia temporal y cultural. En Génesis 24:32, la nota aclara el contexto de las costumbres hospitalarias de la época. En Génesis 25:8, explica qué implica la expresión 'ser reunido a su pueblo', un término que describe el descanso en la muerte. Respecto a Josué 3:4 y Jueces 7:19, estas notas ayudan a visualizar medidas de distancia o divisiones de tiempo específicas que son esenciales para entender la narrativa histórica y la organización militar de Israel. El objetivo de estas ayudas es <strong>proporcionar la información histórica, arqueológica y cultural necesaria para una comprensión más profunda y exacta de la Palabra de Dios</strong>, asegurando que el mensaje llegue al corazón del lector tal como fue concebido originalmente.",
+            "shortAnswer": "Las notas de información adicional son llaves que abren el contexto cultural e histórico para entender el significado preciso de las Escrituras."
           }
         ]
       },
       {
+        "id": "2B_q2",
+        "question": "¿Para qué sirven las notas que dicen “Ver glosario”? (Mat. 24:3; Mar. 8:34; nwt págs. 1851, 1852).",
+        "references": "Mat. 24:3; Mar. 8:34; nwt págs. 1851, 1852",
+        "directAnswer": "Las notas que indican Ver glosario sirven para <strong>explicar el significado de términos bíblicos que pueden resultar complejos, poco comunes o que tienen un sentido especial en el contexto de las Escrituras.</strong>",
+        "deepAnswer": "Estas notas son herramientas fundamentales de la Traducción del Nuevo Mundo porque <strong>ofrecen definiciones precisas que permiten entender conceptos clave sin necesidad de buscar en fuentes externas.</strong> Por ejemplo, en Mateo 24:3, el glosario aclara qué significa la presencia de Cristo y el tiempo del fin, términos esenciales para entender la profecía. De igual manera, en Marcos 8:34, el término repudiarse a sí mismo se explica para que el lector comprenda que implica una renuncia total a los deseos egoístas para seguir a Jesús. El glosario es valioso porque <strong>ayuda a mantener la claridad del lenguaje, asegurando que todos los lectores, independientemente de su trasfondo, comprendan las verdades bíblicas con exactitud y unidad de pensamiento.</strong>",
+        "shortAnswer": "El glosario nos ayuda a entender con exactitud el significado bíblico de términos importantes."
+      },
+      {
+        "id": "2B_q3",
+        "question": "Algunas notas nos dirigen a los apéndices, como en Juan 12:38 y 1 Corintios 7:17. Explica cómo te ayudan esas notas a comprender mejor estos textos.",
+        "references": "Juan 12:38; 1 Cor. 7:17",
+        "directAnswer": "Estas notas <strong>nos dirigen al apéndice A5 para ayudarnos a entender el uso del nombre divino, Jehová, en las Escrituras Griegas Cristianas</strong>, lo cual nos permite comprender mejor la importancia de restituir el nombre de Dios en textos donde otras traducciones lo han omitido.",
+        "deepAnswer": "Las notas en Juan 12:38 y 1 Corintios 7:17 <strong>sirven como enlaces directos al apéndice A5, donde se explica con claridad por qué el nombre Jehová aparece 237 veces en las Escrituras Griegas Cristianas</strong>. En Juan 12:38, que cita Isaías 53:1, la nota <strong>nos ayuda a ver que los escritores bíblicos inspirados citaban las Escrituras Hebreas manteniendo el nombre divino</strong>, a pesar de que los copistas posteriores lo sustituyeron por títulos como 'Señor' o 'Dios'. De igual manera, en 1 Corintios 7:17, la nota <strong>nos guía a comprender que, al utilizar el nombre Jehová, se respeta la fidelidad al texto original y se restaura la identidad personal del Creador</strong>, permitiendo que el lector sienta que Jehová le habla directamente en un lenguaje claro y preciso, evitando la confusión causada por las omisiones motivadas por tradiciones religiosas o supersticiones.",
+        "shortAnswer": "Las notas nos ayudan a entender que el nombre de Dios es esencial para leer las Escrituras con la misma claridad y sentido de cercanía que los primeros cristianos."
+      },
+      {
+        "id": "2B_q4",
+        "question": "Da ejemplos de cómo podemos usar la información de las referencias marginales.",
+        "references": "nwt",
+        "subtitle": "Referencias marginales",
+        "note": "La Traducción del Nuevo Mundo revisada incluye las referencias marginales más relevantes de ediciones anteriores. Si hay tiempo, puedes mencionar algunos ejemplos.",
+        "subQuestions": [
+          {
+            "id": "2B_q4_a",
+            "question": "Ideas paralelas (Mat. 4:1; Luc. 4:1).",
+            "references": "Mat. 4:1; Luc. 4:1",
+            "directAnswer": "Las ideas paralelas sirven para <strong>comparar relatos de distintos evangelistas que narran el mismo acontecimiento</strong>, lo que permite enriquecer nuestra comprensión al <strong>obtener una visión más completa y detallada de los hechos</strong>.",
+            "deepAnswer": "Al utilizar referencias marginales como la de Mateo 4:1 y Lucas 4:1, que narran la tentación de Jesús en el desierto, podemos observar que los escritores bíblicos a menudo complementan sus relatos con detalles únicos. Mientras que un escritor enfatiza ciertos aspectos, otro añade información que nos ayuda a reconstruir el suceso con mayor precisión. El beneficio principal de usar estas ideas paralelas es que <strong>logramos una visión más amplia y profunda de la vida y el ministerio de Jesús</strong>, evitando conclusiones parciales y permitiendo que la propia Biblia se explique a sí misma mediante el cotejo de los testimonios de los distintos evangelistas.",
+            "shortAnswer": "Las ideas paralelas nos ofrecen una imagen más clara y completa de los sucesos bíblicos al combinar los detalles aportados por distintos escritores."
+          },
+          {
+            "id": "2B_q4_b",
+            "question": "Cumplimiento de profecías (Sal. 22:1; Mat. 27:46).",
+            "references": "Sal. 22:1; Mat. 27:46",
+            "directAnswer": "Las referencias marginales nos ayudan a <strong>comprobar el cumplimiento de profecías al conectar directamente las palabras proféticas del salmista con su realización histórica en la vida de Jesús</strong>, confirmando así la exactitud de la Palabra de Dios.",
+            "deepAnswer": "El uso de referencias marginales es una herramienta esencial para el estudio bíblico, pues permite <strong>demostrar la armonía entre las Escrituras</strong>. En el caso de Salmo 22:1 y Mateo 27:46, la referencia marginal nos guía desde el clamor angustiado de David, quien profetizaba bajo inspiración, hasta el momento exacto en que Jesús pronunció palabras similares al estar en el madero de tormento. Esta conexión <strong>prueba que Jehová es el autor de las profecías y que Jesús es el Mesías prometido</strong>. Al seguir estas referencias, el estudiante no solo ve la relación entre el Antiguo y el Nuevo Testamento, sino que fortalece su fe al confirmar que las Escrituras son un todo coherente y veraz, diseñado por el Creador para revelar su propósito.",
+            "shortAnswer": "Las referencias marginales vinculan las promesas inspiradas con sus realidades históricas, fortaleciendo nuestra fe en la precisión de la Palabra de Dios."
+          },
+          {
+            "id": "2B_q4_c",
+            "question": "Citas directas de frases, expresiones y versículos enteros (Deut. 8:3; Mat. 4:4).",
+            "references": "Deut. 8:3; Mat. 4:4",
+            "directAnswer": "Las referencias marginales de citas directas nos ayudan a <strong>identificar cuándo los escritores del Nuevo Testamento citan partes específicas de las Escrituras Hebreas</strong>, permitiéndonos <strong>ver la conexión inmediata entre las profecías o mandatos originales y su aplicación cristiana</strong>.",
+            "deepAnswer": "En el caso de Deuteronomio 8:3 y Mateo 4:4, las referencias marginales son herramientas valiosas que nos permiten <strong>comparar cómo Jesús utilizó las Escrituras inspiradas para defenderse</strong>. Al estudiar Mateo 4:4, la referencia marginal nos dirige a Deuteronomio 8:3, donde Moisés recuerda al pueblo de Israel que el alimento espiritual es vital para la supervivencia, tal como lo es el pan físico. Al ver estas citas directas, <strong>comprendemos que el mensaje de Jehová es constante</strong> y que Jesús tenía un profundo conocimiento de las Escrituras Hebreas, las cuales citaba con autoridad para confirmar el cumplimiento de la Palabra de Dios en su ministerio. Esto nos ayuda a <strong>apreciar la unidad de toda la Biblia</strong> y a aprender a usar el texto sagrado con la misma precisión que nuestro Maestro.",
+            "shortAnswer": "Las referencias marginales de citas directas conectan la Palabra de Dios a través de las edades, demostrando la unidad y autoridad de las Escrituras."
+          },
+          {
+            "id": "2B_q4_d",
+            "question": "Detalles del pacto de la Ley que representaban cosas mencionadas en las Escrituras Griegas (Éx. 23:19; 1 Cor. 15:20).",
+            "references": "Ex. 23:19; 1 Cor. 15:20",
+            "directAnswer": "<strong>Las referencias marginales vinculan los requisitos del pacto de la Ley con su cumplimiento en las Escrituras Griegas Cristianas</strong>, mostrando que las leyes de Moisés servían como una sombra de las cosas buenas por venir, tal como se ilustra en <strong>la ofrenda de las primicias que prefiguró la resurrección de Jesucristo</strong>.",
+            "deepAnswer": "El pacto de la Ley contenía disposiciones ceremoniales que tenían un significado profético. Por ejemplo, Éxodo 23:19 ordenaba a los israelitas llevar las primicias de los primeros frutos de la tierra a la casa de Jehová. Este requisito legislativo halló su cumplimiento antitípico en 1 Corintios 15:20, donde el apóstol Pablo explica que Cristo ha sido levantado de entre los muertos como primicias de los que se han dormido en la muerte. Al comparar estos textos, entendemos que los ritos del antiguo pacto no eran simples tradiciones, sino que <strong>fueron diseñados por Dios para enseñar sobre el sacrificio y el papel de su Hijo</strong>, ayudándonos a confirmar que Jesús es el cumplimiento de todas las promesas y figuras contenidas en las Escrituras Hebreas.",
+            "shortAnswer": "La Ley mosaica fue una sombra profética que halló su cumplimiento perfecto en la persona y el sacrificio de Jesucristo."
+          }
+        ]
+      },
+      {
+        "id": "2B_q5",
+        "question": "¿Cómo podemos aprovechar bien el “Índice de palabras bíblicas”? (nwt págs. 1784-1813).",
+        "references": "nwt págs. 1784-1813",
+        "subtitle": "Índice de palabras bíblicas",
+        "directAnswer": "Podemos aprovechar bien el Índice de palabras bíblicas usándolo para <strong>localizar rápidamente dónde aparecen términos específicos en la Biblia</strong> y para <strong>encontrar versículos relacionados con temas concretos</strong> que estemos estudiando o investigando.",
+        "deepAnswer": "El Índice de palabras bíblicas es una herramienta esencial para el estudio personal y la preparación de reuniones. Al organizar alfabéticamente las palabras y expresiones más importantes de las Escrituras, nos permite localizar con rapidez pasajes donde se analizan conceptos específicos o se menciona una palabra clave. Es especialmente útil cuando queremos ampliar nuestra comprensión sobre un tema, ya que nos guía a otros versículos que contienen el mismo término o guardan una relación temática, lo cual es fundamental para dejar que la Biblia se explique a sí misma. Además, es un recurso valioso para localizar textos que necesitamos para nuestra predicación o enseñanza, ahorrándonos tiempo y permitiéndonos profundizar en el tesoro de sabiduría que contiene la Palabra de Dios.",
+        "shortAnswer": "El Índice es nuestra guía temática personal para localizar versículos y profundizar en la Palabra de Dios con rapidez."
+      },
+      {
+        "id": "2B_q6",
+        "question": "¿Cómo se podrían usar en una visita de pastoreo las entradas “Consolar” y “Consuelo”?",
+        "references": "",
+        "directAnswer": "En una visita de pastoreo, las entradas 'Consolar' y 'Consuelo' del Índice de palabras bíblicas se pueden usar para <strong>localizar rápidamente textos que ayuden a la persona a sentir el apoyo de Jehová</strong>, permitiéndonos leer juntos pasajes reconfortantes que fortalezcan su fe y le brinden paz mental.",
+        "deepAnswer": "El Índice de palabras bíblicas es una herramienta valiosa porque nos permite <strong>identificar rápidamente diversos relatos y versículos que abordan necesidades emocionales específicas</strong>. Al preparar una visita de pastoreo, buscar 'Consolar' o 'Consuelo' nos ayuda a <strong>seleccionar pasajes que demuestran que Jehová se interesa profundamente por sus siervos</strong>, tal como lo hace al hablarnos directamente en un lenguaje claro y sencillo que llega al corazón. Esta búsqueda nos permite <strong>ofrecer un alimento espiritual exacto y oportuno</strong>, basándonos en la Palabra de Dios para ayudar a la persona a ver que el Creador entiende su situación personal y desea brindarle alivio. Usar estas entradas facilita una lectura bíblica enfocada en la compasión divina, lo cual es fundamental para consolar a los que están desanimados, recordándoles que Jehová es la fuente de todo consuelo verdadero.",
+        "shortAnswer": "El Índice de palabras bíblicas es una herramienta clave para encontrar y compartir rápidamente el consuelo que Jehová ofrece a quienes sufren."
+      },
+      {
+        "id": "2B_q7",
+        "question": "¿Por qué es práctico el glosario? ¿Cómo puedes usarlo en la adoración en familia o en tu estudio personal? Pon ejemplos (nwt págs. 1814-1844).",
+        "references": "nwt págs. 1814-1844",
+        "subtitle": "Glosario",
+        "directAnswer": "El glosario es práctico porque <strong>define términos bíblicos de manera sencilla y clara</strong>, lo cual <strong>ayuda a comprender conceptos fundamentales</strong>. En la adoración en familia o el estudio personal, puedes usarlo para <strong>aclarar términos técnicos durante la lectura</strong>, <strong>investigar significados al profundizar en un tema</strong> y <strong>asegurar que todos, incluidos los más jóvenes, tengan una base doctrinal correcta</strong>.",
+        "deepAnswer": "El glosario de la Traducción del Nuevo Mundo es una herramienta esencial porque <strong>ofrece definiciones precisas de términos bíblicos importantes</strong>, evitando confusiones comunes. Por ejemplo, al leer Mateo 24:3, el glosario <strong>ayuda a entender el significado profundo de la palabra 'presencia' en relación con Cristo</strong>, algo vital para la fe cristiana. En el estudio personal, al encontrar términos como 'Seol', 'Hades' o 'Gehena', el glosario <strong>permite explicar la diferencia entre ellos de forma didáctica</strong>. En la adoración en familia, puede utilizarse para hacer juegos de preguntas y respuestas donde se busque la definición de una palabra clave de la lectura bíblica semanal, <strong>fomentando así un lenguaje común y una mayor precisión en el uso de la terminología teocrática</strong>.",
+        "shortAnswer": "El glosario es la llave que abre el entendimiento al aclarar conceptos bíblicos clave con sencillez y exactitud."
+      },
+      {
+        "id": "2B_q8",
+        "question": "Explica cómo nos ayuda a entender mejor los relatos bíblicos la tabla “Los profetas y los reyes de Judá e Israel”.",
+        "references": "nwt págs. 1872-1875",
+        "subtitle": "A6 Los profetas y los reyes de Judá e Israel",
+        "directAnswer": "La tabla “Los profetas y los reyes de Judá e Israel” nos ayuda a <strong>situar en orden cronológico a los reyes de ambos reinos</strong> y permite <strong>identificar qué profetas fueron enviados por Jehová en cada periodo para aconsejarlos o advertirles</strong>, lo cual da un contexto claro a los libros proféticos.",
+        "deepAnswer": "Esta herramienta resulta fundamental para el estudio bíblico porque permite organizar los acontecimientos históricos de los reinos de Judá e Israel, los cuales a menudo se entrelazan en los relatos. Al usar esta tabla, podemos visualizar la relación directa entre el comportamiento de los monarcas y el mensaje que los profetas de Dios transmitían bajo su dirección. Esto nos permite <strong>entender mejor el trasfondo histórico en el que se escribieron los libros proféticos</strong>, viendo claramente cómo Jehová, en su amor, enviaba advertencias y guía oportuna a través de sus siervos en momentos críticos de la historia. De esta forma, los mensajes de los profetas dejan de ser textos aislados y se convierten en comunicaciones vivas dirigidas a personas reales en situaciones específicas de fidelidad o desobediencia a Dios.",
+        "shortAnswer": "Esta tabla contextualiza los mensajes proféticos al mostrarnos quiénes eran los reyes y profetas contemporáneos en cada momento de la historia bíblica."
+      },
+      {
+        "id": "2B_q9",
+        "question": "¿Por qué son prácticas las tablas de “Los cuatro Evangelios en orden cronológico”?",
+        "references": "nwt págs. 1876-1891",
+        "subtitle": "A7 La vida de Jesús en la tierra",
+        "directAnswer": "Las tablas de Los cuatro Evangelios en orden cronológico son muy prácticas porque nos ayudan a <strong>reunir los diversos relatos de Mateo, Marcos, Lucas y Juan en una sola línea de tiempo</strong>, lo que <strong>facilita entender el desarrollo y el orden real de la vida y el ministerio de Jesús en la Tierra</strong>.",
+        "deepAnswer": "Estas tablas resultan herramientas invaluables para el estudio personal y la preparación de enseñanza, ya que <strong>al consolidar los relatos paralelos de los cuatro Evangelios, nos permiten visualizar la secuencia exacta de los acontecimientos</strong>. Gracias a este orden cronológico, <strong>podemos comprender mejor el contexto, el desarrollo y la progresión del ministerio de Jesús</strong>. Además, al complementarse con los mapas y explicaciones adicionales del apéndice, estas tablas nos permiten ubicar geográficamente los sucesos, entender las distancias reales que recorrió Jesús y apreciar cómo cada evento encaja en el propósito divino, ofreciendo así una perspectiva mucho más completa, profunda y organizada de la vida de nuestro Señor.",
+        "shortAnswer": "Las tablas cronológicas transforman cuatro relatos individuales en una historia armonizada y fácil de seguir sobre la vida de Jesús."
+      },
+      {
         "id": "2B_q10",
-        "question": "su contenido. ¿Para qué te puede servir?",
-        "references": "nwt pág. 1853",
-        "directAnswer": "El Índice de palabras de las Escrituras nos sirve para <strong>encontrar rápidamente todos los textos donde aparece una palabra o frase específica</strong>, lo cual <strong>es muy útil para la investigación y el estudio profundo.</strong>",
-        "deepAnswer": "Este índice es una herramienta excelente para el estudio exhaustivo de la Biblia, pues <strong>nos permite localizar todas las referencias donde se menciona una palabra clave.</strong> Esto <strong>facilita enormemente la investigación de un tema bíblico, ayudándonos a tener una comprensión completa de lo que las Escrituras dicen al respecto desde distintas perspectivas.</strong> <strong>Es indispensable para preparar discursos, presentaciones o simplemente para enriquecer nuestro estudio personal y la adoración en familia.</strong>",
-        "shortAnswer": "Ayuda a encontrar textos sobre palabras clave."
+        "question": "¿Qué información encontramos bajo “Símbolos de los mapas”?",
+        "references": "nwt págs. 1876-1891",
+        "directAnswer": "Los Símbolos de los mapas son una <strong>guía visual que permite leer correctamente elementos geográficos clave, como las escalas, el relieve físico, las rutas comerciales y los límites políticos</strong> de los territorios mencionados en la Biblia.",
+        "deepAnswer": "El apéndice B de la Traducción del Nuevo Mundo contiene esta sección de Símbolos de los mapas con el propósito de <strong>ayudar al lector a visualizar con exactitud el escenario geográfico de los relatos bíblicos</strong>. Al utilizar esta herramienta, el estudiante puede identificar correctamente la altitud y el terreno mediante el relieve, comprender la extensión de las distancias gracias a la escala, y situar los acontecimientos históricos dentro de un contexto político o de rutas de desplazamiento. Estos símbolos <strong>actúan como una clave técnica que evita confusiones al interpretar los diversos mapas del apéndice</strong>, permitiendo que la geografía bíblica cobre vida y facilite una comprensión más profunda de los viajes, las campañas militares y la ubicación de las ciudades antiguas.",
+        "shortAnswer": "Los símbolos de los mapas son la clave visual necesaria para interpretar correctamente las distancias, el terreno y el contexto político de la geografía bíblica."
       },
       {
         "id": "2B_q11",
-        "question": "• ¿Cómo te han ayudado las notas de estudio que",
-        "references": "",
-        "directAnswer": "Las notas de estudio de la Traducción del Nuevo Mundo me han ayudado muchísimo a <strong>profundizar en mi comprensión de pasajes bíblicos y a aclarar verdades que de otro modo serían menos evidentes.</strong> <strong>Son una herramienta invaluable para el estudio personal.</strong>",
-        "deepAnswer": "Estas notas son un verdadero tesoro espiritual que <strong>nos permiten <em>profundizar en la sabiduría de Jehová</em>.</strong> Me han ayudado enormemente al <strong>proporcionar entendimiento sobre el significado original de las palabras hebreas y griegas, revelando la exactitud y riqueza del mensaje divino.</strong> Además, <strong>las referencias cruzadas y los apéndices ofrecen un contexto inestimable que conecta pasajes y clarifica verdades, fortaleciendo mi convicción y mi capacidad para enseñar con precisión en el ministerio.</strong> Son, sin duda, un don que nos acerca más a la Palabra inspirada de Dios.",
-        "shortAnswer": "Desvelan la riqueza y exactitud de la Palabra de Dios."
+        "question": "¿Cómo nos ayudan los mapas y las explicaciones de esta sección a comprender mejor los relatos?",
+        "references": "nwt págs. 1876-1891",
+        "note": "Nota al instructor: Comenta otros detalles interesantes del apéndice A7.",
+        "directAnswer": "Los mapas y las explicaciones de esta sección nos ayudan a <strong>visualizar mejor los lugares y las distancias del ministerio de Jesús</strong>, además de <strong>situar los acontecimientos bíblicos en un marco geográfico y cronológico preciso que facilita su comprensión</strong>.",
+        "deepAnswer": "Estas herramientas visuales son esenciales porque nos permiten <strong>conectar el mensaje bíblico con la realidad histórica y física</strong>. Los mapas nos ayudan a seguir las rutas de viaje de Jesús, permitiéndonos comprender el esfuerzo físico y la logística de su labor ministerial al ver la topografía y las distancias reales. Asimismo, las explicaciones y las tablas cronológicas integran los relatos de los cuatro Evangelios en una secuencia lógica. Al contextualizar geográficamente los sucesos, podemos <strong>entender mejor las condiciones en las que Jesús predicó</strong>, lo cual le da vida al relato y nos permite <strong>profundizar en el significado de sus enseñanzas y sus milagros</strong>, ya no como hechos aislados, sino como eventos que ocurrieron en lugares y tiempos concretos bajo el cuidado providencial de Jehová.",
+        "shortAnswer": "Los mapas y explicaciones nos permiten ver la Biblia como una historia real que ocurrió en lugares y tiempos que podemos visualizar."
+      },
+      {
+        "id": "2B_q12",
+        "question": "¿Qué información útil encontramos bajo “Símbolos de los mapas”? (nwt pág. 1893).",
+        "references": "nwt pág. 1893",
+        "subtitle": "Apéndice B",
+        "directAnswer": "Los Símbolos de los mapas ofrecen <strong>una guía visual esencial para interpretar correctamente las escalas, el relieve físico, las rutas comerciales y los límites políticos representados en la geografía bíblica</strong>.",
+        "deepAnswer": "La sección de Símbolos de los mapas cumple una función didáctica fundamental al <strong>permitir al lector comprender con precisión el entorno geográfico donde ocurrieron los sucesos narrados</strong>. Al proporcionar claves para descodificar las escalas, el relieve, las rutas y los límites, esta herramienta <strong>facilita que el estudiante visualice el contexto físico y los desplazamientos realizados por personajes como Jesús o los apóstoles</strong>. Además de los mapas, esta sección se complementa con otras ayudas visuales del Apéndice B, tales como diagramas de templos y el tabernáculo, cronologías de periodos históricos y tablas de medidas, lo cual ayuda a integrar la información geográfica con el marco histórico y arqueológico para una comprensión mucho más profunda de las Escrituras.",
+        "shortAnswer": "Los símbolos de los mapas son la llave visual para entender la geografía y el contexto físico de los relatos bíblicos."
+      },
+      {
+        "id": "2B_q13",
+        "question": "¿Para qué podrías usar la sección “El mensaje de la Biblia”? (nwt págs. 1894, 1895).",
+        "references": "nwt págs. 1894, 1895",
+        "directAnswer": "La sección “El mensaje de la Biblia” sirve para <strong>entender el hilo conductor de las Escrituras</strong>, pues <strong>explica de forma cronológica cómo se desarrolla el propósito de Dios respecto a la vindicación de su Reino y la gobernación de Cristo desde Génesis hasta Apocalipsis</strong>.",
+        "deepAnswer": "Esta sección es una herramienta invaluable porque permite al lector <strong>captar el panorama general de la Biblia</strong>. Al presentar los acontecimientos de manera cronológica, <strong>ayuda a visualizar cómo todo el registro sagrado converge en un único tema central: la soberanía de Jehová y la función del Reino en manos de su Hijo</strong>. Es especialmente útil para ayudar a los estudiantes de la Biblia a <strong>comprender la unidad del mensaje bíblico</strong> y ver que los relatos históricos, las profecías y las leyes no son piezas aisladas, sino parte de una estructura coherente que culmina en la resolución del conflicto sobre la gobernación universal, facilitando así una comprensión profunda del plan de salvación.",
+        "shortAnswer": "El mensaje de la Biblia nos ayuda a ver la unidad del propósito de Dios en un solo hilo cronológico."
+      },
+      {
+        "id": "2B_q14",
+        "question": "Da ejemplos de cómo usar las siguientes ayudas del apéndice B en tu estudio personal, cuando prepares las reuniones o cuando estudies la Biblia con alguien:",
+        "references": "nwt Apéndice B",
+        "subQuestions": [
+          {
+            "id": "2B_q14_a",
+            "question": "Mapas",
+            "references": "nwt Apéndice B",
+            "directAnswer": "Los mapas incluidos en el Apéndice B de la Traducción del Nuevo Mundo sirven para <strong>localizar geográficamente los acontecimientos históricos</strong> y <strong>visualizar las rutas, distancias y el relieve físico de las regiones donde se desarrollaron los sucesos bíblicos</strong>.",
+            "deepAnswer": "Los mapas del Apéndice B son <strong>herramientas visuales esenciales para un estudio profundo</strong>, ya que <strong>permiten situar los relatos bíblicos en su contexto real</strong>. Mediante el uso de símbolos específicos, estos mapas <strong>ayudan al lector a comprender las escalas, las rutas comerciales, los límites políticos de la época y el relieve físico de la tierra</strong>. Al visualizar las distancias geográficas y la ubicación de las regiones mencionadas, el estudiante puede entender mejor el desarrollo de los viajes de Jesús, el ministerio de los apóstoles o los desplazamientos de Israel en el desierto. Esta información geográfica, complementada con el uso de los símbolos explicativos en el propio apéndice, ayuda a transformar la lectura de un texto plano en una experiencia vívida y precisa, permitiendo al lector apreciar la veracidad histórica de las Escrituras.",
+            "shortAnswer": "Los mapas bíblicos nos ayudan a situar los sucesos sagrados en su contexto geográfico real para comprender mejor el relato."
+          },
+          {
+            "id": "2B_q14_b",
+            "question": "Diagramas",
+            "references": "nwt Apéndice B",
+            "directAnswer": "Los diagramas que se encuentran en el apéndice B de la Biblia de estudio facilitan la comprensión visual de elementos bíblicos, tales como el diseño del tabernáculo, los templos antiguos o el arca del pacto, <strong>ayudándonos a visualizar mejor el contexto histórico y físico de los relatos bíblicos</strong>.",
+            "deepAnswer": "Los diagramas incluidos en el apéndice B son herramientas visuales diseñadas para profundizar nuestro estudio personal y nuestra enseñanza. Su objetivo principal es <strong>permitirnos visualizar aspectos técnicos que, de otra forma, serían difíciles de imaginar con precisión solo mediante el texto</strong>. Por ejemplo, al estudiar las instrucciones detalladas que Jehová dio a Moisés sobre el tabernáculo o las dimensiones del templo de Salomón, estos diagramas <strong>actúan como un puente entre el registro escrito y la realidad histórica</strong>, brindándonos una mejor perspectiva de la santidad y el orden que Jehová requería en su adoración. Además, el apéndice B complementa estos diagramas con otros recursos, como mapas, tablas cronológicas y guías de medidas, los cuales, en conjunto, nos permiten convertir pesos, monedas y distancias a equivalencias modernas, haciendo que el mensaje bíblico sea mucho más claro, real y aplicable a nuestra vida actual.",
+            "shortAnswer": "Los diagramas nos ayudan a visualizar y entender mejor la estructura y el contexto físico de los relatos bíblicos."
+          },
+          {
+            "id": "2B_q14_c",
+            "question": "Periodos de tiempo",
+            "references": "nwt Apéndice B",
+            "directAnswer": "Los periodos de tiempo en el Apéndice B sirven para <strong>detallar las fechas clave de las profecías y los reinos</strong> que aparecen en la Biblia, permitiendo al lector <strong>situar los sucesos históricos y proféticos en su orden cronológico correcto</strong>.",
+            "deepAnswer": "La sección de periodos de tiempo del Apéndice B es una herramienta esencial que <strong>ayuda al estudiante a comprender el contexto histórico en el que se desarrollaron los acontecimientos bíblicos</strong>. Al proporcionar fechas precisas para la sucesión de reinos y el cumplimiento de profecías, esta sección <strong>ayuda a visualizar el hilo conductor de la Palabra de Dios</strong>. Además, al complementarse con otros elementos del Apéndice B, como los mapas que ubican geográficamente los hechos y los diagramas que ilustran el tabernáculo o el templo, el estudiante puede <strong>obtener una imagen completa y clara del desarrollo del propósito divino a través de los siglos</strong>. Esto es especialmente útil para ver cómo Jehová ha dirigido su organización y ha cumplido sus promesas en momentos específicos de la historia humana.",
+            "shortAnswer": "Los periodos de tiempo nos permiten visualizar el cumplimiento cronológico del propósito de Dios en la historia."
+          },
+          {
+            "id": "2B_q14_d",
+            "question": "Medidas",
+            "references": "nwt Apéndice B",
+            "directAnswer": "Las medidas del Apéndice B sirven para <strong>convertir las unidades antiguas de peso, capacidad y longitud a equivalencias modernas</strong>, lo que permite visualizar y entender con exactitud las descripciones y relatos bíblicos.",
+            "deepAnswer": "El Apéndice B de la Traducción del Nuevo Mundo es una herramienta esencial para el estudio porque los escritores bíblicos utilizaban sistemas de medida comunes en su época y cultura, los cuales suelen ser desconocidos hoy en día. Al ofrecer estas conversiones, la Biblia <strong>facilita que el lector comprenda magnitudes como la capacidad de un recipiente, la distancia de un viaje o el peso de un objeto</strong>, <strong>haciendo que el texto sea más comprensible y vívido</strong>. Por ejemplo, al traducir términos técnicos o medidas antiguas a valores métricos o modernos, el lector puede apreciar mejor la magnitud de un milagro, la precisión de las instrucciones divinas sobre la construcción del tabernáculo o las dimensiones de los templos. Esta sección actúa como un <strong>puente cultural que elimina las barreras de lenguaje técnico antiguo</strong>, permitiendo que la información bíblica sea clara y aplicable para cualquier persona en la actualidad.",
+            "shortAnswer": "Las medidas del Apéndice B transforman datos antiguos en unidades actuales para darnos una visión clara y exacta del contexto bíblico."
+          }
+        ]
+      },
+      {
+        "id": "2B_q15",
+        "question": "Explica cómo puedes usar la sección de 32 páginas titulada “Introducción a la Palabra de Dios” en las siguientes situaciones:",
+        "references": "nwt págs. 5-36",
+        "subtitle": "Introducción a la Palabra de Dios",
+        "subQuestions": [
+          {
+            "id": "2B_q15_a",
+            "question": "Cuando predicas de casa en casa.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Cuando predicas de casa en casa, <strong>las 32 páginas introductorias de la Traducción del Nuevo Mundo te ayudan a abrir conversaciones, responder preguntas difíciles con textos clave y usar apoyos visuales para facilitar el entendimiento de las personas.</strong>",
+            "deepAnswer": "Estas páginas introductorias están diseñadas para que el publicador pueda abordar diversos temas bíblicos con claridad. Al predicar de casa en casa, estas secciones <strong>permiten al ministro presentar preguntas sencillas seguidas de respuestas bíblicas directas</strong>, lo que <strong>ayuda a que el mensaje llegue al corazón de la gente en un lenguaje natural y moderno</strong>. Además, al incluir ayudas visuales, estas páginas sirven como base para preparar presentaciones realistas, realizar revisitas temáticas y fortalecer el estudio bíblico, permitiendo que la persona perciba que Jehová le habla directamente a través de un texto exacto y fiel a los originales.",
+            "shortAnswer": "Las páginas introductorias son herramientas prácticas para enseñar la verdad de forma clara y sencilla en el ministerio."
+          },
+          {
+            "id": "2B_q15_b",
+            "question": "Cuando haces revisitas.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Cuando haces revisitas, puedes <strong>utilizar las 32 páginas introductorias de la Traducción del Nuevo Mundo para abrir conversaciones, responder preguntas difíciles o preparar y ensayar presentaciones realistas con tus estudiantes</strong>.",
+            "deepAnswer": "Las 32 páginas introductorias de la Traducción del Nuevo Mundo <strong>son una herramienta versátil diseñada para que el proclamador pueda usar ayudas visuales y textos bíblicos clave en diversas facetas del ministerio</strong>. Su estructura permite responder preguntas frecuentes en el servicio de casa en casa y <strong>facilita la preparación de revisitas temáticas</strong>. Además, estas páginas son ideales para organizar bosquejos rápidos durante el servicio del campo y para que el estudiante de la Biblia pueda visualizar mejor el mensaje, lo que <strong>ayuda a que el estudio sea más práctico y profundo al conectar las enseñanzas con el propósito divino</strong>.",
+            "shortAnswer": "Las páginas introductorias de la Biblia son herramientas prácticas para enseñar con claridad y eficacia en nuestras revisitas."
+          },
+          {
+            "id": "2B_q15_c",
+            "question": "Cuando das cursos de la Biblia.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Cuando damos cursos de la Biblia, <strong>las 32 páginas introductorias nos sirven para abrir conversaciones, responder preguntas difíciles, hacer revisitas temáticas y utilizar ayudas visuales</strong>. Estas secciones nos permiten <strong>preparar bosquejos rápidos y ensayar presentaciones realistas con los estudiantes</strong> para que comprendan mejor el mensaje.",
+            "deepAnswer": "Las 32 páginas iniciales de la Traducción del Nuevo Mundo son herramientas fundamentales porque <strong>presentan preguntas sencillas acompañadas de textos clave que facilitan un entendimiento profundo</strong>. Al dirigir cursos bíblicos, estas ayudas nos permiten organizar mejor la enseñanza, pues <strong>el comité de traducción diseñó este contenido para que el estudiante pueda captar el hilo conductor de la Biblia</strong>, es decir, la vindicación del Reino de Dios y la gobernación de Cristo. Además, al combinar estas introducciones con las notas de estudio, las referencias marginales y el glosario, <strong>garantizamos que el estudiante reciba una enseñanza basada en un lenguaje moderno, claro y fiel a los escritos originales</strong>, permitiendo que Jehová les hable directamente a sus corazones mediante una traducción que restituye el nombre divino y evita los sesgos doctrinales de otras versiones.",
+            "shortAnswer": "Las páginas introductorias y herramientas de estudio hacen que la Biblia sea un libro claro, vivo y fácil de enseñar."
+          },
+          {
+            "id": "2B_q15_d",
+            "question": "En las reuniones para el servicio del campo.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Las páginas 5 a 36 de la Traducción del Nuevo Mundo <strong>son una excelente herramienta para el servicio del campo porque contienen preguntas sencillas, respuestas visuales y textos clave que nos permiten abrir conversaciones, responder dudas bíblicas, realizar revisitas temáticas y preparar presentaciones realistas con nuestros estudiantes.</strong>",
+            "deepAnswer": "Estas páginas introductorias <strong>están diseñadas como una ayuda práctica para el ministerio</strong>. Su estructura permite abordar temas espirituales de forma directa y comprensible, lo cual es vital para llegar al corazón de las personas en nuestro territorio. Al utilizar estas páginas, <strong>el publicador puede centrarse en el mensaje principal sin complicaciones</strong>, pues el material organiza los textos bíblicos de manera lógica para responder preguntas comunes de la gente. Además, al integrar estas ayudas en la preparación de las reuniones para el servicio del campo, los publicadores pueden ensayar presentaciones, seleccionar textos específicos para una conversación y fortalecer su capacidad de enseñanza, <strong>cumpliendo así con el objetivo de presentar la Palabra de Dios de una manera clara y fiel</strong>.",
+            "shortAnswer": "Las páginas 5 a 36 son un recurso práctico y versátil para ser más eficaces al predicar y enseñar la verdad."
+          },
+          {
+            "id": "2B_q15_e",
+            "question": "Cuando ensayas lo que vas a decir en la predicación.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Cuando ensayamos lo que vamos a decir en la predicación, <strong>las primeras 32 páginas de la Traducción del Nuevo Mundo son una herramienta sumamente útil</strong>, pues contienen preguntas sencillas y respuestas visuales con textos clave que <strong>nos ayudan a preparar y ensayar presentaciones realistas y efectivas</strong>.",
+            "deepAnswer": "Las páginas 5 a 36 de la Traducción del Nuevo Mundo sirven como una excelente base para nuestra preparación ministerial. El objetivo de estas páginas introductorias es <strong>facilitar el acceso a la Palabra de Dios</strong> mediante un formato que permite abrir conversaciones con facilidad, responder preguntas difíciles de las personas durante el ministerio de casa en casa, realizar revisitas temáticas o utilizar ayudas visuales durante los cursos bíblicos. Al ensayar utilizando estos materiales, nos beneficiamos de un enfoque estructurado que nos permite practicar presentaciones realistas, asegurándonos de que nuestras explicaciones sean claras, bíblicas y fáciles de entender para quienes no conocen las Escrituras. Esta preparación nos permite presentar el mensaje del Reino de manera más directa, utilizando las preguntas y textos ahí provistos para <strong>llegar al corazón de las personas</strong>.",
+            "shortAnswer": "Las 32 páginas introductorias de la Traducción del Nuevo Mundo son el recurso ideal para preparar y ensayar presentaciones realistas y efectivas en el ministerio."
+          },
+          {
+            "id": "2B_q15_f",
+            "question": "Cuando preparas a un estudiante para el ministerio.",
+            "references": "nwt págs. 5-36",
+            "directAnswer": "Para preparar a un estudiante para el ministerio, debemos <strong>enseñarle a usar la introducción de la Biblia</strong>, que contiene preguntas sencillas y respuestas visuales, además de <strong>aprovechar las notas de estudio, referencias marginales y el índice para que aprenda a encontrar la verdad bíblica por sí mismo y sepa explicarla con claridad a otros</strong>.",
+            "deepAnswer": "El objetivo al preparar a un estudiante es <strong>dotarlo de herramientas prácticas que le permitan profundizar en la Palabra de Dios y compartirla con eficacia</strong>. Las 32 páginas introductorias de la Traducción del Nuevo Mundo son ideales para que el estudiante aprenda a abrir conversaciones y responder preguntas comunes con textos bíblicos. Es vital <strong>enseñarle a utilizar las notas de estudio para comprender modismos, datos arqueológicos y el significado de los idiomas originales</strong>, lo cual evita malentendidos. Asimismo, <strong>al mostrarle las referencias marginales, el estudiante aprenderá a identificar el cumplimiento de profecías y la armonía de las Escrituras</strong> mediante citas y pasajes paralelos. Finalmente, al familiarizarlo con el índice de palabras y los apéndices, <strong>lo capacitamos para que, al estudiar, no solo absorba información, sino que desarrolle la habilidad de defender su fe</strong>, sintiendo que Jehová le habla directamente a través de un lenguaje claro y preciso que llega a su corazón.",
+            "shortAnswer": "Enseñar al estudiante a usar las herramientas de su Biblia lo prepara para ser un ministro capaz y seguro de la verdad."
+          }
+        ]
+      },
+      {
+        "id": "2B_q16",
+        "question": "Al principio de cada libro bíblico hay un resumen de su contenido. ¿Para qué te puede servir? (nwt pág. 1853).",
+        "references": "nwt pág. 1853",
+        "directAnswer": "Los resúmenes al principio de cada libro bíblico sirven para <strong>captar de un vistazo el bosquejo general del libro, quién lo escribió, así como la fecha y el lugar donde fue redactado</strong>, lo cual <strong>facilita el estudio personal y la enseñanza</strong>.",
+        "deepAnswer": "Este recurso es una herramienta esencial para el estudiante de la Biblia porque <strong>proporciona el contexto necesario para entender correctamente el mensaje de cada libro</strong>. Al identificar quién escribió el libro, cuándo y en qué circunstancias, podemos apreciar mejor el propósito de las palabras inspiradas. Esta información básica permite al lector situarse rápidamente en la línea de tiempo bíblica y comprender el trasfondo histórico, lo que <strong>hace que el estudio personal sea mucho más provechoso y que nuestra enseñanza sea más clara, precisa y bien fundamentada</strong>.",
+        "shortAnswer": "Los resúmenes bíblicos nos dan el contexto esencial para entender mejor el mensaje de cada libro de la Biblia."
+      },
+      {
+        "id": "2B_q17",
+        "question": "¿Cómo te han ayudado las notas de estudio que aparecen en la Biblia de estudio?",
+        "references": "Biblia de estudio",
+        "subtitle": "Biblia de estudio",
+        "directAnswer": "Las notas de estudio de la Biblia han enriquecido mi comprensión al <strong>aclararme el significado de términos originales, aportarme valiosos datos históricos y culturales, y ayudarme a captar el sentido exacto de expresiones que, de otra forma, serían difíciles de entender.</strong>",
+        "deepAnswer": "Las notas de estudio son herramientas fundamentales para profundizar en el mensaje bíblico. Primero, al incluir aclaraciones sobre términos hebreos y griegos, me permiten entender el matiz original detrás de una palabra, evitando confusiones. Segundo, al ofrecer datos arqueológicos y geográficos, sitúan los relatos en su contexto real, lo que hace que los sucesos cobren vida. Tercero, las notas de tipo 'Lit.', 'O', y 'O quizás' son esenciales para interpretar figuras retóricas y modismos que, si se tradujeran literalmente, podrían desvirtuar el mensaje. Finalmente, al conectarme con el glosario y otros apéndices, estas notas <strong>aseguran que mi estudio no sea superficial, sino que me permitan alcanzar un entendimiento profundo, preciso y claro de la Palabra de Dios.</strong>",
+        "shortAnswer": "Las notas de estudio transforman la lectura superficial en un entendimiento profundo y preciso de las Escrituras."
       }
     ],
     "image": "pioneer_studying.png",
@@ -3263,81 +3346,81 @@ const lessonsData = [
         "id": "8A_q5",
         "question": "¿Qué podría poner a prueba tu lealtad? ¿Cómo les explicarías a otros tu postura neutral?",
         "references": "Juan 15:17-21; 17: 14, 16; 18:36",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "<strong>Nuestra lealtad puede ser puesta a prueba por la presión social, el nacionalismo o el deseo de encajar en el mundo.</strong> Podemos explicar nuestra postura neutral basándonos en que, como seguidores de Jesús, no somos parte del mundo y nuestras vidas están dedicadas exclusivamente al Reino de Dios.",
+        "deepAnswer": "<strong>La lealtad a Jehová se pone a prueba cuando enfrentamos situaciones donde se nos exige tomar partido en conflictos políticos</strong>, rendir honores a símbolos nacionales o participar en actividades que contradicen los principios bíblicos. Jesús advirtió claramente que, puesto que no somos parte del mundo, este nos odiaría. En Juan 15:17-21 y 17:14, 16, Jesús enfatiza que la separación del mundo es un requisito para sus discípulos. Al explicar nuestra postura, debemos destacar que nuestra neutralidad no surge de indiferencia, sino de nuestra obediencia al mandato de Jesús en Juan 18:36, donde afirmó que su Reino no es parte de este mundo. Esto significa que <strong>nuestra lealtad principal está con el gobierno de Dios</strong>, y <strong>por respeto a su soberanía, no interferimos en los asuntos políticos de las naciones</strong>, manteniendo una conducta pacífica y respetuosa hacia todos.",
+        "shortAnswer": "Mi lealtad le pertenece al Reino de Dios, por eso permanezco neutral ante los conflictos de este mundo."
       },
       {
         "id": "8A_q6",
         "question": "¿Por qué es muy importante que los cristianos estemos unidos cuando nos amenazan nuestros enemigos?",
         "references": "1 Cor. 12:25, 26; w19.11 pág. 2 párrs. 1, 2",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "Es fundamental que estemos unidos cuando nos amenazan porque, como miembros de un mismo cuerpo, <strong>nuestra unidad nos brinda fortaleza espiritual y protección</strong>. Al apoyarnos mutuamente, hacemos frente a la presión de forma cohesionada, tal como lo indicó el apóstol Pablo, asegurando que ninguno se quede solo ante las dificultades y que todos compartamos tanto el sufrimiento como el consuelo que proviene de Jehová.",
+        "deepAnswer": "La unidad cristiana no es solo una preferencia, sino un mandato bíblico vital para sobrevivir a la oposición. Según 1 Corintios 12:25, 26, el apóstol Pablo explica que los miembros de la congregación deben tener 'la misma preocupación unos por otros'. Cuando un miembro sufre, todos sufren; cuando uno recibe honra, todos se regocijan. En tiempos de persecución, esta conexión profunda impide que el enemigo nos aísle. La revista La Atalaya (w19.11 pág. 2) destaca que Satanás intenta dividirnos para debilitarnos, pero <strong>nuestra lealtad mutua actúa como un escudo que nos permite resistir la presión</strong>. Al mantenernos unidos, demostramos que somos discípulos de Cristo y fortalecemos nuestra capacidad de aguantar bajo prueba, recordando siempre que Jehová está con nosotros cuando permanecemos firmes como una sola hermandad.",
+        "shortAnswer": "Nuestra unidad es nuestro escudo: si nos mantenemos unidos, somos invencibles ante los ataques de nuestros enemigos."
       },
       {
         "id": "8A_q7",
         "question": "Cuando nos persiguen y nos prohíben predicar ¿cuál debe ser nuestra actitud hacia el ministerio?",
         "references": "Hech. 5:29; w19.07 pág. 11 párr. 13",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "Cuando nos enfrentamos a la persecución y a prohibiciones, <strong>nuestra actitud debe ser de firmeza y valor, dando prioridad a nuestra lealtad a Dios</strong>. Como indica Hechos 5:29, <strong>debemos obedecer a Dios como gobernante más bien que a los hombres</strong>, manteniendo la determinación de seguir predicando porque nuestro ministerio es una labor que él nos ha encomendado.",
+        "deepAnswer": "La postura del cristiano ante las prohibiciones se basa en el principio de supremacía de la soberanía de Jehová. En Hechos 5:29, los apóstoles establecieron un precedente claro al enfrentarse a las autoridades religiosas de su tiempo: <strong>la obediencia a Dios está por encima de cualquier mandato humano que contradiga Su voluntad</strong>. Según explica La Atalaya de julio de 2019, página 11, párrafo 13, <strong>la persecución no debe hacernos cambiar nuestra actitud hacia el ministerio; al contrario, debe fortalecer nuestra resolución</strong>. Aunque las autoridades puedan restringir nuestras actividades organizadas, nuestra comisión de predicar las buenas nuevas sigue vigente. En lugar de permitir que el miedo nos paralice, debemos buscar formas prudentes y creativas para seguir compartiendo el mensaje bíblico, recordando siempre que nuestra prioridad es agradar a Jehová, quien es nuestra fuente de fortaleza y protección ante la oposición.",
+        "shortAnswer": "Obedecemos a Dios como gobernante antes que a los hombres, manteniendo nuestro ministerio con valor y prudencia."
       },
       {
         "id": "8A_q8",
         "question": "¿Por qué debemos confiar totalmente en Jehová cuando nos persiguen?",
         "references": "Filip. 1:27-30; 4:6, 7; w19.07 pág. 3 párr. 6",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "Debemos confiar totalmente en Jehová cuando nos persiguen porque <strong>él es nuestra mayor fuente de fortaleza y paz</strong>, y además nos promete que, si acudimos a él en oración, <strong>su paz protegerá nuestra mente y corazón para que podamos mantenernos firmes y fieles</strong>.",
+        "deepAnswer": "La persecución puede ser una prueba abrumadora, pero la Biblia nos asegura que no estamos solos. Según Filipenses 1:27-30, nuestra firmeza al enfrentar la oposición es una prueba de nuestra unidad y fe, y es un 'indicio evidente de destrucción para ellos, pero de salvación para nosotros'. Cuando sufrimos por la causa de la verdad, Jehová nos sostiene; por ello, Filipenses 4:6, 7 nos insta a no inquietarnos por nada, sino a presentarle nuestras súplicas. Al hacerlo, 'la paz de Dios que supera a todo pensamiento' guardará nuestros corazones. Como destaca el artículo en w19.07, <strong>al confiar plenamente en Jehová, fortalecemos nuestra convicción de que él tiene el poder de ayudarnos a aguantar cualquier prueba</strong>, pues nuestra lealtad a él nos permite mantener la integridad a pesar de las presiones externas.",
+        "shortAnswer": "Confiar en Jehová nos permite experimentar una paz superior a cualquier prueba y nos asegura la victoria final mediante su apoyo incondicional."
       },
       {
         "id": "8A_q9",
         "question": "¿Por qué estamos convencidos de que Jehová nos dará su apoyo? (2 Crón. 32:7, 8; 1 Cor. 10:13; 2 Ped. 2:9; w19.07 pág. 13 párrs. 19, 20). Íntegros durante las pruebas.",
         "references": "",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "Estamos convencidos de que Jehová nos dará su apoyo porque <strong>él es un Dios leal que cumple sus promesas y tiene el poder ilimitado para ayudarnos</strong>. Tal como lo hizo con sus siervos en el pasado, <strong>él promete no dejarnos caer ante pruebas que superen nuestras fuerzas, sino que nos dará la salida necesaria para que podamos aguantar</strong>.",
+        "deepAnswer": "Nuestra confianza se basa en el carácter inmutable de Jehová y en su historial de cuidado hacia su pueblo. En 2 Crónicas 32:7, 8, el rey Ezequías recordó al pueblo que con ellos estaba 'un poder mayor' que el del enemigo, confirmando que Jehová es un aliado poderoso. Además, 1 Corintios 10:13 garantiza que <strong>Jehová no permite que seamos tentados o probados más allá de lo que podemos soportar</strong>, asegurando que él mismo provee la salida. Asimismo, 2 Pedro 2:9 destaca que '<strong>Jehová sabe librar de la prueba a las personas que tienen devoción piadosa</strong>'. Como explica La Atalaya, nuestra fe se fortalece al recordar que, aunque las circunstancias sean difíciles, <strong>Jehová está atento a nuestras necesidades y tiene la voluntad y la capacidad de sostenernos</strong>, ayudándonos a mantener nuestra integridad sin importar la magnitud del desafío.",
+        "shortAnswer": "Jehová es nuestro aliado leal y siempre nos proporcionará la fuerza y la salida necesarias para superar cualquier prueba."
       },
       {
         "id": "8A_q10",
         "question": "Cuando sufrimos oposición o se nos persigue, ¿qué cualidad aumenta en nosotros, y cómo nos ayuda eso?",
         "references": "Mat. 5:10; Sant. 1:2-4; w03 1/10 pág. 13 párr. 18",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "Cuando sufrimos oposición o persecución, <strong>la cualidad que aumenta en nosotros es el aguante</strong>. Esta virtud nos ayuda porque <strong>nos permite mantener nuestra integridad, fortaleciendo nuestra fe y preparándonos para ser íntegros y completos</strong>, sin que nos falte nada.",
+        "deepAnswer": "Según Santiago 1:2-4, <strong>las pruebas de nuestra fe producen aguante</strong>, una cualidad esencial para el cristiano. Mateo 5:10 nos recuerda que, aunque ser perseguidos por causa de la justicia conlleva dificultades, <strong>nos hace felices y nos asegura el favor de Dios</strong>. Como señala la Atalaya del 1 de octubre de 2003, al enfrentar la oposición con aguante, permitimos que esta obra de prueba sea completa en nosotros. Esto no significa simplemente soportar el dolor, sino mantener una actitud positiva y leal que fortalece nuestra madurez espiritual. Así, el aguante actúa como un refinador que elimina nuestras debilidades y <strong>nos ayuda a desarrollar una personalidad cristiana estable y firme ante cualquier prueba futura</strong>.",
+        "shortAnswer": "La persecución desarrolla nuestro aguante, lo cual nos hace cristianos más fuertes, maduros y completos a los ojos de Jehová."
       },
       {
         "id": "8A_q11",
         "question": "¿Cómo debes prepararte para la persecución?",
         "references": "w19.07 págs. 2-6 párrs. 4-16",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "Para prepararnos para la persecución, debemos <strong>fortalecer nuestra amistad con Jehová ahora mismo</strong>, <strong>estar convencidos de que él nos ama y nunca nos abandonará</strong>, y cultivar una fe inquebrantable en su Reino. Es esencial estudiar la Biblia con regularidad para grabar sus verdades en el corazón y <strong>aprender a obedecer a Dios como gobernante más bien que a los hombres</strong>, manteniendo así nuestra integridad pase lo que pase.",
+        "deepAnswer": "La preparación eficaz ante la persecución se basa en cimentar nuestra relación con Jehová. Esto implica primero, <strong>convencerse de que Jehová nos ama personalmente</strong> y que nuestro valor para él es inmenso. Al meditar en cómo él ha cuidado a sus siervos en el pasado, fortalecemos la confianza de que él puede y quiere sostenernos durante las pruebas. Segundo, debemos ser obedientes en las cosas pequeñas hoy; <strong>cultivar la costumbre de seguir las instrucciones de Jehová nos prepara para mantener la lealtad ante presiones mayores</strong>. Tercero, es vital <strong>grabar las verdades bíblicas en el corazón</strong>; cuando la persecución intenta privarnos de nuestra libertad o de nuestras publicaciones, el conocimiento acumulado en nuestra mente es lo que nos permite mantener la postura cristiana. Finalmente, recordar que <strong>nuestra lealtad principal es hacia el Reino de Dios</strong> nos ayuda a no ceder ante el temor al hombre, aceptando que, aunque seamos perseguidos, nuestra esperanza en la vida eterna es una realidad segura.",
+        "shortAnswer": "Fortalece tu amistad con Jehová y graba sus verdades en tu corazón hoy para mantenerte leal mañana."
       },
       {
         "id": "8A_q12",
         "question": "¿Por qué estás seguro de que, a pesar de las prohibiciones y la persecución, nuestros enemigos no vencerán? (Is. 54:17; Jer. 1:19; Mat. 28:20; 1 Ped. 3:13, 14; w13 15/7 pág. 14 párr. 18). Los principios bíblicos son fundamentales para ser íntegros. Contesta las siguientes preguntas usando la Biblia:",
         "references": "",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "Estamos seguros de que los enemigos no vencerán porque <strong>Jehová ha prometido estar con su pueblo, darnos fuerzas y proteger nuestra organización</strong>. Él garantiza que <strong>ninguna arma forjada contra nosotros tendrá éxito</strong> y que su presencia activa a través de Jesucristo nos sostiene pase lo que pase.",
+        "deepAnswer": "Nuestra confianza se basa en el respaldo incondicional de Jehová. Tal como indica Isaías 54:17, Dios asegura que <strong>ninguna arma que se fabrique contra su pueblo tendrá éxito</strong>, pues él mismo es quien nos sostiene. Jeremías 1:19 refuerza esta idea al declarar que, aunque el mundo entero nos combata, <strong>ellos no prevalecerán porque Jehová está con nosotros para librarnos</strong>. Esta protección no es pasiva; <strong>Jesús prometió estar con sus discípulos todos los días hasta la conclusión del sistema</strong> (Mateo 28:20). Como se explica en la literatura teocrática, nuestra seguridad no depende de la ausencia de problemas, sino del hecho de que, aunque nos persigan, la obra de predicar no puede detenerse. Como dice 1 Pedro 3:13 y 14, si nos esforzamos por hacer el bien, no debemos temer, porque el poder de Jehová es infinitamente superior a cualquier oposición humana.",
+        "shortAnswer": "Nuestra confianza está puesta en Jehová, quien promete que ninguna oposición humana podrá detener su propósito ni destruir a su pueblo."
       },
       {
         "id": "8A_q13",
         "question": "˙ ¿Cuál fue la actitud de Jesús hacia la política?",
         "references": "Juan 18:36",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "<strong>Jesús mantuvo una postura de estricta neutralidad política</strong> durante su ministerio. Como indica Juan 18:36, <strong>él declaró que su Reino no es parte de este mundo</strong>, por lo cual se negó a involucrarse en las disputas políticas o a aceptar cargos gubernamentales, enfocándose exclusivamente en dar testimonio de la verdad y en el Reino de Dios.",
+        "deepAnswer": "La actitud de <strong>Jesús fue de absoluta neutralidad porque él comprendía que su lealtad suprema pertenecía al Reino de Dios</strong>. En Juan 18:36, al ser interrogado por Poncio Pilato sobre su realeza, Jesús aclaró: 'Mi reino no es parte de este mundo'. Esto significa que <strong>Jesús no buscaba reformar los gobiernos humanos ni participar en sus estrategias políticas</strong>. A diferencia de los líderes de su tiempo, él no buscaba influencia política, ni siquiera cuando las multitudes intentaron hacerlo rey, pues sabía que su papel era establecer un gobierno celestial que pondría fin a todos los sistemas políticos terrenales. Su prioridad fue siempre el cumplimiento del propósito divino, enseñando a sus seguidores a mantener esa misma separación respecto a los asuntos del mundo para centrarse en la predicación de las buenas noticias del Reino.",
+        "shortAnswer": "Jesús fue neutral porque su lealtad absoluta pertenecía al Reino de Dios, no a los gobiernos de este mundo."
       },
       {
         "id": "8A_q14",
         "question": "˙ ¿Qué les dijo Jesús a sus seguidores sobre la obediencia a César?",
         "references": "Mat. 22:21",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "Jesús enseñó que debemos <strong>pagar a César las cosas de César, pero también dar a Dios las cosas de Dios</strong>. Esto significa que <strong>los cristianos respetan a las autoridades gubernamentales y cumplen con sus obligaciones legales, siempre y cuando estas no entren en conflicto con la adoración y la lealtad absoluta que le deben a Jehová</strong>.",
+        "deepAnswer": "En Mateo 22:21, al responder a una pregunta capciosa sobre el pago de impuestos, Jesús estableció el principio del equilibrio en la obediencia. Aunque los seguidores de Cristo viven bajo gobiernos humanos y reconocen la autoridad de estos para recaudar impuestos o dictar leyes civiles, su lealtad suprema es para con el Creador. Al decir paguen a César lo que es de César, Jesús reconoció que las autoridades humanas tienen un papel legítimo en el mantenimiento del orden social. Sin embargo, al añadir y a Dios lo que es de Dios, marcó un límite claro: <strong>ninguna autoridad humana está por encima de las leyes divinas</strong>. Para los cristianos, <strong>la obediencia a César es relativa y está supeditada a que no se vioalente la devoción exclusiva que merece Jehová</strong>. Por tanto, obedecemos las leyes de César que no contradicen los mandatos bíblicos, manteniendo nuestra conciencia limpia ante Dios.",
+        "shortAnswer": "Damos a César lo que es suyo, pero siempre damos a Dios la prioridad absoluta."
       },
       {
         "id": "8A_q15",
@@ -3764,17 +3847,17 @@ const lessonsData = [
         "id": "8B_q17",
         "question": "¿Cómo puede ayudarte a ser más adaptable el apéndice A del folleto Una obra de amor? En nuestras publicaciones hay muchas experiencias sobre la predicación informal.",
         "references": "",
-        "directAnswer": "",
-        "deepAnswer": "El apéndice A del folleto 'Una obra de amor' nos enseña la importancia de <strong>ser flexibles y adaptables en nuestra predicación.</strong>  Nos anima a <strong>usar 'todo tipo de métodos' para alcanzar a tantas personas como sea posible</strong> (1 Corintios 9:22).  Las experiencias en nuestras publicaciones nos muestran cómo, con la guía de Jehová, podemos encontrar maneras creativas de compartir las buenas noticias, incluso en situaciones inesperadas.",
-        "shortAnswer": "Nos anima a ser flexibles y creativos en la predicación."
+        "directAnswer": "Las situaciones que me han permitido predicar informalmente incluyen los momentos en que <strong>utilizo las ayudas visuales de la Biblia</strong>, como las introducciones temáticas o los mapas, cuando interactúo con personas en lugares públicos o durante mis actividades diarias, <strong>aprovechando la claridad del lenguaje moderno para despertar su interés en temas bíblicos</strong>.",
+        "deepAnswer": "La predicación informal se ve potenciada al utilizar herramientas como <strong>las 32 páginas introductorias de la Traducción del Nuevo Mundo, las cuales contienen preguntas sencillas y respuestas visuales que facilitan iniciar conversaciones</strong>. <strong>Al emplear un lenguaje claro y vivo que llega directo a los corazones de las personas</strong>, se logra vencer la barrera de los términos arcaicos o eclesiásticos, permitiendo que el mensaje sea comprensible para todos. Además, el uso de ayudas visuales como los mapas y diagramas del Apéndice B permite explicar el mensaje de la Biblia de forma visual y cronológica, lo que ayuda a las personas a visualizar los relatos bíblicos y entender mejor el propósito de Dios. La clave radica en <strong>aprovechar la naturalidad del lenguaje moderno para conectar con las personas</strong>, lo cual es posible gracias a que la Biblia se presenta en una traducción fiel y fácil de entender que permite que la persona sienta que Jehová le está hablando directamente.",
+        "shortAnswer": "Cualquier situación cotidiana es una oportunidad para predicar si usamos las herramientas visuales y el lenguaje claro de la Biblia para despertar interés."
       },
       {
         "id": "8B_q18",
         "question": "¿Cómo te han ayudado? SUGERENCIAS: Lee la Biblia o las publicaciones bíblicas cuando vayas en el transporte público o durante los descansos o la pausa para comer en tu lugar de empleo. Menciona alguna noticia reciente.",
         "references": "",
-        "directAnswer": "",
-        "deepAnswer": "<strong>Leer la Biblia y las publicaciones durante momentos libres, como en el transporte público o en descansos, es una excelente manera de mantener nuestra mente espiritual fortalecida.</strong> Además, <strong>mencionar noticias recientes y conectarlas con las profecías bíblicas puede captar el interés de las personas</strong> y mostrarles que la Palabra de Dios es relevante hoy.  Esto nos ayuda a estar listos para 'dar una explicación' de nuestra esperanza (1 Pedro 3:15).",
-        "shortAnswer": "Mantente espiritualmente listo aprovechando los momentos libres y las noticias."
+        "directAnswer": "He aprovechado la Biblia de estudio <strong>usándola como una herramienta completa para profundizar en mi lectura personal y hacer más eficaz mi ministerio</strong>. Al utilizar sus recursos, he logrado <strong>entender mejor el mensaje de Jehová y explicarlo con mayor claridad a los demás</strong>.",
+        "deepAnswer": "Para aprovechar al máximo esta herramienta, he incorporado las introducciones y los resúmenes de cada libro bíblico para captar mejor el contexto y la estructura del mensaje. Las notas de estudio y los apéndices han sido fundamentales, pues me permiten <strong>comprender detalles históricos, arqueológicos y culturales que enriquecen mi conocimiento</strong>. Además, el uso de las ayudas visuales, los mapas y la información cronológica me ha facilitado visualizar los relatos bíblicos, mientras que <strong>la claridad del lenguaje moderno me ayuda a conectar directamente con el corazón de las personas al predicar</strong>. Al estudiar la integridad del texto y la restitución del nombre divino, mi confianza en la exactitud de la Traducción del Nuevo Mundo se ha fortalecido, permitiéndome enseñar la verdad bíblica con mayor convicción.",
+        "shortAnswer": "Aprovecho la Biblia de estudio profundizando en cada uno de sus recursos para enriquecer mi adoración y ser un maestro más eficaz."
       },
       {
         "id": "8B_q19",
@@ -3796,9 +3879,9 @@ const lessonsData = [
         "id": "8B_q21",
         "question": "¿Por qué es importante que la persona se quede con una buena impresión?",
         "references": "w12 15/3 pág. 13 párr. 15",
-        "directAnswer": "",
-        "deepAnswer": "Es importante que la persona se quede con una buena impresión porque <strong>cada interacción es una oportunidad para reflejar el carácter de Jehová, quien es un Dios de amor y paciencia.</strong>  Aunque no muestre interés en ese momento, <strong>nuestra actitud amable y respetuosa puede sembrar una semilla que germine más adelante</strong>, o influir positivamente en su opinión sobre los Testigos de Jehová.  Como dice <em>La Atalaya</em>, incluso una conversación breve puede ser un testimonio poderoso.",
-        "shortAnswer": "Reflejas el amor y la paciencia de Jehová."
+        "directAnswer": "Es importante que la persona se quede con una buena impresión porque <strong>nuestra conducta y actitud pueden influir en que el mensaje del Reino sea escuchado en el futuro</strong>, o bien, en que la persona se cierre a la verdad. <strong>Una impresión positiva refleja bien a Jehová y a su organización</strong>, derribando prejuicios y facilitando que la persona vea el valor de nuestro mensaje.",
+        "deepAnswer": "La manera en que nos presentamos y tratamos a los demás durante el ministerio es fundamental, pues <strong>somos embajadores del Reino</strong>. Como indica la referencia, si dejamos una buena impresión, demostramos que nuestro mensaje proviene de una fuente amorosa y digna de respeto. Esto es vital porque, al igual que los lectores valoran recibir la Biblia en un lenguaje claro que llega a su corazón, los interesados valoran a los mensajeros que son amables, respetuosos y genuinos. Al mostrar un interés sincero y ser equilibrados en nuestro trato, evitamos que prejuicios personales o malentendidos sobre nuestra labor impidan que la persona reciba la semilla de la verdad. <strong>Nuestra conducta es la carta de presentación de Jehová ante aquellos que aún no conocen su nombre</strong> ni sus maravillosas promesas.",
+        "shortAnswer": "Una buena impresión abre las puertas de los corazones a las buenas nuevas del Reino."
       },
       {
         "id": "8B_q22",
@@ -4399,25 +4482,25 @@ const lessonsData = [
         "id": "10A_q26",
         "question": "¿Qué precio pagó como rescate para liberarnos del pecado y la muerte? (1 Ped. 1:18, 19). Explica qué significa que Jesús sea el “Agente Principal de la vida” (Hech. 3:15; 10:42; Juan 6:39, 40; Efes. 1:7; Heb. 8:1-3; it-2 pág. 88 párrs. 1-3).",
         "references": "",
-        "directAnswer": "",
-        "deepAnswer": "<strong>Jesús pagó el precio de nuestro rescate con su sangre, una vida humana perfecta sacrificada por la humanidad pecadora, liberándonos de la condena del pecado y la muerte.</strong>  Él es el “Agente Principal de la vida” (Hechos 3:15; 10:42) porque, mediante su sacrificio y su papel como Sumo Sacerdote y Rey, ha abierto el camino para que la humanidad pueda recibir vida eterna.  Su mediación y su sacrificio son la base de toda la provisión de Dios para nuestra salvación y vida.  Si comprendes que Jesús es la fuente de esta vida, te motiva a honrar su papel y a servir a Jehová con todo tu corazón.",
-        "shortAnswer": "Jesús es el Agente Principal de la vida por su sacrificio y mediación."
+        "directAnswer": "Demuestro que acepto a Jesús como el camino <strong>siendo su discípulo fiel, imitando sus pasos y poniendo en práctica sus enseñanzas en mi vida diaria</strong>. Al <strong>reconocer que él es el único medio para acercarme a Jehová</strong>, baso mi adoración, mis decisiones y mi ministerio en su ejemplo, tal como él mismo indicó al decir que nadie llega al Padre sino a través de él.",
+        "deepAnswer": "Aceptar a Jesús como el camino implica <strong>entender que él es el puente vital entre la humanidad y Jehová</strong>. En primer lugar, esto significa reconocer la autoridad de Jesús como el Hijo de Dios y el Rey del Reino, <strong>basando nuestra vida en el modelo que él dejó</strong>. La Traducción del Nuevo Mundo, al restituir fielmente el nombre divino y ofrecer un lenguaje claro y natural, nos permite conocer profundamente a Jehová, tal como Jesús lo hizo. Al estudiar las Escrituras, comprendemos que el papel de Jesús no es solo un modelo de conducta, sino el cumplimiento del propósito divino para la vindicación de la soberanía de Jehová. Demostramos que aceptamos este camino <strong>al ser predicadores activos del Reino y al esforzarnos por desarrollar una personalidad que refleje las cualidades cristianas</strong>. Además, al utilizar las herramientas de estudio bíblico que el esclavo fiel nos proporciona, obtenemos una comprensión más exacta del contexto histórico y el significado profundo de los relatos bíblicos, lo cual fortalece nuestra determinación de permanecer en el camino que conduce a la vida eterna.",
+        "shortAnswer": "Seguir a Jesús como el camino significa imitar su ejemplo, obedecer sus mandatos y reconocerle como nuestra única ruta de acceso a Jehová."
       },
       {
         "id": "10A_q27",
         "question": "Si comprendes el papel que Jesús tiene como “la vida”, ¿qué efecto debería tener eso en tu ministerio?",
         "references": "",
-        "directAnswer": "",
-        "deepAnswer": "<strong>Comprender que Jesús es “la vida” debería motivarnos a predicar con mayor celo y convicción.</strong>  Deberíamos sentir una profunda gratitud por el sacrificio redentor de Jesús y un deseo ardiente de compartir esta esperanza salvadora con otros.  Ver nuestro ministerio como una extensión del sacrificio de Jesús nos impulsa a ser diligentes y a hablar con fe, sabiendo que a través de nuestro ministerio, otros también pueden llegar a conocer a Jehová y obtener vida.",
-        "shortAnswer": "Inspira celo y convicción en nuestro ministerio."
+        "directAnswer": "Comprender el papel de Jesús es fundamental porque <strong>él es la pieza clave mediante la cual Jehová cumple su propósito de vindicar su soberanía, redimir a la humanidad y establecer su Reino</strong> para eliminar el sufrimiento y restaurar el paraíso.",
+        "deepAnswer": "La Biblia presenta a <strong>Jesús como el medio principal que Dios utiliza para llevar a cabo su voluntad</strong>. Desde Génesis hasta Apocalipsis, el hilo conductor es la vindicación del Reino de Dios y la gobernación de Cristo. <strong>Jesús no solo es el rescate que permite el perdón de los pecados, sino que también es el Rey nombrado por Jehová para gobernar sobre la Tierra</strong>. Al estudiar las tablas cronológicas y el ministerio de Jesús, comprendemos que él es el agente de vida y el único camino para acercarnos al Padre. Ignorar su posición es perder de vista cómo Jehová ha decidido resolver la cuestión de la soberanía universal y cómo restaurará el propósito original para la humanidad.",
+        "shortAnswer": "Jesús es la pieza central y el agente principal de Jehová para cumplir el propósito divino de salvar a la humanidad y vindicar la soberanía de Dios."
       },
       {
         "id": "10A_q28",
         "question": "¿Cómo nos beneficiamos ya del perdón de pecados que hace posible el sacrificio de Jesús?",
         "references": "Apoc. 7:9, 10",
-        "directAnswer": "",
-        "deepAnswer": "Ya nos beneficiamos del perdón de pecados porque <strong>el sacrificio de Jesús ha limpiado nuestra conciencia y nos ha permitido ser declarados justos a los ojos de Jehová.</strong> Esto se evidencia en nuestra capacidad de adorar a Dios con libertad, de tener paz mental y esperanza.  Como dice Apocalipsis 7:9, 10, esto permite que una “gran muchedumbre” de todas las naciones pueda presentarse ante el trono de Dios y ofrecerle adoración día y noche.  El perdón de pecados es el fundamento de nuestra relación restaurada con Dios.",
-        "shortAnswer": "Nuestro perdón y libertad para adorar a Dios."
+        "directAnswer": "Ya nos beneficiamos del perdón de pecados porque <strong>disfrutamos de una conciencia limpia y una amistad cercana con Jehová</strong>. Apocalipsis 7:9, 10 muestra que <strong>este beneficio es el fundamento para formar parte de una gran muchedumbre</strong> que alaba a Dios, lo cual nos permite servirle con la esperanza segura de la salvación.",
+        "deepAnswer": "El sacrificio de Jesús es el medio que Jehová utiliza para reconciliarnos con él. Gracias a que el perdón de nuestros pecados es posible mediante la fe en este sacrificio, ya no tenemos que cargar con la culpa que nos separaba de nuestro Creador; en su lugar, <strong>podemos disfrutar de una conciencia limpia y una relación personal con Jehová</strong> mientras vivimos en armonía con su voluntad. Como indica Apocalipsis 7:9, 10, aquellos que aceptan este regalo forman una gran muchedumbre de todas las naciones que reconocen a Dios y a su Hijo como los salvadores. Este perdón nos permite presentarnos ante Jehová con confianza, adorarlo en su templo espiritual y mantener la esperanza firme de sobrevivir a la gran tribulación, basándonos en que <strong>nuestra posición delante de Dios depende de nuestra fe en el valor redentor de la sangre de Jesús</strong>.",
+        "shortAnswer": "El perdón de Jesús nos libera de la culpa y nos permite disfrutar hoy de una amistad íntima con Jehová."
       },
       {
         "id": "10A_q29",
@@ -4582,7 +4665,7 @@ const lessonsData = [
       },
       {
         "id": "10B_q7",
-        "question": "¿Cómo nos ayuda estudiar las leyes y los sucesos que aparecen en las Escrituras Hebreas? (1 Cor. 10:11). Sé una persona de principios.",
+        "question": "¿Cómo nos ayuda estudiar las leyes y los sucesos que aparecen en las Escrituras Hebreas? (1 Cor. 10:11).",
         "references": "",
         "directAnswer": "Estudiar estos sucesos nos ayuda porque <strong>nos sirven de amonestación y ejemplo, permitiéndonos comprender cómo reacciona Jehová ante las acciones humanas.</strong>",
         "deepAnswer": "Como indica 1 Corintios 10:11, <strong>las vivencias de la antigüedad se escribieron para que nos sirvieran de advertencia hoy.</strong> Al meditar en las leyes de las Escrituras Hebreas y en cómo le fue al pueblo de Dios al obedecerlas o pasarlas por alto, <strong>extraemos valiosas lecciones sobre la lealtad, la paciencia y el temor de Dios.</strong> Esto nos equipa para actuar de una manera que agrade a Jehová en estos tiempos del fin, fortaleciendo nuestra fe mediante ejemplos prácticos de la vida real.",
@@ -4594,7 +4677,8 @@ const lessonsData = [
         "references": "Mat. 4:1-10",
         "directAnswer": "<strong>Jesús rechazó los ataques de Satanás apoyándose con firmeza en principios de las Escrituras</strong> en lugar de basarse en razonamientos humanos.",
         "deepAnswer": "Ante cada tentación, Jesús demostró que su mente estaba moldeada por los principios de Jehová. Cuando tuvo hambre, <strong>aplicó el principio de que el alimento espiritual es más vital que el físico (Deut. 8:3).</strong> Frente a la tentación de poner a prueba la protección divina de manera temeraria, <strong>se basó en el principio de no poner a prueba a Jehová (Deut. 6:16).</strong> Finalmente, al exigirle adoración, <strong>aplicó el principio supremo de que solo Jehová merece devoción exclusiva (Deut. 6:13)</strong>, demostrando que su obediencia nacía de un amor profundo por los principios de su Padre.",
-        "shortAnswer": "Jesús venció al Tentador aplicando de inmediato principios divinos que reflejaban su sumisión total a Jehová."
+        "shortAnswer": "Jesús venció al Tentador aplicando de inmediato principios divinos que reflejaban su sumisión total a Jehová.",
+        "subtitle": "Sé una persona de principios"
       },
       {
         "id": "10B_q9",
@@ -4648,7 +4732,7 @@ const lessonsData = [
       },
       {
         "id": "10B_q12",
-        "question": "cisión, ¿cuál debe ser tu objetivo?",
+        "question": "Cuando busques principios bíblicos para tomar una decisión, ¿cuál debe ser tu objetivo? (Efes. 5:1).",
         "references": "Efes. 5:1",
         "directAnswer": "<strong>Tu objetivo principal debe ser llegar a ser un imitador de Dios, reflejando sus cualidades en todas tus decisiones.</strong>",
         "deepAnswer": "Como hijos amados de Jehová, <strong>nuestro deseo profundo debe ser que nuestras acciones reflejen su personalidad.</strong> Al estudiar los principios bíblicos, <strong>buscamos entender el <em>pensamiento de Dios</em> (Efes. 5:1)</strong>, lo cual nos ayuda a ajustar nuestra conciencia para que cada decisión que tomemos sea una muestra de nuestro amor y lealtad hacia nuestro Padre celestial.",
@@ -4672,11 +4756,12 @@ const lessonsData = [
       },
       {
         "id": "10B_q15",
-        "question": "¿Por qué la persona que piensa en principios no busca excusas para desobedecer las leyes de Dios? Nota al instructor: Analiza dos o tres preguntas de la siguiente lista, pero no digas qué decisión es la correcta.",
+        "question": "¿Por qué la persona que piensa en principios no busca excusas para desobedecer las leyes de Dios?",
         "references": "",
         "directAnswer": "<strong>Quien valora los principios bíblicos ve las leyes de Dios como expresiones de Su amor, por lo que nunca busca 'escapatorias' para desobedecer.</strong>",
         "deepAnswer": "Buscar excusas para eludir una norma es señal de falta de amor hacia el Legislador. En cambio, <strong>quien internaliza los principios entiende que las leyes divinas están diseñadas para nuestro bien y protección</strong>; por tanto, su deseo no es ver 'qué tan lejos puede llegar', sino cómo puede demostrar su devoción absoluta manteniendo su integridad sin compromisos.",
-        "shortAnswer": "El amor genuino a Jehová nos hace ver sus leyes como protección, no como límites que debamos saltar."
+        "shortAnswer": "El amor genuino a Jehová nos hace ver sus leyes como protección, no como límites que debamos saltar.",
+        "note": "Nota al instructor: Analiza dos o tres preguntas de la siguiente lista, pero no digas qué decisión es la correcta."
       },
       {
         "id": "10B_q16",
@@ -4778,7 +4863,7 @@ const lessonsData = [
       },
       {
         "id": "10B_q18",
-        "question": "¿Cómo puede ayudarte el libro Textos bíblicos para la vida cristiana a encontrar y aplicar los principios de la Biblia? Déjate guiar por los principios de la Biblia",
+        "question": "¿Cómo puede ayudarte el libro Textos bíblicos para la vida cristiana a encontrar y aplicar los principios de la Biblia?",
         "references": "",
         "directAnswer": "<strong>Este libro nos ayuda al categorizar los asuntos de la vida, conectándolos con los principios bíblicos pertinentes para que podamos razonar antes de decidir.</strong>",
         "deepAnswer": "Al utilizar las herramientas provistas por la organización, <strong>aprendemos a ver más allá de la superficie y a conectar los relatos bíblicos con nuestras circunstancias actuales.</strong> <strong>Es un instrumento excelente para entrenar nuestro corazón, enseñándonos cómo aplicar la sabiduría divina de manera práctica para que nuestras decisiones honren a Jehová en todo momento.</strong>",
@@ -4786,19 +4871,13 @@ const lessonsData = [
       },
       {
         "id": "10B_q19",
-        "question": "¿Por qué hace falta confiar en Jehová para poner en práctica los principios de la Biblia? EJEMPLO: Discutes con un compañero de predica-",
+        "question": "¿Por qué hace falta confiar en Jehová para poner en práctica los principios de la Biblia?",
         "references": "",
         "directAnswer": "<strong>Hace falta confianza en Jehová porque aplicar sus principios a veces requiere tomar decisiones que parecen contraintuitivas o que exigen sacrificios personales.</strong>",
         "deepAnswer": "Por ejemplo, al tener una diferencia con un compañero de predicación, <strong>aplicar el principio de ser 'rápidos para oír, lentos para hablar' requiere humildad y una fe firme en que el método de Jehová es superior al orgullo humano.</strong> <strong>Confiamos en Él porque sabemos que, aunque el camino de la obediencia sea difícil, siempre resultará en paz y en el fortalecimiento de nuestra relación con el Padre.</strong>",
-        "shortAnswer": "Confiar en Jehová nos permite obedecer sus principios incluso cuando implica dejar a un lado nuestro orgullo."
-      },
-      {
-        "id": "10B_q20",
-        "question": "ción. ¿Por qué necesitas fe para aplicar el principio de pedir perdón y perdonar?",
-        "references": "Luc. 17:1-5",
-        "directAnswer": "<strong>Necesitamos fe porque perdonar y pedir perdón exige vencer nuestro orgullo imperfecto, confiando plenamente en que obedecer las normas de Jehová sanará las relaciones y nos dará verdadera paz interior.</strong>",
-        "deepAnswer": "En Lucas 17:1-5, después de que Jesús exhortara a sus discípulos a perdonar repetidamente, los apóstoles imploraron de inmediato: <em>“Danos más fe”</em>. Esto evidencia que <strong>aplicar el principio del perdón requiere una confianza absoluta en Jehová, creyendo firmemente que su guía es superior a nuestro deseo natural de autoprotección o resentimiento.</strong> <strong>Al pedir perdón, mostramos fe al humillarnos y asumir la responsabilidad de nuestros errores; y al otorgarlo, demostramos fe en que Jehová sanará cualquier herida y compensará con creces nuestra buena disposición.</strong>",
-        "shortAnswer": "Perdonar y pedir perdón exige fe para vencer el orgullo y confiar plenamente en el poder sanador de los principios de Jehová."
+        "shortAnswer": "Confiar en Jehová nos permite obedecer sus principios incluso cuando implica dejar a un lado nuestro orgullo.",
+        "subtitle": "Déjate guiar por los principios de la Biblia",
+        "note": "EJEMPLO: Discutes con un compañero de predicación. ¿Por qué necesitas fe para aplicar el principio de pedir perdón y perdonar? (Luc. 17:1-5)."
       },
       {
         "id": "10B_q21",
@@ -5173,11 +5252,12 @@ const lessonsData = [
       },
       {
         "id": "11A_q36",
-        "question": "¿Qué principios te ayudarán a saber cómo vestirte para salir a predicar? (od pág. 134 párr. 12). Explica lo que significan estas expresiones: a) “ropa apropiada”; b) “modestia”; c) “buen juicio”",
+        "question": "¿Qué principios te ayudarán a saber cómo vestir de forma apropiada y con buen juicio para el ministerio? (od pág. 134 pág. 12)",
         "references": "1 Tim. 2:9, 10",
         "directAnswer": "<strong>Nos guían los principios bíblicos de dignidad, decencia y respeto.</strong> <strong>Vestirse con ropa apropiada, modestia y buen juicio asegura que nuestra apariencia no distraiga del mensaje del Reino.</strong>",
         "deepAnswer": "Siguiendo las pautas de 1 Timoteo 2:9, 10 y las instrucciones del libro <em>Organizados</em>, nuestro arreglo debe ensalzar el ministerio. <br>a) <strong>\"Ropa apropiada\" se refiere a vestir de forma digna, limpia y adecuada para la actividad sagrada que realizamos, respetando el entorno teocrático.</strong> <br>b) <strong>La \"modestia\" nos ayuda a evitar estilos de vestir que sean provocativos, extravagantes o que llamen la atención de manera egocéntrica, mostrando consideración por Jehová y por los demás.</strong> <br>c) <strong>El \"buen juicio\" es la capacidad de discernir lo que es prudente y de buen gusto, evitando modas extremas, desaliñadas o rebeldes que caracterizan al mundo alejado de Dios.</strong>",
-        "shortAnswer": "La ropa apropiada, la modestia y el buen juicio garantizan que nuestro arreglo personal dignifique a Jehová y nuestro sagrado ministerio."
+        "shortAnswer": "La ropa apropiada, la modestia y el buen juicio garantizan que nuestro arreglo personal dignifique a Jehová y nuestro sagrado ministerio.",
+        "note": "Explica lo que significan estas expresiones: a) “ropa apropiada”; b) “modestia”; c) “buen juicio” (1 Tim. 2:9, 10)."
       },
       {
         "id": "11A_q37",
@@ -5197,7 +5277,7 @@ const lessonsData = [
       },
       {
         "id": "11A_q39",
-        "question": "¿Cómo demuestran los precursores que respetan el principio de autoridad dentro de la familia? Las conversaciones",
+        "question": "¿Cómo demuestran los precursores que respetan el principio de autoridad dentro de la familia?",
         "references": "",
         "directAnswer": "<strong>Los precursores respetan la autoridad al apoyar las decisiones del cabeza de familia y fomentar un ambiente de cooperación y sujeción espiritual.</strong>",
         "deepAnswer": "Aunque un precursor tenga muchas responsabilidades en la congregación, reconoce que su primera responsabilidad es su familia. <strong>Al cooperar con el cabeza de familia y evitar interferir en las decisiones familiares, el precursor muestra que valora el orden establecido por Jehová.</strong> Este respeto no es solo una norma externa, sino una actitud del corazón que mantiene la paz y la espiritualidad en el hogar.",
@@ -5209,7 +5289,8 @@ const lessonsData = [
         "references": "Efes. 4:29",
         "directAnswer": "<strong>Una persona espiritual suele hablar de cosas que edifican, animan y glorifican a Jehová.</strong>",
         "deepAnswer": "En armonía con Efesios 4:29, <strong>la persona espiritual se esfuerza por evitar las 'palabras corrompidas' y busca decir solo lo que es bueno para edificar según sea necesario.</strong> <strong>Sus conversaciones giran en torno a la verdad, las experiencias del ministerio, las profecías bíblicas o expresiones de gratitud hacia nuestro Padre celestial</strong>, procurando que sus palabras impartan lo que es favorable a los oyentes.",
-        "shortAnswer": "Habla de cosas que edifican y comunican bondad inmerecida."
+        "shortAnswer": "Habla de cosas que edifican y comunican bondad inmerecida.",
+        "subtitle": "Las conversaciones"
       },
       {
         "id": "11A_q41",
@@ -5295,41 +5376,41 @@ const lessonsData = [
         "id": "11A_q51",
         "question": "bre físico? ¿Qué consejos de este relato pueden ayudar a una persona espiritual a no caer en la inmoralidad? Sigue evaluando tu progreso",
         "references": "1 Cor. 9:24",
-        "directAnswer": "",
-        "deepAnswer": "Los consejos de este relato, como <strong>la importancia de la vigilancia, la sabiduría y el temor de Jehová, son cruciales para evitar la inmoralidad.</strong> Una persona espiritual debe recordar constantemente que nuestras acciones tienen consecuencias eternas y que debemos correr la carrera cristiana con perseverancia, como se menciona en 1 Corintios 9:24. <em>Evitar las situaciones peligrosas</em> y rodearse de personas que nos animen en la fe son pasos vitales.",
-        "shortAnswer": "La vigilancia y la sabiduría evitan la caída."
+        "directAnswer": "Los apóstoles necesitaban esforzarse por ser hombres espirituales porque <strong>todavía tenían una visión carnal de la autoridad</strong>. Aunque estaban con Jesús, <strong>mostraron ambición, deseo de protagonismo y falta de humildad</strong>, lo cual era incompatible con el espíritu de servicio que el Reino requiere.",
+        "deepAnswer": "Los relatos de Mateo y Lucas revelan que, incluso después de haber sido elegidos personalmente por Jesús, los apóstoles luchaban contra rasgos de personalidad imperfectos. En Mateo 20:20-24, la petición de la madre de Santiago y Juan, junto con la indignación de los otros diez, demuestra que <strong>todavía buscaban posiciones de preeminencia y poder</strong>. Jesús tuvo que corregir su forma de pensar enseñándoles que, a diferencia de los gobernantes de las naciones, <strong>la grandeza en su congregación se mide por la disposición a servir y no a mandar</strong>. Como señala 1 Corintios 9:24, <strong>la vida cristiana es una carrera que exige autodisciplina y un esfuerzo constante por alcanzar la madurez espiritual</strong>. Los apóstoles tuvieron que cambiar su enfoque egocéntrico por un espíritu de humildad y sacrificio para cumplir con éxito su futura comisión de pastorear la congregación cristiana.",
+        "shortAnswer": "La verdadera grandeza cristiana no se logra buscando autoridad, sino cultivando un espíritu de servicio humilde y constante."
       },
       {
         "id": "11A_q52",
         "question": "¿Cómo muestran los siguientes versículos que los apóstoles debían seguir esforzándose por ser hombres espirituales? Mateo 20:20, 21, 24-28 Lucas 22:24-27",
         "references": "",
-        "directAnswer": "",
-        "deepAnswer": "<strong>Mateo 20:20-28 muestra a los apóstoles discutiendo quién sería el mayor, revelando una mentalidad terrenal y ambiciosa.</strong> <strong>Lucas 22:24-27 narra otra discusión similar, donde Jesús tuvo que corregir su deseo de dominio.</strong> Estos episodios evidencian que, a pesar de su posición, aún debían esforzarse por ser hombres espirituales, poniendo el ejemplo de humildad y servicio que Jesús mismo demostró.",
-        "shortAnswer": "Aún debían vencer la ambición terrenal."
+        "directAnswer": "Pedro demostró ser un hombre espiritual al <strong>reconocer correctamente la identidad de Jesús como el Cristo, el Hijo del Dios vivo</strong>, no por deducción humana, sino porque <strong>recibió revelación directa de parte de Jehová</strong>.",
+        "deepAnswer": "En Mateo 16:16, 17, Pedro responde a la pregunta de Jesús sobre quién creían que era él. Su confesión de que Jesús es el Cristo y el Hijo del Dios vivo fue una prueba clara de su espiritualidad. Como indica la referencia en el libro Jesús, el camino, la verdad y la vida, Jesús aclara que <strong>Pedro no llegó a esta conclusión mediante la sabiduría o el razonamiento humano, sino que fue enseñado por Jehová mismo</strong>. Un hombre espiritual, como Pedro, demuestra que <strong>su mente y corazón están en sintonía con la voluntad de Dios</strong>, lo que le permite percibir verdades que pasan desapercibidas para quienes solo confían en sus propios criterios terrenales.",
+        "shortAnswer": "Ser espiritual implica escuchar la guía de Jehová y reconocer la verdad sobre Jesús por encima de las opiniones humanas."
       },
       {
         "id": "11A_q53",
         "question": "¿Cómo indica Mateo 16:16, 17 que el apóstol Pedro era un hombre espiritual?",
         "references": "ia pág. 191 párr. 13",
-        "directAnswer": "",
-        "deepAnswer": "Mateo 16:16, 17 revela que <strong>Pedro era un hombre espiritual porque sus afirmaciones sobre Jesús provenían de una revelación divina y no de conocimiento humano.</strong> Jesús mismo le declara: “No te ha revelado esto carne y sangre, sino mi Padre que está en los cielos”. Esto demuestra que Pedro estaba en sintonía con los pensamientos de Jehová.",
-        "shortAnswer": "Sus convicciones venían de la revelación divina."
+        "directAnswer": "Sabemos que Pedro tenía que seguir progresando porque, a pesar de su gran fe y amor por Jesús, <strong>todavía debía corregir rasgos de su personalidad, como la impulsividad y el exceso de confianza, y aprender a aceptar la guía y disciplina divina</strong> para llegar a ser un pilar firme para sus hermanos.",
+        "deepAnswer": "Aunque Pedro fue elegido por Jesús y poseía muchas cualidades excelentes, las Escrituras muestran que su proceso de aprendizaje fue continuo. Pedro cometía errores graves, como confiar demasiado en sus propias fuerzas al afirmar que nunca abandonaría a Jesús, lo cual lo llevó a negarlo tres veces. Además, necesitaba cultivar la humildad y comprender mejor la voluntad de Dios, como se evidenció cuando tuvo que ser corregido por su actitud ante el sufrimiento de Cristo o por sus prejuicios iniciales. Jehová y Jesús tuvieron paciencia con él, permitiéndole reconocer sus fallas, arrepentirse sinceramente y seguir ajustando su personalidad y modo de pensar para, eventualmente, cumplir su papel de fortalecer a los demás.",
+        "shortAnswer": "El progreso de Pedro fue un proceso continuo de humildad y aprendizaje necesario para superar sus debilidades y servir con madurez."
       },
       {
         "id": "11A_q54",
         "question": "¿Cómo sabemos que Pedro tenía que seguir progresando?",
         "references": "",
-        "directAnswer": "",
-        "deepAnswer": "Sabemos que Pedro tenía que seguir progresando porque, <strong>a pesar de su fe y sus revelaciones divinas, también mostró debilidades y cometió errores graves, como negar a Jesús.</strong> El hecho de que Jehová registra sus faltas y las correcciones que recibió, como se detalla en las páginas 191-192, párrafos 15-18, nos muestra que ninguno de nosotros es perfecto y que siempre hay espacio para mejorar.",
-        "shortAnswer": "Sus errores mostraron que necesitaba seguir creciendo."
+        "directAnswer": "Esto nos anima porque nos asegura que <strong>Jehová es un Dios que desea comunicarse personalmente con nosotros</strong>. Al habernos dado su Palabra en un lenguaje claro, sencillo y exacto, <strong>nos permite entender su amor y su propósito, sintiendo que él mismo nos habla directamente al corazón</strong>.",
+        "deepAnswer": "Nos sentimos profundamente animados al reconocer el gran esfuerzo que Jehová ha hecho para preservarnos su mensaje. Primero, el hecho de que su Palabra esté disponible en nuestro propio idioma y en un lenguaje claro y natural, en lugar de términos arcaicos o eclesiásticos, <strong>nos permite sentir que Jehová nos habla directamente</strong>, lo cual genera una gratitud inmediata. Segundo, <strong>la restitución de su nombre, Jehová, a su lugar legítimo en las Escrituras nos ayuda a comprender que nuestro Creador no es un Dios lejano o impersonal, sino un Padre que quiere que conozcamos su identidad y su personalidad</strong>. Además, contar con herramientas de estudio exactas, libres de sesgos doctrinales y con notas que aclaran el contexto histórico y cultural, nos da la confianza de que estamos leyendo el mensaje original inspirado por Dios. Todo esto confirma que él se interesa en que cada uno de nosotros comprenda su voluntad, fortaleciendo nuestra relación con él y dándonos una base firme para nuestra fe.",
+        "shortAnswer": "Contar con una traducción clara y exacta de la Biblia nos anima al confirmarnos que Jehová es un Padre cercano que desea que lo conozcamos personalmente."
       },
       {
         "id": "11A_q55",
         "question": "¿Por qué nos anima eso?",
         "references": "ia págs. 191-192 párrs. 15-18",
-        "directAnswer": "",
-        "deepAnswer": "Nos anima porque <strong>vemos que, incluso los hombres que fueron escogidos por Jesús, enfrentaron luchas y debieron continuar esforzándose.</strong> Esto nos asegura que Jehová comprende nuestras imperfecciones y está dispuesto a ayudarnos a progresar si demostramos fe y perseverancia. <em>Sus ejemplos nos motivan a no rendirnos</em> y a mantener la confianza en que podemos alcanzar la vida eterna.",
-        "shortAnswer": "Nos anima que aun los mejores tuvieron que esforzarse."
+        "directAnswer": "Para conservar la felicidad que proviene de ser una persona espiritual, es fundamental <strong>mantener la confianza en Jehová frente a las pruebas</strong>, recordando que <strong>nuestra perseverancia demuestra la calidad de nuestra fe y nos permite recibir su aprobación y bendición</strong>.",
+        "deepAnswer": "La felicidad espiritual no depende de la ausencia de problemas, sino de nuestra perspectiva ante ellos. Según 1 Pedro 1:6, 7, aunque tengamos que sufrir diversas pruebas, <strong>nuestra fe probada es de mucho más valor que el oro</strong>. Al mantener una actitud positiva y centrada en Jehová, nuestra fe se refina como metal precioso. Asimismo, 1 Pedro 3:14 nos asegura que, aunque suframos por causa de la justicia, <strong>somos felices si no permitimos que el temor a los hombres nos intimide</strong>. Finalmente, 1 Pedro 4:13, 14 nos anima a seguir alegrándonos al participar en los sufrimientos de Cristo, pues <strong>la presencia del espíritu de Dios sobre nosotros es una prueba clara de su favor</strong>. Mantenernos enfocados en estas verdades nos permite conservar la paz mental y la alegría profunda, sabiendo que estamos actuando de acuerdo con la voluntad de nuestro Creador.",
+        "shortAnswer": "La felicidad espiritual se conserva al ver las pruebas como una oportunidad para demostrar nuestra lealtad a Jehová y recibir su espíritu santo."
       },
       {
         "id": "11A_q56",
@@ -5546,11 +5627,12 @@ const lessonsData = [
       },
       {
         "id": "11B_q24",
-        "question": "Por lo general, ¿por qué es bueno volver en uno o dos días? Cuenta cómo te ha ido cuando has puesto en práctica esta sugerencia con alguien que mostró interés. EXPERIENCIA: Una hermana tiene la costumbre de quedar en volver a visitar a la gente lo antes posible. Pero, uno o dos días antes de la cita, les lleva una revista que trate sobre el tema del que habían hablado, y les dice: “Vi este artículo y pensé que le podría gustar. No puedo quedarme para hablar ahora, pero volveré el..., como quedamos.",
+        "question": "Por lo general, ¿por qué es bueno volver en uno o dos días? Cuenta cómo te ha ido cuando has puesto en práctica esta sugerencia con alguien que mostró interés.",
         "references": "",
         "directAnswer": "<strong>Es bueno volver pronto para mantener fresca la conversación y demostrar que nuestro interés por ellos es sincero.</strong>",
         "deepAnswer": "<strong>Regresar en uno o dos días permite aprovechar el impulso del interés inicial.</strong> Al llevar un artículo relacionado con lo que hablamos antes, demostramos que realmente escuchamos a la persona, lo cual <strong>ayuda a edificar confianza y facilita que el dueño de casa nos recuerde con agrado.</strong>",
-        "shortAnswer": "Volver pronto mantiene vivo el interés y fortalece la conexión con la persona."
+        "shortAnswer": "Volver pronto mantiene vivo el interés y fortalece la conexión con la persona.",
+        "note": "EXPERIENCIA: Una hermana tiene la costumbre de quedar en volver a visitar a la gente lo antes posible. Pero, uno o dos días antes de la cita, les lleva una revista que trate sobre el tema del que habían hablado, y les dice: “Vi este artículo y pensé que le podría gustar. No puedo quedarme para hablar ahora, pero volveré el..., como quedamos. ¿Todavía puede a esa hora?”."
       },
       {
         "id": "11B_q25",
@@ -6024,7 +6106,7 @@ const lessonsData = [
           },
           {
             "id": "12B_q4_b",
-            "question": "Menciona algunos principios bíblicos que hayan mejorado tu vida espiritual. “Corran de tal modo que lo ganen”.",
+            "question": "Menciona algunos principios bíblicos que hayan mejorado tu vida.",
             "references": "1 Corintios 9:24",
             "directAnswer": "<strong>Aplicar principios como el de esforzarse por la meta espiritual, mencionado en 1 Corintios 9:24, nos ayuda a mejorar nuestra vida al darnos enfoque y disciplina.</strong>",
             "deepAnswer": "El principio de 'correr de tal modo que lo ganen' (1 Corintios 9:24) <strong>nos enseña que la vida cristiana requiere disciplina, resistencia y un objetivo claro: la vida eterna.</strong> Otros principios, como el amor al prójimo, la humildad y la honestidad, <strong>mejoran nuestra vida espiritual al eliminar barreras que nos impiden servir a Jehová con un corazón completo.</strong> Al aplicar estos principios, nuestra fe se fortalece y nuestra relación con Jehová se hace más profunda.",
@@ -6038,7 +6120,8 @@ const lessonsData = [
         "references": "",
         "directAnswer": "Una persona espiritual demuestra su espiritualidad <strong>al pensar y actuar de acuerdo con el espíritu de Dios.</strong>",
         "deepAnswer": "Las personas espirituales <strong>se caracterizan por mostrar cualidades del espíritu de Dios, como el amor, el gozo, la paz, la paciencia, la bondad, la benignidad, la fe, la mansedumbre y el autodominio.</strong> <br> Estas cualidades se manifiestan en sus decisiones, en sus conversaciones y en su forma de tratar a los demás, reflejando así que su mente está enfocada en las cosas espirituales.",
-        "shortAnswer": "Demuestran cualidades del espíritu de Dios."
+        "shortAnswer": "Demuestran cualidades del espíritu de Dios.",
+        "subtitle": "«Corran de tal modo que lo ganen» (1 Corintios 9:24)"
       },
       {
         "id": "12B_q6",
@@ -6500,17 +6583,17 @@ const lessonsData = [
         "id": "13B_q8",
         "question": "Al enseñar, ¿cómo podrías convertirte en el centro de",
         "references": "",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "<strong>Jehová usa su espíritu santo hoy principalmente para enseñarnos a través de su Palabra, la Biblia.</strong> Tal como prometió Jesús en Juan 14:26, <strong>el espíritu santo actúa como un ayudante que nos hace recordar las enseñanzas de Dios, guía nuestro entendimiento para captar la verdad y nos permite comprender el mensaje bíblico de manera clara y personal.</strong>",
+        "deepAnswer": "<strong>Jehová utiliza su espíritu santo para enseñarnos al asegurar que su mensaje llegue a nosotros de manera precisa y comprensible.</strong> Primero, su espíritu dirigió a los redactores de la Biblia y ha preservado su contenido a través de los siglos mediante el esfuerzo meticuloso de copistas. Hoy, ese mismo espíritu guía la labor de traducción que realiza la organización, permitiendo que la Traducción del Nuevo Mundo presente el texto en un lenguaje moderno, claro y fiel al original, restituyendo el nombre divino. Además, <strong>el espíritu santo nos ayuda personalmente a entender las Escrituras, aclarando términos difíciles y permitiéndonos aplicar la verdad a nuestra vida.</strong> Al leer la Biblia en nuestro propio idioma, el espíritu nos ayuda a sentir que Jehová nos habla directamente, lo que nos permite comprender el propósito divino, la vida de Jesús y el mensaje del Reino con una claridad que transforma nuestro corazón.",
+        "shortAnswer": "Jehová usa su espíritu santo para guiarnos hacia la verdad mediante una Biblia clara, fiel y accesible en nuestro propio idioma."
       },
       {
         "id": "13B_q9",
         "question": "atención sin darte cuenta? ¿Por qué eso no sería bueno ni para ti ni para el estudiante?",
         "references": "",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "<strong>Jesús basaba sus enseñanzas exclusivamente en la Palabra de Dios</strong>. Al enfrentarse a las tentaciones o al enseñar a otros, <strong>su autoridad provenía de citar las Escrituras Hebreas</strong>, demostrando que su mensaje no era una invención personal, sino la voluntad de su Padre, Jehová.",
+        "deepAnswer": "Jesús demostró que <strong>las Escrituras son la máxima autoridad para un siervo de Dios</strong>. En Mateo 4:7 y 10, ante las tentaciones de Satanás, Jesús rechazó cualquier argumento propio y respondió utilizando citas directas de Deuteronomio, introduciéndolas con la expresión: Está escrito. Esto subraya que <strong>la base de su enseñanza no eran tradiciones humanas ni su propia sabiduría, sino la revelación divina</strong>. Como él mismo explicó en Juan 7:16, <strong>su enseñanza no era suya, sino de aquel que lo envió</strong>. Jesús reconocía que la Palabra de Dios es la verdad, tal como se refleja en el compromiso de la Traducción del Nuevo Mundo de verter fielmente los escritos originales, respetando la voluntad de Jehová de que su nombre y su mensaje sean conocidos sin alteraciones. Al enseñar basándose en las Escrituras, Jesús mostró que el mensaje de Dios debe ser la fuente de guía para todos sus siervos, ya que es el medio por el que Jehová nos habla directamente al corazón.",
+        "shortAnswer": "Jesús enseñó basándose únicamente en la Palabra de Dios, demostrando que la autoridad final reside siempre en las Escrituras."
       },
       {
         "id": "13B_q10",
@@ -6652,11 +6735,12 @@ const lessonsData = [
       },
       {
         "id": "13B_q23",
-        "question": "¿Por qué es práctico que escribas notas breves en la publicación? Nota al instructor: Repase puntos principales del apéndice C “Cómo dirigir cursos bíblicos con el manual Disfrute de la vida” del folleto Una obra de amor. Enseña al estudiante a prepararse.",
+        "question": "¿Por qué es práctico que escribas notas breves en la publicación?",
         "references": "",
         "directAnswer": "Escribir notas breves <strong>nos sirve de guía visual rápida para recordar qué puntos resaltar, qué preguntas adicionales hacer y cómo aplicar los textos de forma sencilla.</strong>",
         "deepAnswer": "Mantener anotaciones breves en nuestra publicación de estudio <strong>evita que demos explicaciones demasiado largas u opiniones personales.</strong> Tal como aconseja el folleto <em>Una obra de amor</em>, <strong>estas notas sencillas nos ayudan a mantener el enfoque en el objetivo de la lección y a responder de manera ágil a las necesidades del estudiante.</strong>",
-        "shortAnswer": "Sirve como una guía rápida para mantener el estudio enfocado, sencillo y dinámico."
+        "shortAnswer": "Sirve como una guía rápida para mantener el estudio enfocado, sencillo y dinámico.",
+        "note": "Nota al instructor: Repase puntos principales del apéndice C “Cómo dirigir cursos bíblicos con el manual Disfrute de la vida” del folleto Una obra de amor."
       },
       {
         "id": "13B_q24",
@@ -6664,7 +6748,8 @@ const lessonsData = [
         "references": "Luc. 6:40",
         "directAnswer": "Ver nuestras propias marcas <strong>le enseña visualmente la importancia de la preparación personal y lo motiva a imitar ese buen hábito de estudio.</strong>",
         "deepAnswer": "En armonía con Lucas 6:40, el estudiante tiende a imitar los hábitos de su maestro; por eso, <strong>al mostrarle nuestro libro preparado, le transmitimos el valor que le damos a la verdad.</strong> Esta lección práctica le demuestra de manera sencilla <em>cómo buscar las respuestas</em> y destacar las palabras clave, capacitándolo para su propio progreso espiritual.",
-        "shortAnswer": "Enseña con el ejemplo la importancia de prepararse y cómo hacerlo de forma práctica."
+        "shortAnswer": "Enseña con el ejemplo la importancia de prepararse y cómo hacerlo de forma práctica.",
+        "subtitle": "Enseña al estudiante a prepararse"
       },
       {
         "id": "13B_q25",
@@ -7091,11 +7176,12 @@ const lessonsData = [
     "questions": [
       {
         "id": "15A_q1",
-        "question": "¿Cómo ayudas a tus estudiantes a ver lo importante que es hablar con otros de lo que aprenden desde el mismo principio? SUGERENCIA: Hay precursores que les dan a sus estudiantes algunos tratados para que se los den a sus amigos y familiares. Otros ensayan con ellos cómo predicar. Si el estudiante te dice que quiere salir a predicar,",
+        "question": "¿Cómo ayudas a tus estudiantes a ver lo importante que es hablar con otros de lo que aprenden desde el mismo principio?",
         "references": "",
         "directAnswer": "<strong>Podemos ayudarlos animándolos desde el mismo principio a compartir de manera informal lo que aprenden con su familia y amigos mediante el uso de herramientas sencillas como los tratados.</strong>",
         "deepAnswer": "Es vital inculcar en el estudiante el deseo de predicar desde el inicio de su estudio. Una forma excelente de lograrlo es <strong>sugiriéndole ideas prácticas, como regalar un tratado bíblico a un familiar o amigo que esté pasando por una situación difícil.</strong> Durante la sesión de estudio, podemos hacer breves ensayos preguntándole: <em>“¿Cómo le explicarías esta verdad a un conocido usando tus propias palabras?”</em>. Esto les ayuda a vencer el temor y a experimentar el gozo de dar desde temprano.",
-        "shortAnswer": "Anímalos a predicar de manera informal mediante el uso de tratados y sencillas sesiones de práctica durante el estudio."
+        "shortAnswer": "Anímalos a predicar de manera informal mediante el uso de tratados y sencillas sesiones de práctica durante el estudio.",
+        "note": "SUGERENCIA: Hay precursores que les dan a sus estudiantes algunos tratados para que se los den a sus amigos y familiares. Otros ensayan con ellos cómo predicar informalmente (lff lección 22)."
       },
       {
         "id": "15A_q2",
@@ -7607,11 +7693,12 @@ const lessonsData = [
       },
       {
         "id": "16A_q7",
-        "question": "¿Qué esperanza nos hace felices, y a qué nos anima la Biblia? (Mat. 6:9, 10; Filip. 4:4; 1 Tim. 1:11). EXPERIENCIA: Una precursora llamada Janeen dice: “Cada vez que tengo la oportunidad de enseñarle la verdad a alguien, siento que se graba más en mi mente y en mi corazón. Así mi fe sigue creciendo en vez de quedarse estancada”.",
+        "question": "¿Qué esperanza nos hace felices, y a qué nos anima la Biblia? (Mat. 6:9, 10; Filip. 4:4; 1 Tim. 1:11).",
         "references": "",
         "directAnswer": "<strong>Nos hace felices la esperanza de ver el Reino de Dios santificar el nombre de Jehová y traer el Paraíso</strong>, y <strong>la Biblia nos anima a regocijarnos siempre imitando a nuestro \"Dios feliz\".</strong>",
         "deepAnswer": "<strong>Nuestra felicidad se basa en la gloriosa esperanza de que el Reino de Dios santificará su santo nombre y eliminará toda la maldad de la Tierra</strong> (Mat. 6:9, 10). <strong>La Biblia nos insta constantemente a mantener una actitud alegre y positiva (Filip. 4:4), reflejando la personalidad de Jehová, quien es llamado \"el Dios feliz\"</strong> (1 Tim. 1:11). Como muestra la experiencia de la hermana Janeen, cuando compartimos activamente esta esperanza con otros en el ministerio de precursor, la verdad se graba más en nuestro corazón y nuestra propia fe se mantiene dinámica y fuerte.",
-        "shortAnswer": "Nos alegra la esperanza del Reino y se nos anima a mantener vivo ese gozo compartiendo activamente las buenas noticias con el prójimo."
+        "shortAnswer": "Nos alegra la esperanza del Reino y se nos anima a mantener vivo ese gozo compartiendo activamente las buenas noticias con el prójimo.",
+        "note": "EXPERIENCIA: Una precursora llamada Janeen dice: “Cada vez que tengo la oportunidad de enseñarle la verdad a alguien, siento que se graba más en mi mente y en mi corazón. Así mi fe sigue creciendo en vez de quedarse estancada”."
       },
       {
         "id": "16A_q8",
@@ -7655,11 +7742,12 @@ const lessonsData = [
       },
       {
         "id": "16A_q13",
-        "question": "¿Cómo podría contribuir a la felicidad de tu familia el hecho de que seas precursor? EXPERIENCIA: Una precursora con hijos en edad escolar se organizó para predicar con ellos después de clase dos tardes a la semana; además, en las vacaciones los animaba a hacer el precursorado. Sus cinco hijos se hicieron precursores al terminar la escuela. Nota al instructor: Comenta algunos datos interesantes del pasado año de servicio sobre la predicación a nivel mundial y en el país. Recuérdales a los estudiantes lo mucho que han contribuido como precursores a esos informes (1 Cor. 3:5-9). Nuestros hermanos.",
+        "question": "¿Cómo podría contribuir a la felicidad de tu familia el hecho de que seas precursor?",
         "references": "",
         "directAnswer": "<strong>Ser precursor ayuda a la familia al establecer un ejemplo de dedicación espiritual y prioridades correctas, lo cual fomenta un ambiente de servicio a Jehová en el hogar.</strong>",
         "deepAnswer": "Cuando los padres son precursores, transmiten a sus hijos un amor profundo por el ministerio. <strong>Al organizar la vida familiar en torno a la predicación, como en el ejemplo mencionado, los hijos aprenden que el servicio a Dios no es una carga, sino una fuente de alegría.</strong> Esto fortalece la unidad familiar, ya que todos comparten la misma meta espiritual, y como dice 1 Corintios 3:5-9, somos 'colaboradores de Dios', trabajando juntos por el crecimiento espiritual de nuestro hogar y de nuestra comunidad.",
-        "shortAnswer": "El ejemplo del precursor enseña a la familia a poner el Reino de Dios en primer lugar."
+        "shortAnswer": "El ejemplo del precursor enseña a la familia a poner el Reino de Dios en primer lugar.",
+        "note": "EXPERIENCIA: Una precursora con hijos en edad escolar se organizó para predicar con ellos después de clase dos tardes a la semana; además, en las vacaciones los animaba a hacer el precursorado. Sus cinco hijos se hicieron precursores al terminar la escuela.\n\nNota al instructor: Comenta algunos datos interesantes del pasado año de servicio sobre la predicación a nivel mundial y en el país. Recuérdales a los estudiantes lo mucho que han contribuido como precursores a esos informes (1 Cor. 3:5-9)."
       },
       {
         "id": "16A_q14",
@@ -7667,7 +7755,8 @@ const lessonsData = [
         "references": "Ageo 2:7; 1 Ped. 5:5-11",
         "directAnswer": "Nos hace felices contar con una hermandad internacional porque <strong>nos permite sentirnos parte de una familia unida por el amor a Jehová, sin importar nuestra procedencia.</strong>",
         "deepAnswer": "Como indica Ageo 2:7, las 'cosas deseables de todas las naciones' entran en la casa de Jehová, lo que resulta en una congregación diversa y vibrante. Al seguir el consejo de 1 Pedro 5:5-11, nos revestimos de humildad y <strong>nos apoyamos mutuamente, sabiendo que nuestros hermanos por todo el mundo enfrentan sufrimientos similares.</strong> Esta unidad es una prueba poderosa de que Jehová está formando un pueblo especial que, bajo la guía del espíritu santo, mantiene una paz genuina.",
-        "shortAnswer": "La hermandad internacional es una prueba viva del amor y la unidad que solo Dios puede producir."
+        "shortAnswer": "La hermandad internacional es una prueba viva del amor y la unidad que solo Dios puede producir.",
+        "subtitle": "Nuestros hermanos"
       },
       {
         "id": "16A_q15",
@@ -8099,9 +8188,9 @@ const lessonsData = [
         "id": "17A_q21",
         "question": "Jehová? ¿Cómo nos ayuda el ejemplo de Ana cuando luchamos con sentimientos negativos?",
         "references": "1 Sam. 1:18; Sal. 55:22",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "Después de orar, <strong>Ana se sintió tranquila y volvió a comer</strong>, pues había depositado su carga en Jehová. Su ejemplo nos ayuda a confiar en que, <strong>al orar con sinceridad y dejar nuestras preocupaciones en manos de Dios, él nos dará paz y aliviará nuestro peso emocional</strong>.",
+        "deepAnswer": "El relato de 1 Samuel 1:18 muestra que Ana, <strong>tras desahogarse ante Jehová, ya no se veía preocupada</strong>. Este cambio de actitud demuestra el poder de la oración ferviente. El Salmo 55:22 nos enseña que, cuando nos sentimos abrumados por sentimientos negativos, <strong>podemos arrojar nuestra carga sobre Jehová, quien nos sostendrá</strong>. Ana no permitió que el dolor la paralizara, sino que buscó consuelo en el único que realmente podía entenderla, permitiendo que la paz de Dios guardara su corazón.",
+        "shortAnswer": "La oración sincera transforma nuestra angustia en paz al confiar plenamente en el apoyo de Jehová."
       },
       {
         "id": "17A_q22",
@@ -8442,11 +8531,12 @@ const lessonsData = [
           },
           {
             "id": "17B_q13_e",
-            "question": "¿Qué te ayudará a aguantar si te presionan en el trabajo o se burlan de ti por seguir los principios de la Biblia? (Sal. 55:22; Juan 16:33). EXPERIENCIA: Hace muchos años, un hermano sufrió las burlas de un compañero de trabajo que por meses estuvo riéndose de él y criticando su religión. El hermano ya no podía soportarlo más, así que le pidió a Jehová que lo ayudara a aguantar como un verdadero cristiano, sin devolver mal por mal. Para su sorpresa, su compañero le pidió perdón y le prometió que no volvería a hablar mal de Dios delante de él; poco después, se fue de la empresa. Pasaron 24 años hasta que nuestro hermano volvió a ver a su excompañero de trabajo. Resulta que había estudiado la Biblia y ahora era testigo de Jehová. Le dijo que, aunque habían pasado muchos años, nunca olvidó “aquel Testigo que con tanta paciencia soportó las constantes burlas que hacía de él y de su Dios”.",
+            "question": "Si te presionan en el trabajo. Por ejemplo, si se burlan de ti por seguir los principios de la Biblia (Sal. 55:22; Juan 16:33).",
             "references": "Sal. 55:22; Juan 16:33",
             "directAnswer": "<strong>Lanzar nuestra carga sobre Jehová mediante la oración y recordar que nuestra conducta ejemplar y paciente es el mejor testimonio, pudiendo incluso atraer a otros a la verdad.</strong>",
             "deepAnswer": "Ante la presión y las burlas en el entorno laboral, lo más difícil es mantener la calma y no devolver mal por mal. Jesús nos advirtió que tendríamos aflicción, pero nos aseguró que él ha vencido al mundo (Juan 16:33). <strong>Al confiar en Jehová (Sal. 55:22), demostramos madurez cristiana.</strong> Nuestra paciencia no solo glorifica a Dios, sino que deja una marca imborrable en quienes nos observan, como lo demuestra la experiencia vivida por el hermano.<br><br>Experiencia: Esta vivencia subraya la lección teocrática de que nuestra paciencia y conducta cristiana son sermones silenciosos pero poderosos. El hermano no respondió a las burlas con ira, sino con oración, permitiendo que Jehová actuara. Años después, los resultados mostraron que su aguante no solo protegió su espiritualidad, sino que fue el factor clave que tocó el corazón de su perseguidor, quien terminó siendo un hermano en la fe. Esto nos enseña que, cuando sufrimos injustamente por nuestra fe, nuestro aguante paciente puede tener efectos eternos que quizás no veamos de inmediato.",
-            "shortAnswer": "Mantener una conducta paciente y confiar en que Jehová recompensará nuestra integridad."
+            "shortAnswer": "Mantener una conducta paciente y confiar en que Jehová recompensará nuestra integridad.",
+            "note": "EXPERIENCIA: Hace muchos años, un hermano sufrió las burlas de un compañero de trabajo que por meses estuvo riéndose de él y criticando su religión. El hermano ya no podía soportarlo más, así que le pidió a Jehová que lo ayudara a aguantar como un verdadero cristiano, sin devolver mal por mal. Para su sorpresa, su compañero le pidió perdón y le prometió que no volvería a hablar mal de Dios delante de él; poco después, se fue de la empresa. Pasaron 24 años hasta que nuestro hermano volvió a ver a su excompañero de trabajo. Resulta que había estudiado la Biblia y ahora era testigo de Jehová. Le dijo que, aunque habían pasado muchos años, nunca olvidó “aquel Testigo que con tanta paciencia soportó las constantes burlas que hacía de él y de su Dios”."
           }
         ]
       },
@@ -8460,11 +8550,12 @@ const lessonsData = [
         "subQuestions": [
           {
             "id": "17B_q14_a",
-            "question": "¿Cómo te ayudará el punto 'Estudiar y meditar' a aguantar los problemas y a mantenerte cerca de Jehová? (Prov. 15:28; 2 Tim. 2:15). EXPERIENCIA: Un hermano que había estado en campos de concentración nazis escribió: “Cuando me arrestaron, me sentí agradecido de no haber descuidado el estudio personal, ya que este me ayudó a tener fe para aguantar las pruebas”.",
+            "question": "Estudiar y meditar (Prov. 15:28; 2 Tim. 2:15).",
             "references": "Prov. 15:28; 2 Tim. 2:15; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
             "directAnswer": "<strong>El estudio y la meditación nos permiten llenar nuestra mente con los pensamientos de Jehová, lo cual fortalece nuestra fe y nos da la estabilidad necesaria para resistir bajo presión.</strong>",
             "deepAnswer": "La fe es como un músculo que necesita ser alimentado. <strong>El estudio y la meditación nos permiten internalizar las verdades bíblicas, transformándolas en convicciones profundas que guían nuestras decisiones.</strong> Cuando surgen los problemas, no reaccionamos por impulso, sino basados en la sabiduría divina que hemos almacenado en nuestro corazón. <br><br>Experiencia: El relato del hermano en los campos de concentración subraya una lección teocrática fundamental: la preparación espiritual no es un lujo, sino una necesidad de supervivencia. Su fe no se desmoronó porque el estudio personal había construido un cimiento sólido antes de la prueba, permitiéndole mantener su integridad incluso en las circunstancias más extremas.",
-            "shortAnswer": "El estudio personal edifica los cimientos espirituales necesarios para resistir las pruebas de fe."
+            "shortAnswer": "El estudio personal edifica los cimientos espirituales necesarios para resistir las pruebas de fe.",
+            "note": "EXPERIENCIA: Un hermano que había estado en campos de concentración nazis escribió: “Cuando me arrestaron, me sentí agradecido de no haber descuidado el estudio personal, ya que este me ayudó a tener fe para aguantar las pruebas”."
           },
           {
             "id": "17B_q14_b",
