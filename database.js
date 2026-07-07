@@ -1801,263 +1801,218 @@ const lessonsData = [
     "questions": [
       {
         "id": "4B_q1",
-        "question": "¿Cómo sabemos que el apóstol Pablo tenía en cuenta las circunstancias y el modo de pensar de las personas a las que predicaba?",
+        "question": "¿Cómo sabemos que el apóstol Pablo tenía en cuenta las circunstancias y el modo de pensar de las personas a las que predicaba? (Hech. 17:22, 23; 26:2, 3).",
         "references": "Hech. 17:22, 23; 26:2, 3",
-        "directAnswer": "El apóstol Pablo demostraba interés sincero <strong>adaptándose al modo de pensar y a la cultura de su auditorio</strong> (Hech. 17:22, 23). <strong>Al observar los detalles de su entorno (como el altar al 'Dios Desconocido') e iniciar conversaciones respetuosas, lograba establecer un terreno común para predicar.</strong>",
-        "deepAnswer": "En Hechos 17, en el Areópago, Pablo no condenó la idolatría de los atenienses de inmediato. En cambio, usó un altar que vio en la ciudad para presentar a Jehová como el Dios verdadero. Ante el rey Agripa (Hech. 26:2, 3), elogió con respeto su conocimiento de las costumbres judías. Esto nos enseña que <strong>los precursores debemos observar el entorno de la persona (jardín, adornos de la casa, juguetes de niños) para conocer sus intereses y adaptar nuestro mensaje con empatía.</strong>",
-        "shortAnswer": "Como Pablo, observemos y escuchemos antes de hablar para adaptar nuestro mensaje al corazón del oyente."
+        "subtitle": "Conoce a la persona y sus circunstancias",
+        "directAnswer": "Lo sabemos porque **adaptaba su mensaje según el auditorio**: en Atenas usó un altar al «Dios No Conocido» (Hech. 17), y ante el rey Agripa usó su conocimiento de las costumbres judías (Hech. 26).",
+        "deepAnswer": "El apóstol Pablo era un maestro de la adaptabilidad. Ante los filósofos griegos en el Areópago (Hechos 17:22, 23), no comenzó citando las Escrituras hebreas que ellos no conocían, sino que **tomó como punto de partida algo de su entorno**: un altar dedicado «A un Dios No Conocido». Ante el rey Agripa (Hechos 26:2, 3), comenzó felicitándolo sinceramente por ser un experto en las costumbres y controversias de los judíos. En ambos casos, **mostró respeto por el trasfondo de sus oyentes** para ganarse su confianza.",
+        "shortAnswer": "Pablo adaptaba su introducción y argumentos al trasfondo cultural y religioso de sus oyentes."
       },
       {
         "id": "4B_q2",
-        "question": "Cuando vas a hablar con alguien, ¿qué detalles te ayudarán a saber cuál es su procedencia, qué cosas le interesan",
-        "references": "",
-        "directAnswer": "Para conocer la procedencia e intereses de las personas, <strong>debemos observar con atención su entorno, su lenguaje corporal y prestar oído con empatía a lo que expresan.</strong>",
-        "deepAnswer": "En el ministerio del campo, los detalles son de gran valor: <strong>la presencia de juguetes, el tipo de adornos en la entrada de la casa, la vestimenta o el tono de voz de la persona nos dan indicios rápidos sobre sus circunstancias familiares y preocupaciones.</strong> <strong>Escuchar con atención respetuosa y hacer preguntas amables nos permitirá comprender mejor sus alegrías o temores actuales.</strong> <br>Al mostrar este <em>interés sincero y observador</em>, imitamos a Jesucristo, lo que nos capacita para adaptar el mensaje de la Biblia directamente a la necesidad espiritual de cada corazón que encontramos.",
-        "shortAnswer": "Observar con atención el entorno de la persona y escuchar su corazón nos permite dar un testimonio mucho más eficaz y amoroso."
+        "question": "Cuando vas a hablar con alguien, ¿qué detalles te ayudarán a saber cuál es su procedencia, qué cosas le interesan o cuál es su situación familiar? ¿En qué cosas del entorno podrías fijarte? ¿Hay algo que te diga de qué religión es? (w20.04 pág. 10 párrs. 8-10).",
+        "references": "w20.04 pág. 10 párrs. 8-10",
+        "directAnswer": "Nos ayudan detalles como **juguetes, adornos religiosos, el estado de la casa o jardín, la ropa de la persona y sus reacciones iniciales**.",
+        "deepAnswer": "Según *La Atalaya* (w20.04 pág. 10), debemos ser observadores antes de tocar la puerta. Detalles sencillos revelan mucho: juguetes en el patio indican que hay niños; una rampa o un pasamanos sugiere la presencia de personas mayores o enfermas; decoraciones o imágenes religiosas indican sus creencias. Al hablar con la persona, **debemos prestar atención a su tono, su vestimenta y sus palabras iniciales** para deducir qué temas le preocupan o le interesan, permitiéndonos adaptar nuestra conversación al instante.",
+        "shortAnswer": "Observar adornos, juguetes, el estado del hogar y la apariencia de la persona para discernir sus necesidades."
       },
       {
         "id": "4B_q3",
-        "question": "o cuál es su situación familiar? ¿En qué cosas del entorno podrías fijarte?",
+        "question": "¿Qué noticias recientes le podrían interesar a la gente de tu territorio? Da ejemplos.",
         "references": "",
-        "directAnswer": "<strong>Podemos preguntar a las personas sobre sus intereses personales y su situación familiar para mostrar que nos importan.</strong>",
-        "deepAnswer": "Para mostrar interés genuino, debemos esforzarnos por conocer a las personas. <strong>Preguntar sobre sus pasatiempos, gustos o su dinámica familiar nos permite descubrir puntos en común y así abordar temas que les resulten más relevantes.</strong><br><em>No se trata solo de obtener información, sino de edificar relaciones basadas en el amor y la compasión, tal como Jehová nos enseña.</em>",
-        "shortAnswer": "Interesémonos por sus gustos y su familia."
+        "directAnswer": "Le interesan noticias sobre **la economía local, el desempleo, el aumento de la delincuencia, la salud pública o la inestabilidad familiar**.",
+        "deepAnswer": "Para conectar con las personas, debemos conocer qué problemas les preocupan en el día a día. Ejemplos de noticias que captan su atención incluyen **las fluctuaciones de los precios de los alimentos, la escasez de empleo, la falta de seguridad en las calles, o noticias sobre desastres naturales**. Hablar de estos temas reales demuestra que no estamos desconectados de su realidad y que nos importan sus preocupaciones actuales.",
+        "shortAnswer": "Noticias sobre delincuencia, crisis económica, salud o problemas comunitarios de interés local."
       },
       {
         "id": "4B_q4",
-        "question": "¿Hay algo que te diga de qué religión es?",
-        "references": "w20.04 pág. 10 párrs. 8-10",
-        "directAnswer": "<strong>Podemos fijarnos en el entorno de la persona, como la decoración de su casa o jardín, para tener una idea de sus intereses y posiblemente su trasfondo religioso.</strong>",
-        "deepAnswer": "<strong>Al observar el entorno de la persona, como el estado de su casa, su jardín o incluso las decoraciones, podemos obtener pistas valiosas sobre sus preferencias y estilo de vida.</strong><br><em>Estas observaciones pueden ayudarnos a adaptar nuestro mensaje y encontrar un terreno común, incluso sugiriendo sutilmente su posible afiliación religiosa sin hacer suposiciones directas.</em> El punto clave es usar estas observaciones para mostrar empatía y respeto.",
-        "shortAnswer": "Observa su entorno para adaptar tu mensaje."
+        "question": "¿Cómo puedes usarlas para empezar una conversación?",
+        "references": "",
+        "directAnswer": "Las uso para **hacer una pregunta de opinión sobre la noticia, empatizar con su preocupación y luego dirigir la atención a la promesa bíblica**.",
+        "deepAnswer": "Podemos comenzar haciendo referencia a un suceso reciente diciendo algo como: «¿Vio en las noticias lo que ocurrió ayer en el vecindario? Muchos se sienten preocupados por la falta de seguridad...». Al **permitir que la persona exprese su opinión**, mostramos respeto. Luego, enlazamos el tema con la Biblia diciendo: «Es interesante que la Biblia promete un tiempo donde ya no habrá temor...», introduciendo así un texto reconfortante de forma natural.",
+        "shortAnswer": "Mencionando la noticia, pidiendo respetuosamente su opinión y mostrando la solución que da la Biblia."
       },
       {
         "id": "4B_q5",
-        "question": "¿Qué noticias recientes le podrían interesar a la gente de tu territorio? Da ejemplos.",
+        "question": "Si donde vives hay personas extranjeras, ¿quién haces para tener buenas conversaciones con ellas?",
         "references": "",
-        "directAnswer": "Para empezar una conversación, <strong>considere noticias que impactan directamente la vida de las personas, como el aumento del costo de vida, la seguridad en la comunidad, fenómenos meteorológicos extremos o temas de salud.</strong>",
-        "deepAnswer": "Es muy útil estar al tanto de las noticias locales y nacionales que preocupan a la gente de nuestro territorio. <strong>Temas como la inflación, la inestabilidad social, los desastres naturales o la salud mental son puntos de conexión comunes.</strong> Al mencionar brevemente una noticia relevante, podemos mostrar que estamos interesados en sus preocupaciones diarias y abrir la puerta para hablar sobre soluciones que solo el Reino de Dios puede ofrecer.",
-        "shortAnswer": "Las noticias relevantes conectan con las preocupaciones diarias."
+        "directAnswer": "Para tener buenas conversaciones, **muestro respeto por su cultura, uso aplicaciones de traducción o JW Language, y descargo material en su idioma natal**.",
+        "deepAnswer": "Predicar a extranjeros requiere un esfuerzo extra de empatía. Debemos **evitar los prejuicios y mostrar un interés sincero por su país de origen y su bienestar**. Saludar en su propio idioma usando la aplicación *JW Language* rompe el hielo de inmediato. Al mostrarles que valoramos su idioma y cultura, se sienten respetados y están más abiertos a escuchar el mensaje del Reino.",
+        "shortAnswer": "Mostrar respeto cultural, usar JW Language para saludar en su idioma y tratarlos con total empatía."
       },
       {
         "id": "4B_q6",
-        "question": "¿Cómo puedes usarlas para empezar una conversación?",
-        "references": "",
-        "directAnswer": "Por ejemplo, si el costo de vida es alto, <strong>podríamos preguntar: 'Muchos están preocupados por el aumento de los precios. ¿Cree que alguna vez veremos un alivio duradero a estas presiones económicas?'</strong>",
-        "deepAnswer": "<strong>Podemos iniciar diciendo: 'He notado que las noticias recientes sobre [mencione el tema, como el aumento de los precios o un evento climático] han captado la atención de muchos. ¿Ha afectado esto a su familia?' O si hay preocupaciones sobre la seguridad, 'Con tantos informes sobre la delincuencia, ¿cree que algún día viviremos en un mundo realmente seguro?'</strong> Estas preguntas sinceras demuestran que valoramos su perspectiva y abren un camino natural hacia el mensaje bíblico.",
-        "shortAnswer": "Usa preguntas abiertas para vincular noticias con soluciones bíblicas."
+        "question": "¿Qué debes hacer si te abre la puerta alguien que habla otro idioma? ¿Y qué debes hacer si esa persona demuestra interés en el mensaje? (od págs. 99, 100 párrs. 38-40).",
+        "references": "od págs. 99, 100 párrs. 38-40",
+        "directAnswer": "Si habla otro idioma, debemos **mostrarle información en su lengua (usando jw.org) y, si tiene interés, rellenar el formulario S-43** para que lo visite alguien de su idioma.",
+        "deepAnswer": "El libro *Organizados* (págs. 99, 100) explica que si encontramos a alguien que habla otro idioma, debemos intentar comunicarnos usando publicaciones o videos en su idioma. Si la persona muestra interés genuino, **debemos rellenar de inmediato el formulario *Sírvase visitar* (S-43)** y entregarlo al secretario de la congregación para que sea enviado al grupo o congregación del idioma correspondiente, asegurando que reciba la atención espiritual adecuada.",
+        "shortAnswer": "Mostrarle videos o tratados en su idioma y rellenar el formulario S-43 si muestra interés para que lo visite un publicador de su idioma."
       },
       {
         "id": "4B_q7",
-        "question": "Si donde vives hay personas extranjeras, ¿qué haces para tener buenas conversaciones con ellas?",
+        "question": "¿Cómo puedes usar jw.org cuando te encuentras con alguien que habla otro idioma? ¿Has tenido alguna experiencia?",
         "references": "",
-        "directAnswer": "Para tener buenas conversaciones con personas extranjeras, debemos <strong>mostrar interés genuino en su cultura</strong>, aprender a <strong>saludar en su idioma materno</strong> y ser <strong>pacientes al comunicarnos</strong>, utilizando herramientas como la aplicación <em>JW Language</em> para romper la barrera del idioma y <strong>hacer sentir bienvenidos a los extranjeros</strong> en nuestra comunidad.",
-        "deepAnswer": "La organización enfatiza que debemos esforzarnos por llevar las buenas nuevas a 'toda nación, tribu, lengua y pueblo' (Rev. 14:6). Para lograrlo, los publicadores deben: 1. <strong>Aprender saludos sencillos</strong> en los idiomas de los extranjeros que residen en su territorio, lo cual demuestra que valoramos su origen. 2. <strong>Utilizar la aplicación JW Language</strong>, que nos permite practicar frases útiles para iniciar conversaciones. 3. <strong>Valerse del folleto 'Buenas noticias para personas de todas las naciones'</strong>, diseñado específicamente para superar las barreras idiomáticas mediante mensajes visuales y textos bíblicos. 4. <strong>Ser observadores y respetuosos</strong> con sus costumbres, evitando juicios de valor y enfocándonos en los puntos que tenemos en común. Al <strong>mostrar una actitud acogedora</strong>, imitamos el ejemplo de Jehová, quien no es parcial y desea que personas de todo tipo lleguen a conocer la verdad.",
-        "shortAnswer": "La clave es el amor al prójimo: muestra interés cultural, aprende lo básico de su idioma y hazlos sentir verdaderamente bienvenidos."
+        "directAnswer": "Uso jw.org para **reproducir videos o mostrar folletos en su idioma natal al instante**. <br><br>*(Deja aquí tu experiencia personal si has tenido alguna)*",
+        "deepAnswer": "En el sitio oficial jw.org podemos cambiar rápidamente el idioma del contenido. Esto nos permite **mostrarle a la persona un video breve como *¿Por qué estudiar la Biblia?* o leerle un párrafo de un folleto en su propio idioma**. Ver y escuchar las buenas nuevas en su lengua materna suele conmover profundamente el corazón de las personas.<br><br>**Mi Experiencia Personal:**<br>*(Escribe aquí tu propia experiencia en el territorio)*",
+        "shortAnswer": "Uso jw.org para mostrar material en su idioma natal. (Escribe aquí tu propia experiencia personal)."
       },
       {
         "id": "4B_q8",
-        "question": "¿Qué debes hacer si te abre la puerta alguien que habla otro idioma?",
+        "question": "¿Qué puedes hacer para seguir cultivando el interés de la persona?",
         "references": "",
-        "directAnswer": "Si encuentras a alguien que habla otro idioma, debes <strong>tratar de identificar qué lengua habla</strong> y, si es posible, <strong>ofrecerle una publicación o mostrarle un video</strong> en su idioma utilizando la aplicación <em>JW Language</em> o el sitio <em>jw.org</em> para despertar su interés en el mensaje bíblico.",
-        "deepAnswer": "La organización enfatiza que nuestro objetivo es llegar a todas las personas 'de toda nación, tribu, lengua y pueblo'. Por lo tanto, si nos encontramos con alguien que no habla nuestro idioma, debemos: 1. <strong>Identificar su lengua</strong> de manera amable, preguntándole o buscando pistas. 2. <strong>Utilizar las herramientas digitales</strong>, como el sitio <em>jw.org</em>, para buscar el artículo o video adecuado en su idioma. 3. <strong>Hacer uso de la aplicación <em>JW Language</em></strong>, que ayuda a aprender frases sencillas de saludo en otros idiomas para romper el hielo. 4. <strong>Informar a los ancianos o al precursor de ese grupo o congregación de habla extranjera</strong> para que puedan realizar una revisita, ya que es fundamental que la persona reciba el mensaje en su 'lengua materna' para que el impacto espiritual sea mayor.",
-        "shortAnswer": "Usa las herramientas digitales para compartir las buenas nuevas en el idioma del corazón de las personas."
+        "directAnswer": "Puedo **dejar una pregunta pendiente para la próxima visita, intercambiar datos de contacto y volver a visitarla pronto**.",
+        "deepAnswer": "Para mantener el interés vivo, es fundamental establecer un puente para la siguiente conversación. Podemos dejar planteada una pregunta interesante que responderemos en la próxima visita. También **debemos intentar conseguir su número de teléfono o correo electrónico** para enviarle un enlace a un artículo o video relacionado con lo que hablamos, y programar la revisita para pocos días después.",
+        "shortAnswer": "Dejar una pregunta pendiente, pedir sus datos de contacto y realizar la revisita en pocos días."
       },
       {
         "id": "4B_q9",
-        "question": "¿Y qué debes hacer si esa persona demuestra interés en el mensaje?",
-        "references": "od págs. 99, 100 párrs. 38-40",
-        "directAnswer": "Si encontramos a alguien que habla otro idioma y demuestra interés, <strong>debemos esforzarnos por comunicarnos con ellos utilizando los recursos disponibles de la organización y procurar que se le dé seguimiento.</strong>",
-        "deepAnswer": "Nuestro libro <em>Organizados para hacer la voluntad de Jehová</em> (od págs. 99, 100 párrs. 38-40) nos anima a no dejar pasar el interés. Si una persona habla otro idioma y muestra interés, <strong>debemos preguntarle su idioma nativo, mostrarle publicaciones en su idioma en jw.org, e idealmente, procurar que un publicador que hable su idioma la visite.</strong> <strong>Es crucial rellenar el formulario 'Sírvase visitar' (S-43) lo antes posible para asegurar un seguimiento diligente.</strong>",
-        "shortAnswer": "Identifica el idioma, usa recursos y solicita seguimiento inmediato."
+        "question": "¿Por qué deberías adaptar la conversación una vez que conoces las circunstancias de cada persona? (Rom. 12:14-16).",
+        "references": "Rom. 12:14-16",
+        "directAnswer": "Debemos adaptarla para **demostrar empatía real, no imponer nuestro mensaje con rigidez y ponernos en el lugar del otro**.",
+        "deepAnswer": "Romanos 12:14-16 nos aconseja 'alegrarse con los que se alegran y llorar con los que lloran' y 'pensar en los demás del mismo modo que piensan en ustedes mismos'. En la predicación, esto significa que **no debemos dar una presentación mecánica**. Si la persona está triste o preocupada, debemos adaptar nuestro tono y el texto bíblico para consolarla; si está ocupada, debemos ser breves. Adaptarnos muestra que de verdad nos interesa la persona y no solo cumplir con una actividad.",
+        "shortAnswer": "Para mostrar empatía sincera, amoldándonos al estado emocional y tiempo del amo de casa."
       },
       {
         "id": "4B_q10",
-        "question": "¿Cómo puedes usar jw.org cuando te encuentras con alguien que habla otro idioma?",
-        "references": "",
-        "directAnswer": "Jw.org es una herramienta invaluable. <strong>Podemos usarlo para buscar publicaciones, videos o incluso la Biblia en el idioma de la persona directamente en el momento.</strong>",
-        "deepAnswer": "Cuando nos encontramos con alguien que habla otro idioma, jw.org nos permite buscar rápidamente material en su lengua. <strong>Podemos ir a la sección de idiomas, seleccionar el suyo y mostrarle un tratado, un folleto, un video corto o incluso cómo se ve la Biblia en su idioma.</strong> Esto le demuestra que el mensaje está disponible para 'gente de toda nación, tribu, lengua y pueblo', y que Jehová se interesa por ella personalmente.",
-        "shortAnswer": "Jw.org ofrece publicaciones en cualquier idioma al instante."
+        "question": "¿Cómo podemos usar bien las preguntas? (th lección 3). ¿Por qué hacer preguntas es una manera de interesarnos por la gente?",
+        "references": "th lección 3",
+        "subtitle": "Escucha con atención los comentarios y las preocupaciones de las personas con las que hablas (Sant. 1:19)",
+        "directAnswer": "Usamos bien las preguntas al **hacerlas con tono amable, buscando conocer la opinión del otro, y escuchando su respuesta con total atención**.",
+        "deepAnswer": "La lección 3 del folleto *Lectura y Enseñanza* enseña que las preguntas eficaces invitan a reflexionar y no a juzgar. Hacer preguntas respetuosas demuestra que **valoramos lo que la persona piensa y siente**, en lugar de limitarnos a dar un monólogo. Nos ayuda a entablar una conversación bidireccional, permitiendo que la persona se exprese libremente y se sienta escuchada, lo cual es la base de un interés sincero.",
+        "shortAnswer": "Hacer preguntas amables de opinión y escuchar con respeto, demostrando que valoramos sus ideas."
       },
       {
         "id": "4B_q11",
-        "question": "¿Has tenido alguna experiencia?",
-        "references": "",
-        "directAnswer": "Sí, en una ocasión, encontré a una señora que hablaba mandarín. Inmediatamente <strong>abrí jw.org, seleccioné su idioma y le mostré el video '¿Por qué estudiar la Biblia?', que le conmovió mucho.</strong>",
-        "deepAnswer": "Recuerdo haber encontrado a una joven que hablaba mandarín. No dominaba el español, así que abrí jw.org en mi dispositivo móvil, cambié el idioma a mandarín y le mostré el folleto <em>Disfrute de la vida para siempre</em> y luego el video '¿Por qué estudiar la Biblia?'. Sus ojos se abrieron y mostró una sonrisa, pues pudo entender el mensaje en su propio idioma. Esto facilitó un intercambio de contacto para un posterior seguimiento por alguien de la congregación de idioma mandarín.",
-        "shortAnswer": "Usar jw.org en su idioma es muy efectivo."
+        "question": "Sin ser indiscretos, ¿cómo podemos animar a una persona a que nos dé su opinión sobre un tema? (Col. 4:6).",
+        "references": "Col. 4:6",
+        "directAnswer": "Lo logramos usando **palabras amables y sazonadas con sal, haciendo preguntas sencillas y generales que no la hagan sentir presionada**.",
+        "deepAnswer": "Como aconseja Colosenses 4:6, nuestra conversación debe ser siempre agradable y sazonada con sal. Para obtener su opinión sin resultar invasivos, podemos usar frases como: «¿Qué opina usted sobre...?» o «Muchos se preguntan si... ¿qué piensa usted?». Al **evitar preguntas demasiado íntimas o de confrontación**, creamos un ambiente cómodo donde la persona se siente segura para compartir sus pensamientos.",
+        "shortAnswer": "Hacer preguntas de opinión sencillas y generales, manteniendo un tono agradable y respetuoso."
       },
       {
         "id": "4B_q12",
-        "question": "¿Qué puedes hacer para seguir cultivando el interés de la persona?",
-        "references": "od págs. 98-100",
-        "directAnswer": "Para cultivar el interés, <strong>debemos regresar pronto, con publicaciones en su idioma si es posible, e invitarle a nuestras reuniones o a considerar un curso bíblico.</strong>",
-        "deepAnswer": "Según <em>Organizados para hacer la voluntad de Jehová</em> (págs. 98-100), para cultivar el interés, <strong>debemos ser diligentes en hacer revisitas, incluso trayendo consigo a un publicador que hable el idioma del interesado si es posible.</strong> También es vital invitarles a las reuniones de congregación y ofrecerles un curso bíblico. En territorios multilingües, <strong>los publicadores pueden colaborar informando a sus siervos de grupo de la necesidad, rellenando formularios S-43 con prontitud y apoyando a los grupos o congregaciones de otros idiomas cercanos</strong> para que el mensaje llegue a todos.",
-        "shortAnswer": "Seguimiento rápido y recursos en su idioma son clave.",
-        "note": "Nota al instructor: Explica cómo los publicadores pueden usar la sección “¿Qué encontrará en nuestro sitio web?” y la tarjeta de contacto para cultivar el interés de la persona."
+        "question": "¿Por qué no debería parecer que la estamos interrogando? (w14 15/9 pág. 21 párr. 16).",
+        "references": "w14 15/9 pág. 21 párr. 16",
+        "directAnswer": "No debe parecer un interrogatorio porque **la persona se sentirá incómoda, a la defensiva y probablemente querrá terminar la conversación**.",
+        "deepAnswer": "Según *La Atalaya* (w14 15/9), nadie se siente cómodo bajo una ráfaga de preguntas directas, como si estuviera en un juicio. Si hacemos demasiadas preguntas seguidas sin comentar nada o sin escuchar de verdad, **el amo de casa sentirá que invadimos su privacidad**. Debemos alternar nuestras preguntas con comentarios breves, validaciones y expresiones de empatía para que la conversación fluya de manera natural.",
+        "shortAnswer": "Para evitar que la persona se sienta incómoda, atacada o presionada en su propio hogar."
       },
       {
         "id": "4B_q13",
-        "question": "¿Por qué deberías adaptar la conversación una vez que conoces las circunstancias de cada persona? (Rom. 12:14-16). Escucha con atención los comentarios y las preocupaciones de las personas con las que hablas",
-        "references": "Sant. 1:19",
-        "directAnswer": "<strong>Debemos adaptar la conversación porque cada persona tiene circunstancias únicas, y mostrar empatía hace que el mensaje sea más personal y relevante para ellos.</strong>",
-        "deepAnswer": "Romanos 12:14-16 nos anima a bendecir, alegrarnos con los que se alegran y llorar con los que lloran, y a no ser altivos, sino acomodarnos a las cosas humildes. Esto nos enseña la importancia de la empatía. <strong>Escuchar atentamente los comentarios y preocupaciones de las personas nos permite comprender sus circunstancias y así 'acomodarnos' a ellas, adaptando nuestro mensaje.</strong> Al mostrar que nos interesamos genuinamente por sus problemas y sentimientos, nuestro mensaje cala más hondo en sus corazones, demostrando el amor cristiano.",
-        "shortAnswer": "La empatía permite adaptar el mensaje a cada corazón."
+        "question": "¿Por qué honramos a las personas cuando las escuchamos atentamente? (Rom. 12:10). ¿Por qué es eso una muestra de que valoramos lo que piensan y sienten? (be pág. 187).",
+        "references": "Rom. 12:10; be pág. 187",
+        "directAnswer": "Las honramos al **darles toda nuestra atención sin interrumpir, lo que demuestra que respetamos su dignidad y valoramos sus sentimientos**.",
+        "deepAnswer": "Romanos 12:10 nos insta a tomar la iniciativa en mostrar honra a los demás. El libro *Benefíciese* (pág. 187) resalta que **escuchar con atención requiere esfuerzo y dominio propio**. Al no interrumpir a la persona, mantener contacto visual y asentir con empatía, le estamos diciendo con nuestras acciones que sus opiniones tienen valor para nosotros. Esto dignifica al interlocutor y derriba prejuicios hacia los testigos de Jehová.",
+        "shortAnswer": "Escuchar con atención muestra que respetamos su dignidad y valoramos sinceramente sus opiniones."
       },
       {
         "id": "4B_q14",
-        "question": "¿Por qué hacer preguntas es una manera de interesarnos por la gente?",
-        "references": "",
-        "directAnswer": "Hacer preguntas es una excelente manera de interesarnos por la gente porque <strong>las preguntas los animan a expresarse, revelan sus pensamientos y sentimientos, y nos permiten entender mejor su punto de vista.</strong>",
-        "deepAnswer": "<strong>Las preguntas demuestran un interés sincero en la persona, no solo en predicar.</strong> Cuando hacemos preguntas reflexivas, invitamos a la gente a compartir sus opiniones y experiencias, lo cual nos ayuda a 'conocer su corazón'. Esto crea un ambiente de confianza, les permite participar activamente en la conversación y nos da la información necesaria para adaptar nuestro mensaje a sus necesidades y preocupaciones específicas, siguiendo el ejemplo de Jesús.",
-        "shortAnswer": "Las preguntas abren corazones y revelan necesidades."
+        "question": "¿Por qué es bueno mirar a la persona a los ojos mientras conversamos con ella? (be págs. 124, 125).",
+        "references": "be págs. 124, 125",
+        "directAnswer": "Mirar a los ojos transmite **sinceridad, seguridad, respeto y nos ayuda a percibir sus reacciones emocionales**.",
+        "deepAnswer": "El libro *Benefíciese* (págs. 124, 125) explica que el contacto visual respetuoso es fundamental en la comunicación humana. En muchas culturas, mirar a la persona a los ojos demuestra que **le estamos prestando atención y que no tenemos nada que ocultar**, reflejando honradez. Además, nos permite observar su lenguaje no verbal para saber si está aburrida, confundida o conmovida, y adaptar nuestra presentación en consecuencia.",
+        "shortAnswer": "Demuestra sinceridad, atención y nos permite captar el lenguaje no verbal del amo de casa."
       },
       {
         "id": "4B_q15",
-        "question": "Sin ser indiscretos, ¿cómo podemos animar a una persona a que nos dé su opinión sobre un tema?",
-        "references": "Col. 4:6",
-        "directAnswer": "Podemos animar a una persona a dar su opinión <strong>usando preguntas abiertas y respetuosas que no la pongan a la defensiva, sino que inviten a la reflexión.</strong>",
-        "deepAnswer": "Colosenses 4:6 nos exhorta a que nuestra conversación sea 'siempre con gracia, sazonada con sal, para que sepamos cómo debemos responder a cada uno'. Esto significa ser tactosos y considerados. En lugar de preguntar '¿Cree usted que esto es correcto?', podríamos decir: 'Muchos hoy en día se preguntan sobre este tema... <strong>¿Usted qué piensa?' O '¿Qué opina usted sobre este punto de vista?'</strong> Estas formulaciones respetuosas invitan a la persona a compartir sin sentirse interrogada o juzgada.",
-        "shortAnswer": "Preguntas abiertas e invitadoras sin presionar."
+        "question": "¿Por qué es bueno felicitar a la persona siempre que sea posible?",
+        "references": "",
+        "directAnswer": "Es bueno porque **hace que la persona se sienta valorada, eleva su autoestima y la dispone favorablemente a seguir escuchando**.",
+        "deepAnswer": "Felicitar con sinceridad a alguien por un buen comentario, por el cuidado de su casa, o por su conocimiento de la Biblia crea un ambiente positivo. Al **destacar lo positivo y no los desacuerdos**, la persona siente que no venimos a criticarla ni a imponer ideas. Una felicitación sincera genera confianza y hace que el amo de casa reciba con más agrado las verdades de la Palabra de Dios.",
+        "shortAnswer": "Crea una atmósfera positiva de confianza y demuestra que valoramos lo bueno en las personas."
       },
       {
         "id": "4B_q16",
-        "question": "¿Por qué no debería parecer que la estamos interrogando? (w14 15/9 pág. 21 párr. 16).",
-        "references": "",
-        "directAnswer": "No debemos parecer que interrogamos, sino que <strong>buscamos entablar un diálogo amigable, haciendo preguntas de manera conversacional y dejando espacio para que se expresen cómodamente.</strong>",
-        "deepAnswer": "El artículo de <em>La Atalaya</em> (w14 15/9 pág. 21 párr. 16) probablemente enfatiza la importancia de un diálogo respetuoso y amigable. <strong>Si nuestras preguntas son excesivas, muy directas o no están espaciadas de forma natural, la persona puede sentirse como en un interrogatorio y ponerse a la defensiva.</strong> La experiencia de la señora que perdió a su hija ilustra perfectamente esto: ella valoró más el hecho de que la escucharan con 'mucho cariño' que lo que los Testigos dijeran. Esto demuestra que mostrar interés genuino, paciencia y buena escucha es más poderoso que una batería de preguntas.",
-        "shortAnswer": "Escucha más que preguntes para un diálogo sincero.",
-        "note": "EXPERIENCIA: El periódico Le Progrès de Saint-Étienne (Francia) comentó: “Mucha gente de la comunidad admira a los testigos de Jehová. No tratan de forzar la entrada a las casas ni de imponer sus creencias. En cambio, son muy respetuosos y entablan conversaciones de manera muy educada” (1 Ped. 3:15)."
-      },
-      {
-        "id": "4B_q17",
-        "question": "¿Por qué honramos a las personas cuando las escuchamos atentamente? (Rom. 12:10). ¿Por qué es eso una muestra de que valoramos lo que piensan y sienten?",
-        "references": "",
-        "directAnswer": "Honramos a las personas al escucharlas atentamente porque <strong>les demostramos respeto personal</strong>, tal como indica Romanos 12:10 al exhortarnos a 'darnos honra unos a otros'. Al prestar atención, <strong>validamos su dignidad</strong> y confirmamos que, para nosotros, <strong>sus pensamientos y sentimientos tienen un valor real</strong>, lo que fortalece nuestro vínculo cristiano.",
-        "deepAnswer": "La instrucción en el libro 'Benefíciese de la Escuela del Ministerio Teocrático' (be, pág. 187) destaca que escuchar es un componente vital de la cortesía cristiana. Al escuchar con atención, aplicamos el principio de Romanos 12:10, que nos insta a ser deferentes con nuestros hermanos. Esto constituye una muestra de que valoramos lo que otros piensan y sienten por las siguientes razones:\n\n<ul>\n<li><strong>Demuestra humildad:</strong> Reconocemos que el interlocutor tiene algo importante que aportar, evitando la actitud arrogante de quien solo busca hablar.</li>\n<li><strong>Evidencia interés genuino:</strong> Cuando nos concentramos en lo que se nos dice, sin interrumpir ni distraernos, <strong>hacemos sentir a la persona que su bienestar y opinión son importantes</strong> para nosotros.</li>\n<li><strong>Fomenta la confianza:</strong> La escucha atenta es una forma de <strong>honrar la dignidad ajena</strong>, lo cual permite que la comunicación fluya y que el otro se sienta valorado como individuo dentro de la congregación.</li>\n</ul>\nPor el contrario, interrumpir o mostrar desinterés comunica que consideramos nuestras propias ideas superiores, lo cual falta al respeto a la persona y entorpece el amor fraternal.",
-        "shortAnswer": "Escuchar atentamente es un acto de humildad y respeto que honra la dignidad de los demás y valida sus sentimientos."
-      },
-      {
-        "id": "4B_q18",
-        "question": "¿Por qué es eso una muestra de que valoramos lo que piensan y sienten?",
-        "references": "be pág. 187",
-        "directAnswer": "<strong>Escuchar atentamente es una muestra de que valoramos lo que piensan y sienten, pues demuestra respeto y aprecio por su persona.</strong>",
-        "deepAnswer": "Romanos 12:10 nos anima a 'llevar la delantera en mostrarse honra unos a otros'. Escuchar con atención es una forma concreta de honrar a las personas. <strong>Les comunicamos que sus pensamientos y sentimientos son importantes para nosotros, que no estamos allí solo para hablar, sino para entender.</strong> Cuando las personas se sienten valoradas, es más probable que confíen en nosotros y estén dispuestas a escuchar lo que tenemos que compartir, abriendo así sus corazones al mensaje bíblico (be pág. 187).",
-        "shortAnswer": "Escuchar atentamente honra y valora a la persona."
-      },
-      {
-        "id": "4B_q19",
-        "question": "¿Por qué es bueno mirar a la persona a los ojos mientras conversamos con ella?",
-        "references": "be págs. 124, 125",
-        "directAnswer": "Mirar a la persona a los ojos es bueno porque <strong>transmite sinceridad, confianza, y demuestra que estamos plenamente involucrados y atentos a lo que nos dice.</strong>",
-        "deepAnswer": "Según el libro <em>Benefíciese de la Escuela del Ministerio Teocrático</em> (págs. 124, 125), <strong>el contacto visual adecuado es un poderoso indicador de nuestra sinceridad y confianza.</strong> <strong>Muestra que estamos prestando atención, que nos interesa lo que la persona está diciendo y que no estamos distraídos.</strong> Además, ayuda a construir una conexión y a establecer un ambiente de confianza, lo cual es fundamental para que el mensaje del Reino sea bien recibido, pues perciben un interés genuino y no solo una formalidad.",
-        "shortAnswer": "El contacto visual comunica sinceridad y atención."
-      },
-      {
-        "id": "4B_q20",
-        "question": "¿Por qué es bueno felicitar a la persona siempre que sea posible?",
-        "references": "",
-        "directAnswer": "Es bueno felicitar a las personas porque <strong>la alabanza sincera fortalece los vínculos</strong>, motiva a seguir adelante y <strong>ayuda a los demás a sentirse valorados</strong>. Al elogiar los esfuerzos de nuestro interlocutor, demostramos interés genuino, lo que <strong>abre el corazón de la persona</strong> y hace que esté más dispuesta a escuchar nuestro mensaje.",
-        "deepAnswer": "Felicitar a los demás es una herramienta esencial en nuestro ministerio porque imita la manera de actuar de Jehová y Jesús, quienes siempre buscaron resaltar lo positivo en los demás. Al hacerlo, logramos tres objetivos fundamentales: 1. <strong>Generamos un ambiente de confianza</strong>, reduciendo la posible actitud defensiva de quienes no conocen nuestra labor. 2. <strong>Fomentamos el entusiasmo</strong>, ya que el reconocimiento refuerza el deseo de la persona de seguir conversando sobre asuntos espirituales. 3. <strong>Reflejamos un interés amoroso</strong>, el cual es la base de nuestra obra de enseñanza. Según las pautas de nuestra organización, al felicitar debemos asegurarnos de que la alabanza sea <strong>específica y sincera</strong>; no se trata de halagos vacíos, sino de <strong>reconocer puntos concretos</strong>, como la amabilidad del amo de casa, su hospitalidad o su buena disposición para razonar sobre las Escrituras, lo que eleva la dignidad de la persona y hace el mensaje más atractivo.",
-        "shortAnswer": "La alabanza sincera abre corazones y construye puentes de comunicación basados en el amor cristiano."
-      },
-      {
-        "id": "4B_q21",
         "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a las circunstancias de estas personas?",
-        "references": "",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": "",
+        "references": "1 Cor. 9:19-23",
+        "subtitle": "Sé flexible al hablar de la Biblia con la gente (1 Cor. 9:19-23)",
+        "directAnswer": "Adapto mi mensaje al **ponerme en el lugar de cada persona, seleccionando temas y textos bíblicos que respondan a sus preocupaciones de acuerdo con su edad o situación**.",
+        "deepAnswer": "Imitando al apóstol Pablo en 1 Corintios 9:19-23 (quien se hizo todo para personas de toda clase), debemos flexibilizar nuestra presentación según con quién hablemos. Si es una persona mayor, mostraremos respeto y hablaremos del futuro; si es un joven, de temas prácticos y metas; si es un padre, de la educación de los hijos; si alguien sufre o está de duelo, nos centraremos en el consuelo bíblico y la resurrección.",
+        "shortAnswer": "Amoldando el tema, el tono y las citas bíblicas al perfil y situación específica de cada persona.",
         "subQuestions": [
           {
-            "id": "4B_q21_a",
-            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a una persona mayor?",
-            "references": "",
-            "directAnswer": "Adaptaríamos nuestro mensaje a una persona mayor <strong>mostrando respeto por su experiencia de vida, preguntándole por sus vivencias y escuchando con interés lo que tiene que decir.</strong>",
-            "deepAnswer": "Al predicar a una persona mayor, debemos reflejar el consejo bíblico de tratar a los ancianos con dignidad. Es recomendable ser pacientes y evitar apresurar la conversación. Podemos <strong>demostrar un interés genuino preguntando sobre sus perspectivas de cómo ha cambiado el mundo o por su sabiduría acumulada a través de los años.</strong> Esto abre la puerta para compartir cómo el Reino de Dios resolverá los problemas que ellos han visto suceder durante toda su vida, ofreciéndoles esperanza y consuelo.",
-            "shortAnswer": "Muestra respeto y paciencia, interesándote por sus experiencias y sabiduría."
+            "id": "4B_q16_a",
+            "question": "Una persona mayor.",
+            "directAnswer": "Trato a la persona con profundo respeto, utilizando un tono pausado y centrándome en temas de salud, seguridad o el futuro glorioso que Dios promete.",
+            "deepAnswer": "Las personas mayores suelen valorar la cortesía y la seriedad. Podemos hablar sobre la pérdida de vitalidad y cómo la Biblia promete que Dios eliminará el dolor y la vejez, devolviendo la juventud y la salud perfecta.",
+            "shortAnswer": "Mostrar gran respeto y hablar sobre la promesa de restaurar la salud y la juventud."
           },
           {
-            "id": "4B_q21_b",
-            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a un niño, un adolescente o un estudiante universitario?",
-            "references": "",
-            "directAnswer": "Adaptaríamos el mensaje a los jóvenes <strong>utilizando un lenguaje claro y sencillo, enfocándonos en temas de su interés como sus estudios, sus metas o los desafíos cotidianos que enfrentan.</strong>",
-            "deepAnswer": "Para conectar con los jóvenes, es vital ser directos y relevantes. A un niño, podemos <strong>usar ilustraciones visuales o historias bíblicas sencillas.</strong> A un estudiante o adolescente, podemos <strong>reconocer la presión que enfrentan en la escuela o universidad y mostrar cómo los principios bíblicos son herramientas prácticas</strong> para tomar decisiones sabias, evitar peligros y encontrar un propósito real en la vida. Escuchar sus preocupaciones demuestra que valoramos su opinión y su futuro.",
-            "shortAnswer": "Usa un lenguaje adecuado a su edad y enfócate en sus intereses y desafíos diarios."
+            "id": "4B_q16_b",
+            "question": "Un niño, un adolescente o un estudiante universitario.",
+            "directAnswer": "Adapto el lenguaje usando temas modernos, metas en la vida, presiones escolares o la confiabilidad de la ciencia frente a la Biblia.",
+            "deepAnswer": "A los jóvenes les preocupan los desafíos escolares, el bullying o su futuro profesional. A los universitarios les interesan temas sobre el origen de la vida o la utilidad de los principios bíblicos en la era digital.",
+            "shortAnswer": "Hablar de metas, presiones juveniles y la base científica/práctica de la Biblia."
           },
           {
-            "id": "4B_q21_c",
-            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a un padre o una madre?",
-            "references": "",
-            "directAnswer": "Adaptaríamos el mensaje a los padres <strong>enfocándonos en cómo la guía bíblica puede ayudarles a criar a sus hijos, fortalecer la unidad familiar y enfrentar las presiones de la crianza moderna.</strong>",
-            "deepAnswer": "Muchos padres están preocupados por el bienestar moral y espiritual de sus hijos. Al predicarles, podemos destacar la importancia de los valores bíblicos en la vida familiar. <strong>Preguntarles sobre sus preocupaciones como padres nos permite ofrecer artículos o textos bíblicos que abordan temas específicos</strong> como la comunicación entre padres e hijos o la superación de dificultades económicas y emocionales. Mostrar empatía ante su labor cotidiana hace que el mensaje sea muy bien recibido.",
-            "shortAnswer": "Conecta con su labor de crianza ofreciendo consuelo y guía bíblica para fortalecer su familia."
+            "id": "4B_q16_c",
+            "question": "Un padre o una madre.",
+            "directAnswer": "Me enfoco en los desafíos de criar a los hijos en un mundo violento y muestro la sabiduría práctica de los consejos bíblicos para la familia.",
+            "deepAnswer": "Los padres están muy interesados en el bienestar moral y físico de sus hijos. Podemos mostrarles artículos o folletos prácticos sobre cómo educar a los hijos y cómo mantener la unidad familiar basándose en las Escrituras.",
+            "shortAnswer": "Centrarse en consejos prácticos para educar a los hijos y fortalecer la familia."
           },
           {
-            "id": "4B_q21_d",
-            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a una persona a la que acabas de despertar o alguien que está enfermo?",
-            "references": "",
-            "directAnswer": "Si una persona está enferma o recién despertada, adaptaríamos nuestro mensaje <strong>siendo breves, respetuosos con su tiempo y estado, y ofreciendo una palabra amable sin intentar una conversación larga.</strong>",
-            "deepAnswer": "La cortesía es esencial. Si notamos que alguien no se siente bien o acaba de despertar, no debemos insistir en una presentación larga. <strong>Una breve expresión de interés, como preguntar si se encuentra bien y dejar un tratado o una tarjeta de contacto con un mensaje positivo, es suficiente.</strong> Al ser breves, demostramos que no somos impositivos y que realmente nos importa su bienestar, lo cual deja una impresión positiva para una futura visita en un momento más oportuno.",
-            "shortAnswer": "Sé breve, amable y demuestra consideración por su situación personal."
+            "id": "4B_q16_d",
+            "question": "Una persona a la que acabas de despertar o alguien que está enfermo.",
+            "directAnswer": "Soy extremadamente breve, pido disculpas amablemente y dejo un texto de consuelo rápido o una publicación para leer después.",
+            "deepAnswer": "Si interrumpimos el descanso de alguien o si está sufriendo físicamente, la empatía exige no forzar la conversación. Nos disculpamos sinceramente por la hora o la molestia, y le dejamos un mensaje bíblico muy corto para demostrar que valoramos su salud y tiempo.",
+            "shortAnswer": "Ser muy breve, pedir disculpas con tacto y dejar un mensaje de consuelo rápido."
           },
           {
-            "id": "4B_q21_e",
-            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a una persona que está de duelo?",
-            "references": "",
-            "directAnswer": "Adaptaríamos nuestro mensaje a una persona de duelo <strong>ofreciendo consuelo bíblico con mucho tacto, empatía y sensibilidad, centrándonos en la esperanza de la resurrección.</strong>",
-            "deepAnswer": "Ante alguien que atraviesa un duelo, nuestras palabras deben ser un bálsamo. Es más importante escuchar que hablar. Podemos <strong>expresar brevemente que entendemos que está pasando por un momento difícil y compartir un texto reconfortante</strong>, como Apocalipsis 21:4 o Juan 5:28, 29. Evitaremos dar explicaciones innecesarias o clichés, enfocándonos en la esperanza que Jehová nos da mediante su Palabra. Nuestro tono de voz debe ser calmado y compasivo, demostrando que compartimos su dolor.",
-            "shortAnswer": "Sé empático, escucha con paciencia y comparte la esperanza bíblica con mucha delicadeza."
+            "id": "4B_q16_e",
+            "question": "Una persona que está de duelo.",
+            "directAnswer": "Muestro una empatía profunda, evito frases hechas y leo un texto directo sobre la esperanza de la resurrección (como Juan 5:28, 29).",
+            "deepAnswer": "Las personas que han perdido a un ser querido necesitan verdadero consuelo y no discursos largos. Escuchar su dolor con lágrimas en los ojos y compartir la firme promesa bíblica de volver a ver a los muertos en la resurrección es el mayor regalo que podemos darles.",
+            "shortAnswer": "Escuchar con amor y compartir la maravillosa esperanza de la resurrección."
           },
           {
-            "id": "4B_q21_f",
-            "question": "Cuando predicas, ¿cómo adaptarías lo que vas a decir a alguien que tiene una casa bonita o un jardín bien cuidado?",
-            "references": "",
-            "directAnswer": "Adaptaríamos el mensaje a alguien que cuida bien su hogar <strong>elogiando su esmero y buen gusto, lo cual ayuda a romper el hielo y establecer una conexión cordial.</strong>",
-            "deepAnswer": "<strong>Elogiar sinceramente algo que a la persona le ha costado esfuerzo mantener, como su jardín o la fachada de su casa, es una excelente forma de iniciar una conversación.</strong> Esto demuestra que somos observadores y que valoramos el esfuerzo humano. Después de un elogio genuino, podemos comentar brevemente que, si el dueño se esfuerza tanto por cuidar su entorno inmediato, seguramente valora los esfuerzos que se hacen por mejorar el mundo en general, lo que nos conduce naturalmente al mensaje sobre el Paraíso terrenal que Jehová promete.",
-            "shortAnswer": "Elogia sinceramente su esfuerzo, lo cual sirve para iniciar una conversación amable."
+            "id": "4B_q16_f",
+            "question": "Alguien que tiene una casa bonita o un jardín bien cuidado.",
+            "directAnswer": "Comienzo con una felicitación sincera por el estado de su hogar y uso eso como puente para hablar del propósito original de Dios de hacer de la Tierra un paraíso.",
+            "deepAnswer": "Elogiar sinceramente el esfuerzo del amo de casa por mantener su hogar hermoso nos abre la puerta para hablar sobre el diseño divino. Explicamos que a Jehová también le gusta el orden y la belleza, y que pronto transformará todo nuestro planeta en un jardín global perfecto.",
+            "shortAnswer": "Felicitar por la belleza de su hogar y enlazar con la promesa de la Tierra hecha un Paraíso."
           }
         ]
       },
       {
-        "id": "4B_q22",
-        "question": "¿Por qué es importante que seas adaptable? ¿Cómo puedes lograrlo? (w20.04 pág. 11 párrs. 11, 12). Si la persona con la que hablas menciona algo que le preocupa, ¿por qué debes dirigir la conversación hacia ese asunto?",
-        "references": "",
-        "directAnswer": "Ser adaptable es importante porque <strong>permite que nuestro mensaje resuene mejor con cada persona</strong>, y podemos lograrlo <strong>escuchando atentamente y ajustando nuestro enfoque según lo que aprendemos de ellas.</strong>",
-        "deepAnswer": "La adaptabilidad es fundamental porque <strong>demuestra que valoramos a la persona y no imponemos nuestro mensaje.</strong><br><em><strong>Al escuchar activamente sus palabras y observar sus reacciones, podemos ajustar el tema, el vocabulario y el tono de nuestra presentación.</strong></em> La referencia en w20.04, páginas 11, párrafos 11 y 12, enfatiza que mostrar interés sincero implica ser flexibles y empáticos, haciendo que la persona se sienta comprendida y respetada. Si la persona menciona algo específico, aprovéchalo como una oportunidad para profundizar.",
-        "shortAnswer": "Sé adaptable para conectar mejor y demostrar respeto."
+        "id": "4B_q17",
+        "question": "¿Por qué es importante que seas adaptable? ¿Cómo puedes lograrlo? (w20.04 pág. 11 párrs. 11, 12).",
+        "references": "w20.04 pág. 11 párrs. 11, 12",
+        "directAnswer": "Es importante porque **nos permite llegar al corazón de personas de todo tipo**, y lo logramos al **preparar varios temas y estar listos para cambiar nuestra presentación según la respuesta**.",
+        "deepAnswer": "Según *La Atalaya* (w20.04 pág. 11), ser adaptable es la clave para ser eficaces en un territorio heterogéneo. No podemos esperar que todos respondan igual. Lo logramos al **tener en mente diferentes textos bíblicos y estar dispuestos a dejar a un lado nuestro bosquejo preparado** si el amo de casa menciona una inquietud urgente o si su tiempo es limitado, adaptándonos con alegría.",
+        "shortAnswer": "Para alcanzar el corazón de todos; lo logramos preparando opciones y siendo flexibles en la puerta."
       },
       {
-        "id": "4B_q23",
+        "id": "4B_q18",
         "question": "Si la persona con la que hablas menciona algo que le preocupa, ¿por qué debes dirigir la conversación hacia ese asunto?",
         "references": "",
-        "directAnswer": "Debemos dirigir la conversación hacia lo que preocupa a la persona porque eso demuestra que somos <strong>empáticos y nos interesamos sinceramente por sus sentimientos</strong>. Al centrarnos en su inquietud, le ayudamos a ver que <strong>la Biblia ofrece soluciones prácticas y consuelo relevante</strong> para sus problemas cotidianos, lo que hace que el mensaje del Reino sea mucho más atractivo y personal para ella.",
-        "deepAnswer": "Centrarse en la preocupación del interlocutor es una técnica clave de enseñanza basada en el modelo de Jesús, quien siempre fue sensible a las necesidades de quienes le escuchaban. Según las pautas de la Escuela del Servicio de Precursor y el manual 'Seamos mejores maestros', actuar así tiene varios propósitos fundamentales:\n\n1. <strong>Genera confianza y apertura:</strong> Cuando validamos lo que le preocupa a la persona, reducimos sus defensas y facilitamos una comunicación bidireccional en lugar de un monólogo.\n2. <strong>Demuestra el valor práctico de las Escrituras:</strong> Al vincular su problema específico con un principio bíblico, transformamos una enseñanza abstracta en una <strong>herramienta útil para su vida diaria</strong>, demostrando que 'toda Escritura es provechosa' (2 Tim. 3:16).\n3. <strong>Refleja amor cristiano:</strong> Escuchar y priorizar sus preocupaciones refleja el interés genuino que Jehová siente por sus siervos, lo cual es esencial para edificar una buena relación con el estudiante.\n4. <strong>Mantiene la relevancia:</strong> Si ignoramos sus inquietudes para seguir un esquema rígido, la persona puede sentir que no le estamos escuchando realmente. En cambio, atender su necesidad inmediata hace que el mensaje sea <strong>oportuno y cautivador</strong>.",
-        "shortAnswer": "Atender las preocupaciones de la persona demuestra amor genuino y permite conectar el mensaje bíblico con sus necesidades reales."
+        "directAnswer": "Debemos hacerlo porque **demuestra que nos importa la persona de verdad, y la Biblia tiene respuestas específicas para sus preocupaciones reales**.",
+        "deepAnswer": "Ignorar la preocupación del amo de casa para seguir con nuestra presentación prefabricada indica falta de empatía. Al **redirigir nuestra conversación hacia su problema**, mostramos amor cristiano. Además, la verdad bíblica es mucho más atrayente cuando da una respuesta directa al dolor o inquietud actual de la persona, en lugar de tratar un tema ajeno a su situación.",
+        "shortAnswer": "Para mostrar amor sincero y hacer que el mensaje bíblico sea verdaderamente relevante para ella."
       },
       {
-        "id": "4B_q24",
-        "question": "¿En qué casos sería mejor terminar la conversación?",
+        "id": "4B_q19",
+        "question": "¿En qué casos sería mejor terminar la conversación? (w19.11 pág. 15 párr. 8; lmd apéndice B).",
         "references": "w19.11 pág. 15 párr. 8; lmd apéndice B",
-        "directAnswer": "Sería mejor terminar la conversación cuando la persona se muestra <strong>agresiva o violenta</strong>, cuando <strong>no tiene interés</strong> en escuchar, o cuando <strong>hemos intentado razonar</strong> con alguien que está decidido a discutir o a usar el sarcasmo para menospreciar nuestras creencias.",
-        "deepAnswer": "Basándonos en la lección 4B, el objetivo de nuestro ministerio es buscar a los 'que tienen la disposición correcta' (Mat. 10:11). Por tanto, debemos ser discernidores al valorar cuándo retirar nuestra atención de alguien: 1) Si la persona se vuelve <strong>hostil o intenta intimidarnos</strong>, no es necesario insistir; proteger nuestra seguridad es fundamental. 2) Si notamos que la persona <strong>no está dispuesta a escuchar</strong> o solo busca entrar en un debate contencioso, es mejor terminar con amabilidad. Como señala *w19.11* pág. 15 párr. 8, imitar a Jesús significa reconocer cuándo alguien no tiene el corazón receptivo, permitiéndonos así <strong>usar nuestro tiempo de manera más productiva</strong> con quienes sí valoran el mensaje del Reino. En el *Apéndice B de '¡Disfrute de la vida!'*, se enfatiza que, al percibir una falta de respeto o una actitud de rechazo deliberado, podemos retirarnos con cortesía, manteniendo siempre nuestra <strong>dignidad cristiana y el amor al prójimo</strong>, sin tomárnoslo como algo personal.",
-        "shortAnswer": "Retírate con amabilidad cuando la conversación se vuelve improductiva o pone en riesgo tu paz y seguridad."
+        "directAnswer": "Sería mejor terminarla si **la persona se pone agresiva, empieza a discutir con dureza o demuestra hostilidad persistente**.",
+        "deepAnswer": "Nuestra comisión es buscar a los pacíficos. Como aconseja *La Atalaya* y el apéndice de *Ama a las personas*, si el amo de casa muestra enojo, grita o insiste en debatir de forma acalorada, **debemos retirarnos con apacibilidad y respeto**. No pretendemos ganar discusiones, sino dar testimonio. Mantener la calma y retirarnos a tiempo protege nuestra seguridad y deja una buena impresión.",
+        "shortAnswer": "Cuando hay agresividad, disputas acaloradas o peligro, retirándonos siempre con paz y respeto."
       },
       {
-        "id": "4B_q25",
+        "id": "4B_q20",
         "question": "¿Qué te ayudará a recordar a las personas que mostraron interés?",
         "references": "",
-        "directAnswer": "Para recordar a las personas que mostraron interés, <strong>podemos llevar un registro de los contactos y las conversaciones, anotando detalles relevantes que nos ayuden a retomarlas en futuras visitas</strong>.",
-        "deepAnswer": "Mantener un registro detallado es una herramienta vital para recordar a las personas que han mostrado interés.<br><em><strong>Anotar nombres, direcciones, temas tratados y la reacción de la persona nos permite preparar mejor las visitas de seguimiento, demostrando que recordamos su situación particular.</strong></em> Esto no solo es práctico, sino que también es una forma de honrar el tiempo y la apertura que nos brindaron, fortaleciendo así la relación.",
-        "shortAnswer": "Lleva un registro de las personas y los detalles para recordarlas."
+        "directAnswer": "Nos ayuda **tomar notas detalladas e inmediatas (en papel o en una app como JW Publisher) justo después de salir de la visita**.",
+        "deepAnswer": "La memoria puede fallarnos rápidamente tras visitar muchos hogares. Escribir notas detalladas inmediatamente —anotando el nombre, la dirección, el tema hablado, el texto leído, las publicaciones dejadas y la pregunta pendiente— nos asegura tener la información exacta para preparar una revisita exitosa.",
+        "shortAnswer": "Tomar registros claros y detallados inmediatamente después de conversar con la persona."
       },
       {
-        "id": "4B_q26",
-        "question": "¿Por qué volver a visitar a las personas demuestra que nos preocupamos de verdad por ellas? La razón más importante por la que nos interesamos por los demás es que así imitamos el amor y la compasión de nuestro Padre celestial. Ese interés hace que muchos quieran escuchar el mensaje que Jehová nos ha dado. Así que, cuando prediques, asegúrate de buscar no solo tus “propios intereses, sino también los de los demás”.",
+        "id": "4B_q21",
+        "question": "¿Por qué volver a visitar a las personas demuestra que nos preocupamos de verdad por ellas? (Filip. 2:4).",
         "references": "Filip. 2:4",
-        "directAnswer": "Volver a visitar a las personas demuestra que nos preocupamos de verdad por ellas, y <strong>esta actitud refleja el amor y la compasión de Jehová, motivando a otros a escuchar Su mensaje</strong>.",
-        "deepAnswer": "Regresar a visitar a las personas que mostraron interés es una expresión tangible de nuestra preocupación y amor por ellas.<br><em><strong>Esta perseverancia es un reflejo directo del amor y la compasión de nuestro Padre celestial, Jehová.</strong></em> Al seguir el mandato bíblico de buscar “no solo [nuestros] propios intereses, sino también los de los demás” (Filipenses 2:4), imitamos a Cristo y motivamos a la gente a considerar el mensaje de salvación que Jehová nos ha encomendado.<br><em><strong>Este interés genuino es lo que puede abrir corazones y mentes.</strong></em>",
-        "shortAnswer": "Las visitas de seguimiento muestran amor, imitan a Jehová y motivan a escuchar."
+        "directAnswer": "Demuestra preocupación porque **invertimos nuestro tiempo y esfuerzo personal para nutrir su interés espiritual, buscando su bienestar y salvación**.",
+        "deepAnswer": "De acuerdo con Filipenses 2:4, debemos buscar el interés de los demás. Volver a visitar a alguien que mostró interés es una prueba de que **no solo queríamos entregar una publicación, sino que nos importa su progreso espiritual**. Demuestra que estamos dispuestos a gastar nuestras energías para ayudarlos a conocer a Jehová, reflejando el amor de nuestro Gran Instructor.",
+        "shortAnswer": "Demuestra que nos importa su salvación y progreso, invirtiendo nuestro tiempo para ayudarlos."
       }
     ],
     "image": "public_preaching.png",
