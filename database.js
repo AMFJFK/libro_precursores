@@ -2079,118 +2079,178 @@ const lessonsData = [
       {
         "id": "5A_q1",
         "question": "Según Lucas 4:43 y Juan 4:34, ¿cuál era la labor más importante en la vida de Jesús?",
-        "references": "",
-        "directAnswer": "Según Lucas 4:43 y Juan 4:34, la labor más importante en la vida de Jesús era <strong>predicar el Reino de Dios</strong>.",
-        "deepAnswer": "Jesús entendía que su misión principal en la Tierra era <strong>cumplir la voluntad de su Padre y predicar las buenas nuevas del Reino de Dios.</strong><br><em>Lucas 4:43 lo muestra claramente: “Tengo que declarar la buena nueva del reino de Dios también a otras ciudades, porque para esto fui enviado”. De igual manera, en Juan 4:34, él afirmó: “Mi alimento es hacer la voluntad del que me envió y terminar su obra”.</em> Esta obra, de predicar y hacer discípulos, era su prioridad absoluta, incluso por encima de sus propias necesidades físicas.",
-        "shortAnswer": "La labor más importante de Jesús era predicar el Reino de Dios."
+        "references": "Lucas 4:43; Juan 4:34",
+        "subtitle": "La actitud de Jesús hacia la predicación",
+        "directAnswer": "La labor más importante en la vida de Jesús era <strong>predicar las buenas noticias del Reino de Dios</strong>, lo cual consideraba su alimento espiritual.",
+        "deepAnswer": "Tanto Lucas 4:43 como Juan 4:34 demuestran la prioridad absoluta que Jesús daba a su labor de predicar. En Lucas 4:43, declaró que declarar las buenas noticias del Reino de Dios era la razón por la que había sido enviado. En Juan 4:34, llegó a decir: «Mi alimento es hacer la voluntad del que me envió y completar su obra». <strong>Para Jesús, predicar no era una actividad secundaria, sino el centro mismo de su existencia y su mayor fuente de sustento y gozo espiritual.</strong>",
+        "shortAnswer": "Predicar las buenas noticias del Reino era la labor central y el alimento de Jesús."
       },
       {
         "id": "5A_q2",
-        "question": "¿Qué motivaba a Jesús a predicar? (Juan 14:31; cf págs. 80, 81 párrs. 6-9). La predicación de casa en casa: el método principal para llegar a las personas. Comenta tres maneras en las que Jesús mostró que amaba la predicación.",
-        "references": "cf págs. 84-86 párrs. 16-21",
-        "directAnswer": "<strong>Jesús estaba motivado por el amor a Jehová y por el deseo de cumplir Su voluntad</strong>, tal como se ve en Juan 14:31 y las páginas 80-81 de 'Los siervos de Jehová'.",
-        "deepAnswer": "<strong>El profundo amor de Jesús por su Padre celestial y el anhelo de cumplir Su voluntad eran la fuerza motriz de su predicación.</strong><br><em>Juan 14:31 revela su obediencia: “Para que el mundo sepa que amo al Padre, y que hago exactamente como el Padre me ha mandado, levántate, vámonos de aquí”. Las páginas 80 y 81, párrafos 6 a 9, del libro 'Los siervos de Jehová' (o una publicación similar disponible) describen su celo y dedicación.</em> Jesús consideraba la predicación no como una carga, sino como su sustento, demostrando un gran entusiasmo por esta obra vital.",
-        "shortAnswer": "El amor a Jehová y el deseo de hacer Su voluntad motivaban a Jesús."
+        "question": "¿Qué motivaba a Jesús a predicar? (Juan 14:31; cf. págs. 80, 81 párrs. 6-9).",
+        "references": "Juan 14:31; cf. págs. 80, 81 párrs. 6-9",
+        "directAnswer": "A Jesús le motivaba <strong>un amor profundo e inquebrantable a su Padre, Jehová, y un deseo absoluto de cumplir su voluntad y santificar su nombre</strong>.",
+        "deepAnswer": "La principal motivación de Jesús era su profundo amor a Jehová. Como leemos en Juan 14:31: «Para que el mundo sepa que amo al Padre, hago exactamente lo que el Padre me ha mandado». Además, el libro *Los siervos de Jehová* (págs. 80, 81) detalla cómo <strong>su celo estaba guiado por el deseo de vindicar la soberanía de Dios y rescatar a la humanidad del pecado y la muerte</strong>, considerando un honor absoluto actuar en total sumisión a su Padre.",
+        "shortAnswer": "El amor profundo por Jehová y el deseo de cumplir su voluntad y santificar su nombre."
       },
       {
         "id": "5A_q3",
-        "question": "¿Qué efecto debería tener en nosotros pensar en el entusiasmo de Jesús hacia la predicación de casa en casa?",
-        "references": "Juan 18:36, 37; w13 15/5 pág. 9 párr. 4",
-        "directAnswer": "Pensar en el entusiasmo de Jesús hacia la predicación de casa en casa debería <strong>inspirarnos a ser más celosos y dedicados en nuestra propia labor de predicar</strong>.",
-        "deepAnswer": "El ejemplo de Jesús, con su inagotable entusiasmo por la predicación de casa en casa, debería <strong>impulsarnos a imitarlo</strong>.<br><em>Su celo, descrito en Juan 18:36, 37 y mencionado en w13 15/5, página 9, párrafo 4, nos recuerda la importancia y la urgencia de nuestra comisión.</em> Al reflexionar sobre cómo Jesús dedicaba su vida a esta labor, debemos sentir un deseo renovado de predicar las buenas nuevas del Reino con fervor y convicción, reconociendo que es un privilegio servir a Jehová de esta manera.",
-        "shortAnswer": "El entusiasmo de Jesús debe inspirarnos a ser más celosos al predicar."
+        "question": "Comenta tres maneras en las que Jesús mostró que amaba la predicación (cf. págs. 84-86 párrs. 16-21).",
+        "references": "cf. págs. 84-86 párrs. 16-21",
+        "subtitle": "La predicación de casa en casa: el método principal para llegar a las personas",
+        "directAnswer": "Jesús demostró su amor por la predicación al <strong>darle prioridad sobre sus necesidades físicas</strong>, al <strong>predicar con entusiasmo en toda ocasión</strong> y al <strong>esforzarse por llegar al corazón de la gente</strong>.",
+        "deepAnswer": "De acuerdo con las páginas 84-86 de *Los siervos de Jehová* (o relatos de los Evangelios), Jesús evidenció su amor por la predicación de tres maneras clave: 1) **Su alimento espiritual**: Consideraba la predicación tan vital como el alimento físico (Juan 4:34). 2) **Alcance total**: Predicaba incansablemente en ciudades, aldeas, sinagogas y hogares públicos sin distinción. 3) **Tierno interés**: No solo transmitía información, sino que se implicaba emocionalmente para dar consuelo y aliviar el sufrimiento de las personas.",
+        "shortAnswer": "Jesús mostró su amor al priorizar la predicación sobre el alimento, predicar en todo lugar y mostrar un interés tierno por las personas."
       },
       {
         "id": "5A_q4",
-        "question": "¿Cuánta autoridad tiene quien nos mandó hacer esta labor, y qué incluye este mandato? (Mat. 28:18-20; cf págs. 94-96 párrs. 14-19). Jesús predicaba por amor y compasión.",
-        "references": "",
-        "directAnswer": "Quien nos mandó hacer esta labor, <strong>Jesucristo, tiene toda la autoridad del Cielo y la Tierra</strong>, y este mandato incluye <strong>hacer discípulos y enseñarles a obedecer todas las cosas que Él ha ordenado</strong>.",
-        "deepAnswer": "<strong>Jesús, quien nos ha encomendado la obra de predicar, posee toda autoridad</strong>, como Él mismo declaró: “Se me ha dado toda autoridad en el cielo y en la tierra” (Mateo 28:18).<br><em>Este mandato, detallado en Mateo 28:19, 20, no es una sugerencia, sino una comisión divina para <strong>ir y hacer discípulos de todas las naciones, bautizándolos y enseñándoles a obedecer 'todo lo que les he mandado'</strong>.</em> Las páginas 94 a 96, párrafos 14 a 19, del libro 'Los siervos de Jehová' (o una publicación equivalente) explican la magnitud y la seriedad de esta asignación, que es el método principal para alcanzar a las personas con el mensaje de esperanza del Reino.",
-        "shortAnswer": "Jesús, con toda autoridad, nos mandó hacer discípulos y enseñar."
+        "question": "¿Qué efecto debería tener en nosotros pensar en el entusiasmo de Jesús hacia la predicación de casa en casa? (Juan 18:36, 37; w13 15/5 pág. 9 párr. 4).",
+        "references": "Juan 18:36, 37; w13 15/5 pág. 9 párr. 4",
+        "directAnswer": "Pensar en el entusiasmo de Jesús debe <strong>impulsarnos a predicar con mayor fervor, constancia y alegría</strong>, viéndolo como un honor teocrático urgente.",
+        "deepAnswer": "Al reflexionar en el ejemplo de Jesús, nos damos cuenta de que su entusiasmo no era pasajero, sino una devoción constante. Como destaca *La Atalaya* (w13 15/5 pág. 9), pensar en su celo <strong>debe combatir la apatía en nosotros y darnos fuerzas para perseverar ante la indiferencia del territorio</strong>, recordándonos que pertenecemos al Reino que Jesús defendió y proclamó con tanto denuedo (Juan 18:36, 37).",
+        "shortAnswer": "Debe impulsarnos a predicar con mayor celo, alegría y constancia, superando el desánimo."
       },
       {
         "id": "5A_q5",
-        "question": "¿Cómo veía Jesús a las personas a las que predicaba? (Mat. 9:36; Luc. 5:29-32). Si vemos a las personas con el mismo equilibrio que Jesús, ¿cómo puede ayudarnos esto a ser más bondadosos y tolerantes con ellas, aun cuando rechacen nuestro mensaje?",
-        "references": "",
-        "directAnswer": "<strong>Jesús veía a las personas con profunda compasión, reconociendo su deplorable estado espiritual y tratándolas como ovejas heridas que necesitaban un pastor y un médico espiritual.</strong>",
-        "deepAnswer": "Al examinar Mateo 9:36, notamos que <strong>Jesús sentía una tierna compasión por las muchedumbres porque estaban «desolladas y desparramadas como ovejas sin pastor».</strong> Lejos de juzgarlas por sus faltas, él veía su dolor y su desamparo espiritual. Además, en Lucas 5:29-32, demostró un equilibrio perfecto al asociarse con pecadores no para imitar su conducta, sino para ofrecerles curación espiritual, viéndose a sí mismo como un médico que atiende a los enfermos. Seguir este ejemplo nos ayuda a mirar más allá de la hostilidad externa y percibir la gran necesidad espiritual de la gente.",
-        "shortAnswer": "Jesús veía a las personas con tierna compasión, como ovejas heridas que necesitaban curación espiritual y un pastor amoroso."
+        "question": "¿Cuánta autoridad tiene quien nos mandó hacer esta labor, y qué incluye este mandato? (Mat. 28:18-20; cf. págs. 94-96 párrs. 14-19).",
+        "references": "Mat. 28:18-20; cf. págs. 94-96 párrs. 14-19",
+        "directAnswer": "Jesús tiene <strong>toda la autoridad en el cielo y en la tierra</strong>, y su mandato incluye <strong>ir a hacer discípulos, bautizarlos y enseñarles a obedecer todo lo mandado</strong>.",
+        "deepAnswer": "Como soberano celestial, Jesús posee la máxima autoridad delegada por Jehová (Mat. 28:18). Por tanto, su mandato de predicar y hacer discípulos no es opcional, sino una orden real de cumplimiento obligatorio. El libro *Los siervos de Jehová* (págs. 94-96) destaca que esta comisión abarca no solo dar testimonio, sino **capacitar a los nuevos discípulos para que ellos también vivan de acuerdo con las elevadas normas cristianas y participen en la obra**.",
+        "shortAnswer": "Jesús tiene toda la autoridad, y su mandato incluye hacer discípulos, bautizarlos y enseñarles a obedecer."
       },
       {
         "id": "5A_q6",
-        "question": "¿Cómo puede ayudarnos esto a ser más bondadosos y tolerantes con ellas, aun cuando rechacen nuestro mensaje?",
-        "references": "",
-        "directAnswer": "Ver a las personas con la compasión y el equilibrio de Jesús nos ayuda a <strong>comprender que su rechazo suele deberse a la ignorancia espiritual o al sufrimiento, lo que nos motiva a responder con bondad.</strong>",
-        "deepAnswer": "Adoptar la perspectiva de Jesús nos permite entender que quienes rechazan las buenas nuevas a menudo están bajo la influencia del «dios de este sistema de cosas» o abrumados por los problemas de la vida. Al darnos cuenta de que no nos rechazan a nosotros, sino al mensaje, evitamos tomarnos su reacción como algo personal y podemos responder con apacibilidad y respeto. Esta empatía nos capacita para ser tolerantes, manteniendo las puertas abiertas para que, en un momento de mayor necesidad, decidan escuchar el consolador mensaje del Reino.",
-        "shortAnswer": "Nos ayuda a no tomar el rechazo como algo personal y a responder con la paciencia y la apacibilidad de Cristo."
+        "question": "¿Cómo veía Jesús a las personas a las que predicaba? (Mat. 9:36; Luc. 5:29-32).",
+        "references": "Mat. 9:36; Luc. 5:29-32",
+        "subtitle": "Jesús predicaba por amor y compasión",
+        "directAnswer": "Jesús veía a las personas con <strong>tierna compasión, como ovejas desolladas y desparramadas, y como enfermos espirituales que necesitaban curación</strong>.",
+        "deepAnswer": "En Mateo 9:36 leemos que al ver a las muchedumbres, Jesús se enterneció porque estaban maltratadas y abandonadas por los líderes religiosos. En Lucas 5:29-32 demostró que no las juzgaba ni las rechazaba por sus pecados, sino que **las veía como enfermos necesitados de un médico**. Su compasión lo impulsaba a tomar la iniciativa para darles la ayuda espiritual y el consuelo que tanto necesitaban.",
+        "shortAnswer": "Las veía con compasión, como ovejas sin pastor y como enfermos que necesitaban ayuda espiritual."
       },
       {
         "id": "5A_q7",
-        "question": "Jesús veía lo bueno en las personas. ¿Qué aprendemos de eso? (Juan 1:47). Si nos cuesta trabajo hacer lo mismo, ¿qué nos puede ayudar?",
+        "question": "Si vemos a las personas con el mismo equilibrio que Jesús, ¿cómo puede ayudarnos esto a ser más bondadosos y tolerantes con ellas, aun cuando rechacen nuestro mensaje?",
         "references": "",
-        "directAnswer": "Aprendemos que <strong>debemos concentrarnos en las cualidades positivas y el potencial de las personas en el territorio, en lugar de juzgarlas por sus reacciones iniciales o sus prejuicios.</strong>",
-        "deepAnswer": "En Juan 1:47, vemos que Jesús reconoció de inmediato la sinceridad de Natanael al llamarlo un israelita «en quien no hay engaño», pasando por alto el prejuicio inicial que este había mostrado hacia Nazaret. Esto nos enseña la importancia de buscar el «buen corazón» en las personas que encontramos en el ministerio, sin importar sus ideas preconcebidas. Si imitamos a Jesús, <strong>buscaremos activamente el potencial espiritual de cada individuo</strong>, lo que nos permitirá presentárseles con una actitud positiva y edificante.",
-        "shortAnswer": "Aprendemos a buscar las cualidades positivas y el potencial espiritual de las personas por encima de sus prejuicios iniciales."
+        "directAnswer": "Nos ayuda a <strong>no tomarnos el rechazo de forma personal, a entender que están ciegas espiritualmente y a responder con apacibilidad y misericordia</strong>.",
+        "deepAnswer": "Tener el equilibrio de Jesús significa comprender que la gente del territorio está bajo la influencia de Satanás o abrumada por los problemas de la vida. Al verlas con compasión, **comprendemos que su mala respuesta refleja su necesidad de ayuda espiritual y no un ataque a nosotros**. Esto nos ayuda a mantener una actitud pacífica, tolerante y amable, dejando siempre abierta la posibilidad de que escuchen en el futuro.",
+        "shortAnswer": "Nos ayuda a no tomarnos el rechazo de forma personal y a reaccionar con bondad y empatía."
       },
       {
         "id": "5A_q8",
-        "question": "¿Qué nos puede ayudar?",
-        "references": "Is. 63:9; Jon. 4:11; w14 15/5 pág. 12 párrs. 5-8",
-        "directAnswer": "Nos ayuda <strong>meditar en la inmensa empatía de Jehová y en cómo él ve a las personas con compasión, deseando sinceramente que se salven.</strong>",
-        "deepAnswer": "Para lograr ver lo bueno en los demás, debemos recordar que Jehová siente dolor por el sufrimiento humano (Is. 63:9) y desea que todos se salven, incluso aquellos que actúan por ignorancia (Jon. 4:11). El artículo de <em>La Atalaya</em> nos anima a entrenar nuestra mente para ver a las personas del territorio no como opositores, sino como posibles hermanos espirituales que han sido desorientados por Satanás. <strong>Pedirle a Jehová en oración que nos ayude a ver a las personas como él las ve</strong> transformará nuestra actitud y nos hará ministros mucho más amables y comprensivos.",
-        "shortAnswer": "Meditar en la gran compasión de Jehová y su deseo de salvar a todos nos ayuda a ver lo bueno en nuestro prójimo."
+        "question": "Jesús veía lo bueno en las personas. ¿Qué aprendemos de eso? (Juan 1:47).",
+        "references": "Juan 1:47",
+        "directAnswer": "Aprendemos a **buscar y destacar las cualidades positivas y la sinceridad de las personas**, en lugar de dejarnos llevar por prejuicios iniciales.",
+        "deepAnswer": "En Juan 1:47, Jesús elogió a Natanael diciendo: «Miren, un verdadero israelita en quien no hay engaño», pasando por alto la duda previa que Natanael había expresado sobre Nazaret. Esto nos enseña a **notar los detalles positivos y no prejuzgar a las personas por sus comentarios iniciales o su trasfondo**, sino a buscar con empeño el buen corazón y las cualidades positivas que tengan para poder llegar a ellas con el mensaje.",
+        "shortAnswer": "Aprendemos a buscar el buen corazón y las cualidades positivas de las personas, evitando prejuzgarlas."
       },
       {
         "id": "5A_q9",
-        "question": "¿Por qué sigue siendo la predicación de casa en casa nuestro método principal para llegar a las personas?",
+        "question": "Si nos cuesta trabajo hacer lo mismo, ¿qué nos puede ayudar? (Is. 63:9; Jon. 4:11; w14 15/5 pág. 12 párrs. 5-8).",
+        "references": "Is. 63:9; Jon. 4:11; w14 15/5 pág. 12 párrs. 5-8",
+        "directAnswer": "Nos ayuda **meditar en la inmensa empatía de Jehová y pedirle en oración que nos ayude a ver a las personas con los ojos del amor y la compasión**.",
+        "deepAnswer": "Jehová siente el dolor de sus siervos (Is. 63:9) y muestra compasión incluso por quienes actúan por ignorancia (Jon. 4:11). *La Atalaya* (w14 15/5) nos anima a ver a las personas del territorio no como opositores, sino como posibles hermanos espirituales que necesitan ser rescatados de la influencia de Satanás. **Orar de corazón para cambiar nuestra perspectiva y reflejar la imparcialidad de Jehová** nos dará la fuerza para descubrir lo bueno en cada persona.",
+        "shortAnswer": "Meditar en la gran compasión de Jehová y orar para ver a las personas como él las ve."
+      },
+      {
+        "id": "5A_q10",
+        "question": "Usa los siguientes textos bíblicos para explicar lo que se logra con la predicación de casa en casa:",
+        "references": "Prov. 27:11; Hechos 20:26, 27; 2 Tes. 1:8, 9; 2 Pedro 3:11-14",
+        "subtitle": "Lo que se logra con la predicación de casa en casa",
+        "directAnswer": "Mediante la predicación de casa en casa logramos <strong>alegrar el corazón de Jehová (Prov. 27:11), quedar libres de culpa de sangre (Hech. 20:26, 27), advertir a los opositores (2 Tes. 1:8, 9) y mantener presente el día de Jehová (2 Ped. 3:11-14)</strong>.",
+        "deepAnswer": "Los textos bíblicos muestran los enormes logros de este método: <br>• **Proverbios 27:11**: Le da una respuesta a Satanás al demostrar nuestra lealtad y alegrar el corazón de Jehová. <br>• **Hechos 20:26, 27**: Al no retenernos de declarar todo el consejo de Dios en cada hogar, quedamos limpios de culpa de sangre. <br>• **2 Tesalonicenses 1:8, 9**: Sirve de advertencia seria para quienes no conocen a Dios ni obedecen las buenas noticias. <br>• **2 Pedro 3:11-14**: Nos impulsa a realizar actos santos de conducta y devoción divina, manteniendo muy presente el día de Jehová.",
+        "shortAnswer": "Logramos alegrar el corazón de Jehová, quedar limpios de culpa de sangre, dar advertencia y santificar nuestra conducta.",
+        "subQuestions": [
+          {
+            "id": "5A_q10_a",
+            "question": "Proverbios 27:11",
+            "directAnswer": "Alegra el corazón de Jehová al darle una respuesta a Satanás, quien nos acusa de servirle solo por interés.",
+            "deepAnswer": "Al predicar lealmente a las personas en sus hogares, demostramos que nuestro amor a Dios es genuino y voluntario, lo que le permite a Jehová refutar la burla y acusación del Diablo.",
+            "shortAnswer": "Demuestra lealtad y alegra el corazón de Jehová."
+          },
+          {
+            "id": "5A_q10_b",
+            "question": "Hechos 20:26, 27",
+            "directAnswer": "Nos mantiene limpios de culpa de sangre al no dejar de predicar todo el mensaje a cada persona en su hogar.",
+            "deepAnswer": "Al igual que el apóstol Pablo, al cumplir cabalmente con visitar a las personas casa por casa y declararles todo el consejo de Dios, nos aseguramos de que no recaiga sobre nosotros ninguna culpa de sangre si deciden no escuchar.",
+            "shortAnswer": "Nos libra de culpa de sangre al declarar todo el consejo de Dios."
+          },
+          {
+            "id": "5A_q10_c",
+            "question": "2 Tesalonicenses 1:8, 9",
+            "directAnswer": "Advierte a las personas sobre el juicio venidero para que tengan la oportunidad de salvarse.",
+            "deepAnswer": "Este texto resalta la gravedad de rechazar el mensaje del Reino. Al predicar en los hogares, estamos dando una advertencia compasiva a las personas antes de que se ejecute el juicio de Dios contra quienes no le obedecen.",
+            "shortAnswer": "Advierte a las personas sobre el juicio venidero."
+          },
+          {
+            "id": "5A_q10_d",
+            "question": "2 Pedro 3:11-14",
+            "directAnswer": "Nos ayuda a mantener una conducta santa y devota mientras esperamos el día de Jehová.",
+            "deepAnswer": "Participar activamente en la predicación fortalece nuestra espiritualidad, nos mantiene ocupados en el servicio a Dios y nos ayuda a no contaminarnos con el mundo, esperando con paz su día.",
+            "shortAnswer": "Nos ayuda a mantener una conducta santa y devota."
+          }
+        ]
+      },
+      {
+        "id": "5A_q11",
+        "question": "◆ Si te parece difícil predicar de casa en casa, pídele a Jehová que te dé valor para hacerlo (Luc. 11:13; 1 Tes. 5:17; w10 15/2 pág. 6 párr. 6).",
+        "references": "Luc. 11:13; 1 Tes. 5:17; w10 15/2 pág. 6 párr. 6",
+        "directAnswer": "Si sentimos temor o desánimo, debemos <strong>orar con fervor a Jehová para que nos conceda su espíritu santo y nos dé el valor necesario</strong> para seguir predicando (Luc. 11:13; 1 Tes. 5:17; w10 15/2 pág. 6 párr. 6).",
+        "deepAnswer": "En la página 6, párrafo 6, de *La Atalaya* (w10 15/2) se nos recuerda que el valor para predicar no procede de nosotros mismos, sino de Jehová. Mediante la <strong>oración incesante (1 Tes. 5:17)</strong> y pidiendo su <strong>espíritu santo (Luc. 11:13)</strong>, él nos capacitará para vencer la timidez, el miedo al rechazo o el cansancio físico, dándonos denuedo y paz mental.",
+        "shortAnswer": "Pedir el espíritu santo y valor a Jehová en oración para vencer la timidez o el temor al rechazo."
+      },
+      {
+        "id": "5A_q12",
+        "question": "¿Por qué sigue siendo la predicación de casa en casa nuestro método principal para llegar a las personas? (kr pág. 76 párr. 22).",
         "references": "kr pág. 76 párr. 22",
+        "subtitle": "Predicar de casa en casa nos hace felices",
         "directAnswer": "Sigue siendo nuestro método principal porque <strong>es la manera más eficaz y sistemática de dar a cada persona una oportunidad directa de escuchar el mensaje del Reino.</strong>",
         "deepAnswer": "De acuerdo con el libro <em>El Reino de Dios ya gobierna</em>, el método de casa en casa <strong>destaca por ser directo y personal, permitiéndonos entablar conversaciones significativas en un ambiente donde las personas se sienten cómodas.</strong> Además, este método demuestra de manera pública nuestra imparcialidad y la urgencia de nuestra labor, al buscar sistemáticamente a los merecedores en todo el territorio. Al participar en esta obra de manera organizada, reflejamos el patrón apostólico y fortalecemos nuestra propia fe y el espíritu de unidad de la congregación.",
         "shortAnswer": "Es el método más eficaz, personal y sistemático para dar a todos la oportunidad de oír las buenas nuevas."
       },
       {
-        "id": "5A_q10",
-        "question": "¿Por qué nos hace felices esta labor? (Luc. 10:17; w18.05 pág. 20 párr. 14). Usa dos o tres de los siguientes textos bíblicos para explicar cómo nos beneficia predicar: Mateo 6:21; 9:36; Gálatas 5:22, 23; 2 Timoteo 2:15; Hebreos 6:9-11; 1 Pedro 3:13-15. Sigue el ejemplo de Jesús.",
-        "references": "",
+        "id": "5A_q13",
+        "question": "¿Por qué nos hace felices esta labor? (Luc. 10:17; w18.05 pág. 20 párr. 14).",
+        "references": "Luc. 10:17; w18.05 pág. 20 párr. 14",
         "directAnswer": "Esta labor nos hace felices porque <strong>nos permite colaborar con Jehová, ver el poder de su espíritu en acción y experimentar el gozo de dar espiritualmente a otros.</strong>",
         "deepAnswer": "Como indica Lucas 10:17, ver cómo Jehová apoya nuestros esfuerzos nos llena de un gozo profundo y duradero. Además, <strong>predicar nos beneficia en sentido personal: según Mateo 6:21, protege nuestro corazón al ayudarnos a acumular tesoros en el cielo y mantener el enfoque en las cosas espirituales.</strong> También <strong>nos impulsa a cultivar las hermosas cualidades del fruto del espíritu</strong> (Gálatas 5:22, 23), como la paciencia y la apacibilidad, y <strong>nos motiva a ser mejores maestros al esforzarnos por manejar con precisión la Palabra de la verdad</strong> (2 Timoteo 2:15).",
         "shortAnswer": "Nos hace felices porque fortalece nuestra propia espiritualidad, nos ayuda a cultivar el fruto del espíritu y nos permite colaborar con Jehová."
       },
       {
-        "id": "5A_q11",
-        "question": "¿Cómo puedes demostrar con tus oraciones y con tus acciones que comprendes la urgencia de predicar? (Mat. 9:35-38). Si notas que estás perdiendo el entusiasmo en el ministerio, ¿cómo puede ayudarte el ejemplo de Jesús a recuperarlo?",
-        "references": "",
+        "id": "5A_q14",
+        "question": "Usa dos o tres de los siguientes textos bíblicos para explicar cómo nos beneficia predicar: Mateo 6:21; 9:36; Gálatas 5:22, 23; 2 Timoteo 2:15; Hebreos 6:9-11; 1 Pedro 3:13-15.",
+        "references": "Mateo 6:21; 9:36; Gálatas 5:22, 23; 2 Timoteo 2:15; Hebreos 6:9-11; 1 Pedro 3:13-15",
+        "directAnswer": "Nos beneficia al <strong>proteger nuestro corazón (Mat. 6:21), cultivar compasión (Mat. 9:36), desarrollar el fruto del espíritu (Gál. 5:22, 23), manejar bien la verdad (2 Tim. 2:15), fortalecer la esperanza (Heb. 6:9-11) y santificar a Dios (1 Ped. 3:13-15)</strong>.",
+        "deepAnswer": "Predicar produce múltiples beneficios espirituales y emocionales: <br>• **Mateo 6:21**: Protege nuestro corazón al ayudarnos a poner el tesoro en el cielo. <br>• **Mateo 9:36**: Desarrolla en nosotros la misma compasión activa que sentía Jesús por la gente. <br>• **Gálatas 5:22, 23**: Nos obliga a manifestar el fruto del espíritu (paciencia, amor, benignidad) en las puertas. <br>• **2 Timoteo 2:15**: Nos incentiva a estudiar la Biblia para saber defender la verdad con precisión. <br>• **Hebreos 6:9-11**: Fortalece nuestra propia fe y nos da la plena seguridad de la esperanza hasta el fin. <br>• **1 Pedro 3:13-15**: Nos prepara para defender con apacibilidad y profundo respeto nuestra fe ante cualquiera.",
+        "shortAnswer": "Nos protege moralmente, fomenta cualidades del espíritu santo, mejora nuestra enseñanza y asegura nuestra esperanza."
+      },
+      {
+        "id": "5A_q15",
+        "question": "¿Cómo puedes demostrar con tus oraciones y con tus acciones que comprendes la urgencia de predicar? (Mat. 9:35-38).",
+        "references": "Mat. 9:35-38",
+        "subtitle": "Sigue el ejemplo de Jesús",
         "directAnswer": "Demostramos el sentido de urgencia al <strong>orar con fervor para que Jehová envíe más trabajadores al campo de la cosecha</strong> y al <strong>ajustar nuestros asuntos para participar al máximo en el ministerio</strong>.",
-        "deepAnswer": "Basándonos en Mateo 9:35-38, demostramos que comprendemos la urgencia del tiempo cuando <strong>nuestras oraciones diarias reflejan un ruego sincero por la obra de predicación</strong> y por la protección de nuestros hermanos en el campo. En cuanto a nuestras acciones, esto se evidencia al <strong>programar nuestro tiempo de manera que el ministerio ocupe un lugar prioritario</strong>, buscando activamente formas de mejorar nuestra predicación. Al poner el Reino en primer lugar, demostramos con obras que compartimos el profundo deseo de Jehová de que las ovejas perdidas sean rescatadas.",
+        "deepAnswer": "Basándose en Mateo 9:35-38, demostramos que comprendemos la urgencia del tiempo cuando <strong>nuestras oraciones diarias reflejan un ruego sincero por la obra de predicación</strong> y por la protección de nuestros hermanos en el campo. En cuanto a nuestras acciones, esto se evidencia al <strong>programar nuestro tiempo de manera que el ministerio ocupe un lugar prioritario</strong>, buscando activamente formas de mejorar nuestra predicación. Al poner el Reino en primer lugar, demostramos con obras que compartimos el profundo deseo de Jehová de que las ovejas perdidas sean rescatadas.",
         "shortAnswer": "Demostramos urgencia al orar fervientemente por la obra de la cosecha y al priorizar el ministerio en nuestra vida diaria."
       },
       {
-        "id": "5A_q12",
-        "question": "¿Cómo puede ayudarte el ejemplo de Jesús a recuperarlo?",
+        "id": "5A_q16",
+        "question": "Si notas que estás perdiendo el entusiasmo en el ministerio, ¿cómo puede ayudarte el ejemplo de Jesús a recuperarlo? (Mar. 1:35-39).",
         "references": "Mar. 1:35-39",
         "directAnswer": "El ejemplo de Jesús nos enseña que podemos recuperar el entusiasmo <strong>buscando el apoyo de Jehová mediante la oración sincera a solas y manteniendo siempre presente nuestro propósito en el ministerio.</strong>",
         "deepAnswer": "En Marcos 1:35-39, vemos que a pesar de haber tenido una jornada agotadora, Jesús se levantó muy temprano para buscar la intimidad con su Padre a través de la oración, lo que le permitió recuperar sus fuerzas espirituales. Cuando sus discípulos quisieron retenerlo en un lugar por su popularidad, él mantuvo el enfoque claro en su misión al decir: «Vamos a otro lugar [...] para que predique allí también, porque para esto he venido». <strong>Imitar su hábito de orar de corazón y recordar que estamos realizando una obra de salvación nos dará el poder y el entusiasmo necesarios para seguir adelante.</strong>",
         "shortAnswer": "Buscar fuerzas mediante la oración personal y recordar el valor de nuestra comisión divina renueva nuestro entusiasmo."
       },
       {
-        "id": "5A_q13",
-        "question": "¿Qué debemos sentir por la gente desfavorecida, oprimida o marginada que encontramos al predicar?",
-        "references": "",
-        "directAnswer": "<strong>Debemos sentir una profunda compasión y una empatía genuina, viéndolas no como casos perdidos, sino como personas sumamente valiosas a los ojos de Jehová.</strong>",
-        "deepAnswer": "Al imitar a nuestro dechado, Jesucristo, <strong>debemos sentir que se nos enternece el corazón al encontrar personas que están desfavorecidas, oprimidas o marginadas por este sistema de cosas injusto.</strong> En lugar de prejuzgarlas o ignorarlas, <strong>nuestra compasión debe movernos a tratarlas con la mayor dignidad y respeto posible.</strong> <strong>Este tierno sentimiento nos impulsará a escucharlas pacientemente y a esforzarnos por sanar sus heridas espirituales con el maravilloso mensaje de consuelo y esperanza que se encuentra en las Escrituras.</strong>",
-        "shortAnswer": "Debemos sentir una tierna y activa compasión que nos mueva a tratarlas con dignidad y a llevarles verdadero consuelo."
+        "id": "5A_q17",
+        "question": "¿Qué debemos sentir por la gente desfavorecida, oprimida o marginada que encontramos al predicar? ¿Por qué? (Juan 9:1-7; lmd lección 3).",
+        "references": "Juan 9:1-7; lmd lección 3",
+        "directAnswer": "<strong>Debemos sentir una profunda compasión y empatía, viéndolas con dignidad y respeto como seres valiosos ante Jehová, ya que todos merecen oír el mensaje de esperanza.</strong>",
+        "deepAnswer": "Al imitar a Jesús (Juan 9:1-7, donde curó a un ciego de nacimiento sin prejuicios ni culpas), debemos sentir compasión activa por los menos favorecidos o marginados. La lección 3 de *Ama a las personas* resalta que no debemos juzgarlas por su apariencia o condición social, sino verlas como personas con potencial para responder a la verdad. Esta empatía nos impulsa a escucharlas con paciencia y tratarlas con amor y dignidad, reflejando el carácter bondadoso e imparcial de Jehová.",
+        "shortAnswer": "Sentir una tierna compasión que nos impulse a tratarlas con gran respeto y a llevarles consuelo bíblico."
       },
       {
-        "id": "5A_q14",
-        "question": "¿Por qué debemos sentir esto por la gente desfavorecida, oprimida o marginada?",
-        "references": "",
-        "directAnswer": "Debemos sentir un interés sincero y compasivo porque <strong>Jehová valora a los humildes, no hace distinción de personas y desea que todos reciban la consoladora esperanza del Reino.</strong>",
-        "deepAnswer": "Debemos cultivar este sentimiento porque <strong>la personalidad de Jehová es contraria a la parcialidad humana; él se interesa de forma muy especial por los quebrantados de corazón y los de condición humilde.</strong> <strong>Al mostrarles un interés sincero, reflejamos fielmente el amor de nuestro Dios y santificamos su nombre en el territorio.</strong> Además, sabemos que <strong>la verdad de la Biblia tiene el poder de transformar y elevar la vida de cualquier persona, sin importar su trasfondo social o económico, dándoles una verdadera esperanza de liberación.</strong>",
-        "shortAnswer": "Porque Jehová es imparcial, ama profundamente a los de condición humilde y desea que todos se beneficien del Reino."
-      },
-      {
-        "id": "5A_q15",
-        "question": "Aunque alguien te dé una respuesta desagradable, ¿por qué no debes perder nunca el entusiasmo?",
+        "id": "5A_q18",
+        "question": "Aunque alguien te dé una respuesta desagradable, ¿por qué no debes perder nunca el entusiasmo? (Mat. 10:22).",
         "references": "Mat. 10:22",
         "directAnswer": "No debemos perder el entusiasmo porque <strong>nuestra perseverancia bajo prueba demuestra nuestra lealtad a Jehová y es una muestra de que somos verdaderos discípulos de Cristo.</strong>",
         "deepAnswer": "Al predicar, <strong>sabemos que la reacción de las personas no determina nuestro éxito, sino nuestra obediencia y amor por las ovejas de Jehová.</strong> Según Mateo 10:22, Jesús nos advirtió claramente que seríamos objeto de odio de parte de todas las personas por causa de su nombre. <strong>Cada vez que mantenemos una actitud alegre y pacífica ante la apatía o las respuestas desagradables, demostramos nuestro aguante, santificamos el nombre de Dios y acumulamos un valioso historial de fidelidad que nos guiará a la salvación.</strong>",
