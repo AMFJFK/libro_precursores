@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Estudio de Precursores: Cumple Completamente tu Ministerio</title>
-    <link rel="stylesheet" href="styles.css?v=2.1.5">
+    <link rel="stylesheet" href="styles.css?v=2.1.6">
 </head>
 <body class="theme-jw">
     <div class="app-container">
@@ -60,6 +60,13 @@
             <nav class="navigation-menu" id="lessons-nav">
                 <!-- Se cargará dinámicamente desde JS -->
             </nav>
+
+            <!-- Apartado de Consultas AI / Preguntas Variadas -->
+            <div class="ai-chat-btn-container" style="padding: 12px 16px; border-top: 1px solid var(--border-color); margin-top: auto;">
+                <button class="theme-btn ai-chat-btn" id="ai-chat-sidebar-btn" style="width: 100%; display: flex; align-items: center; justify-content: center; gap: 8px; font-weight: 600; padding: 10px;" onclick="showAiChat()">
+                    ✨ Preguntas Variadas (AI)
+                </button>
+            </div>
         </aside>
 
         <!-- PANEL DE ESTUDIO CENTRAL (CONTENIDO DE LA LECCIÓN) -->
@@ -91,6 +98,52 @@
             <!-- Acordeón de Preguntas y Respuestas -->
             <section class="accordion-container" id="questions-accordion">
                 <!-- Se cargará dinámicamente -->
+            </section>
+
+            <!-- Apartado de Preguntas Variadas (Consultas AI) -->
+            <section class="ai-chat-container" id="ai-chat-section" style="display: none;">
+                <div class="ai-chat-header">
+                    <div style="display: flex; align-items: center; gap: 12px;">
+                        <span class="ai-badge">✨ IA</span>
+                        <h3>Preguntas Variadas y Consultas</h3>
+                    </div>
+                    <p>Realiza preguntas libres basadas en el manual completo de la escuela y las publicaciones oficiales.</p>
+                </div>
+
+                <!-- API Key Configuration Area -->
+                <div class="ai-config-card">
+                    <div class="config-header">
+                        <h4>Configuración de la API Key de Gemini</h4>
+                        <span class="status-indicator" id="api-status-badge">Sin Configurar</span>
+                    </div>
+                    <p class="config-desc">Para realizar consultas, introduce tu clave de API de Gemini. Se guardará de forma segura en tu navegador (localStorage).</p>
+                    <div class="config-input-group">
+                        <input type="password" id="gemini-api-key-input" placeholder="Introduce tu API Key de Gemini (AIzaSy...)">
+                        <button class="theme-btn" onclick="saveApiKey()">Guardar Clave</button>
+                    </div>
+                </div>
+
+                <!-- Chat History Area -->
+                <div class="ai-chat-history" id="ai-chat-history">
+                    <div class="chat-welcome-msg">
+                        <div class="welcome-icon">💬</div>
+                        <h4>¿En qué te puedo ayudar hoy?</h4>
+                        <p>Escribe tu pregunta a continuación. Las respuestas se analizarán con maestría y sabiduría basándose en el manual completo de la escuela.</p>
+                        <div class="suggested-questions">
+                            <span class="suggestion-tag" onclick="suggestQuestion('¿Cuáles son las cualidades que debe cultivar un precursor?')">¿Cualidades de un precursor?</span>
+                            <span class="suggestion-tag" onclick="suggestQuestion('Explica la importancia de la meditación en el servicio.')">Importancia de la meditación</span>
+                            <span class="suggestion-tag" onclick="suggestQuestion('¿Cómo podemos demostrar que respetamos la guía de Dios hoy?')">Respetar la guía de Dios</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Chat Input Area -->
+                <div class="ai-chat-input-container">
+                    <textarea id="ai-chat-input" placeholder="Pregunta sobre cualquier tema o texto del manual..." onkeydown="handleAiInputKey(event)"></textarea>
+                    <button class="ai-send-btn" id="ai-send-btn" onclick="askAiQuestion()">
+                        <span class="send-icon">✈️</span>
+                    </button>
+                </div>
             </section>
         </main>
 
@@ -186,7 +239,7 @@
         </div>
     </div>
 
-    <script src="database.js?v=2.1.5"></script>
-    <script src="app.js?v=2.1.5"></script>
+    <script src="database.js?v=2.1.6"></script>
+    <script src="app.js?v=2.1.6"></script>
 </body>
 </html>

@@ -47,6 +47,20 @@ function loadLesson(index) {
     currentLessonIndex = index;
     const lesson = lessonsData[index];
 
+    // Ocultar sección de IA
+    const aiChatSec = document.getElementById("ai-chat-section");
+    if (aiChatSec) aiChatSec.style.display = "none";
+    const aiChatBtn = document.getElementById("ai-chat-sidebar-btn");
+    if (aiChatBtn) aiChatBtn.classList.remove("active");
+
+    // Mostrar secciones normales
+    const headerBanner = document.querySelector(".header-banner");
+    if (headerBanner) headerBanner.style.display = "block";
+    const lessonIntro = document.getElementById("lesson-intro");
+    if (lessonIntro) lessonIntro.style.display = "block";
+    const accordion = document.getElementById("questions-accordion");
+    if (accordion) accordion.style.display = "block";
+
     // Detener audio si estuviera reproduciéndose
     if (window.speechSynthesis.speaking) {
         window.speechSynthesis.cancel();
@@ -1331,6 +1345,210 @@ function clearSelectionHighlight() {
     // Limpiar selección
     window.getSelection().removeAllRanges();
     hideHighlighterToolbar();
+}
+
+// --- APARTADO DE PREGUNTAS VARIADAS (CONSULTAS AI) ---
+let manualCompletoText = null;
+
+function showAiChat() {
+    // Detener audio si estuviera reproduciéndose
+    if (window.speechSynthesis.speaking) {
+        window.speechSynthesis.cancel();
+        resetSpeakingStates();
+    }
+
+    // Desactivar nav items
+    document.querySelectorAll(".nav-item").forEach(el => el.classList.remove("active"));
+    document.getElementById("ai-chat-sidebar-btn").classList.add("active");
+
+    // Ocultar contenido normal
+    const headerBanner = document.querySelector(".header-banner");
+    if (headerBanner) headerBanner.style.display = "none";
+    const lessonIntro = document.getElementById("lesson-intro");
+    if (lessonIntro) lessonIntro.style.display = "none";
+    const accordion = document.getElementById("questions-accordion");
+    if (accordion) accordion.style.display = "none";
+
+    // Mostrar sección de IA
+    const aiChatSec = document.getElementById("ai-chat-section");
+    if (aiChatSec) aiChatSec.style.display = "flex";
+
+    // Cargar API Key si existe
+    const savedKey = localStorage.getItem("gemini_api_key") || "";
+    document.getElementById("gemini-api-key-input").value = savedKey;
+    updateApiStatusBadge(savedKey);
+}
+
+function updateApiStatusBadge(key) {
+    const badge = document.getElementById("api-status-badge");
+    if (!badge) return;
+    if (key && key.trim().startsWith("AIzaSy")) {
+        badge.textContent = "Configurado";
+        badge.className = "status-indicator configured";
+    } else {
+        badge.textContent = "Sin Configurar";
+        badge.className = "status-indicator missing";
+    }
+}
+
+function saveApiKey() {
+    const keyInput = document.getElementById("gemini-api-key-input");
+    if (!keyInput) return;
+    const key = keyInput.value.trim();
+    if (!key) {
+        localStorage.removeItem("gemini_api_key");
+        updateApiStatusBadge("");
+        alert("Clave de API eliminada.");
+        return;
+    }
+    localStorage.setItem("gemini_api_key", key);
+    updateApiStatusBadge(key);
+    alert("¡Clave de API guardada de forma segura!");
+}
+
+function suggestQuestion(text) {
+    const input = document.getElementById("ai-chat-input");
+    if (!input) return;
+    input.value = text;
+    input.focus();
+}
+
+function handleAiInputKey(event) {
+    if (event.key === "Enter" && !event.shiftKey) {
+        event.preventDefault();
+        askAiQuestion();
+    }
+}
+
+async function askAiQuestion() {
+    const apiKey = localStorage.getItem("gemini_api_key");
+    if (!apiKey) {
+        alert("Por favor, configura tu API Key de Gemini antes de realizar consultas.");
+        return;
+    }
+
+    const input = document.getElementById("ai-chat-input");
+    if (!input) return;
+    const question = input.value.trim();
+    if (!question) return;
+
+    // Agregar mensaje del usuario a la pantalla
+    const history = document.getElementById("ai-chat-history");
+    if (!history) return;
+    
+    // Si es el primer mensaje, remover el mensaje de bienvenida
+    const welcome = history.querySelector(".chat-welcome-msg");
+    if (welcome) {
+        history.innerHTML = "";
+    }
+
+    const userBubble = document.createElement("div");
+    userBubble.className = "chat-bubble user";
+    userBubble.innerHTML = `
+        <div class="chat-bubble-header">Precursor</div>
+        <div>${escapeHtml(question)}</div>
+    `;
+    history.appendChild(userBubble);
+    input.value = "";
+    history.scrollTop = history.scrollHeight;
+
+    // Agregar indicador de carga/pensando
+    const loadingBubble = document.createElement("div");
+    loadingBubble.className = "chat-bubble ai loading-bubble";
+    loadingBubble.innerHTML = `
+        <div class="chat-bubble-header">Gran Instructor (IA)</div>
+        <div class="chat-loading">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    `;
+    history.appendChild(loadingBubble);
+    history.scrollTop = history.scrollHeight;
+
+    try {
+        // Cargar manual_completo.txt si no está cargado
+        if (!manualCompletoText) {
+            const resText = await fetch("manual_completo.txt");
+            if (resText.ok) {
+                manualCompletoText = await resText.text();
+            } else {
+                throw new Error("No se pudo cargar el manual completo (manual_completo.txt). Asegúrate de que está en la raíz de tu proyecto.");
+            }
+        }
+
+        // Llamar API de Gemini (usando gemini-3.1-flash-lite)
+        const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent?key=${apiKey}`;
+        const requestData = {
+            contents: [
+                {
+                    parts: [
+                        {
+                            text: `Eres un instructor y mentor teológico de los testigos de Jehová, con maestría, sabiduría e ingenio. Responde de forma experta a las preguntas de los precursores utilizando únicamente el contenido del manual de la escuela provisto. Si la respuesta no está en el manual, indícalo de forma modesta sin inventar. En tu respuesta, usa exclusivamente la etiqueta <strong> para resaltar las frases clave para la lectura oral. No utilices formato markdown en negritas como **texto**, utiliza directamente <strong>texto</strong>.\n\nContenido del manual de la escuela:\n${manualCompletoText}\n\nPregunta del precursor: ${question}`
+                        }
+                    ]
+                }
+            ]
+        };
+
+        const resApi = await fetch(url, {
+            method: "POST",
+            headers: {
+                "Content-Type": "application/json"
+            },
+            body: JSON.stringify(requestData)
+        });
+
+        if (!resApi.ok) {
+            const errJson = await resApi.json().catch(() => ({}));
+            const errMsg = errJson.error?.message || "Error al comunicarse con la API de Gemini.";
+            throw new Error(errMsg);
+        }
+
+        const data = await resApi.json();
+        let reply = data.candidates?.[0]?.content?.parts?.[0]?.text || "No se recibió respuesta.";
+        
+        // Convertir formato de markdown a HTML para mejor visualización
+        reply = reply.replace(/\n/g, "<br>");
+        // Si el modelo aún usó ** por error, convertirlo a strong
+        reply = reply.replace(/\*\*(.*?)\*\*/g, "<strong>$1</strong>");
+
+        // Remover indicador de carga
+        loadingBubble.remove();
+
+        // Agregar respuesta de la IA
+        const aiBubble = document.createElement("div");
+        aiBubble.className = "chat-bubble ai";
+        aiBubble.innerHTML = `
+            <div class="chat-bubble-header">Gran Instructor (IA)</div>
+            <div>${reply}</div>
+        `;
+        history.appendChild(aiBubble);
+        history.scrollTop = history.scrollHeight;
+
+    } catch (e) {
+        console.error(e);
+        loadingBubble.remove();
+        const errBubble = document.createElement("div");
+        errBubble.className = "chat-bubble ai";
+        errBubble.style.border = "1px solid #ef4444";
+        errBubble.style.background = "rgba(239, 68, 68, 0.05)";
+        errBubble.innerHTML = `
+            <div class="chat-bubble-header" style="color: #ef4444;">Error</div>
+            <div style="color: #ef4444;">Hubo un problema al procesar tu solicitud: ${e.message}</div>
+        `;
+        history.appendChild(errBubble);
+        history.scrollTop = history.scrollHeight;
+    }
+}
+
+function escapeHtml(text) {
+    return text
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
 }
 
 
