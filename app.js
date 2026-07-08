@@ -32,7 +32,7 @@ function renderLessonsMenu() {
     lessonsData.forEach((lesson, index) => {
         const item = document.createElement("div");
         item.className = `nav-item ${index === currentLessonIndex ? 'active' : ''}`;
-        item.onclick = () => loadLesson(index);
+        item.onclick = () => loadLesson(index, true);
 
         item.innerHTML = `
             <div class="nav-number">${lesson.id}</div>
@@ -43,9 +43,17 @@ function renderLessonsMenu() {
 }
 
 // --- CARGAR LECCIÓN ---
-function loadLesson(index) {
+function loadLesson(index, scroll = false) {
     currentLessonIndex = index;
     const lesson = lessonsData[index];
+
+    // Deslizar automáticamente al contenido de la lección en dispositivos móviles
+    if (scroll && window.innerWidth <= 1024) {
+        const mainContent = document.querySelector(".main-content");
+        if (mainContent) {
+            mainContent.scrollIntoView({ behavior: "smooth" });
+        }
+    }
 
     // Ocultar sección de IA
     const aiChatSec = document.getElementById("ai-chat-section");
