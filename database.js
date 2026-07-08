@@ -3583,7 +3583,8 @@ const lessonsData = [
         "directAnswer": "<strong>Jesús inició la conversación con naturalidad al pedirle agua a la samaritana, creando un terreno común antes de dar testimonio sobre el agua de vida.</strong>",
         "deepAnswer": "<strong>Jesús demostró un gran interés en las personas al buscar puntos de contacto.</strong> Fue respetuoso, amable y no dejó que los prejuicios sociales le impidieran predicar; en cambio, <strong>fue desarrollando el interés de la mujer al hablar de cosas espirituales de manera sencilla.</strong> Su actitud nos enseña que la predicación informal debe ser natural y centrada en las necesidades de nuestro oyente.",
         "shortAnswer": "Sigue el ejemplo de Jesús: sé amable, busca puntos de contacto y dirige la conversación con naturalidad.",
-        "note": "Nota al instructor: Resalta la sencillez de la conversación de Jesús."
+        "note": "Nota al instructor: Resalta las lecciones que sacamos de la forma en la que Jesús le predicó informalmente. Analiza cómo empezó la conversación, cuál fue su actitud, qué hizo para mantener un terreno común y cómo fue desarrollando la conversación.",
+        "subtitle": "La predicación informal: aprovecha todas las oportunidades"
       },
       {
         "id": "8B_q2",
@@ -3733,14 +3734,6 @@ const lessonsData = [
         "shortAnswer": "Utilizar folletos, videos y JW Library para adaptar el mensaje a los intereses del amo de casa."
       },
       {
-        "id": "8B_q16",
-        "question": "las personas, ¿qué herramientas del kit de enseñanza te resultan prácticas?",
-        "references": "",
-        "directAnswer": "Herramientas como <strong>las publicaciones y las preguntas sugeridas en ellas nos ayudan a adaptar la conversación a los intereses de las personas.</strong>",
-        "deepAnswer": "El kit de enseñanza nos proporciona recursos valiosos, como <strong>las preguntas que nos ayudan a sondear los corazones y mentes de las personas.</strong>  <strong>Los folletos y revistas están diseñados para presentar verdades bíblicas de manera atractiva y comprensible.</strong>  Al utilizar estas herramientas de manera juiciosa, podemos dirigir la conversación hacia la Palabra de Dios y sus maravillosas promesas.",
-        "shortAnswer": "Las publicaciones nos dan herramientas para adaptar la conversación."
-      },
-      {
         "id": "8B_q17",
         "question": "¿Cómo puede ayudarte a ser más adaptable el apéndice A del folleto Una obra de amor? En nuestras publicaciones hay muchas experiencias sobre la predicación informal.",
         "references": "",
@@ -3798,7 +3791,7 @@ const lessonsData = [
       },
       {
         "id": "8B_q24",
-        "question": "¿Qué haces para volver a encontrarte con una persona si no tienes su dirección? Si en tu país no se toman datos personales en la predicación,",
+        "question": "¿Qué haces para volver a encontrarte con una persona si no tienes su dirección?",
         "references": "",
         "directAnswer": "Para volver a contactar con una persona de la cual no tenemos su dirección, podemos <strong>acordar encontrarnos en un punto público específico o facilitarle nuestra información de contacto teocrático para que ella inicie el diálogo.</strong>",
         "deepAnswer": "Queridos precursores, el celo por buscar a las ovejas de Jehová nos impulsa a ser prudentes y perspicaces. Si las leyes locales o las pautas de la sucursal impiden recoger datos personales, podemos proponer de manera muy natural: <em>'Suelo pasar por esta plaza los martes a esta misma hora, ¿le parecería bien que continuemos nuestra conversación la próxima semana?'</em>. También podemos <strong>ofrecerle una tarjeta de contacto de JW.org o nuestro número de teléfono teocrático</strong>, animándola a que sea ella quien tome la iniciativa de contactarnos.",
@@ -3806,7 +3799,7 @@ const lessonsData = [
       },
       {
         "id": "8B_q25",
-        "question": "¿qué otras cosas puedes hacer para que la persona sea atendida?",
+        "question": "Si en tu país no se toman datos personales en la predicación, ¿qué otras cosas puedes hacer para que la persona sea atendida?",
         "references": "",
         "directAnswer": "Podemos <strong>dirigir a la persona directamente al sitio oficial JW.org para que solicite en línea una visita o un curso bíblico gratuito</strong> de manera confidencial y segura.",
         "deepAnswer": "Cuando nos enfrentamos a restricciones de privacidad, <strong>el sitio JW.org es nuestra herramienta más eficaz para que las personas con inclinación de corazón reciban atención espiritual.</strong> Al <strong>mostrarles cómo utilizar la sección 'Solicite una visita' en sus propios dispositivos móviles</strong>, garantizamos que su interés sea atendido respetando plenamente las leyes del país. Esta excelente provisión del esclavo fiel y prudente permite que la persona mantenga el control sobre sus datos de contacto mientras inicia un estudio bíblico formal.",
@@ -3830,7 +3823,7 @@ const lessonsData = [
       },
       {
         "id": "8B_q28",
-        "question": "¿Cómo has utilizado los tratados y las tarjetas de contacto en la predicación informal? (w14 15/8 pág. 13 párrs. 8-11; mwb16.10 pág. 8). La predicación pública: habla de las buenas noticias cuando sea apropiado.",
+        "question": "¿Cómo has utilizado los tratados y las tarjetas de contacto en la predicación informal? (w14 15/8 pág. 13 párrs. 8-11; mwb16.10 pág. 8).",
         "references": "",
         "directAnswer": "<strong>Los utilizo para romper el hielo de forma natural, ofreciendo el tratado como un breve obsequio o mostrando el código QR de la tarjeta para dirigir a la persona a un video en JW.org.</strong>",
         "deepAnswer": "Tal como nos aconseja la información de <em>La Atalaya</em> del 15 de agosto de 2014, los tratados son ideales porque son atractivos y no resultan intimidantes. Podemos iniciar una conversación casual sobre un tema de interés común y decir: <em>'Me gustaría regalarle este breve pensamiento bíblico'</em>. <strong>Al usar las tarjetas de contacto, podemos enfocar la atención de la persona en el código QR para mostrarle de inmediato el video explicativo sobre el curso bíblico</strong>, despertando su curiosidad de manera rápida y moderna.",
@@ -3842,7 +3835,8 @@ const lessonsData = [
         "references": "km 12/11 pág. 1 párr. 3",
         "directAnswer": "No la llamamos 'alternativa' porque <strong>no es un sustituto opcional de la predicación de casa en casa, sino un complemento sumamente valioso para dar un testimonio cabal.</strong>",
         "deepAnswer": "De acuerdo con el <em>Nuestro Ministerio del Reino</em> de diciembre de 2011, la predicación pública es una faceta complementaria del ministerio cristiano. La obra de casa en casa sigue siendo nuestra prioridad y método fundamental para buscar a los merecedores (Mat. 10:11). Sin embargo, <strong>la predicación pública nos ayuda a llegar a las personas allí donde se encuentran, enriqueciendo nuestra labor de predicar de manera exhaustiva en nuestros territorios.</strong>",
-        "shortAnswer": "No sustituye a la predicación de casa en casa; la complementa de forma valiosa."
+        "shortAnswer": "No sustituye a la predicación de casa en casa; la complementa de forma valiosa.",
+        "subtitle": "La predicación pública: habla de las buenas noticias cuando sea apropiado"
       },
       {
         "id": "8B_q30",
@@ -3945,7 +3939,7 @@ const lessonsData = [
       },
       {
         "id": "8B_q35",
-        "question": "¿En qué otros lugares has predicado públicamente? Sé valiente.",
+        "question": "¿En qué otros lugares has predicado públicamente?",
         "references": "",
         "directAnswer": "<strong>He tenido el privilegio de predicar en plazas, paradas de autobús, cerca de estaciones de transporte público y mediante el uso de los expositores portátiles o carritos de literatura.</strong>",
         "deepAnswer": "<strong>La predicación pública abarca cualquier espacio donde transite la gente</strong>, lo que exige que estemos listos para adaptarnos. Ser valientes no significa confiar en nuestras propias fuerzas, sino apoyarnos plenamente en Jehová para iniciar conversaciones de manera amigable y respetuosa. <br><em>Al dar un testimonio valeroso</em> en estos entornos urbanos, <strong>demostramos un profundo amor por el prójimo y santificamos el santo nombre de Jehová ante la comunidad.</strong>",
@@ -3953,15 +3947,16 @@ const lessonsData = [
       },
       {
         "id": "8B_q36",
-        "question": "¿Cómo demostramos valor en la predicación? (1 Tes. Antes de participar en cualquier tipo de predicación,",
-        "references": "",
+        "question": "¿Cómo demostramos valor en la predicación? (1 Tes. 2:2; lmd lección 6).",
+        "references": "1 Tes. 2:2",
         "directAnswer": "<strong>Demostramos valor al apoyarnos en Jehová para vencer nuestros temores y seguir predicando con denuedo a pesar de la apatía, el temor al hombre o la oposición.</strong>",
         "deepAnswer": "Según 1 Tesalonicenses 2:2, el valor proviene de «cobrar denuedo por medio de nuestro Dios». El valor cristiano no es la ausencia de temor, sino la determinación de poner la soberanía de Jehová y la salvación del prójimo por encima de nuestras propias inseguridades. <em>Demostramos esta cualidad</em> <strong>al adaptarnos con entusiasmo a las nuevas facetas del ministerio y al mantener una actitud apacible y positiva.</strong>",
-        "shortAnswer": "El verdadero valor nace de confiar plenamente en Jehová y no en nuestras propias fuerzas."
+        "shortAnswer": "El verdadero valor nace de confiar plenamente en Jehová y no en nuestras propias fuerzas.",
+        "subtitle": "Sé valiente"
       },
       {
         "id": "8B_q37",
-        "question": "¿por qué es tan importante que ores?",
+        "question": "Antes de participar en cualquier tipo de predicación, ¿por qué es tan importante que ores? (Efes. 6:19).",
         "references": "Efes. 6:19",
         "directAnswer": "Es fundamental orar porque <strong>solo mediante el espíritu de Jehová podemos hablar con el denuedo, la sabiduría y la empatía necesarios para llegar al corazón de las personas.</strong>",
         "deepAnswer": "El apóstol Pablo imploró en Efesios 6:19 que se orara por él para que se le concediera «capacidad de hablar al abrir la boca». La oración constante antes de predicar reconoce nuestra total dependencia de Jehová y nos alinea con su santa voluntad. <br><em><strong>Al pedir espíritu santo</strong></em>, <strong>permitimos que Jehová calme nuestra mente, guíe nuestras palabras y prepare los corazones de quienes nos van a escuchar.</strong>",
@@ -3974,7 +3969,7 @@ const lessonsData = [
         "directAnswer": "Demostramos que actuamos de acuerdo con nuestras oraciones <strong>cuando tomamos la iniciativa con fe, vencemos la timidez y aprovechamos con decisión cada oportunidad para hablar del Reino.</strong>",
         "deepAnswer": "Actuar en conformidad con lo que oramos implica <strong>dar un paso de fe</strong>, tal como la niña de la experiencia que actuó con resolución. La fe verdadera se demuestra con obras; por lo tanto, <strong>después de pedirle ayuda a Jehová, debemos estar listos para iniciar conversaciones.</strong> <em>Estar preparados</em>, llevando publicaciones en nuestros bolsos y manteniendo un interés sincero en la gente, le demuestra a Jehová que deseamos de corazón que use nuestro ministerio.",
         "shortAnswer": "Actuar de acuerdo con nuestras oraciones significa dar el paso de fe con total confianza en el respaldo de Jehová.",
-        "note": "EXPERIENCIA: En una de nuestras reuniones, una niña de siete años llamada Chloe oyó un anuncio en el que se animaba a los publicadores a mudarse a lugares de su propio país donde hiciera falta ayuda para predicar. Ella le oró a Jehová: “Por favor, haz que mis padres quieran mudarse al norte del país para ayudar en la predicación”. Todas las noches le pedía a Jehová lo mismo. Su padre reconoce: “Vimos la fe tan grande de nuestra hija y su amor por la predicación, y no pudimos ignorar sus oraciones. Al final, nos mudamos”."
+        "note": "EXPERIENCIA: En una de nuestras reuniones, una niña de siete años escuchó que era muy importante salir a predicar. Así que, un día que fue de compras con su madre, metió dos folletos en el bolso. Mientras la mamá pagaba en el mostrador, ella le ofreció un folleto a una señora, que lo aceptó encantada. Como la niña era muy tímida, le preguntaron de dónde había sacado el valor para hablar. Ella contestó: “Solo pensé ‘En sus marcas... listos... ¡ya!’. Y lo hice”."
       }
     ],
     "image": "public_preaching.png",
@@ -4187,7 +4182,8 @@ const lessonsData = [
         "references": "Col. 1:15",
         "directAnswer": "Sabemos que Jesús es el \"primogénito\" de Dios porque la Biblia enseña claramente que <strong>él fue la primera creación de Jehová, el principio de toda la creación divina</strong>.",
         "deepAnswer": "En Colosenses 1:15 se nos revela que Jesús es \"la imagen del Dios invisible, el primogénito de toda la creación\". Esto significa que <strong>él fue el primer ser que Jehová creó directamente en el universo espiritual</strong>, existiendo muchísimo antes que todas las demás criaturas. <br>Al usar el término \"primogénito\", el apóstol Pablo bajo inspiración confirma que Jesús forma parte de la creación de Dios, ocupando una posición de honor incomparable como el primero de sus hijos.",
-        "shortAnswer": "Jesús es el \"primogénito\" porque fue la primera de todas las creaciones directas de Jehová."
+        "shortAnswer": "Jesús es el \"primogénito\" porque fue la primera de todas las creaciones directas de Jehová.",
+        "subtitle": "Jesús antes de venir a la Tierra"
       },
       {
         "id": "10A_q2",
@@ -4207,7 +4203,7 @@ const lessonsData = [
       },
       {
         "id": "10A_q4",
-        "question": "¿Por qué no significa esto que fuera un cocreador? (Mat. 19:4-6; it-2 págs. 79, 80). Valora el papel de Jesús.",
+        "question": "¿Por qué no significa esto que fuera un cocreador? (Mat. 19:4-6; it-2 págs. 79, 80).",
         "references": "",
         "directAnswer": "Esto no significa que fuera un cocreador porque <strong>la fuente del poder creativo, la vida y la autoridad provino en su totalidad de Jehová, el único Creador verdadero</strong>.",
         "deepAnswer": "Las Escrituras dejan claro que Jehová es el Creador Supremo; Jesús mismo reconoció esto al señalar que Dios fue quien hizo al hombre y a la mujer en el principio (Mat. 19:4-6). Como señala la obra <em>Perspicacia</em>, <strong>Jesús trabajó bajo la dirección de su Padre, por lo que toda la gloria del diseño y la creación le pertenece a Jehová</strong>. <br>Llamarlo cocreador restaría mérito al hecho de que Jesús fue un instrumento sumiso, un canal mediante el cual la soberana energía creativa de Dios se manifestó en el cosmos.",
@@ -4219,7 +4215,8 @@ const lessonsData = [
         "references": "Prov. 8:12, 30; 1 Cor. 1:24; it-2 pág. 80",
         "directAnswer": "Significa que <strong>Jesús, en su existencia prehumana y terrestre, personificó a la perfección la cualidad divina de la sabiduría mediante sus palabras, labor creativa y acciones</strong>.",
         "deepAnswer": "En Proverbios 8:12, 30, se presenta a la sabiduría personificada trabajando alegremente como un \"obrero maestro\" al lado de Jehová durante la creación. Al venir a la Tierra, <strong>Jesús demostró de forma viva que él es \"la sabiduría de Dios\" (1 Cor. 1:24) al aplicar con total maestría los principios de su Padre en la enseñanza pública</strong>. <br>Su andar diario, su amor profundo por la humanidad y su sumisión total demostraron que él es el reflejo exacto del pensamiento sabio de Jehová.",
-        "shortAnswer": "Significa que Jesús encarna y refleja de forma perfecta el discernimiento y la mente sabia de su Padre."
+        "shortAnswer": "Significa que Jesús encarna y refleja de forma perfecta el discernimiento y la mente sabia de su Padre.",
+        "subtitle": "Valora el papel de Jesús"
       },
       {
         "id": "10A_q6",
@@ -4247,7 +4244,7 @@ const lessonsData = [
       },
       {
         "id": "10A_q9",
-        "question": "¿Cómo te ayuda a ti saber estos detalles de la vida de Jesús? “El camino”",
+        "question": "¿Cómo te ayuda a ti saber estos detalles de la vida de Jesús?",
         "references": "",
         "directAnswer": "Conocer estos detalles de la vida de Jesús <strong>nos fortalece nuestra fe y nos enseña cómo seguir fielmente sus pasos.</strong> <strong>Nos anima a imitar su ejemplo de humildad, obediencia y amor.</strong>",
         "deepAnswer": "Al meditar en los detalles de la vida de Jesús, su abnegación, su compasión hacia los afligidos y su firme determinación en cumplir la voluntad de Jehová, <strong>somos edificados.</strong>  <strong>Nos damos cuenta de que, al igual que él, podemos enfrentar desafíos con fe y lealtad.</strong>  <strong>El texto bíblico de 1 Pedro 2:21 nos anima a seguir exactamente sus pasos, lo cual se hace más tangible al conocer sus vivencias.</strong>",
@@ -4259,7 +4256,8 @@ const lessonsData = [
         "references": "Rom. 5:11; it-2 págs. 796-799",
         "directAnswer": "<strong>La única manera en que los pecadores podemos reconciliarnos con Dios es a través del sacrificio redentor de Jesucristo.</strong> Su muerte es la base para el perdón de nuestros pecados y la restauración de nuestra relación con Jehová.",
         "deepAnswer": "Como se explica en Romanos 5:11, <strong>la reconciliación con Dios es un don que recibimos por medio de Jesucristo.</strong>  Debido a que todos los humanos heredamos el pecado de Adán, estamos separados de Jehová.  Sin embargo, <strong>el sacrificio de Jesús, como se detalla en la publicación <em>it-2</em> páginas 796-799, actúa como la expiación necesaria para cancelar nuestra deuda de pecado y permitirnos volver a tener una relación aprobada con nuestro Creador.</strong>",
-        "shortAnswer": "Por el sacrificio redentor de Jesús."
+        "shortAnswer": "Por el sacrificio redentor de Jesús.",
+        "subtitle": "“El camino”"
       },
       {
         "id": "10A_q11",
@@ -4311,7 +4309,7 @@ const lessonsData = [
       },
       {
         "id": "10A_q17",
-        "question": "¿Por qué hay que comprender el importantísimo papel de Jesús en el propósito de Dios? “La verdad”",
+        "question": "¿Por qué hay que comprender el importantísimo papel de Jesús en el propósito de Dios?",
         "references": "",
         "directAnswer": "Es crucial comprender el papel de Jesús porque <strong>él es la figura central en el cumplimiento del propósito de Dios.</strong> <strong>Sin él, no hay salvación ni reconciliación con Jehová.</strong>",
         "deepAnswer": "Comprender el importantísimo papel de Jesús <strong>es fundamental para conocer la verdad acerca del propósito de Jehová.</strong>  <strong>Él es la clave para entender cómo Dios va a restaurar todas las cosas y cómo la humanidad puede liberarse de las consecuencias del pecado y la muerte.</strong>  Sin la comprensión de su sacrificio y su papel como Rey del Reino Mesiánico, el propósito divino quedaría incompleto para nosotros.",
@@ -4323,7 +4321,8 @@ const lessonsData = [
         "references": "Juan 18:37; Luc. 24:44",
         "directAnswer": "Jesús demostró que daba \"testimonio de la verdad\" <strong>al vivir una vida íntegra, proclamando el Reino de Dios y defendiendo la verdad de las Escrituras.</strong> Sus palabras y acciones siempre estuvieron alineadas con la verdad divina.",
         "deepAnswer": "Jesús dio claro testimonio de la verdad a través de su vida, como se ve en Juan 18:37, donde declara: \"Para esto he nacido y para esto he venido al mundo, para dar testimonio a la verdad\".  <strong>Su ministerio se centró en revelar la voluntad de Jehová, enseñar las verdades acerca del Reino y exponer la falsedad de las interpretaciones religiosas erróneas.</strong>  Lucas 24:44 nos muestra cómo <strong>sus enseñanzas confirmaban las Escrituras, demostrando así su lealtad inquebrantable a la verdad de Dios.</strong>",
-        "shortAnswer": "Con su ministerio y sus enseñanzas."
+        "shortAnswer": "Con su ministerio y sus enseñanzas.",
+        "subtitle": "“La verdad”"
       },
       {
         "id": "10A_q19",
@@ -4367,7 +4366,7 @@ const lessonsData = [
       },
       {
         "id": "10A_q24",
-        "question": "¿Cómo debes ver “la misión de dar testimonio acerca de Jesús”? “La vida”",
+        "question": "¿Cómo debes ver “la misión de dar testimonio acerca de Jesús”?",
         "references": "",
         "directAnswer": "<strong>Debes ver la misión de dar testimonio acerca de Jesús como algo vital, que representa la vida misma y la oportunidad de recibir la vida eterna.</strong>",
         "deepAnswer": "<strong>La misión de dar testimonio acerca de Jesús debe ser vista como lo más importante en nuestra vida</strong>, porque <strong>es a través de él que obtenemos el perdón de pecados y la esperanza de vida eterna.</strong> Jesús mismo dijo: “Esto significa vida eterna el que la gente adquiera conocimiento de ti, el único Dios verdadero, y de aquel a quien tú enviaste, Jesucristo” (Juan 17:3). Por lo tanto, dar testimonio de Jesús no es solo una obra, sino la clave para la vida en el paraíso venidero. Es nuestra más preciosa responsabilidad.",
@@ -4379,7 +4378,8 @@ const lessonsData = [
         "references": "Mat. 20:28",
         "directAnswer": "<strong>Jesús vino a la Tierra para cumplir la voluntad de su Padre, ofrecer su vida como sacrificio y redimir a la humanidad del pecado y la muerte.</strong>",
         "deepAnswer": "<strong>La principal razón por la que Jesús vino a la Tierra se resume en el propósito de Dios de vindicar su nombre y rescatar a la humanidad.</strong> Mateo 20:28 indica claramente que <strong>Jesús “no vino para que se le sirviera, sino para servir y para dar su vida en rescate por muchos”.</strong> Su venida fue el cumplimiento del amor de Dios, permitiendo que se hiciera posible la reconciliación entre Dios y la humanidad pecadora, y abriendo el camino para el Reino de Dios.",
-        "shortAnswer": "Vino a ofrecer su vida como rescate por la humanidad."
+        "shortAnswer": "Vino a ofrecer su vida como rescate por la humanidad.",
+        "subtitle": "“La vida”"
       },
       {
         "id": "10A_q26",
@@ -4390,7 +4390,7 @@ const lessonsData = [
         "shortAnswer": "Fue liberado mediante la valiosa sangre de Jesucristo como sacrificio perfecto."
       },
       {
-        "id": "10A_q26_b",
+        "id": "10A_q27",
         "question": "Explica qué significa que Jesús sea el “Agente Principal de la vida” (Hech. 3:15; 10:42; Juan 6:39, 40; Efes. 1:7; Heb. 8:1-3; it-2 pág. 88 párrs. 1-3).",
         "references": "Hech. 3:15; 10:42; Juan 6:39, 40; Efes. 1:7; Heb. 8:1-3; it-2 pág. 88 párrs. 1-3",
         "directAnswer": "Significa que Jehová ha nombrado a Jesús como el <strong>medio exclusivo y el Administrador para dispensar los beneficios del rescate y guiar a la humanidad a la vida eterna</strong>.",
@@ -4398,7 +4398,7 @@ const lessonsData = [
         "shortAnswer": "Jesús es el medio e iniciador para administrar los beneficios de la vida eterna y la salvación."
       },
       {
-        "id": "10A_q27",
+        "id": "10A_q28",
         "question": "Si comprendes el papel que Jesús tiene como “la vida”, ¿qué efecto debería tener eso en tu ministerio?",
         "references": "",
         "directAnswer": "Comprender el papel de Jesús es fundamental porque <strong>él es la pieza clave mediante la cual Jehová cumple su propósito de vindicar su soberanía, redimir a la humanidad y establecer su Reino</strong> para eliminar el sufrimiento y restaurar el paraíso.",
@@ -4406,16 +4406,16 @@ const lessonsData = [
         "shortAnswer": "Jesús es la pieza central y el agente principal de Jehová para cumplir el propósito divino de salvar a la humanidad y vindicar la soberanía de Dios."
       },
       {
-        "id": "10A_q28",
-        "question": "¿Cómo nos beneficiamos ya del perdón de pecados que hace posible el sacrificio de Jesús?",
+        "id": "10A_q29",
+        "question": "¿En qué debes tener fe para recibir la vida eterna? (Hech. 4:10, 12).",
         "references": "Apoc. 7:9, 10",
         "directAnswer": "Ya nos beneficiamos del perdón de pecados porque <strong>disfrutamos de una conciencia limpia y una amistad cercana con Jehová</strong>. Apocalipsis 7:9, 10 muestra que <strong>este beneficio es el fundamento para formar parte de una gran muchedumbre</strong> que alaba a Dios, lo cual nos permite servirle con la esperanza segura de la salvación.",
         "deepAnswer": "El sacrificio de Jesús es el medio que Jehová utiliza para reconciliarnos con él. Gracias a que el perdón de nuestros pecados es posible mediante la fe en este sacrificio, ya no tenemos que cargar con la culpa que nos separaba de nuestro Creador; en su lugar, <strong>podemos disfrutar de una conciencia limpia y una relación personal con Jehová</strong> mientras vivimos en armonía con su voluntad. Como indica Apocalipsis 7:9, 10, aquellos que aceptan este regalo forman una gran muchedumbre de todas las naciones que reconocen a Dios y a su Hijo como los salvadores. Este perdón nos permite presentarnos ante Jehová con confianza, adorarlo en su templo espiritual y mantener la esperanza firme de sobrevivir a la gran tribulación, basándonos en que <strong>nuestra posición delante de Dios depende de nuestra fe en el valor redentor de la sangre de Jesús</strong>.",
         "shortAnswer": "El perdón de Jesús nos libera de la culpa y nos permite disfrutar hoy de una amistad íntima con Jehová."
       },
       {
-        "id": "10A_q29",
-        "question": "¿En qué debes tener fe para recibir la vida eterna? (Hech. 4:10, 12). Otros títulos que la Biblia usa para Jesús:",
+        "id": "10A_q30",
+        "question": "¿En qué debes tener fe para recibir la vida eterna? (Hech. 4:10, 12).",
         "references": "Is. 9:6; Juan 6:68",
         "directAnswer": "",
         "deepAnswer": "",
@@ -4478,6 +4478,15 @@ const lessonsData = [
             "shortAnswer": "Nos guía con sabiduría divina para que tomemos las mejores decisiones en nuestra vida."
           }
         ]
+      },
+      {
+        "id": "10A_q31",
+        "question": "¿Qué otros títulos usa la Biblia para referirse a Jesús, y qué nos enseñan sobre sus funciones en el propósito de Dios?",
+        "references": "Apoc. 3:14; Is. 9:6; Heb. 3:1; Apoc. 17:14; Juan 6:68",
+        "subtitle": "Otros títulos que la Biblia usa para Jesús",
+        "directAnswer": "La Biblia le da a Jesús varios títulos proféticos, como 'El Amén', 'Padre Eterno', 'Sumo sacerdote', 'Rey de reyes', 'Príncipe de Paz' y 'Maravilloso Consejero'.",
+        "deepAnswer": "Estos títulos reflejan aspectos específicos de la autoridad y el papel que Jehová le ha otorgado a su Hijo:<br><ul><li><strong>El Amén (Apoc. 3:14):</strong> Garantiza el cumplimiento de todas las promesas de Dios.</li><li><strong>Padre Eterno (Is. 9:6):</strong> Le da la facultad de conceder vida eterna a la humanidad obediente.</li><li><strong>Sumo sacerdote (Heb. 3:1; 9:13, 14, 25, 26):</strong> Intercede por nuestros pecados ante Jehová con el valor de su sacrificio.</li><li><strong>Rey de reyes (Apoc. 17:14):</strong> Posee el mayor rango real y destruirá a todos los enemigos de Dios.</li><li><strong>Príncipe de Paz (Is. 9:6):</strong> Traerá una paz duradera y justa para toda la Tierra.</li><li><strong>Maravilloso Consejero (Is. 9:6; Juan 6:68):</strong> Nos da la mejor guía y sabiduría para tomar decisiones sabias.</li></ul>",
+        "shortAnswer": "Títulos como 'El Amén', 'Padre Eterno' o 'Sumo sacerdote' revelan las funciones gloriosas de Jesús en el propósito de Jehová."
       }
     ],
     "image": "pioneer_studying.png",
@@ -4506,15 +4515,17 @@ const lessonsData = [
         "references": "w18.06 pág. 18 párr. 10; w18.02 págs. 26, 27 párrs. 14-19",
         "directAnswer": "<strong>Los principios son verdades fundamentales basadas en la personalidad de Jehová que guían nuestro pensar</strong>, mientras que <strong>las leyes son reglas específicas para situaciones concretas.</strong>",
         "deepAnswer": "<strong>Los principios bíblicos reflejan el modo de pensar de Jehová y son eternos, a diferencia de las leyes, que a menudo son temporales o específicas para una circunstancia histórica.</strong> Por ejemplo, la Ley mosaica ordenaba colocar una pretina o barandilla en la azotea (Deut. 22:8); esta era una <em>ley específica</em>. Sin embargo, el principio subyacente es el profundo respeto de Jehová por la santidad de la vida humana. <strong>Mientras que las leyes nos dicen exactamente qué hacer, los principios educan nuestra conciencia para saber cómo actuar en cualquier faceta de la vida.</strong>",
-        "shortAnswer": "Las leyes regulan acciones específicas; los principios guían nuestro corazón al revelarnos cómo piensa Jehová."
+        "shortAnswer": "Las leyes regulan acciones específicas; los principios guían nuestro corazón al revelarnos cómo piensa Jehová.",
+        "subtitle": "Qué son los principios y cómo nos ayudan"
       },
       {
         "id": "10B_q2",
-        "question": "¿Cómo ayudarías a un estudiante de la Biblia a entender la diferencia entre los principios y las leyes? LEY: No comer sangre (Lev. 17:14). Piensa en principios. PRINCIPIO: La vida está en la sangre (Lev. 17:11). La vida le pertenece a Dios (Sal. 36:9; Ezeq. 18:4; Efes. 4:18). El Creador tiene autoridad sobre la creación.",
+        "question": "¿Cómo ayudarías a un estudiante de la Biblia a entender la diferencia entre los principios y las leyes?",
         "references": "Is. 29:16; Apoc. 4:11",
         "directAnswer": "Ayudaría al estudiante mostrándole que <strong>detrás de cada regla directa de Dios siempre hay una verdad profunda que revela el amor y la autoridad del Creador.</strong>",
         "deepAnswer": "Podemos razonar con el estudiante usando el ejemplo de la sangre. Le explicaríamos que, aunque la ley específica bajo la Ley mosaica y en el primer siglo era \"abstenerse de sangre\" (Hech. 15:29), <strong>el principio fundamental es que la vida es sagrada y le pertenece por derecho a Jehová</strong> (Sal. 36:9). Al ayudarle a ver que Dios, como nuestro Creador, tiene el derecho legítimo de decirnos cómo usar lo que nos ha dado (Apoc. 4:11), <strong>el estudiante comprenderá que obedecer a Dios no es cuestión de seguir normas rígidas, sino de mostrarle amor y respeto a su soberanía.</strong>",
-        "shortAnswer": "Guiando al estudiante a ver que las leyes específicas protegen valores eternos que le pertenecen a Jehová."
+        "shortAnswer": "Guiando al estudiante a ver que las leyes específicas protegen valores eternos que le pertenecen a Jehová.",
+        "note": "<div class=\"info-box\">\n  <strong>LEY:</strong> No comer sangre (Lev. 17:14).<br>\n  <strong>PRINCIPIOS:</strong>\n  <ul>\n    <li>La vida está en la sangre (Lev. 17:11).</li>\n    <li>La vida le pertenece a Dios (Sal. 36:9; Ezeq. 18:4; Efes. 4:18).</li>\n    <li>El Creador tiene autoridad sobre la creación (Is. 29:16; Apoc. 4:11).</li>\n  </ul>\n</div>"
       },
       {
         "id": "10B_q3",
@@ -4526,7 +4537,7 @@ const lessonsData = [
       },
       {
         "id": "10B_q4",
-        "question": "¿Cómo nos beneficia pensar en principios al tomar decisiones? (Heb. 6:1; w18.06 pág. 19 párr. 16). Da ejemplos de principios que encuentres en...",
+        "question": "¿Cómo nos beneficia pensar en principios al tomar decisiones? (Heb. 6:1; w18.06 pág. 19 párr. 16).",
         "references": "",
         "directAnswer": "",
         "deepAnswer": "",
@@ -4647,7 +4658,8 @@ const lessonsData = [
         "references": "Efes. 5:1",
         "directAnswer": "<strong>Tu objetivo principal debe ser llegar a ser un imitador de Dios, reflejando sus cualidades en todas tus decisiones.</strong>",
         "deepAnswer": "Como hijos amados de Jehová, <strong>nuestro deseo profundo debe ser que nuestras acciones reflejen su personalidad.</strong> Al estudiar los principios bíblicos, <strong>buscamos entender el <em>pensamiento de Dios</em> (Efes. 5:1)</strong>, lo cual nos ayuda a ajustar nuestra conciencia para que cada decisión que tomemos sea una muestra de nuestro amor y lealtad hacia nuestro Padre celestial.",
-        "shortAnswer": "Nuestro mayor objetivo debe ser imitar a Jehová y reflejar su personalidad en todo lo que hacemos."
+        "shortAnswer": "Nuestro mayor objetivo debe ser imitar a Jehová y reflejar su personalidad en todo lo que hacemos.",
+        "subtitle": "Usa los principios para tomar buenas decisiones"
       },
       {
         "id": "10B_q13",
@@ -4766,7 +4778,7 @@ const lessonsData = [
       },
       {
         "id": "10B_q17",
-        "question": "ayude a encontrar algunos principios bíblicos, ¿por qué eres tú quien tiene que decidir cómo ponerlos en práctica?",
+        "question": "Aunque puedes pedirle a un hermano maduro que te ayude a encontrar algunos principios bíblicos, ¿por qué eres tú quien tiene que decidir cómo ponerlos en práctica? (Gál. 6:5).",
         "references": "Gál. 6:5",
         "directAnswer": "<strong>Tú eres quien debe decidir porque, según Gálatas 6:5, cada uno es responsable de llevar su propia carga de responsabilidad ante Jehová.</strong>",
         "deepAnswer": "Aunque los hermanos maduros pueden ayudarnos a identificar los principios bíblicos aplicables, <strong>la decisión final es un asunto personal de conciencia.</strong> Jehová nos ha dado el libre albedrío y espera que desarrollemos nuestra propia fe; por lo tanto, <strong>no podemos delegar nuestra responsabilidad espiritual, sino que debemos usarla para demostrar nuestra lealtad personal a Él.</strong>",
@@ -4791,7 +4803,7 @@ const lessonsData = [
         "note": "EJEMPLO: Discutes con un compañero de predicación. ¿Por qué necesitas fe para aplicar el principio de pedir perdón y perdonar? (Luc. 17:1-5)."
       },
       {
-        "id": "10B_q21",
+        "id": "10B_q20",
         "question": "Cuando perdonas a alguien, ¿significa eso que apruebas lo que hizo o que estás dejando que se aproveche de ti?",
         "references": "",
         "directAnswer": "No, <strong>perdonar no significa aprobar el pecado ni permitir que se abuse de nosotros; simplemente significa que decidimos liberar nuestro corazón del rencor para mantener la paz y la salud espiritual.</strong>",
@@ -4799,16 +4811,16 @@ const lessonsData = [
         "shortAnswer": "Perdonar es liberarse de la carga del rencor, no aprobar la mala conducta ni exponernos a sufrir daño continuamente."
       },
       {
-        "id": "10B_q22",
-        "question": "¿Por qué somos más felices cuando dejamos que los principios bíblicos guíen nuestra vida? (Sal. 32:8). Jehová no nos ha dado una ley para todo aspecto de",
+        "id": "10B_q21",
+        "question": "¿Por qué somos más felices cuando dejamos que los principios bíblicos guíen nuestra vida? (Sal. 32:8).",
         "references": "",
         "directAnswer": "Somos más felices porque <strong>los principios bíblicos moldean nuestra conciencia y nos permiten tomar decisiones maduras que agradan a Jehová, ahorrándonos el sufrimiento de cometer errores lamentables.</strong>",
         "deepAnswer": "En Salmo 32:8, Jehová promete darnos <em>“perspicacia”</em> y enseñarnos el camino por el que debemos ir, fijando sus ojos sobre nosotros con tierno interés. Vivir guiados por principios, en lugar de una lista interminable de reglas rígidas, <strong>nos otorga una hermosa libertad que promueve la paz mental y una conciencia limpia.</strong> Al aprender a sopesar los principios bíblicos antes de decidir, <strong>evitamos las dolorosas consecuencias de la desobediencia y experimentamos la profunda felicidad de tener la aprobación divina.</strong>",
         "shortAnswer": "Los principios bíblicos nos hacen felices porque nos dan la perspicacia necesaria para tomar decisiones sabias que agradan a Jehová."
       },
       {
-        "id": "10B_q23",
-        "question": "nuestra vida. ¿Por qué nos permite eso demostrarle cuánto lo amamos y lo mucho que nos importa hacer su voluntad?",
+        "id": "10B_q22",
+        "question": "¿Por qué somos más felices cuando dejamos que los principios bíblicos guíen nuestra vida? (Sal. 32:8).",
         "references": "2 Cor. 9:7",
         "directAnswer": "Al no existir reglas detalladas para cada situación, <strong>nuestras elecciones libres revelan la verdadera condición de nuestro corazón y demuestran que servimos a Jehová por amor sincero y no por simple obligación.</strong>",
         "deepAnswer": "Tal como indica 2 Corintios 9:7, Jehová ama al dador alegre que actúa “como lo ha resuelto en su corazón”, no por la fuerza ni de mala gana. La ausencia de leyes específicas para cada detalle de nuestra vida <strong>nos ofrece una oportunidad maravillosa de probar nuestros motivos más profundos.</strong> Al esforzarnos voluntariamente por discernir qué es lo que más le agrada a nuestro Padre celestial, <strong>demostramos con hechos que nuestro mayor anhelo es imitar su personalidad y glorificar su santo nombre.</strong>",
@@ -4841,7 +4853,8 @@ const lessonsData = [
         "references": "",
         "directAnswer": "Llegamos a ser personas espirituales cuando <strong>nos esforzamos por ver los asuntos como Jehová los ve, alimentando constantemente nuestra mente con verdades bíblicas y permitiendo que el espíritu santo dirija nuestra conducta.</strong>",
         "deepAnswer": "El desarrollo de la espiritualidad es un proceso continuo que exige cultivar una relación íntima y personal con Jehová Dios. Para lograrlo, <strong>debemos estudiar su Palabra con regularidad, orar con fervor y aplicar de corazón los consejos bíblicos en nuestro diario vivir.</strong> Al imitar de cerca el dechado de Jesucristo y cultivar de manera activa el fruto del espíritu, transformaremos gradualmente nuestra mente para que refleje siempre los valores y pensamientos del Creador.",
-        "shortAnswer": "Llegamos a ser espirituales al cultivar una amistad íntima con Jehová y esforzarnos por pensar tal como él piensa."
+        "shortAnswer": "Llegamos a ser espirituales al cultivar una amistad íntima con Jehová y esforzarnos por pensar tal como él piensa.",
+        "subtitle": "¿Cómo puedo llegar a ser una persona espiritual?"
       },
       {
         "id": "11A_q2",
@@ -4901,22 +4914,6 @@ const lessonsData = [
       },
       {
         "id": "11A_q9",
-        "question": "¿Cómo va mi progreso?",
-        "references": "",
-        "directAnswer": "<strong>Evaluar nuestro progreso espiritual implica un examen sincero y honesto de nuestra relación con Jehová y de cómo aplicamos Su Palabra en nuestra vida.</strong> Debemos preguntarnos si estamos creciendo en amor, fe y servicio a Dios.",
-        "deepAnswer": "Mi progreso espiritual se evalúa al reflexionar sobre la profundidad de mi entendimiento bíblico, la sinceridad de mi adoración y mi celo en el servicio a Jehová. ¿Estoy demostrando amor cristiano en mis tratos? ¿Mi fe se fortalece ante las pruebas? ¿Estoy participando activamente en la predicación y la enseñanza? <strong>Un autoexamen honesto, guiado por la oración, nos permite identificar áreas en las que necesitamos mejorar para honrar a nuestro Dios.</strong>",
-        "shortAnswer": "Un examen sincero de mi relación y servicio a Jehová."
-      },
-      {
-        "id": "11A_q10",
-        "question": "Según Santiago 1:22-25, ¿qué tendencia podría impedirte progresar en sentido espiritual?",
-        "references": "",
-        "directAnswer": "<strong>La tendencia a ser oidores y no hacedores de la Palabra de Dios, como se describe en Santiago 1:22-25, puede impedir nuestro progreso espiritual.</strong> Debemos aplicarla activamente, no solo escucharla.",
-        "deepAnswer": "Santiago 1:22-25 nos advierte sobre el peligro de ser meros oidores de la Palabra de Dios y no hacedores. <strong>Esta tendencia a no poner en práctica lo que aprendemos, como si uno se mirara en un espejo y luego se olvidara de su apariencia, es un obstáculo directo para el progreso espiritual.</strong> Si no aplicamos las enseñanzas bíblicas, no permitimos que transformen nuestras vidas ni que fortalezcan nuestra relación con Jehová, quedando estancados en nuestro crecimiento.",
-        "shortAnswer": "Ser oidor y no hacedor de la Palabra de Dios."
-      },
-      {
-        "id": "11A_q11",
         "question": "¿Cómo te ayudan las siguientes ideas a evaluar tu progreso espiritual?",
         "references": "Sal. 26:2; 2 Cor. 13:5",
         "directAnswer": "",
@@ -4925,244 +4922,156 @@ const lessonsData = [
         "subQuestions": [
           {
             "id": "11A_q11_a",
-            "question": "¿Cómo te ayuda el 'Hacerte un autoexamen con la ayuda de la oración' a evaluar tu progreso espiritual?",
-            "references": "Sal. 26:2; 2 Cor. 13:5",
-            "directAnswer": "Hacerse un autoexamen con la ayuda de la oración, como sugieren Salmo 26:2 y 2 Corintios 13:5, <strong>nos permite evaluar honestamente nuestras motivaciones y acciones, identificando las áreas donde necesitamos mejorar para agradar a Jehová.</strong>",
-            "deepAnswer": "Un autoexamen sincero, guiado por la oración y las Escrituras como Salmo 26:2 y 2 Corintios 13:5, es fundamental para el progreso espiritual. Al pedirle a Jehová que sondee nuestro corazón y examine nuestros pensamientos más íntimos, <strong>podemos identificar nuestras verdaderas motivaciones, reconocer debilidades ocultas y percibir las áreas en las que necesitamos cultivar una mayor fe y amor.</strong> Este proceso de reflexión espiritual bajo la guía del espíritu santo nos permite corregir el rumbo con humildad y asegurar que nuestro servicio sea siempre acepto a los ojos de Jehová.",
-            "shortAnswer": "La oración y el autoexamen nos permiten evaluar nuestras motivaciones ante Jehová y corregir nuestro rumbo espiritual."
-          }
-        ]
-      },
-      {
-        "id": "11A_q12",
-        "question": "Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”.",
-        "references": "Sal. 1:2, 3",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": "",
-        "subQuestions": [
-          {
-            "id": "11A_q12_a",
-            "question": "Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”.",
-            "references": "Sal. 1:2, 3",
-            "directAnswer": "Hacernos estas preguntas <strong>nos ayuda a realizar un examen de conciencia honesto para identificar qué nos impulsa a servir a Jehová y en qué áreas necesitamos mejorar espiritualmente.</strong>",
-            "deepAnswer": "Al reflexionar sobre nuestra motivación, podemos asegurarnos de que nuestro servicio nace de un amor sincero hacia Dios y no de una obligación o presión social. Asimismo, <strong>identificar nuestras debilidades nos permite trabajar específicamente en ellas con la ayuda de la oración y el espíritu santo</strong>, evitando que se conviertan en obstáculos para nuestra relación con Jehová.",
-            "shortAnswer": "El autoexamen honesto permite purificar nuestra motivación y fortalecer nuestras debilidades."
+            "question": "Hacerte un autoexamen con la ayuda de la oración (Sal. 26:2; 2 Cor. 13:5). Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”",
+            "directAnswer": "Hacer un autoexamen en oración nos ayuda a **descubrir nuestros verdaderos motivos y debilidades** con la ayuda de Jehová, quien examina nuestro corazón.",
+            "deepAnswer": "La oración sincera al hacer un autoexamen (Sal. 26:2) permite que Jehová nos muestre áreas de mejora que tal vez ocultemos de nosotros mismos. Al preguntarnos con honestidad sobre nuestras motivaciones y debilidades, **abrimos el camino para que el espíritu santo actúe en nosotros, guiándonos hacia la corrección y madurez espiritual**.",
+            "shortAnswer": "El autoexamen en oración saca a la luz nuestras verdaderas motivaciones y debilidades."
           },
           {
-            "id": "11A_q12_b",
-            "question": "¿Cómo nos ayuda a nuestro progreso espiritual el estudiar regularmente la Biblia y nuestras publicaciones?",
-            "references": "Sal. 1:2, 3",
-            "directAnswer": "<strong>El estudio regular nos permite meditar en la ley de Jehová, lo cual nos fortalece espiritualmente, nos da sabiduría y nos asegura prosperar en nuestras decisiones</strong>, tal como se menciona en Salmo 1:2, 3.",
-            "deepAnswer": "Estudiar regularmente la Biblia y las publicaciones cristianas es comparable a ser un árbol bien plantado junto a corrientes de agua. Esta práctica <strong>nos permite 'meditar día y noche' en la Palabra de Dios, llenando nuestra mente de pensamientos divinos que reemplazan las inclinaciones humanas imperfectas.</strong> Es la fuente de alimento espiritual que sostiene nuestra integridad y nos guía por el camino de la vida.",
-            "shortAnswer": "El estudio constante nos nutre, nos da guía divina y asegura nuestra estabilidad espiritual."
-          }
-        ]
-      },
-      {
-        "id": "11A_q13",
-        "question": "¿Por qué hace falta meditar?",
-        "references": "",
-        "directAnswer": "Hace falta meditar para <strong>reflexionar profundamente sobre las verdades espirituales y su aplicación práctica en nuestra vida</strong>. La meditación nos permite asimilar las enseñanzas y aplicarlas de manera efectiva.",
-        "deepAnswer": "Meditar es esencial porque <strong>nos permite ir más allá de una simple lectura o escucha</strong>. Es un proceso activo de ponderar las verdades espirituales, conectándolas con nuestras circunstancias personales y con los propósitos de Jehová. Al meditar, permitimos que la Palabra de Dios penetre en nuestro corazón y mente, guiándonos a tomar decisiones sabias y a cultivar cualidades cristianas.",
-        "shortAnswer": "Meditar profundiza nuestra comprensión y aplicación de la verdad."
-      },
-      {
-        "id": "11A_q14",
-        "question": "¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
-        "references": "Sant. 1:19",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": "",
-        "subQuestions": [
-          {
-            "id": "11A_q14_a",
-            "question": "¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
-            "references": "Sant. 1:19",
-            "directAnswer": "La meditación, al permitirnos <strong>examinar nuestras acciones y pensamientos a la luz de la Palabra de Dios</strong>, nos ayuda a evitar repetir errores pasados, permitiéndonos enfocarnos en la sabiduría divina para no tropezar de nuevo.",
-            "deepAnswer": "<p>La meditación nos ayuda a no repetir los errores del pasado al permitirnos <strong>analizar críticamente nuestras acciones y pensamientos en comparación con los principios bíblicos</strong>. Al ponderar las advertencias y las lecciones de la Palabra de Dios, podemos identificar patrones de comportamiento perjudiciales y hacer los ajustes necesarios. Tal como Santiago 1:19 nos anima a ser lentos en cuanto a hablar y lentos en cuanto a airarnos, la meditación nos cultiva la paciencia y el control propio, previniendo así tropiezos.</p>",
-            "shortAnswer": "Meditar nos da la sabiduría para evitar repetir errores."
+            "id": "11A_q11_b",
+            "question": "Estudiar regularmente la Biblia y nuestras publicaciones (Sal. 1:2, 3). ¿Por qué hace falta meditar? ¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
+            "directAnswer": "Hace falta meditar para **grabar la verdad en el corazón**; la meditación nos ayuda a **aprender de la experiencia y evitar repetir los errores del pasado**.",
+            "deepAnswer": "Estudiar sin meditar es como comer sin digerir. Salmo 1:2, 3 destaca que la persona feliz se deleita en la ley de Dios y la lee día y noche. **La meditación nos ayuda a reflexionar en las consecuencias de nuestras acciones y en el punto de vista de Jehová**, lo que nos da la sabiduría necesaria para no repetir los mismos desaciertos del pasado.",
+            "shortAnswer": "La meditación graba los principios en el corazón y evita que repitamos errores pasados."
           },
           {
-            "id": "11A_q14_b",
-            "question": "¿Cómo te ayuda el escuchar a cristianos maduros a no repetir los errores del pasado?",
-            "references": "Sant. 1:19",
-            "directAnswer": "Escuchar a cristianos maduros nos permite <strong>beneficiarnos de su experiencia y sabiduría espiritual</strong>. Al prestar atención a sus consejos basados en la Biblia, podemos corregir nuestro rumbo y evitar los errores en los que ellos pudieron haber caído o que han aprendido a evitar.",
-            "deepAnswer": "<p>Siguiendo el principio de Santiago 1:19 de ser 'prontos para oír', <strong>el escuchar a cristianos maduros es una herramienta vital para el crecimiento espiritual</strong>. Los hermanos con más experiencia han pasado por situaciones similares a las nuestras y su guía nos ayuda a discernir mejor entre el bien y el mal. Al ser receptivos a su consejo, adquirimos una perspectiva madura que nos protege de la insensatez, permitiéndonos tomar decisiones piadosas y evitando así los errores que, por falta de experiencia, podríamos cometer fácilmente.</p>",
-            "shortAnswer": "El consejo de cristianos maduros nos guía para no tropezar."
+            "id": "11A_q11_c",
+            "question": "Escuchar a cristianos maduros (Sant. 1:19). ¿Cómo te ayuda a ser más espiritual fijarte en cómo hablan y actúan los hermanos que están fuertes en sentido espiritual? ¿Cómo te ayuda a crecer espiritualmente prestar mucha atención a lo que se dice en las reuniones?",
+            "directAnswer": "Fijarnos en hermanos fuertes nos da **un modelo de fe a imitar**; prestar atención en las reuniones nos permite **adquirir sabiduría práctica de la congregación**.",
+            "deepAnswer": "Santiago 1:19 nos insta a ser prestos para escuchar. Al observar a los hermanos maduros, **vemos cómo aplican el fruto del espíritu en su vida diaria**, lo que nos sirve de ejemplo práctico. Además, las reuniones son el canal que Jehová usa para instruirnos, por lo que **prestar atención concentrada nos ayuda a asimilar consejos y enseñanzas que fortalecen nuestra fe**.",
+            "shortAnswer": "Observar a hermanos maduros y escuchar en las reuniones provee modelos y sabiduría práctica."
           }
-        ]
+        ],
+        "subtitle": "¿Cómo va mi progreso?"
       },
       {
-        "id": "11A_q15",
-        "question": "¿Cómo te ayuda a ser más espiritual fijarte en cómo hablan y actúan los hermanos que están fuertes en sentido espiritual?",
-        "references": "",
-        "directAnswer": "Fijarse en cómo hablan y actúan los hermanos espiritualmente fuertes <strong>nos proporciona modelos a seguir, ayudándonos a cultivar cualidades cristianas y a mejorar nuestra propia conducta</strong>. Sus ejemplos nos animan y nos guían.",
-        "deepAnswer": "Observar atentamente a los cristianos maduros <strong>nos brinda valiosos ejemplos prácticos de cómo aplicar la fe y los principios bíblicos en la vida diaria</strong>. Su forma de hablar, de enfrentar desafíos, de mostrar compasión y de servir a Jehová es una enseñanza viva. Al imitar sus cualidades positivas y su devoción, también somos animados y guiados a ser más espirituales y a crecer en nuestra propia relación con Dios.",
-        "shortAnswer": "Los ejemplos de hermanos maduros nos guían y animan."
-      },
-      {
-        "id": "11A_q16",
-        "question": "¿Cómo te ayuda a crecer espiritualmente prestar mucha atención a lo que se dice en las reuniones?",
-        "references": "",
-        "directAnswer": "Prestar mucha atención a lo que se dice en las reuniones nos ayuda a crecer espiritualmente al <strong>recibir instrucción bíblica actualizada y práctica</strong>. Las reuniones son un medio vital para nuestro alimento espiritual y para fortalecer nuestra fe.",
-        "deepAnswer": "Las reuniones son un punto culminante de la adoración semanal, donde recibimos un alimento espiritual nutritivo y dirigido por Jehová a través de Su organización. Al prestar mucha atención a las charlas, demostraciones y preguntas y respuestas, <strong>absorbemos la instrucción divina, aprendemos a aplicar la Palabra de Dios de manera más efectiva y fortalecemos nuestra fe</strong>. Es un medio esencial para el continuo crecimiento espiritual de cada uno de nosotros.",
-        "shortAnswer": "Las reuniones nos proveen alimento espiritual y crecimiento."
-      },
-      {
-        "id": "11A_q17",
-        "question": "¿Cómo puedo saber si soy una persona espiritual?",
-        "references": "",
-        "directAnswer": "Sabemos que somos personas espirituales si <strong>demostramos un interés genuino en las cosas de Jehová y permitimos que su espíritu nos guíe en nuestro modo de vivir</strong>.",
-        "deepAnswer": "Una persona espiritual se caracteriza por <strong>darle la máxima prioridad a las cosas de Jehová y por permitir que el espíritu santo de Dios moldee sus pensamientos y acciones</strong>. Esto se refleja en un deseo constante de conocer y hacer la voluntad de Dios, buscando Su guía en cada aspecto de la vida. En contraste, una persona física se enfoca principalmente en las metas y deseos mundanos.<br>Un indicativo clave es si nuestro proceder refleja el fruto del espíritu, como veremos más adelante.",
-        "shortAnswer": "Si le das prioridad a Jehová y su espíritu te guía, eres espiritual."
-      },
-      {
-        "id": "11A_q18",
-        "question": "Si cultivas tu espiritualidad, ¿cuál será el resultado?",
+        "id": "11A_q10",
+        "question": "¿Cómo te ayudan las siguientes ideas a evaluar tu progreso espiritual?",
         "references": "Gál. 5:16; w11 15/12 pág. 16",
         "directAnswer": "Si cultivamos nuestra espiritualidad, <strong>evitaremos los deseos pecaminosos y viviremos guiados por el espíritu de Dios</strong>.",
         "deepAnswer": "Cultivar la espiritualidad tiene un resultado maravilloso: <strong>la vida guiada por el espíritu santo</strong>, tal como lo enseña Gálatas 5:16. Esto significa que, en lugar de dejarnos llevar por los “deseos de la carne”, seremos conducidos por la influencia divina, disfrutando de una relación más estrecha con Jehová. Como se señala en <em>w11</em> 15/12 pág. 16, esto nos protege de caer en prácticas que desagradan a Dios y nos permite experimentar la verdadera libertad.<br>Esto es un reflejo de la guía de Jehová en nuestro diario vivir.",
-        "shortAnswer": "Evitas los deseos pecaminosos y vives según el espíritu de Dios."
+        "shortAnswer": "Evitas los deseos pecaminosos y vives según el espíritu de Dios.",
+        "subtitle": "¿Cómo puedo saber si soy una persona espiritual?",
+        "subQuestions": [
+          {
+            "id": "11A_q11_a",
+            "question": "Hacerte un autoexamen con la ayuda de la oración (Sal. 26:2; 2 Cor. 13:5). Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”",
+            "directAnswer": "Hacer un autoexamen en oración nos ayuda a **descubrir nuestros verdaderos motivos y debilidades** con la ayuda de Jehová, quien examina nuestro corazón.",
+            "deepAnswer": "La oración sincera al hacer un autoexamen (Sal. 26:2) permite que Jehová nos muestre áreas de mejora que tal vez ocultemos de nosotros mismos. Al preguntarnos con honestidad sobre nuestras motivaciones y debilidades, **abrimos el camino para que el espíritu santo actúe en nosotros, guiándonos hacia la corrección y madurez espiritual**.",
+            "shortAnswer": "El autoexamen en oración saca a la luz nuestras verdaderas motivaciones y debilidades."
+          },
+          {
+            "id": "11A_q11_b",
+            "question": "Estudiar regularmente la Biblia y nuestras publicaciones (Sal. 1:2, 3). ¿Por qué hace falta meditar? ¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
+            "directAnswer": "Hace falta meditar para **grabar la verdad en el corazón**; la meditación nos ayuda a **aprender de la experiencia y evitar repetir los errores del pasado**.",
+            "deepAnswer": "Estudiar sin meditar es como comer sin digerir. Salmo 1:2, 3 destaca que la persona feliz se deleita en la ley de Dios y la lee día y noche. **La meditación nos ayuda a reflexionar en las consecuencias de nuestras acciones y en el punto de vista de Jehová**, lo que nos da la sabiduría necesaria para no repetir los mismos desaciertos del pasado.",
+            "shortAnswer": "La meditación graba los principios en el corazón y evita que repitamos errores pasados."
+          },
+          {
+            "id": "11A_q11_c",
+            "question": "Escuchar a cristianos maduros (Sant. 1:19). ¿Cómo te ayuda a ser más espiritual fijarte en cómo hablan y actúan los hermanos que están fuertes en sentido espiritual? ¿Cómo te ayuda a crecer espiritualmente prestar mucha atención a lo que se dice en las reuniones?",
+            "directAnswer": "Fijarnos en hermanos fuertes nos da **un modelo de fe a imitar**; prestar atención en las reuniones nos permite **adquirir sabiduría práctica de la congregación**.",
+            "deepAnswer": "Santiago 1:19 nos insta a ser prestos para escuchar. Al observar a los hermanos maduros, **vemos cómo aplican el fruto del espíritu en su vida diaria**, lo que nos sirve de ejemplo práctico. Además, las reuniones son el canal que Jehová usa para instruirnos, por lo que **prestar atención concentrada nos ayuda a asimilar consejos y enseñanzas que fortalecen nuestra fe**.",
+            "shortAnswer": "Observar a hermanos maduros y escuchar en las reuniones provee modelos y sabiduría práctica."
+          }
+        ]
       },
       {
-        "id": "11A_q19",
-        "question": "¿Qué da a entender la expresión “el fruto del espíritu”?",
-        "references": "Gál. 5:22, 23",
-        "directAnswer": "La expresión “el fruto del espíritu” se refiere a <strong>las cualidades piadosas que Jehová produce en nosotros cuando le servimos de corazón</strong>.",
-        "deepAnswer": "Gálatas 5:22, 23 nos presenta el precioso “fruto del espíritu”, que es <strong>una manifestación de la influencia que Dios ejerce en aquellos que se esfuerzan por agradarle</strong>. Este fruto no son obras individuales sino cualidades que nacen del espíritu santo, como el amor, el gozo, la paz, la paciencia, la bondad, la benignidad, la fe, la apacibilidad y el temple. Son la evidencia de que estamos siendo moldéados según la voluntad divina.<br>Este fruto demuestra la obra de Jehová en nosotros.",
-        "shortAnswer": "Son las cualidades piadosas que Dios produce en nosotros."
-      },
-      {
-        "id": "11A_q20",
-        "question": "¿Cómo se cultiva ese fruto?",
-        "references": "w18.02 pág. 25 párr. 12",
-        "directAnswer": "Cultivamos este fruto <strong>adoptando un proceder que complace a Jehová</strong>, lo que implica un esfuerzo consciente de nuestra parte.",
-        "deepAnswer": "Tal como se explica en <em>w18.02</em> pág. 25 párrs. 12, cultivar el fruto del espíritu requiere <strong>un esfuerzo constante por aplicar los principios bíblicos en nuestra vida</strong>. Esto implica no solo oír la Palabra de Dios, sino también ponerla por obra, permitiendo que el espíritu santo nos guíe a pensar y actuar de acuerdo con la voluntad divina. Es una cooperación activa con Dios.<br>Esto requiere que pongamos en práctica lo que aprendemos de Jehová.",
-        "shortAnswer": "Aplicando los principios bíblicos y cooperando con el espíritu de Dios."
-      },
-      {
-        "id": "11A_q21",
-        "question": "¿Qué tienes que hacer para permitir que el espíritu de Dios influya en ti?",
-        "references": "",
-        "directAnswer": "Para permitir que el espíritu de Dios influya en ti, debes <strong>pedirle a Jehová que te lo dé</strong> y luego <strong>esforzarte por aplicar sus consejos</strong>.",
-        "deepAnswer": "Permitir que el espíritu de Dios obre en nosotros implica una decisión consciente de someter nuestra voluntad a la de Jehová. Esto se logra mediante la <strong>oración sincera, pidiéndole a Dios su espíritu</strong> (Lucas 11:13), y luego <strong>esforzándonos por aplicar sus consejos que encontramos en las Escrituras</strong> y en las publicaciones de la Sociedad Watch Tower. Es un proceso continuo de aprendizaje y adaptación.<br>Debes orar por el espíritu y aplicar sus consejos.",
-        "shortAnswer": "Ora por el espíritu y aplica sus consejos en tu vida."
-      },
-      {
-        "id": "11A_q22",
-        "question": "¿Cuál será el resultado?",
-        "references": "",
-        "directAnswer": "El resultado será <strong>una vida más pacífica y satisfactoria</strong>, en la que actuemos como verdaderos siervos de Jehová.",
-        "deepAnswer": "Cuando permitimos que el espíritu de Dios influya en nosotros, experimentamos una transformación positiva en nuestra personalidad y en nuestra forma de vida. El resultado es una <strong>paz interior, gozo duradero y un sentido de propósito</strong>, reflejando las cualidades divinas. Nos volvemos más útiles en la congregación y servimos a Jehová con un corazón que le agrada.<br>Verás una vida más pacífica y agradable a Jehová.",
-        "shortAnswer": "Una vida más pacífica y agradable a Jehová."
-      },
-      {
-        "id": "11A_q23",
-        "question": "Según Gálatas 5:19-21, ¿qué cosas pueden impedirte crecer en sentido espiritual?",
-        "references": "",
-        "directAnswer": "Según Gálatas 5:19-21, <strong>las “obras de la carne” o los deseos pecaminosos</strong> impiden nuestro crecimiento espiritual.",
-        "deepAnswer": "Gálatas 5:19-21 enumera una serie de “obras de la carne” que son incompatibles con la vida espiritual. Estas incluyen inmoralidad sexual, odio, envidia, celos y borracheras, entre otras. Estas prácticas no solo desagradan a Jehová, sino que también empañan nuestra relación con Él y con nuestros hermanos. Para crecer espiritualmente, debemos “dejar de vivir en la carne” y seguir andando por el espíritu.<br>Las obras pecaminosas te impiden crecer espiritualmente.",
-        "shortAnswer": "Las obras pecaminosas impiden el crecimiento espiritual."
-      },
-      {
-        "id": "11A_q24",
-        "question": "¿Cómo podría afectar la envidia a tu progreso espiritual? (Gál. 6:3, 4). En los siguientes campos y situaciones, compara lo que haría una persona espiritual con lo que haría una persona física. La oración",
-        "references": "",
-        "directAnswer": "La envidia <strong>nos lleva a desear lo que otros tienen, impidiendo que apreciemos nuestras bendiciones y nos concentremos en las cosas espirituales</strong>.",
-        "deepAnswer": "La envidia, como se detalla en Gálatas 6:3, 4, es una obra de la carne que nos ciega a nuestras propias bendiciones y nos impulsa a compararnos negativamente con los demás. Una persona espiritual, en lugar de envidiar, se enfoca en honrar a Jehová con lo que tiene y aprecia el progreso de sus hermanos. La envidia, por otro lado, es una muestra de una mentalidad física, centrada en lo material o en los logros ajenos.<br><strong>La envidia te impide apreciar tus bendiciones y enfocarte en Jehová</strong>.",
-        "shortAnswer": "La envidia te impide apreciar tus bendiciones y enfocarte en Jehová."
-      },
-      {
-        "id": "11A_q25",
+        "id": "11A_q11",
         "question": "¿Cómo revelan nuestras oraciones si somos personas espirituales o físicas?",
         "references": "",
         "directAnswer": "Nuestras oraciones revelan si somos personas espirituales o físicas <strong>según los temas que abordamos y la sinceridad de nuestro corazón</strong>.",
         "deepAnswer": "Nuestras oraciones son un espejo de nuestro corazón y de nuestra espiritualidad. Si somos personas espirituales, nuestras oraciones estarán llenas de gratitud hacia Jehová, peticiones por su guía y la búsqueda de su Reino. Por el contrario, si somos personas físicas, nuestras oraciones tenderán a centrarse en nuestras necesidades materiales, deseos egoístas o metas mundanas, mostrando una falta de enfoque espiritual.<br><strong>Nuestras oraciones muestran si nos enfocamos en Jehová o en nosotros mismos</strong>.",
-        "shortAnswer": "Nuestras oraciones muestran si nos enfocamos en Jehová o en nosotros mismos."
+        "shortAnswer": "Nuestras oraciones muestran si nos enfocamos en Jehová o en nosotros mismos.",
+        "subtitle": "La oración",
+        "note": "En los siguientes campos y situaciones, compara lo que haría una persona espiritual con lo que haría una persona física."
       },
       {
-        "id": "11A_q26",
-        "question": "¿Por qué es Jehová —su grandeza, su nombre y su gloria— lo que más le importa a una persona espiritual? (Dan. 9:4; Juan 17:4, 6). Di algunas cosas que una persona espiritual incluiría en sus oraciones",
+        "id": "11A_q12",
+        "question": "¿Por qué es Jehová —su grandeza, su nombre y su gloria— lo que más le importa a una persona espiritual? (Dan. 9:4; Juan 17:4, 6).",
         "references": "Sal. 51:10-12; 122:6, 8; Luc. 11: 4, 13; Sant. 1:5",
         "directAnswer": "<strong>A una persona espiritual le importa más la grandeza, el nombre y la gloria de Jehová que sus propias necesidades o deseos</strong>.",
         "deepAnswer": "Para una persona espiritual, la honra del nombre de Jehová es de suma importancia, como lo demuestra Daniel 9:4 y Juan 17:4, 6. Sus oraciones se centran en la santificación del nombre de Dios y en la vindicación de Su soberanía. Incluirían oraciones como las que se encuentran en Salmo 51:10-12 (pidiendo un corazón puro), Salmo 122:6, 8 (por la paz de Jerusalén espiritual) y las peticiones por el Reino de Dios (Lucas 11:2), buscando siempre la voluntad divina, y pidiendo sabiduría a Jehová como en Santiago 1:5.<br><strong>Una persona espiritual ora por la honra del nombre de Jehová y su Reino</strong>.",
         "shortAnswer": "Ora por la honra del nombre de Jehová y su Reino."
       },
       {
-        "id": "11A_q27",
-        "question": "¿Por qué no está mal pedir por nuestras necesidades físicas? (Mat. 6:11). Además de orar en las comidas y en las reuniones,",
+        "id": "11A_q13",
+        "question": "¿Por qué no está mal pedir por nuestras necesidades físicas? (Mat. 6:11).",
         "references": "",
         "directAnswer": "No está mal porque <strong>al pedir por el sustento diario reconocemos con humildad que dependemos por completo de Jehová, nuestro amoroso Creador y Proveedor.</strong>",
         "deepAnswer": "Cuando incluimos nuestras necesidades físicas en la oración, tal como Jesús enseñó en Mateo 6:11 al decir 'danos hoy nuestro pan para este día', <strong>demostramos que confiamos plenamente en que Jehová sostendrá nuestras vidas.</strong> Esta petición no refleja un deseo egoísta de acumular riquezas, sino el anhelo de tener lo necesario para seguir sirviendo fielmente a Dios día a día. Además, <strong>nos ayuda a cultivar un ojo sencillo y a combatir la ansiedad, sabiendo que nuestro tierno Padre celestial conoce al detalle cada una de nuestras necesidades.</strong>",
         "shortAnswer": "Pedir por nuestras necesidades físicas demuestra humildad y una confianza diaria en la guía y el sustento de Jehová."
       },
       {
-        "id": "11A_q28",
-        "question": "¿en qué otros momentos ora la persona espiritual? (1 Tes. 5:17). Los hábitos de estudio",
+        "id": "11A_q14",
+        "question": "¿en qué otros momentos ora la persona espiritual? (1 Tes. 5:17).",
         "references": "",
         "directAnswer": "<strong>La persona espiritual ora en todo momento del día: antes de tomar decisiones, al afrontar desánimo o tentaciones, y para expresar constante gratitud a Jehová.</strong>",
         "deepAnswer": "En armonía con la exhortación de 1 Tesalonicenses 5:17 de 'orar constantemente', la persona espiritual no limita su comunicación con Dios a los momentos formales. <strong>Busca la guía de Jehová de manera espontánea al iniciar su jornada en el servicio, ante una situación difícil en la predicación, al meditar en las Escrituras o al contemplar la creación.</strong> Esta estrecha relación de comunicación revela que ve a Jehová como un Padre real y muy cercano, con quien desea compartir cada detalle de su vida.",
         "shortAnswer": "La persona espiritual mantiene una comunicación constante y sincera con su Padre celestial durante todo el día."
       },
       {
-        "id": "11A_q29",
+        "id": "11A_q15",
         "question": "¿Cómo demuestran los hábitos de estudio de una persona física que se deja llevar por sus deseos?",
         "references": "",
         "directAnswer": "<strong>La persona física demuestra que se deja llevar por sus deseos al descuidar el estudio personal, prefiriendo siempre el entretenimiento y el ocio antes que el alimento espiritual.</strong>",
         "deepAnswer": "Los hábitos de estudio de la persona física revelan una clara falta de aprecio por las cosas profundas de Dios. Solo estudia por encima o de manera intermitente, quizás únicamente para prepararse de forma superficial para las reuniones por simple compromiso o costumbre. Al permitir que la pereza mental o las distracciones de este sistema desplacen la lectura de la Biblia, <strong>demuestra que prefiere alimentar los deseos de la carne en lugar de fortalecer su fe y su relación con Jehová.</strong>",
-        "shortAnswer": "La persona física relega el estudio personal a un segundo plano para dar prioridad a los deseos de la carne y al entretenimiento."
+        "shortAnswer": "La persona física relega el estudio personal a un segundo plano para dar prioridad a los deseos de la carne y al entretenimiento.",
+        "subtitle": "Los hábitos de estudio"
       },
       {
-        "id": "11A_q30",
-        "question": "¿Cómo puede ayudarnos seguir un buen programa de estudio a controlar los deseos de la carne? El ministerio",
+        "id": "11A_q16",
+        "question": "¿Cómo puede ayudarnos seguir un buen programa de estudio a controlar los deseos de la carne?",
         "references": "",
         "directAnswer": "<strong>Un buen programa de estudio llena nuestra mente con los pensamientos de Jehová, lo que fortalece nuestro hombre interior para resistir y apagar los deseos de la carne.</strong>",
         "deepAnswer": "Tener un programa sólido de estudio personal actúa como un escudo protector para nuestra mente y corazón. Al meditar regularmente en la Palabra de Dios y en las publicaciones del esclavo fiel, el espíritu santo influye en nuestros pensamientos, ayudándonos a cultivar el odio por lo malo y el amor por lo que es puro. <strong>Esta rutina espiritual nos da las fuerzas necesarias para 'amortiguar' los impulsos carnales y nos capacita para tomar decisiones que agraden a Jehová cuando se nos presenten tentaciones.</strong>",
         "shortAnswer": "El estudio constante y profundo alimenta la mente con pensamientos divinos que desplazan y vencen los deseos carnales."
       },
       {
-        "id": "11A_q31",
-        "question": "¿Qué cosas sobre la predicación son importantes para la persona espiritual?",
+        "id": "11A_q17",
+        "question": "¿Cómo podrías conservar esa felicidad que viene de ser una persona espiritual? (1 Ped. 1:6, 7; 3:14; 4:13, 14).",
         "references": "Ezeq. 33:11; Mat. 22:3739; Juan 17:6; 1 Tim. 4:16",
         "directAnswer": "Para la persona espiritual, <strong>el ministerio es una obra urgente motivada por el amor a Jehová, el deseo de santificar su nombre y el amor sincero al prójimo.</strong>",
         "deepAnswer": "La persona espiritual comprende que predicar no es solo cumplir con un requisito, sino una valiosa oportunidad de imitar la compasión de Jehová por la humanidad, como indica Ezequiel 33:11. <strong>Se siente impulsada por los dos mandamientos más importantes: amar a Dios con todo el corazón y al prójimo como a sí misma</strong> (Mat. 22:37-39). Además, considera un grandioso honor dar a conocer el nombre del Padre (Juan 17:6) y vigila constantemente su enseñanza para salvarse a sí misma y a quienes la escuchan (1 Tim. 4:16).",
-        "shortAnswer": "La persona espiritual ve la predicación como una expresión de amor leal que santifica el nombre de Dios y salva vidas."
+        "shortAnswer": "La persona espiritual ve la predicación como una expresión de amor leal que santifica el nombre de Dios y salva vidas.",
+        "subtitle": "El ministerio"
       },
       {
-        "id": "11A_q32",
-        "question": "¿En qué piensa y de qué habla la persona espiritual durante la predicación? (Filip. 4:8). Las reuniones",
+        "id": "11A_q18",
+        "question": "¿En qué piensa y de qué habla la persona espiritual durante la predicación? (Filip. 4:8).",
         "references": "",
         "directAnswer": "<strong>Durante la predicación, la persona espiritual piensa y habla de temas edificantes, positivos y bíblicos que animen a sus compañeros de servicio.</strong>",
         "deepAnswer": "De acuerdo con el sabio consejo de Filipenses 4:8, <strong>la persona espiritual se esfuerza por mantener una actitud sumamente positiva en el ministerio del campo.</strong> En lugar de quejarse por el clima, el territorio o los problemas personales, <strong>prefiere conversar sobre experiencias animadoras, puntos bíblicos interesantes o las hermosas cualidades de Jehová.</strong> Este hábito tan saludable no solo alegra el trayecto, sino que también contribuye a que el espíritu santo bendiga la actividad del grupo y fortalezca la fe de su compañero.",
         "shortAnswer": "La persona espiritual edifica a sus compañeros de predicación hablando siempre de cosas positivas, amables y dignas de alabanza."
       },
       {
-        "id": "11A_q33",
+        "id": "11A_q19",
         "question": "¿Qué actitud o comportamiento en las reuniones podría indicar que alguien es una persona física?",
         "references": "",
         "directAnswer": "<strong>La falta de preparación, llegar tarde habitualmente sin motivo real, distraerse con facilidad o no comentar reflejan la actitud de una persona física en las reuniones.</strong>",
         "deepAnswer": "La persona física suele ver las reuniones de la congregación simplemente como un deber social o una rutina aburrida. Esto se evidencia cuando asiste con regularidad inestable, se distrae constantemente con su teléfono móvil o permite que el cansancio domine su atención sin luchar por mantenerse alerta. <strong>Al no prepararse con antelación ni participar activamente con comentarios, demuestra que no valora el generoso banquete espiritual que Jehová nos prepara con tanto amor cada semana.</strong>",
-        "shortAnswer": "La apatía, la falta de preparación y las distracciones en las reuniones revelan que la persona se deja guiar por una mentalidad carnal."
+        "shortAnswer": "La apatía, la falta de preparación y las distracciones en las reuniones revelan que la persona se deja guiar por una mentalidad carnal.",
+        "subtitle": "Las reuniones"
       },
       {
-        "id": "11A_q34",
-        "question": "¿Qué piensa la persona espiritual de participar en las reuniones? La manera de vestirse y arreglarse",
+        "id": "11A_q20",
+        "question": "¿Qué piensa la persona espiritual de participar en las reuniones?",
         "references": "",
         "directAnswer": "<strong>La persona espiritual considera que asistir y participar en las reuniones es un gran privilegio, una vía para alabar a Jehová y animar con cariño a sus hermanos.</strong>",
         "deepAnswer": "Para el cristiano con mentalidad espiritual, las reuniones son citas ineludibles de carácter sagrado. <strong>Ve la oportunidad de comentar y realizar asignaciones como un 'sacrificio de alabanza' que ofrece con gozo directamente a Jehová.</strong> <strong>Se prepara con entusiasmo para cada sección del programa con el objetivo sincero de 'incitar al amor y a las buenas obras'</strong>, sabiendo que su participación activa edifica la fe de toda la congregación y fortalece la unidad teocrática.",
         "shortAnswer": "Para la persona espiritual, participar en las reuniones es una valiosa oportunidad de adorar a Jehová y fortalecer la fe de la congregación."
       },
       {
-        "id": "11A_q35",
+        "id": "11A_q21",
         "question": "¿Por qué piensa la persona espiritual que su forma de arreglarse siempre es importante, ya sea cuando participa en actividades espirituales o en cualquier otro momento?",
         "references": "1 Cor. 10:31; Tito 2:10",
         "directAnswer": "Porque <strong>comprende que es un testigo de Jehová en todo momento, y desea que su apariencia personal siempre honre al Creador y adore sus enseñanzas.</strong>",
         "deepAnswer": "<strong>La persona espiritual tiene muy claro que su conducta y arreglo personal representan a Jehová las 24 horas del día.</strong> Basándose en el principio de 1 Corintios 10:31, se esfuerza por hacer todas las cosas para la gloria de Dios, incluso en sus momentos de ocio o al realizar compras cotidianas. <strong>Reconoce que mantener una apariencia limpia, ordenada y digna sirve para 'adornar la enseñanza de nuestro Salvador'</strong>, tal como destaca Tito 2:10, evitando así dar motivos de tropiezo a quienes observan su conducta.",
-        "shortAnswer": "Nuestra apariencia diaria debe reflejar siempre respeto por las normas de Jehová, siendo un testimonio silencioso de nuestra fe."
+        "shortAnswer": "Nuestra apariencia diaria debe reflejar siempre respeto por las normas de Jehová, siendo un testimonio silencioso de nuestra fe.",
+        "subtitle": "La manera de vestirse y arreglarse"
       },
       {
-        "id": "11A_q36",
+        "id": "11A_q22",
         "question": "¿Qué principios te ayudarán a saber cómo vestir de forma apropiada y con buen juicio para el ministerio? (od pág. 134 pág. 12)",
         "references": "1 Tim. 2:9, 10",
         "directAnswer": "<strong>Nos guían los principios bíblicos de dignidad, decencia y respeto.</strong> <strong>Vestirse con ropa apropiada, modestia y buen juicio asegura que nuestra apariencia no distraiga del mensaje del Reino.</strong>",
@@ -5171,23 +5080,24 @@ const lessonsData = [
         "note": "Explica lo que significan estas expresiones: a) “ropa apropiada”; b) “modestia”; c) “buen juicio” (1 Tim. 2:9, 10)."
       },
       {
-        "id": "11A_q37",
-        "question": "¿Por qué debe estar limpio y en buen estado todo lo que usas en la predicación? (1 Cor. 14:33; Tito 2:10). La familia",
+        "id": "11A_q23",
+        "question": "¿Por qué debe estar limpio y en buen estado todo lo que usas en la predicación? (1 Cor. 14:33; Tito 2:10).",
         "references": "",
         "directAnswer": "<strong>Nuestros artículos de predicación deben estar limpios y ordenados porque representamos a Jehová, un Dios de orden y limpieza.</strong>",
         "deepAnswer": "Como indica 1 Corintios 14:33, Dios no es un Dios de desorden, y nuestra apariencia y herramientas reflejan esa cualidad. Además, al mantener nuestras publicaciones y accesorios en buen estado, <em>'adornamos la enseñanza de nuestro Salvador'</em>, tal como dice Tito 2:10, haciendo que nuestro mensaje sea más atractivo y digno de respeto para las personas del territorio.",
         "shortAnswer": "Reflejamos la santidad de Jehová mediante nuestra apariencia y el cuidado de nuestras herramientas."
       },
       {
-        "id": "11A_q38",
+        "id": "11A_q24",
         "question": "Al tratar a su familia, ¿cómo demuestra una persona espiritual que ve las cosas como Jehová?",
         "references": "Efes. 5: 21, 24, 25, 28; 6:1, 4; 1 Tim. 5:8; 1 Ped. 3:1, 2",
         "directAnswer": "<strong>Una persona espiritual demuestra que ve las cosas como Jehová al cumplir con amor y humildad sus responsabilidades bíblicas dentro de la familia.</strong>",
         "deepAnswer": "<strong>Quien es espiritual reconoce el principio de jefatura de Cristo y de los esposos, pero también valora la sujeción mutua</strong> (Efes. 5:21). <strong>El cabeza de familia imita a Cristo al amar a su esposa, y los hijos aprenden la obediencia al honrar a sus padres, mientras que todos se aseguran de proveer para los suyos para no negar la fe</strong> (1 Tim. 5:8). Al tratar a la familia con este espíritu, reflejamos la sabiduría de Jehová en cada hogar cristiano.",
-        "shortAnswer": "Cumpliendo con amor, respeto y obediencia los roles bíblicos asignados."
+        "shortAnswer": "Cumpliendo con amor, respeto y obediencia los roles bíblicos asignados.",
+        "subtitle": "La familia"
       },
       {
-        "id": "11A_q39",
+        "id": "11A_q25",
         "question": "¿Cómo demuestran los precursores que respetan el principio de autoridad dentro de la familia?",
         "references": "",
         "directAnswer": "<strong>Los precursores respetan la autoridad al apoyar las decisiones del cabeza de familia y fomentar un ambiente de cooperación y sujeción espiritual.</strong>",
@@ -5195,7 +5105,7 @@ const lessonsData = [
         "shortAnswer": "Priorizando el orden y el apoyo a la jefatura familiar por encima de otras actividades."
       },
       {
-        "id": "11A_q40",
+        "id": "11A_q26",
         "question": "¿De qué suele hablar una persona espiritual?",
         "references": "Efes. 4:29",
         "directAnswer": "<strong>Una persona espiritual suele hablar de cosas que edifican, animan y glorifican a Jehová.</strong>",
@@ -5204,7 +5114,7 @@ const lessonsData = [
         "subtitle": "Las conversaciones"
       },
       {
-        "id": "11A_q41",
+        "id": "11A_q27",
         "question": "¿Sobre qué te gusta conversar?",
         "references": "",
         "directAnswer": "<strong>Como precursores, nuestro tema favorito debería ser las verdades bíblicas y la esperanza del Reino que nos apasiona.</strong>",
@@ -5212,7 +5122,7 @@ const lessonsData = [
         "shortAnswer": "Disfruto conversando sobre las verdades de la Biblia y las bendiciones del Reino."
       },
       {
-        "id": "11A_q42",
+        "id": "11A_q28",
         "question": "Si ves que es necesario cambiar de tema, ¿cómo podrías desviar la conversación a un asunto espiritual?",
         "references": "",
         "directAnswer": "<strong>Puedes desviar la conversación haciendo una pregunta amable o comentando un texto bíblico relacionado con el tema que se está tratando.</strong>",
@@ -5220,7 +5130,7 @@ const lessonsData = [
         "shortAnswer": "Usa preguntas amables o comentarios bíblicos para redirigir el tema."
       },
       {
-        "id": "11A_q43",
+        "id": "11A_q29",
         "question": "¿Cómo puedes ser razonable y equilibrado cuando hablas con otros? (Ecl. 7:16).",
         "references": "Ecl. 7:16",
         "directAnswer": "Podemos ser razonables y equilibrados al <strong>evitar ser justos en demasía, no imponiendo opiniones personales con rigidez y mostrando empatía</strong> hacia las limitaciones ajenas.",
@@ -5228,16 +5138,7 @@ const lessonsData = [
         "shortAnswer": "Evitar el dogmatismo y la rigidez moral, mostrando empatía y flexibilidad."
       },
       {
-        "id": "11A_q43_b",
-        "question": "Cuando surgen desacuerdos sobre asuntos personales o de otro tipo, ¿cómo reacciona una persona espiritual y cómo reacciona una persona física?",
-        "references": "Prov. 29:11; Gál. 5:19, 20, 22, 23",
-        "subtitle": "Las diferencias de opinión",
-        "directAnswer": "Una persona física reacciona con <strong>ira, terquedad, orgullo y promueve divisiones</strong>. En cambio, una persona espiritual reacciona con <strong>autocontrol, apacibilidad, amor, buscando activamente la paz</strong> y la reconciliación.",
-        "deepAnswer": "Cuando surgen conflictos, Proverbios 29:11 aclara que 'el tonto da rienda suelta a su enojo, pero el sabio mantiene la calma'. La persona física actúa según las obras de la carne (Gál. 5:19, 20), manifestando arrebatos de ira, contiendas y divisiones egoístas. Por el contrario, la persona espiritual se deja guiar por el espíritu de Dios, reflejando el fruto del espíritu: <strong>paz, paciencia, apacibilidad y autocontrol</strong> (Gál. 5:22, 23), lo que le permite resolver los desacuerdos con humildad, preservando la unidad de la congregación.",
-        "shortAnswer": "La persona física se enoja y divide; la persona espiritual actúa con paz, paciencia y autocontrol."
-      },
-      {
-        "id": "11A_q44",
+        "id": "11A_q30",
         "question": "les o de otro tipo, ¿cómo reacciona una persona espiritual y cómo reacciona una persona física?",
         "references": "Prov. 29:11; Gál. 5:19, 20, 22, 23",
         "directAnswer": "<strong>La persona espiritual reacciona con control y mansedumbre</strong>, mientras que <strong>la persona física se deja llevar por los deseos de la carne y el orgullo.</strong>",
@@ -5245,39 +5146,41 @@ const lessonsData = [
         "shortAnswer": "La persona espiritual domina sus impulsos; la física se deja guiar por sus emociones."
       },
       {
-        "id": "11A_q45",
-        "question": "¿Qué espera Jehová que hagan las personas espirituales en esos casos? (Rom. 12:14, 17-21). Los consejos",
+        "id": "11A_q31",
+        "question": "¿Qué espera Jehová que hagan las personas espirituales en esos casos? (Rom. 12:14, 17-21).",
         "references": "",
         "directAnswer": "<strong>Jehová espera que respondamos al mal con bien, buscando la paz y dejando la justicia en sus manos.</strong>",
         "deepAnswer": "Según Romanos 12:14, 17-21, aunque nos traten mal, <strong>el cristiano verdadero debe bendecir a quienes lo persiguen y no devolver mal por mal.</strong> <strong>La persona espiritual se esfuerza por ser pacífica 'en cuanto dependa de ella' y vence la maldad con el bien.</strong> Al actuar así, no solo reflejamos el carácter de Jehová, sino que damos un testimonio poderoso de lo que significa ser un seguidor de Jesús.",
         "shortAnswer": "Esperamos la justicia de Jehová y vencemos el mal con el bien."
       },
       {
-        "id": "11A_q46",
+        "id": "11A_q32",
         "question": "¿Cómo reacciona la persona espiritual cuando recibe un consejo?",
         "references": "Ecl. 7:9; Rom. 12:16",
         "directAnswer": "<strong>La persona espiritual recibe el consejo con humildad, sin molestarse ni ponerse a la defensiva.</strong>",
         "deepAnswer": "Como indica Eclesiastés 7:9, <strong>no debemos ser 'rápido en nuestro espíritu a ofendernos'.</strong> <strong>La persona sabia entiende que el consejo es una muestra del amor de Jehová y lo acepta para corregir su rumbo</strong> (Rom. 12:16). En lugar de buscar excusas, <strong>la persona espiritual agradece la guía y la aplica</strong>, viendo el consejo como una oportunidad valiosa para mejorar y ser más útil en el servicio de Jehová.",
-        "shortAnswer": "Recibimos el consejo con gratitud y humildad para mejorar nuestra espiritualidad."
+        "shortAnswer": "Recibimos el consejo con gratitud y humildad para mejorar nuestra espiritualidad.",
+        "subtitle": "Los consejos"
       },
       {
-        "id": "11A_q47",
-        "question": "¿Qué harás si te parece que lo que te han dicho está fuera de lugar? Las tentaciones",
+        "id": "11A_q33",
+        "question": "¿Qué harás si te parece que lo que te han dicho está fuera de lugar?",
         "references": "",
         "directAnswer": "Si creemos que algo está mal dicho, <strong>debemos abordarlo con humildad y respeto, buscando la verdad en las Escrituras y orando por guía.</strong>",
         "deepAnswer": "Cuando percibimos que una instrucción o un comentario parece estar fuera de lugar, <strong>la clave es no reaccionar precipitadamente.</strong> Debemos recordar que Jehová es la fuente de la verdad, y sus designaciones están destinadas a nuestro beneficio espiritual. <strong>Examinar las Escrituras con oración y buscar la perspectiva de los ancianos, si es necesario</strong>, nos ayudará a mantenernos firmes en el camino correcto.",
         "shortAnswer": "Busca la verdad y la guía de Jehová."
       },
       {
-        "id": "11A_q48",
+        "id": "11A_q34",
         "question": "¿Cómo reacciona la persona física ante una tentación de tipo sexual? ¿Y la persona espiritual? Lee y comenta Proverbios 7:6-10, 21, 22.",
         "references": "",
         "directAnswer": "<strong>La persona física tiende a reaccionar impulsivamente a la tentación, dejándose llevar por los deseos carnales.</strong>",
         "deepAnswer": "Ante una tentación, <strong>la persona física, guiada por su naturaleza imperfecta, a menudo responde de manera inmediata y basada en los impulsos carnales.</strong> Esta reacción puede llevarla a ceder ante el deseo pecaminoso, sin considerar las consecuencias espirituales o el desagrado a Jehová. Es vital reconocer esta tendencia y esforzarse por controlarla.",
-        "shortAnswer": "La persona física cede a los impulsos carnales."
+        "shortAnswer": "La persona física cede a los impulsos carnales.",
+        "subtitle": "Las tentaciones"
       },
       {
-        "id": "11A_q49",
+        "id": "11A_q35",
         "question": "ción de tipo sexual? ¿Y la persona espiritual? Lee y comenta Proverbios 7:6-10, 21, 22.",
         "references": "",
         "directAnswer": "<strong>La persona física es seducida por las apariencias y la oportunidad de pecado</strong>, mientras que <strong>la persona espiritual se aferra a los principios bíblicos y evita el peligro.</strong>",
@@ -5285,7 +5188,7 @@ const lessonsData = [
         "shortAnswer": "La persona espiritual evita lo que la física abraza."
       },
       {
-        "id": "11A_q50",
+        "id": "11A_q36",
         "question": "¿Cómo demostró este joven que era un hombre físico?",
         "references": "",
         "directAnswer": "<strong>Este joven demostró ser un hombre físico al dejarse llevar por sus pasiones y sucumbir a la tentación sexual sin resistencia.</strong>",
@@ -5293,15 +5196,15 @@ const lessonsData = [
         "shortAnswer": "Se dejó llevar por sus pasiones carnales."
       },
       {
-        "id": "11A_q51",
-        "question": "bre físico? ¿Qué consejos de este relato pueden ayudar a una persona espiritual a no caer en la inmoralidad? Sigue evaluando tu progreso",
+        "id": "11A_q37",
+        "question": "bre físico? ¿Qué consejos de este relato pueden ayudar a una persona espiritual a no caer en la inmoralidad?",
         "references": "1 Cor. 9:24",
         "directAnswer": "Los apóstoles necesitaban esforzarse por ser hombres espirituales porque <strong>todavía tenían una visión carnal de la autoridad</strong>. Aunque estaban con Jesús, <strong>mostraron ambición, deseo de protagonismo y falta de humildad</strong>, lo cual era incompatible con el espíritu de servicio que el Reino requiere.",
         "deepAnswer": "Los relatos de Mateo y Lucas revelan que, incluso después de haber sido elegidos personalmente por Jesús, los apóstoles luchaban contra rasgos de personalidad imperfectos. En Mateo 20:20-24, la petición de la madre de Santiago y Juan, junto con la indignación de los otros diez, demuestra que <strong>todavía buscaban posiciones de preeminencia y poder</strong>. Jesús tuvo que corregir su forma de pensar enseñándoles que, a diferencia de los gobernantes de las naciones, <strong>la grandeza en su congregación se mide por la disposición a servir y no a mandar</strong>. Como señala 1 Corintios 9:24, <strong>la vida cristiana es una carrera que exige autodisciplina y un esfuerzo constante por alcanzar la madurez espiritual</strong>. Los apóstoles tuvieron que cambiar su enfoque egocéntrico por un espíritu de humildad y sacrificio para cumplir con éxito su futura comisión de pastorear la congregación cristiana.",
         "shortAnswer": "La verdadera grandeza cristiana no se logra buscando autoridad, sino cultivando un espíritu de servicio humilde y constante."
       },
       {
-        "id": "11A_q52",
+        "id": "11A_q38",
         "question": "¿Cómo muestran los siguientes versículos que los apóstoles debían seguir esforzándose por ser hombres espirituales? Mateo 20:20, 21, 24-28 Lucas 22:24-27",
         "references": "",
         "directAnswer": "Pedro demostró ser un hombre espiritual al <strong>reconocer correctamente la identidad de Jesús como el Cristo, el Hijo del Dios vivo</strong>, no por deducción humana, sino porque <strong>recibió revelación directa de parte de Jehová</strong>.",
@@ -5309,7 +5212,7 @@ const lessonsData = [
         "shortAnswer": "Ser espiritual implica escuchar la guía de Jehová y reconocer la verdad sobre Jesús por encima de las opiniones humanas."
       },
       {
-        "id": "11A_q53",
+        "id": "11A_q39",
         "question": "¿Cómo indica Mateo 16:16, 17 que el apóstol Pedro era un hombre espiritual?",
         "references": "ia pág. 191 párr. 13",
         "directAnswer": "Sabemos que Pedro tenía que seguir progresando porque, a pesar de su gran fe y amor por Jesús, <strong>todavía debía corregir rasgos de su personalidad, como la impulsividad y el exceso de confianza, y aprender a aceptar la guía y disciplina divina</strong> para llegar a ser un pilar firme para sus hermanos.",
@@ -5317,7 +5220,7 @@ const lessonsData = [
         "shortAnswer": "El progreso de Pedro fue un proceso continuo de humildad y aprendizaje necesario para superar sus debilidades y servir con madurez."
       },
       {
-        "id": "11A_q54",
+        "id": "11A_q40",
         "question": "¿Cómo sabemos que Pedro tenía que seguir progresando?",
         "references": "",
         "directAnswer": "Esto nos anima porque nos asegura que <strong>Jehová es un Dios que desea comunicarse personalmente con nosotros</strong>. Al habernos dado su Palabra en un lenguaje claro, sencillo y exacto, <strong>nos permite entender su amor y su propósito, sintiendo que él mismo nos habla directamente al corazón</strong>.",
@@ -5325,7 +5228,7 @@ const lessonsData = [
         "shortAnswer": "Contar con una traducción clara y exacta de la Biblia nos anima al confirmarnos que Jehová es un Padre cercano que desea que lo conozcamos personalmente."
       },
       {
-        "id": "11A_q55",
+        "id": "11A_q41",
         "question": "¿Por qué nos anima eso?",
         "references": "ia págs. 191-192 párrs. 15-18",
         "directAnswer": "Para conservar la felicidad que proviene de ser una persona espiritual, es fundamental <strong>mantener la confianza en Jehová frente a las pruebas</strong>, recordando que <strong>nuestra perseverancia demuestra la calidad de nuestra fe y nos permite recibir su aprobación y bendición</strong>.",
@@ -5333,7 +5236,7 @@ const lessonsData = [
         "shortAnswer": "La felicidad espiritual se conserva al ver las pruebas como una oportunidad para demostrar nuestra lealtad a Jehová y recibir su espíritu santo."
       },
       {
-        "id": "11A_q56",
+        "id": "11A_q42",
         "question": "¿Cómo puedes conservar esa felicidad que viene de ser una persona espiritual?",
         "references": "1 Ped. 1:6, 7; 3:14; 4:13, 14",
         "directAnswer": "",
@@ -5367,7 +5270,8 @@ const lessonsData = [
         "references": "",
         "directAnswer": "Sí, me gusta hacer revisitas porque <strong>es una forma maravillosa de continuar fortaleciendo la fe de las personas interesadas.</strong>",
         "deepAnswer": "¡Claro que sí! <strong>Hacer revisitas es un privilegio que nos permite seguir sembrando semillas del Reino y regar las que ya han germinado.</strong> Es un gozo ver cómo Jehová bendice el esfuerzo por cultivar el interés espiritual en las personas, fortaleciendo así su fe.",
-        "shortAnswer": "Las revisitas son un gozo y un privilegio."
+        "shortAnswer": "Las revisitas son un gozo y un privilegio.",
+        "subtitle": "Sé positivo"
       },
       {
         "id": "11B_q2",
@@ -5435,7 +5339,7 @@ const lessonsData = [
       },
       {
         "id": "11B_q10",
-        "question": "¿Qué nos enseña este relato sobre cómo debemos ver las revisitas? Prepara el terreno.",
+        "question": "¿Qué nos enseña este relato sobre cómo debemos ver las revisitas?",
         "references": "",
         "directAnswer": "Este relato nos enseña que <strong>las revisitas deben hacerse con amor, paciencia y fe en que Jehová puede transformar a las personas.</strong>",
         "deepAnswer": "El relato de Ananías y Saulo nos enseña que <strong>debemos ver las revisitas no como una obligación, sino como una oportunidad de ver el poder de Jehová para transformar vidas</strong>, incluso las de aquellos que parecen adversos. Ananías, al superar su temor y actuar con amor y obediencia, fue parte de un milagro espiritual. Esto nos anima a ser diligentes y confiados en que Jehová obra a través de nosotros para llevar Su mensaje salvador.",
@@ -5443,110 +5347,66 @@ const lessonsData = [
       },
       {
         "id": "11B_q11",
-        "question": "¿Por qué es bueno enseñarle a la persona algo de la Biblia?",
-        "references": "",
+        "question": "¿Por qué es bueno enseñarle a la persona algo de la Biblia que realmente la ayude? (th lección 13).",
+        "references": "th lección 13",
         "directAnswer": "<strong>Es bueno enseñarles algo de la Biblia para que conozcan las verdades del Reino y se les ayude a fortalecer su fe.</strong>",
         "deepAnswer": "Enseñar algo de la Biblia en cada revisita es crucial porque <strong>nutre el 'terreno' espiritual de la persona, alimentando su interés y construyendo una base sólida de fe.</strong> Al compartir las verdades del Reino, no solo les damos conocimiento, sino que también <strong>les mostramos el camino a la esperanza y la vida eterna, cumpliendo así nuestra comisión de hacer discípulos.</strong>",
-        "shortAnswer": "Fortalece su fe y les muestra el camino a la vida eterna."
+        "shortAnswer": "Fortalece su fe y les muestra el camino a la vida eterna.",
+        "subtitle": "Prepara el terreno"
       },
       {
         "id": "11B_q12",
-        "question": "¿Cómo puedes preparar el terreno para la siguiente visita? (mwb16.01 pág. 6). EJEMPLO: Algo muy fácil que podrías hacer es dejar una pregunta o un tema pendiente. Por ejemplo,",
+        "question": "¿Cómo puedes preparar el terreno para la siguiente visita? (mwb16.01 pág. 6).",
         "references": "",
         "directAnswer": "<strong>Puedes preparar el terreno para la siguiente visita dejando una pregunta o un tema interesante pendiente para que la persona medite en él.</strong>",
         "deepAnswer": "Una manera efectiva de preparar el terreno es alentar la curiosidad y el deseo de saber más, tal como Jesús lo hizo al plantar semillas de verdad. <strong>Al dejar una pregunta o un tema en suspenso, demostramos que el estudio de la Palabra de Dios es un viaje continuo de descubrimientos que enriquece la vida.</strong><br>Proverbios 25:2 nos recuerda que 'el honor de Dios es encubrir un asunto, pero el honor de los reyes es indagarlo'. Fomentar esta indagación en los demás es una forma de honrar a Jehová.",
-        "shortAnswer": "Deja una pregunta o tema pendiente para despertar interés."
+        "shortAnswer": "Deja una pregunta o tema pendiente para despertar interés.",
+        "note": "EJEMPLO: Algo muy fácil que podrías hacer es dejar una pregunta o un tema pendiente. Por ejemplo, si hablaste del Paraíso, podrías preguntar: “¿Por qué podemos estar seguros de que llegará muy pronto? ¿Qué le parece si vuelvo en unos días? Me encantaría mostrarle a usted y a su familia la respuesta que da la Biblia”."
       },
       {
         "id": "11B_q13",
-        "question": "si hablaste del Paraíso, podrías preguntar: “¿Por qué podemos estar seguros de que llegará muy pronto?",
-        "references": "",
-        "directAnswer": "<strong>Si hablaste del Paraíso, podrías preguntar: “¿Por qué podemos estar seguros de que el Paraíso llegarámuy pronto?”.</strong>",
-        "deepAnswer": "Esta pregunta invita a la persona a reflexionar sobre la base bíblica de nuestra esperanza en el Paraíso. <strong>Nos da la oportunidad de profundizar en profecías cumplidas y las promesas de Jehová, demostrando que sus propósitos son cercanos.</strong> Al sembrar esta semilla de duda o curiosidad, preparamos el terreno para la siguiente conversación donde expondremos las pruebas.<br>Apocalipsis 21:3, 4 nos da la base para esta esperanza, pintando un cuadro vívido de la vida futura.",
-        "shortAnswer": "Pregunta por la seguridad del pronto advenimiento del Paraíso."
-      },
-      {
-        "id": "11B_q14",
-        "question": "¿Qué le parece si vuelvo en unos días? Me encantaría mostrarle a usted y a su familia la respuesta que da la Biblia”.",
-        "references": "",
-        "directAnswer": "<strong>Para concertar la siguiente visita, puedes decir: “¿Qué le parece si vuelvo en unos días? Me encantaría mostrarle a usted y a su familia la respuesta que da la Biblia”.</strong>",
-        "deepAnswer": "<strong>Esta oferta es una invitación respetuosa y clara para continuar la conversación, enfocándose en el beneficio para toda la familia.</strong> Muestra tu interés genuino en ayudarles a encontrar las verdades de la Biblia. Al presentar la visita como una oportunidad para que aprendan juntos, haces que sea más atractivo y valioso para ellos.<br>Hechos 17:11 nos anima a examinar las Escrituras diligentemente, y esta propuesta facilita precisamente eso.",
-        "shortAnswer": "Ofrece mostrarles la respuesta bíblica en familia."
-      },
-      {
-        "id": "11B_q15",
-        "question": "¿Qué otras preguntas podrías dejar pendientes para la próxima visita?",
-        "references": "",
-        "directAnswer": "<strong>Otras preguntas pendientes podrían ser sobre el significado de la vida, la razón por la que permitimos el sufrimiento, o cómo podemos ser felices en estos tiempos difíciles.</strong>",
-        "deepAnswer": "<strong>Dejar preguntas sobre temas tan cruciales como el propósito de la vida o el problema del sufrimiento estimula la mente y el corazón de la persona.</strong> Demuestra que la Biblia tiene respuestas para las inquietudes más profundas del ser humano y que estamos dispuestos a ayudarles a encontrarlas. Estas preguntas preparan el camino para conversaciones más significativas y personalizadas.<br>Eclesiastés 3:11 nos dice que Dios ha puesto la eternidad en el corazón del hombre, y preguntas como estas tocan esa necesidad.",
-        "shortAnswer": "Cuestiona sobre el propósito de la vida o el sufrimiento."
-      },
-      {
-        "id": "11B_q16",
-        "question": "¿Por qué es bueno crear expectación dejando algunas preguntas para contestar en la siguiente visita?",
-        "references": "",
-        "directAnswer": "<strong>Crear expectación al dejar preguntas sin responder motiva a la persona a querer saber más y a esperar tu próxima visita con interés.</strong>",
-        "deepAnswer": "Esta estrategia apela al deseo natural de conocimiento y al anhelo humano por las respuestas a las grandes preguntas de la vida. Al no agotar el tema en la primera visita, <strong>se mantiene viva la chispa del interés y se fomenta la meditación personal.</strong> Es un método inspirado en la forma en que Jesús enseñaba, dejando a sus oyentes reflexionando y anhelando más.<br>Mateo 13:10-12 ilustra cómo Jesús usaba parábolas para que, al recibir más revelación, los oyentes pudieran comprender más profundamente.",
-        "shortAnswer": "Fomenta la expectación y el deseo de saber más."
-      },
-      {
-        "id": "11B_q17",
-        "question": "¿Qué les dices a las personas para quedar en volver a visitarlas? Después de la primera conversación.",
+        "question": "¿Qué les dices a las personas para quedar en volver a visitarlas?",
         "references": "",
         "directAnswer": "<strong>Después de la primera conversación, puedes decir algo como: “Me ha encantado conversar con usted hoy. Si le parece bien, ¿podría volver en unos días para compartirle algo más que la Biblia enseña sobre este asunto?”.</strong>",
         "deepAnswer": "Al expresar aprecio por la conversación, creas un ambiente de calidez y respeto, lo que hace más fácil concertar una cita futura. La frase \"algo más que la Biblia enseña\" <strong>resalta que hay más verdades valiosas por descubrir. Es una invitación a continuar el viaje espiritual, mostrando que estamos comprometidos con su progreso.</strong><br>Filipenses 2:4 nos anima a velar por los intereses de los demás, y esto incluye ayudarles a obtener conocimiento espiritual.",
         "shortAnswer": "Expresa aprecio y pide permiso para compartir más verdades bíblicas."
       },
       {
-        "id": "11B_q18",
-        "question": "¿Qué puede ayudarte a decidir qué textos leerás y qué publicaciones usarás en la siguiente conversación? (lmd",
-        "references": "",
+        "id": "11B_q14",
+        "question": "¿Qué puede ayudarte a decidir qué textos leerás y qué publicaciones usarás en la siguiente conversación? (lmd lección 9).",
+        "references": "lmd lección 9",
         "directAnswer": "<strong>Para decidir qué textos y publicaciones usar en la siguiente conversación, puedes revisar tus notas de la primera visita, los intereses expresados por la persona y las sugerencias de la literatura de la congregación</strong>, como la Lección y la Reunión de Fe y el Ministerio.",
         "deepAnswer": "La preparación diligente, basada en las notas tomadas y las indicaciones de nuestras publicaciones teocráticas, es fundamental para que la siguiente visita sea espiritualmente edificante. Al revisar lo que ya se ha hablado y lo que la persona mostró interés, <strong>puedes seleccionar textos bíblicos y publicaciones que aborden sus inquietudes de manera personalizada.</strong> La Lección y la Reunión de Fe y el Ministerio (lmd) nos brindan herramientas valiosas para este propósito.<br>2 Timoteo 3:16, 17 enfatiza que 'toda la Escritura es inspirada de Dios y útil', y nuestra tarea es usarla sabiamente.",
-        "shortAnswer": "Usa tus notas, los intereses de la persona y la literatura de la congregación."
+        "shortAnswer": "Usa tus notas, los intereses de la persona y la literatura de la congregación.",
+        "subtitle": "Después de la primera conversación"
       },
       {
-        "id": "11B_q19",
-        "question": "¿Por qué demuestras interés por la persona cuando bus-",
-        "references": "",
+        "id": "11B_q15",
+        "question": "¿Qué les dices a las personas para quedar en volver a visitarlas?",
+        "references": "be págs. 33-38",
         "directAnswer": "Muestras interés por la persona cuando buscas información sobre un tema que le interesa porque <strong>demuestras que valoras sus pensamientos y sus inquietudes.</strong>",
         "deepAnswer": "Al dedicar tiempo a investigar y preparar material específico sobre un tema que a la persona le importa, <strong>le comunicas de forma poderosa que sus sentimientos y sus preguntas son importantes para ti.</strong> Esto va más allá de una conversación superficial; es una demostración tangible de amor y empatía, reflejando el amor de Jehová por la humanidad.<br>1 Pedro 4:8 nos instruye a que 'el amor cubre una multitud de pecados', y en este contexto, podemos decir que el amor y el interés sincero construyen puentes de comunicación.",
         "shortAnswer": "Valoras sus inquietudes y demuestras amor y empatía."
       },
       {
-        "id": "11B_q20",
-        "question": "cas información sobre un tema que le interesa? ¿Qué efecto puede tener en la persona que le muestres esa información?",
-        "references": "be págs. 33-38",
-        "directAnswer": "Cuando buscas información sobre un tema que le interesa a la persona, <strong>le demuestras que sus preguntas son valiosas.</strong> Esto <strong>puede motivarla a abrir su corazón y a confiar en ti</strong>, lo que puede tener un efecto positivo en su disposición a aprender.",
-        "deepAnswer": "Esta acción específica, descrita en la página 33-38 de <em>Cómo razonar</em>, <strong>cultiva un terreno fértil para la predicación.</strong> Al mostrar que te has tomado el tiempo para entender y responder a sus inquietudes, la persona se siente respetada y valorada. Esto puede <strong>derribar barreras y abrir la puerta para una comunicación más profunda y sincera, facilitando que acepten las verdades de la Palabra de Dios.</strong><br>Juan 13:35 nos enseña que el amor entre nosotros será el distintivo de los discípulos de Cristo, y este tipo de interés es una manifestación de ese amor.",
-        "shortAnswer": "Le haces sentir valorada, abriendo su corazón a la verdad."
-      },
-      {
-        "id": "11B_q21",
-        "question": "¿Por qué tener una actitud positiva hacia la persona te motivará a volver a visitarla?",
-        "references": "",
+        "id": "11B_q16",
+        "question": "¿Qué puede ayudarte a decidir qué textos leerás y qué publicaciones usarás en la siguiente conversación? (lmd lección 9).",
+        "references": "lmd lección 9",
         "directAnswer": "Tener una actitud positiva hacia la persona te motivará a volver a visitarla porque <strong>verás su potencial espiritual y el gozo de ayudarla a acercarse a Jehová.</strong>",
         "deepAnswer": "Una perspectiva positiva, enfocada en el valor de cada alma y en las promesas de Jehová, transforma la obra de predicación en un privilegio y una fuente de gozo. Cuando vemos a las personas a través de los ojos de Jehová, con compasión y la esperanza de que acepten Su verdad, <strong>nos sentimos impulsados a seguir esforzándonos, sabiendo que estamos participando en la obra más importante.</strong><br>Hechos 20:35 nos recuerda que 'hay más felicidad en dar que en recibir', y ayudar a otros a acercarse a Jehová es una forma de dar que trae gran satisfacción.",
-        "shortAnswer": "Ver su potencial espiritual alimenta tu deseo de ayudarla."
+        "shortAnswer": "Ver su potencial espiritual alimenta tu deseo de ayudarla.",
+        "subtitle": "Después de la primera conversación"
       },
       {
-        "id": "11B_q22",
-        "question": "¿Por qué podemos volver aunque no hayamos dejado ninguna publicación?",
-        "references": "Mat. 10:13; Luc. 10:5, 6; mwb18.01 pág. 1, recuadro",
+        "id": "11B_q17",
+        "question": "¿Por qué demuestras interés por la persona cuando buscas información sobre un tema que le interesa? ¿Qué efecto puede tener en la persona que le muestres esa información? (be págs. 33-38).",
+        "references": "be págs. 33-38",
         "directAnswer": "Podemos volver porque nuestro objetivo no es solo distribuir publicaciones, sino <strong>buscar a las personas merecedoras y llevarles el mensaje del Reino.</strong>",
         "deepAnswer": "Jesús instruyó a sus discípulos que, al entrar en una casa, saludaran a quienes vivían allí. Si la casa era merecedora, su paz vendría sobre ella (Mat. 10:13; Luc. 10:5, 6). Aunque no hayamos dejado literatura, el simple hecho de haber iniciado una conversación basada en la Biblia <strong>nos permite cultivar el interés y determinar si la persona desea escuchar más sobre las buenas nuevas.</strong>",
         "shortAnswer": "Nuestro objetivo es buscar personas con interés, no solo colocar publicaciones."
       },
       {
-        "id": "11B_q23",
-        "question": "¿Alguna vez te ha ido bien al volver a visitar a alguien a quien no le dejaste ninguna publicación?",
-        "references": "",
-        "directAnswer": "Sí, a menudo resulta muy productivo volver porque <strong>establecemos una relación basada en la amabilidad y el intercambio de ideas bíblicas.</strong>",
-        "deepAnswer": "Muchos publicadores han comprobado que, al regresar para continuar una conversación interesante, la persona se siente más valorada. Al mostrar interés genuino en sus opiniones, <strong>dejamos la puerta abierta para establecer un curso bíblico en el futuro</strong>, sin la presión de haber dejado algo material en la primera visita.",
-        "shortAnswer": "Sí, porque el interés de la persona es más importante que dejar una publicación."
-      },
-      {
-        "id": "11B_q24",
+        "id": "11B_q18",
         "question": "Por lo general, ¿por qué es bueno volver en uno o dos días? Cuenta cómo te ha ido cuando has puesto en práctica esta sugerencia con alguien que mostró interés.",
         "references": "",
         "directAnswer": "<strong>Es bueno volver pronto para mantener fresca la conversación y demostrar que nuestro interés por ellos es sincero.</strong>",
@@ -5555,31 +5415,24 @@ const lessonsData = [
         "note": "EXPERIENCIA: Una hermana tiene la costumbre de quedar en volver a visitar a la gente lo antes posible. Pero, uno o dos días antes de la cita, les lleva una revista que trate sobre el tema del que habían hablado, y les dice: “Vi este artículo y pensé que le podría gustar. No puedo quedarme para hablar ahora, pero volveré el..., como quedamos. ¿Todavía puede a esa hora?”."
       },
       {
-        "id": "11B_q25",
-        "question": "¿Todavía puede a esa hora?”.",
-        "references": "",
-        "directAnswer": "Sí, al confirmar si la hora sigue siendo conveniente, <strong>mostramos consideración y respeto por el tiempo del amo de casa.</strong>",
-        "deepAnswer": "Hacer esta pregunta es una muestra de buenos modales cristianos. Al ser respetuosos y organizados, <strong>reducimos las probabilidades de incomodar a la persona, lo que nos permite dar un testimonio más eficaz y preparar el camino para conversaciones futuras.</strong>",
-        "shortAnswer": "Preguntar si es buena hora demuestra respeto y consideración cristiana."
-      },
-      {
-        "id": "11B_q26",
+        "id": "11B_q19",
         "question": "¿Por qué podría ser una buena idea hacer algo así?",
         "references": "",
         "directAnswer": "Es una excelente idea porque <strong>nos permite mantener el contacto sin ser invasivos</strong> y <strong>prepara el terreno para una visita más larga después.</strong>",
         "deepAnswer": "Este enfoque combina la persistencia con la cortesía. Al hacer una visita breve pero significativa, <strong>estamos 'sembrando' la semilla de la verdad de forma constante, lo que hace que la persona se sienta cómoda con nuestra presencia y esté más dispuesta a dedicar tiempo a estudiar la Biblia</strong> en nuestra próxima cita programada.",
-        "shortAnswer": "Ayuda a mantener el contacto sin abrumar a la persona."
+        "shortAnswer": "Ayuda a mantener el contacto sin abrumar a la persona.",
+        "note": "EXPERIENCIA: Una hermana tiene la costumbre de quedar en volver a visitar a la gente lo antes posible. Pero, uno o dos días antes de la cita, les lleva una revista que trate sobre el tema del que habían hablado, y les dice: “Vi este artículo y pensé que le podría gustar. No puedo quedarme para hablar ahora, pero volveré el..., como quedamos. ¿Todavía puede a esa hora?”."
       },
       {
-        "id": "11B_q27",
-        "question": "¿Qué puedes hacer cuando no encuentras a la persona después de varios intentos? Ten claro tu objetivo. Nuestro objetivo principal es ayudar a las personas a ser discípulos de Jesús y bautizarse. Hoy en día, el mejor método para conseguirlo es dando clases de la Biblia. Así que intenta hablar de un tema bíblico en cada visita. De esa manera, la persona estará cada vez más abierta a recibir clases de la Biblia, y dejaremos claro para qué la visitamos.",
+        "id": "11B_q20",
+        "question": "¿Qué puedes hacer cuando no encuentras a la persona después de varios intentos?",
         "references": "",
         "directAnswer": "Si no encontramos a la persona, <strong>podemos intentar visitarla en otro horario o dejar una nota breve y respetuosa.</strong>",
         "deepAnswer": "Nuestro objetivo central es iniciar cursos bíblicos. Si la persona no está, no debemos desanimarnos; <strong>cada intento es una oportunidad para orar por esa persona y buscar una nueva ocasión.</strong> Siempre <strong>debemos enfocar cada visita en un punto bíblico específico para que el propósito de nuestro ministerio sea evidente.</strong>",
         "shortAnswer": "No te rindas; intenta en otro horario y mantén siempre el enfoque bíblico."
       },
       {
-        "id": "11B_q28",
+        "id": "11B_q21",
         "question": "¿Cómo pueden ayudarte los siguientes pasos a conseguir tu objetivo final?",
         "references": "",
         "directAnswer": "",
@@ -5587,89 +5440,105 @@ const lessonsData = [
         "shortAnswer": "",
         "subQuestions": [
           {
-            "id": "11B_q28_a",
-            "question": "¿Cómo puede ayudarte a conseguir tu objetivo final contestar una pregunta con la Biblia?",
-            "references": "",
-            "directAnswer": "Contestar con la Biblia <strong>ayuda a que la persona vea que nuestro mensaje tiene una autoridad divina</strong>, lo que es esencial para su progreso espiritual.",
-            "deepAnswer": "Al utilizar la Biblia para responder a las preguntas del amo de casa, le enseñamos que Jehová es la fuente de la verdad. Esto <strong>establece un fundamento sólido para su fe y demuestra que nuestras enseñanzas no son opiniones personales, sino consejos inspirados por Dios.</strong> Este es un paso clave para que la persona aprenda a confiar en las Escrituras para tomar decisiones en su vida.",
-            "shortAnswer": "Da autoridad divina a nuestras enseñanzas y enseña a la persona a confiar en la Biblia."
+            "id": "11B_q21_a",
+            "question": "Contestar una pregunta con la Biblia.",
+            "directAnswer": "Permite que la persona vea que las respuestas provienen directamente de **la Palabra inspirada de Dios**, ganando su confianza.",
+            "deepAnswer": "Al contestar una duda directamente de las Escrituras, mostramos que no enseñamos ideas propias. Esto enseña al amo de casa a **respetar la autoridad de la Biblia y fomenta el deseo de seguir examinando la verdad**.",
+            "shortAnswer": "Usar la Biblia para dar respuestas autorizadas y confiables."
           },
           {
-            "id": "11B_q28_b",
-            "question": "¿Cómo puede ayudarte a conseguir tu objetivo final ofrecer ciertas publicaciones o mostrar un video que le puedan interesar a la persona?",
-            "references": "",
-            "directAnswer": "Los videos y publicaciones <strong>ayudan a visualizar el mensaje y a despertar el interés por temas bíblicos específicos.</strong>",
-            "deepAnswer": "El uso de recursos audiovisuales o impresos es muy eficaz porque apela a los sentidos y facilita la comprensión de verdades profundas. Al elegir un material que responda a una inquietud real del amo de casa, <strong>le ayudamos a ver la relevancia práctica del mensaje de la Biblia en su vida diaria, facilitando así la transición hacia un estudio bíblico formal.</strong>",
-            "shortAnswer": "Hacen que el mensaje sea más comprensible y estimulan el interés por profundizar en temas bíblicos."
+            "id": "11B_q21_b",
+            "question": "Ofrecer ciertas publicaciones o mostrar un video que le puedan interesar a la persona.",
+            "directAnswer": "Sirve para **captar el interés de forma visual** y proveer información digerible para la persona.",
+            "deepAnswer": "Los videos de jw.org y nuestros folletos o revistas son sumamente atractivos y están diseñados para el público general. Al mostrarlos, **abrimos una ventana visual al Reino y facilitamos la transición hacia el estudio interactivo**.",
+            "shortAnswer": "Usar videos y literatura para despertar el interés de forma atractiva."
           },
           {
-            "id": "11B_q28_c",
-            "question": "¿Cómo puede ayudarte a conseguir tu objetivo final analizar un párrafo de uno de los manuales de estudio?",
-            "references": "",
-            "directAnswer": "Analizar un párrafo <strong>permite demostrar lo sencillo y provechoso que es aprender de la Biblia mediante nuestros métodos de enseñanza.</strong>",
-            "deepAnswer": "Este paso permite que la persona experimente de primera mano cómo funciona un curso bíblico. Al analizar juntos un párrafo de nuestros manuales, <strong>quitamos el posible temor a lo desconocido y le mostramos que el estudio es una actividad sencilla, interactiva y muy gratificante.</strong> Es un método excelente para demostrar que progresar espiritualmente está al alcance de cualquiera.",
-            "shortAnswer": "Permite que la persona experimente la sencillez y el valor de nuestra metodología de enseñanza."
+            "id": "11B_q21_c",
+            "question": "Analizar un párrafo de uno de los manuales de estudio.",
+            "directAnswer": "Es el paso clave para **demostrar cómo es una clase de la Biblia** y comenzar el estudio de manera informal.",
+            "deepAnswer": "En lugar de hablar extensamente, leer y analizar un solo párrafo del libro *Disfrute de la vida* demuestra al amo de casa lo sencillo y reconfortante que es estudiar con nosotros, quitando el temor al compromiso.",
+            "shortAnswer": "Demostrar la sencillez del estudio analizando un solo párrafo del manual."
           },
           {
-            "id": "11B_q28_d",
-            "question": "¿Cómo puede ayudarte a conseguir tu objetivo final ofrecer un curso bíblico?",
-            "references": "",
-            "directAnswer": "Ofrecer un curso bíblico <strong>es el paso directo para cumplir nuestra labor de hacer discípulos y ayudar a la persona a acercarse a Jehová.</strong>",
-            "deepAnswer": "El objetivo final de nuestro ministerio es ayudar a las personas a convertirse en discípulos de Cristo. Ofrecer un curso bíblico estructurado es la herramienta principal para lograrlo, ya que <strong>permite un estudio sistemático de las Escrituras.</strong> Al dedicar tiempo regular para analizar la Biblia, <strong>ayudamos a la persona a fortalecer su fe, hacer cambios en su vida y, finalmente, dar los pasos necesarios hacia la dedicación y el bautismo.</strong>",
-            "shortAnswer": "Es el medio fundamental para hacer discípulos y ayudar a la persona a progresar hacia el bautismo."
-          },
-          {
-            "id": "11B_q28_e",
-            "question": "¿Cómo puede ayudarte a conseguir tu objetivo final la revisita?",
-            "references": "",
-            "directAnswer": "La revisita <strong>es la oportunidad clave para cultivar el interés inicial y fortalecer la relación con la persona.</strong>",
-            "deepAnswer": "La revisita <strong>es el proceso de alimentar la semilla de la verdad que se plantó en el contacto inicial.</strong> Sin un seguimiento constante, el interés puede desvanecerse. Al regresar, demostramos un interés genuino en la persona y <strong>continuamos edificando sobre lo que ya hemos hablado, lo cual es indispensable para profundizar su entendimiento</strong> y motivarla a seguir aprendiendo sobre Jehová.",
-            "shortAnswer": "Es el seguimiento necesario para cultivar el interés y consolidar el aprendizaje continuo."
+            "id": "11B_q21_d",
+            "question": "Ofrecer un curso bíblico.",
+            "directAnswer": "Es la meta final para **establecer una sesión de estudio regular y progresiva**.",
+            "deepAnswer": "Ofrecer el curso formalmente aclara el propósito de nuestras visitas. Le explicamos que es gratuito, a domicilio o virtual, y que le ayudará a encontrar respuestas a sus dudas vitales en su propia Biblia.",
+            "shortAnswer": "Proponer formalmente un estudio bíblico regular y gratuito."
           }
-        ]
+        ],
+        "subtitle": "Ten claro tu objetivo",
+        "note": "Nuestro objetivo principal es ayudar a las personas a ser discípulos de Jesús y bautizarse. Hoy en día, el mejor método para conseguirlo es dando clases de la Biblia. Así que intenta hablar de un tema bíblico en cada visita. De esa manera, la persona estará cada vez más abierta a recibir clases de la Biblia, y dejaremos claro para qué la visitamos."
       },
       {
-        "id": "11B_q29",
-        "question": "¿Cómo empiezas la conversación al hacer una revisita?",
-        "references": "mwb17.11 pág. 3; km 12/13 pág. 1",
-        "directAnswer": "<strong>Podemos comenzar retomando brevemente el tema anterior o haciendo una pregunta amable basada en nuestra conversación previa.</strong>",
-        "deepAnswer": "Una forma efectiva es decir algo como: 'Me quedé pensando en lo que comentamos el otro día y encontré este texto que me gustaría compartir'. Esto <strong>demuestra que valoramos la opinión de la persona y hace que la transición hacia una conversación bíblica sea natural y amena.</strong>",
-        "shortAnswer": "Retoma la conversación anterior con amabilidad y un punto bíblico."
-      },
-      {
-        "id": "11B_q30",
+        "id": "11B_q22",
         "question": "¿Por qué es importante no hacer preguntas que pudieran provocar una respuesta negativa o que incomoden a la persona?",
         "references": "w18.09 pág. 32 párrs. 14, 15",
         "directAnswer": "Es importante para <strong>evitar poner a la persona a la defensiva y mantener un ambiente de confianza.</strong>",
         "deepAnswer": "Si hacemos preguntas que puedan resultar incómodas o polémicas, <strong>corremos el riesgo de cerrar el corazón de la persona.</strong> Nuestro mensaje es de paz, y debemos asegurarnos de que la manera en que presentamos las verdades bíblicas sea siempre amable, empática y atractiva, tal como nos enseña la Palabra de Dios.",
-        "shortAnswer": "Evitar preguntas incómodas protege la relación y mantiene la mente abierta."
+        "shortAnswer": "Evitar preguntas incómodas protege la relación y mantiene la mente abierta.",
+        "note": "EXPERIENCIA: Una hermana tiene la costumbre de quedar en volver a visitar a la gente lo antes posible. Pero, uno o dos días antes de la cita, les lleva una revista que trate sobre el tema del que habían hablado, y les dice: “Vi este artículo y pensé que le podría gustar. No puedo quedarme para hablar ahora, pero volveré el..., como quedamos. ¿Todavía puede a esa hora?”."
       },
       {
-        "id": "11B_q31",
-        "question": "¿Por qué algunas personas no están muy seguras de volver a recibirnos cuando las visitamos de nuevo?",
+        "id": "11B_q23",
+        "question": "¿Qué puedes hacer cuando no encuentras a la persona después de varios intentos?",
         "references": "",
         "directAnswer": "A veces es porque <strong>han tenido experiencias negativas con otros, porque no entienden bien quiénes somos o porque se sienten invadidos en su privacidad.</strong>",
         "deepAnswer": "Es fundamental entender que, para algunos, <strong>una visita inesperada puede generar desconfianza.</strong> Por eso, <strong>nuestra actitud amable, nuestra apariencia cuidada y nuestro respeto por su tiempo son cruciales para disipar cualquier duda y demostrarles que nuestra única intención es compartir un mensaje de esperanza.</strong>",
         "shortAnswer": "Pueden sentir desconfianza o presión; nuestra amabilidad es la clave."
       },
       {
-        "id": "11B_q32",
+        "id": "11B_q24",
         "question": "¿Cómo puede ayudar que seas amable y muestres interés?",
         "references": "",
         "directAnswer": "Ser amable y mostrar interés genuino <strong>ayuda a derribar barreras y crea un ambiente de confianza necesario para que la persona esté dispuesta a escuchar el mensaje del Reino.</strong>",
         "deepAnswer": "Cuando tratamos a la persona con bondad y empatía, <strong>reflejamos el amor de Jehová.</strong> Esto <strong>permite que el interlocutor se sienta valorado y no juzgado, lo cual es fundamental para que el mensaje bíblico toque su corazón y sea más receptivo a la verdad.</strong>",
-        "shortAnswer": "La amabilidad abre el corazón y prepara el terreno para la Palabra de Dios."
+        "shortAnswer": "La amabilidad abre el corazón y prepara el terreno para la Palabra de Dios.",
+        "subtitle": "Ten claro tu objetivo",
+        "note": "Nuestro objetivo principal es ayudar a las personas a ser discípulos de Jesús y bautizarse. Hoy en día, el mejor método para conseguirlo es dando clases de la Biblia. Así que intenta hablar de un tema bíblico en cada visita. De esa manera, la persona estará cada vez más abierta a recibir clases de la Biblia, y dejaremos claro para qué la visitamos.",
+        "subQuestions": [
+          {
+            "id": "11B_q24_a",
+            "question": "Contestar una pregunta con la Biblia.",
+            "directAnswer": "Permite que la persona vea que las respuestas provienen directamente de **la Palabra inspirada de Dios**, ganando su confianza.",
+            "deepAnswer": "Al contestar una duda directamente de las Escrituras, mostramos que no enseñamos ideas propias. Esto enseña al amo de casa a **respetar la autoridad de la Biblia y fomenta el deseo de seguir examinando la verdad**.",
+            "shortAnswer": "Usar la Biblia para dar respuestas autorizadas y confiables."
+          },
+          {
+            "id": "11B_q24_b",
+            "question": "Ofrecer ciertas publicaciones o mostrar un video que le puedan interesar a la persona.",
+            "directAnswer": "Sirve para **captar el interés de forma visual** y proveer información digerible para la persona.",
+            "deepAnswer": "Los videos de jw.org y nuestros folletos o revistas son sumamente atractivos y están diseñados para el público general. Al mostrarlos, **abrimos una ventana visual al Reino y facilitamos la transición hacia el estudio interactivo**.",
+            "shortAnswer": "Usar videos y literatura para despertar el interés de forma atractiva."
+          },
+          {
+            "id": "11B_q24_c",
+            "question": "Analizar un párrafo de uno de los manuales de estudio.",
+            "directAnswer": "Es el paso clave para **demostrar cómo es una clase de la Biblia** y comenzar el estudio de manera informal.",
+            "deepAnswer": "En lugar de hablar extensamente, leer y analizar un solo párrafo del libro *Disfrute de la vida* demuestra al amo de casa lo sencillo y reconfortante que es estudiar con nosotros, quitando el temor al compromiso.",
+            "shortAnswer": "Demostrar la sencillez del estudio analizando un solo párrafo del manual."
+          },
+          {
+            "id": "11B_q24_d",
+            "question": "Ofrecer un curso bíblico.",
+            "directAnswer": "Es la meta final para **establecer una sesión de estudio regular y progresiva**.",
+            "deepAnswer": "Ofrecer el curso formalmente aclara el propósito de nuestras visitas. Le explicamos que es gratuito, a domicilio o virtual, y que le ayudará a encontrar respuestas a sus dudas vitales en su propia Biblia.",
+            "shortAnswer": "Proponer formalmente un estudio bíblico regular y gratuito."
+          }
+        ]
       },
       {
-        "id": "11B_q33",
+        "id": "11B_q25",
         "question": "¿Qué dices para que la persona se sienta más tranquila y pueda confiar en lo que dice la Biblia?",
         "references": "",
         "directAnswer": "Para que se sienta tranquila, es importante <strong>hablar de forma natural, escuchar con atención y mostrar respeto por sus opiniones sin entrar en discusiones innecesarias.</strong>",
         "deepAnswer": "Ayuda mucho <strong>hacer comentarios positivos sobre su hospitalidad y usar preguntas bien pensadas que le permitan expresar sus ideas.</strong> Al mostrar que valoramos lo que dice, <strong>fomentamos un ambiente de confianza mutua donde la Biblia puede ser presentada como una guía útil y práctica, no como una imposición.</strong>",
-        "shortAnswer": "Escuchar con respeto y hablar con naturalidad genera confianza en el mensaje bíblico."
+        "shortAnswer": "Escuchar con respeto y hablar con naturalidad genera confianza en el mensaje bíblico.",
+        "subtitle": "La revisita"
       },
       {
-        "id": "11B_q34",
+        "id": "11B_q26",
         "question": "¿Por qué deberías seguir estas recomendaciones? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10).",
         "references": "Filip. 1:27",
         "directAnswer": "",
@@ -5677,49 +5546,44 @@ const lessonsData = [
         "shortAnswer": "",
         "subQuestions": [
           {
-            "id": "11B_q34_a",
-            "question": "¿Por qué deberías recordar que estás de visita al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
-            "references": "Filip. 1:27",
-            "directAnswer": "Recordar que estamos de visita nos <strong>ayuda a mostrar respeto por el dueño de casa y su tiempo, evitando ser intrusivos.</strong>",
-            "deepAnswer": "Debemos portarnos de una manera digna de las buenas nuevas (Filip. 1:27). Ser conscientes de que somos invitados en la propiedad ajena <strong>nos ayuda a cultivar una actitud humilde y cortés.</strong> Esto <strong>demuestra que valoramos a las personas como individuos y no solo como objetivos de predicación, lo cual abre puertas para un testimonio más eficaz.</strong>",
-            "shortAnswer": "Nos ayuda a tratar al amo de casa con el respeto y la cortesía que merece un anfitrión."
+            "id": "11B_q26_a",
+            "question": "Recordar que estás de visita.",
+            "directAnswer": "Implica ser **breve y respetuoso con el tiempo del amo de casa**, no abusando de su hospitalidad.",
+            "deepAnswer": "Ser conscientes de que somos invitados nos ayuda a no extendernos demasiado. **Una visita corta e interesante deja al amo de casa con deseos de que regresemos**, mientras que una visita larga puede abrumarlo.",
+            "shortAnswer": "Ser breves para respetar el tiempo de las personas."
           },
           {
-            "id": "11B_q34_b",
-            "question": "¿Por qué deberías agradecer que te reciban al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
-            "references": "Filip. 1:27",
-            "directAnswer": "Agradecer que nos reciban <strong>muestra gratitud por su tiempo y ayuda a derribar prejuicios negativos.</strong>",
-            "deepAnswer": "La cortesía es un reflejo de nuestra personalidad cristiana. Al agradecer que nos permitan hablar, <strong>suavizamos el ambiente y demostramos que somos personas razonables.</strong> Esto 'adorna' la enseñanza de Dios, pues <strong>la gente está más dispuesta a escuchar a quienes se muestran amables y agradecidos por su atención.</strong>",
-            "shortAnswer": "La gratitud abre corazones y demuestra que valoramos sinceramente el tiempo del prójimo."
+            "id": "11B_q26_b",
+            "question": "Agradecer que te reciban.",
+            "directAnswer": "Muestra **buena educación y gratitud sincera** por el tiempo que la persona nos dedica.",
+            "deepAnswer": "Agradecer a la persona su disposición a escucharnos crea una atmósfera amigable. **Este gesto de cortesía cristiana ablanda los corazones** y nos hace accesibles, abriendo el camino para futuras conversaciones.",
+            "shortAnswer": "Expresar gratitud sincera por la atención recibida."
           },
           {
-            "id": "11B_q34_c",
-            "question": "¿Por qué deberías ir bien arreglado al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
-            "references": "Filip. 1:27",
-            "directAnswer": "Nuestra apariencia bien arreglada <strong>demuestra respeto por el mensaje, por Dios y por la persona a la que visitamos.</strong>",
-            "deepAnswer": "Como representantes del Reino de Dios, <strong>nuestra imagen comunica qué tan serio es nuestro mensaje.</strong> Una presentación limpia y ordenada <strong>evita distracciones y permite que la gente se enfoque en la Biblia en lugar de en nuestra apariencia.</strong> Es una forma práctica de seguir el consejo de portarnos de una manera digna de las buenas nuevas.",
-            "shortAnswer": "La buena presencia dignifica el mensaje y muestra respeto hacia quienes nos observan."
+            "id": "11B_q26_c",
+            "question": "Ir bien arreglado.",
+            "directAnswer": "Refleja **respeto por Jehová, por nuestro ministerio y por la dignidad de las personas**.",
+            "deepAnswer": "Nuestra apariencia personal es un sermón silencioso. Vestirnos con modestia y limpieza dignifica el mensaje del Reino y hace que las personas nos escuchen con más seriedad.",
+            "shortAnswer": "Dignificar el mensaje mediante una apariencia limpia y modesta."
           },
           {
-            "id": "11B_q34_d",
-            "question": "¿Por qué deberías ser puntual al predicar? (jr pág. 38 párr. 14; w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
-            "references": "Filip. 1:27",
-            "directAnswer": "La puntualidad <strong>demuestra que somos personas organizadas y que respetamos el tiempo del amo de casa.</strong>",
-            "deepAnswer": "Al ser puntuales en nuestras citas de revisita o con los compañeros de predicación, <strong>mostramos que somos confiables.</strong> La falta de puntualidad puede dar una mala impresión y <strong>causar que las personas pierdan interés en nuestro mensaje, pues sugiere que no valoramos los compromisos que hacemos.</strong>",
-            "shortAnswer": "Ser puntual refleja seriedad y respeto por el tiempo ajeno, cualidades esenciales de un cristiano."
+            "id": "11B_q26_d",
+            "question": "Ser puntual (jr pág. 38 párr. 14).",
+            "directAnswer": "Muestra que **somos personas de palabra y que respetamos los compromisos contraídos**.",
+            "deepAnswer": "Llegar a la hora acordada demuestra seriedad y respeto por el tiempo del amo de casa. La puntualidad es un reflejo de nuestra confiabilidad y del valor que le damos al interés espiritual de la persona.",
+            "shortAnswer": "Cumplir puntualmente con la cita acordada por respeto a la persona."
           },
           {
-            "id": "11B_q34_e",
-            "question": "¿Por qué deberías respetar a la persona y su propiedad al predicar? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10)",
-            "references": "Filip. 1:27",
-            "directAnswer": "El respeto a la propiedad y a la persona <strong>es fundamental para que el mensaje no sea rechazado por nuestra conducta.</strong>",
-            "deepAnswer": "No debemos poner 'ningún obstáculo al ministerio'. Esto incluye <strong>cuidar no pisar jardines, no bloquear entradas ni ser invasivos con nuestra presencia.</strong> Si somos respetuosos con su entorno, <strong>el amo de casa percibirá nuestra integridad, lo cual es vital para que nuestras palabras tengan peso y credibilidad ante la comunidad.</strong>",
-            "shortAnswer": "El respeto evita obstáculos innecesarios y nos permite dar un testimonio coherente con los valores bíblicos."
+            "id": "11B_q26_e",
+            "question": "Respetar a la persona y su propiedad (Filip. 1:27).",
+            "directAnswer": "Implica **cuidar sus bienes, no entrar a su hogar sin permiso y respetar sus opiniones**.",
+            "deepAnswer": "Demostramos buena conducta al no pisar el jardín, cerrar las verjas y no mirar hacia el interior de la casa indiscretamente. Este respeto por su propiedad demuestra que actuamos como ciudadanos ejemplares y ministros pacíficos.",
+            "shortAnswer": "Cuidar la propiedad ajena y comportarse de forma respetuosa."
           }
         ]
       },
       {
-        "id": "11B_q35",
+        "id": "11B_q27",
         "question": "¿Qué importancia tiene el entusiasmo cuando haces revisitas?",
         "references": "",
         "directAnswer": "El entusiasmo <strong>es contagioso y demuestra que nosotros mismos estamos convencidos del valor de las buenas nuevas que llevamos.</strong>",
@@ -5727,7 +5591,7 @@ const lessonsData = [
         "shortAnswer": "El entusiasmo demuestra nuestra convicción y motiva a otros a escuchar."
       },
       {
-        "id": "11B_q36",
+        "id": "11B_q28",
         "question": "¿Por qué es práctico repasar un poco la última conversación?",
         "references": "",
         "directAnswer": "Repasar la última conversación <strong>ayuda a dar continuidad al interés mostrado y demuestra que valoramos sinceramente a la persona.</strong>",
@@ -5735,7 +5599,7 @@ const lessonsData = [
         "shortAnswer": "Repasar lo anterior da continuidad y muestra interés personal."
       },
       {
-        "id": "11B_q37",
+        "id": "11B_q29",
         "question": "¿Por qué son esenciales estos factores al hacer revisitas?",
         "references": "",
         "directAnswer": "",
@@ -5743,73 +5607,97 @@ const lessonsData = [
         "shortAnswer": "",
         "subQuestions": [
           {
-            "id": "11B_q37_a",
-            "question": "¿Por qué es esencial interesarte de verdad en las personas al hacer revisitas?",
-            "references": "",
-            "directAnswer": "Porque el interés genuino <strong>refleja el amor de Jehová y ayuda a que la persona se sienta valorada y más receptiva al mensaje bíblico.</strong>",
-            "deepAnswer": "Cuando demostramos un interés sincero, <strong>imitamos a Jesús, quien no veía a las personas solo como números, sino como individuos con necesidades espirituales.</strong> Esto <strong>construye una base de confianza que es fundamental para que la persona abra su corazón a las verdades de la Biblia.</strong>",
-            "shortAnswer": "El interés genuino construye confianza y refleja el amor de Dios."
+            "id": "11B_q29_a",
+            "question": "Interesarte de verdad en las personas.",
+            "directAnswer": "Nos ayuda a verlas como **futuros siervos de Dios que necesitan ayuda espiritual**, adaptándonos a ellas.",
+            "deepAnswer": "El interés sincero hace que escuchemos con atención en lugar de solo querer hablar. Nos impulsa a pensar en sus problemas y necesidades particulares, imitando el amor de Jehová.",
+            "shortAnswer": "Ver a las personas con compasión y escuchar sus inquietudes."
           },
           {
-            "id": "11B_q37_b",
-            "question": "¿Por qué es esencial elegir un tema bíblico que llame la atención al hacer revisitas?",
-            "references": "",
-            "directAnswer": "Porque un tema relevante <strong>despierta la curiosidad y demuestra que la Biblia tiene respuestas prácticas para los problemas actuales de la persona.</strong>",
-            "deepAnswer": "Al elegir un tema que conecte con los intereses o inquietudes de nuestro interlocutor, <strong>hacemos que el mensaje bíblico sea irresistible.</strong> Esto <strong>cumple con la exhortación de ser hábiles maestros que presentan la Palabra de Dios de una manera que llegue al corazón.</strong>",
-            "shortAnswer": "Un tema relevante despierta el deseo de aprender más de la Biblia."
+            "id": "11B_q29_b",
+            "question": "Elegir un tema bíblico que llame la atención.",
+            "directAnswer": "Garantiza que **la conversación gire en torno a asuntos que de verdad les importen**.",
+            "deepAnswer": "Debemos seleccionar temas prácticos (sufrimiento, futuro, familia) que afecten directamente al amo de casa, captando su interés desde el inicio mediante textos oportunos.",
+            "shortAnswer": "Hablar de temas de la Biblia que resuelvan dudas reales de la gente."
           },
           {
-            "id": "11B_q37_c",
-            "question": "¿Por qué es esencial preparar el terreno para cada una de las siguientes visitas al hacer revisitas?",
-            "references": "",
-            "directAnswer": "Porque <strong>dejar una pregunta abierta o un punto de intriga crea una razón lógica y natural para volver a conversar.</strong>",
-            "deepAnswer": "La preparación del terreno consiste en <strong>dejar a la persona con ganas de saber más.</strong> Al planificar el cierre de una conversación dejando un hilo conductor hacia la siguiente, <strong>convertimos un encuentro casual en un proceso de enseñanza progresiva.</strong>",
-            "shortAnswer": "Asegura la continuidad del interés y facilita la siguiente visita."
+            "id": "11B_q29_c",
+            "question": "Preparar el terreno para cada una de las siguientes visitas.",
+            "directAnswer": "Consiste en **dejar una pregunta pendiente al final de cada conversación** para asegurar la próxima cita.",
+            "deepAnswer": "La expectación es clave. Al despedirnos con una duda intrigante por responder, hacemos que la persona espere con interés nuestra siguiente visita, facilitando el regreso.",
+            "shortAnswer": "Dejar preguntas interesantes pendientes para garantizar el regreso."
           },
           {
-            "id": "11B_q37_d",
-            "question": "¿Por qué es esencial seguir pensando en la persona después de irte al hacer revisitas?",
-            "references": "",
-            "directAnswer": "Porque <strong>nos permite orar específicamente por ella y planificar mejor cómo adaptarnos a sus necesidades espirituales en la próxima visita.</strong>",
-            "deepAnswer": "El cuidado pastoral no termina cuando nos despedimos. Al meditar en lo que la persona dijo y sentir preocupación por su bienestar espiritual, <strong>demostramos que nuestro ministerio es un acto de amor, lo cual nos motiva a ser constantes y cuidadosos en nuestra labor.</strong>",
-            "shortAnswer": "Permite una atención personalizada y demuestra preocupación real."
+            "id": "11B_q29_d",
+            "question": "Seguir pensando en la persona después de irte.",
+            "directAnswer": "Nos motiva a **orar por ella, meditar en sus necesidades y buscar publicaciones adecuadas**.",
+            "deepAnswer": "El ministerio no termina al salir del territorio. Pensar en el amo de casa a solas nos ayuda a preparar mejores argumentos y a pedir a Jehová que bendiga el interés mostrado.",
+            "shortAnswer": "Meditar y orar por el amo de casa para prepararle información personalizada."
           },
           {
-            "id": "11B_q37_e",
-            "question": "¿Por qué es esencial volver un día o dos más tarde para cultivar el interés al hacer revisitas?",
-            "references": "",
-            "directAnswer": "Porque <strong>volver pronto mantiene el mensaje fresco en la mente de la persona y aprovecha el entusiasmo inicial antes de que otras preocupaciones lo desplacen.</strong>",
-            "deepAnswer": "<strong>La rapidez en el seguimiento es clave para evitar que el adversario 'robe la semilla'.</strong> Al visitar pronto, <strong>demostramos que valoramos el tiempo y el progreso espiritual de la persona, lo que ayuda a que el interés inicial se convierta en una convicción firme.</strong>",
-            "shortAnswer": "Aprovecha el momento oportuno para evitar que el interés se enfríe."
+            "id": "11B_q29_e",
+            "question": "Volver un día o dos más tarde para cultivar el interés.",
+            "directAnswer": "Aprovecha que **la última conversación todavía está fresca en la mente de la persona**.",
+            "deepAnswer": "Volver pronto demuestra que nos importa el amo de casa. Si tardamos semanas, es probable que olvide lo hablado o que la duda pierda fuerza, perdiendo una gran oportunidad.",
+            "shortAnswer": "Regresar a los pocos días para mantener el interés activo."
           },
           {
-            "id": "11B_q37_f",
-            "question": "¿Por qué es esencial recordar que tu objetivo es empezar un curso bíblico al hacer revisitas?",
-            "references": "",
-            "directAnswer": "Porque <strong>nos ayuda a mantener nuestro ministerio enfocado y con propósito, asegurándonos de que cada revisita sea un paso hacia la meta de hacer discípulos.</strong>",
-            "deepAnswer": "Tener claro el objetivo no significa presionar, sino <strong>dirigir nuestras conversaciones hacia el estudio de las Escrituras.</strong> Recordar este objetivo <strong>nos da la confianza para ofrecer el curso bíblico, que es el medio principal por el que Jehová enseña a las personas el camino a la vida eterna.</strong>",
-            "shortAnswer": "Da propósito a nuestras visitas y nos enfoca en hacer discípulos."
-          },
-          {
-            "id": "11B_q37_g",
-            "question": "A la hora de empezar cursos bíblicos, ¿por qué es valioso ofrecerlos directamente frente a otros métodos como conversar un poco y leer textos?",
-            "references": "",
-            "directAnswer": "Cada método es útil, pero <strong>ofrecer el curso directamente establece claramente la intención del ministerio desde el principio, ayudando a quienes desean aprender más a identificar el recurso disponible.</strong>",
-            "deepAnswer": "Mientras que algunos prefieren entablar conversaciones breves para generar confianza, <strong>ofrecer el curso directamente es una forma valiente de mostrar que estamos listos para enseñar.</strong> La clave es la flexibilidad: <strong>usar el enfoque que mejor se adapte a la receptividad de la persona, manteniendo siempre el objetivo de establecer el estudio.</strong>",
-            "shortAnswer": "Ambos métodos son herramientas valiosas; el objetivo es encontrar el que mejor ayude a la persona a comenzar a aprender."
+            "id": "11B_q29_f",
+            "question": "Recordar que tu objetivo es empezar un curso bíblico.",
+            "directAnswer": "Mantiene **nuestro ministerio enfocado en hacer discípulos**, no solo en conversar.",
+            "deepAnswer": "Cada visita y revisita debe encaminarse a mostrar cómo se estudia la Biblia. Tener esta meta clara nos ayuda a ofrecer el manual *Disfrute de la vida* de forma oportuna.",
+            "shortAnswer": "Tener la meta de iniciar un curso de la Biblia en cada hogar."
           }
         ]
       },
       {
-        "id": "11B_q38",
-        "question": "tos de la Biblia sin ofrecerles un curso. ¿Qué método te gusta más a ti y por qué? Cuenta cómo te ha ido al dirigir algún curso bíblico en la puerta.",
+        "id": "11B_q30",
+        "question": "A algunos precursores les gusta empezar a estudiar con las personas ofreciéndoles un curso bíblico. Otros prefieren conversar un poco con ellas y leerles algunos textos de la Biblia sin ofrecerles un curso. ¿Qué método te gusta más a ti y por qué? Cuenta cómo te ha ido al dirigir algún curso bíblico en la puerta.",
         "references": "",
         "directAnswer": "Aunque ambos métodos son válidos, <strong>ofrecer el curso bíblico directamente permite establecer el propósito de nuestra labor desde el principio con claridad.</strong>",
         "deepAnswer": "Personalmente, prefiero una mezcla: <strong>entablar una conversación amena que lleve naturalmente a la oferta del curso.</strong> <strong>Al mostrar cómo la Biblia responde a una pregunta específica de la persona, esta valora el estudio como una herramienta práctica y no solo como una lección teórica.</strong>",
-        "shortAnswer": "Lo mejor es adaptar el método para que la persona vea la utilidad del estudio."
+        "shortAnswer": "Lo mejor es adaptar el método para que la persona vea la utilidad del estudio.",
+        "subtitle": "Empieza cursos bíblicos",
+        "subQuestions": [
+          {
+            "id": "11B_q30_a",
+            "question": "Recordar que estás de visita.",
+            "directAnswer": "Implica ser **breve y respetuoso con el tiempo del amo de casa**, no abusando de su hospitalidad.",
+            "deepAnswer": "Ser conscientes de que somos invitados nos ayuda a no extendernos demasiado. **Una visita corta e interesante deja al amo de casa con deseos de que regresemos**, mientras que una visita larga puede abrumarlo.",
+            "shortAnswer": "Ser breves para respetar el tiempo de las personas."
+          },
+          {
+            "id": "11B_q30_b",
+            "question": "Agradecer que te reciban.",
+            "directAnswer": "Muestra **buena educación y gratitud sincera** por el tiempo que la persona nos dedica.",
+            "deepAnswer": "Agradecer a la persona su disposición a escucharnos crea una atmósfera amigable. **Este gesto de cortesía cristiana ablanda los corazones** y nos hace accesibles, abriendo el camino para futuras conversaciones.",
+            "shortAnswer": "Expresar gratitud sincera por la atención recibida."
+          },
+          {
+            "id": "11B_q30_c",
+            "question": "Ir bien arreglado.",
+            "directAnswer": "Refleja **respeto por Jehová, por nuestro ministerio y por la dignidad de las personas**.",
+            "deepAnswer": "Nuestra apariencia personal es un sermón silencioso. Vestirnos con modestia y limpieza dignifica el mensaje del Reino y hace que las personas nos escuchen con más seriedad.",
+            "shortAnswer": "Dignificar el mensaje mediante una apariencia limpia y modesta."
+          },
+          {
+            "id": "11B_q30_d",
+            "question": "Ser puntual (jr pág. 38 párr. 14).",
+            "directAnswer": "Muestra que **somos personas de palabra y que respetamos los compromisos contraídos**.",
+            "deepAnswer": "Llegar a la hora acordada demuestra seriedad y respeto por el tiempo del amo de casa. La puntualidad es un reflejo de nuestra confiabilidad y del valor que le damos al interés espiritual de la persona.",
+            "shortAnswer": "Cumplir puntualmente con la cita acordada por respeto a la persona."
+          },
+          {
+            "id": "11B_q30_e",
+            "question": "Respetar a la persona y su propiedad (Filip. 1:27).",
+            "directAnswer": "Implica **cuidar sus bienes, no entrar a su hogar sin permiso y respetar sus opiniones**.",
+            "deepAnswer": "Demostramos buena conducta al no pisar el jardín, cerrar las verjas y no mirar hacia el interior de la casa indiscretamente. Este respeto por su propiedad demuestra que actuamos como ciudadanos ejemplares y ministros pacíficos.",
+            "shortAnswer": "Cuidar la propiedad ajena y comportarse de forma respetuosa."
+          }
+        ]
       },
       {
-        "id": "11B_q39",
+        "id": "11B_q31",
         "question": "¿Por qué es bueno invitar a la persona a usar su propia Biblia?",
         "references": "",
         "directAnswer": "<strong>Invitar a la persona a usar su propia Biblia genera mayor confianza en que lo que enseñamos proviene de la Palabra de Dios y no de nuestras ideas.</strong>",
@@ -5817,7 +5705,7 @@ const lessonsData = [
         "shortAnswer": "Usar su propia Biblia aumenta la confianza y el respeto por el mensaje divino."
       },
       {
-        "id": "11B_q40",
+        "id": "11B_q32",
         "question": "¿Qué podrías hacer si la persona no acepta un curso de la Biblia? (lmd lección 8).",
         "references": "",
         "directAnswer": "Si la persona no acepta un estudio en ese momento, <strong>podemos ofrecer dejarle una revista, un tratado o seguir conversando sobre temas bíblicos breves para cultivar el interés gradualmente.</strong>",
@@ -5825,23 +5713,68 @@ const lessonsData = [
         "shortAnswer": "Sé paciente y cultiva el interés mediante lecturas breves o artículos específicos."
       },
       {
-        "id": "11B_q41",
+        "id": "11B_q33",
         "question": "¿Por qué es importante hablar de cosas que le interesen?",
         "references": "",
         "directAnswer": "<strong>Hablar de temas que le interesan a la persona hace que el mensaje bíblico se perciba como algo relevante para su vida cotidiana.</strong>",
         "deepAnswer": "Al conectar la Biblia con sus preocupaciones o inquietudes, <strong>demostramos que Jehová realmente se interesa en su bienestar.</strong> <strong>Esto convierte nuestra labor en un servicio valioso que atiende necesidades reales, motivando a la persona a ver la Biblia no como un libro antiguo, sino como una guía práctica para el presente.</strong>",
-        "shortAnswer": "Lo que es relevante para la persona se vuelve importante para su corazón."
+        "shortAnswer": "Lo que es relevante para la persona se vuelve importante para su corazón.",
+        "subQuestions": [
+          {
+            "id": "11B_q33_a",
+            "question": "Interesarte de verdad en las personas.",
+            "directAnswer": "Nos ayuda a verlas como **futuros siervos de Dios que necesitan ayuda espiritual**, adaptándonos a ellas.",
+            "deepAnswer": "El interés sincero hace que escuchemos con atención en lugar de solo querer hablar. Nos impulsa a pensar en sus problemas y necesidades particulares, imitando el amor de Jehová.",
+            "shortAnswer": "Ver a las personas con compasión y escuchar sus inquietudes."
+          },
+          {
+            "id": "11B_q33_b",
+            "question": "Elegir un tema bíblico que llame la atención.",
+            "directAnswer": "Garantiza que **la conversación gire en torno a asuntos que de verdad les importen**.",
+            "deepAnswer": "Debemos seleccionar temas prácticos (sufrimiento, futuro, familia) que afecten directamente al amo de casa, captando su interés desde el inicio mediante textos oportunos.",
+            "shortAnswer": "Hablar de temas de la Biblia que resuelvan dudas reales de la gente."
+          },
+          {
+            "id": "11B_q33_c",
+            "question": "Preparar el terreno para cada una de las siguientes visitas.",
+            "directAnswer": "Consiste en **dejar una pregunta pendiente al final de cada conversación** para asegurar la próxima cita.",
+            "deepAnswer": "La expectación es clave. Al despedirnos con una duda intrigante por responder, hacemos que la persona espere con interés nuestra siguiente visita, facilitando el regreso.",
+            "shortAnswer": "Dejar preguntas interesantes pendientes para garantizar el regreso."
+          },
+          {
+            "id": "11B_q33_d",
+            "question": "Seguir pensando en la persona después de irte.",
+            "directAnswer": "Nos motiva a **orar por ella, meditar en sus necesidades y buscar publicaciones adecuadas**.",
+            "deepAnswer": "El ministerio no termina al salir del territorio. Pensar en el amo de casa a solas nos ayuda a preparar mejores argumentos y a pedir a Jehová que bendiga el interés mostrado.",
+            "shortAnswer": "Meditar y orar por el amo de casa para prepararle información personalizada."
+          },
+          {
+            "id": "11B_q33_e",
+            "question": "Volver un día o dos más tarde para cultivar el interés.",
+            "directAnswer": "Aprovecha que **la última conversación todavía está fresca en la mente de la persona**.",
+            "deepAnswer": "Volver pronto demuestra que nos importa el amo de casa. Si tardamos semanas, es probable que olvide lo hablado o que la duda pierda fuerza, perdiendo una gran oportunidad.",
+            "shortAnswer": "Regresar a los pocos días para mantener el interés activo."
+          },
+          {
+            "id": "11B_q33_f",
+            "question": "Recordar que tu objetivo es empezar un curso bíblico.",
+            "directAnswer": "Mantiene **nuestro ministerio enfocado en hacer discípulos**, no solo en conversar.",
+            "deepAnswer": "Cada visita y revisita debe encaminarse a mostrar cómo se estudia la Biblia. Tener esta meta clara nos ayuda a ofrecer el manual *Disfrute de la vida* de forma oportuna.",
+            "shortAnswer": "Tener la meta de iniciar un curso de la Biblia en cada hogar."
+          }
+        ]
       },
       {
-        "id": "11B_q42",
-        "question": "¿Por qué debes tener conversaciones sencillas y centradas en la Biblia?",
+        "id": "11B_q34",
+        "question": "A algunos precursores les gusta empezar a estudiar con las personas ofreciéndoles un curso bíblico. Otros prefieren conversar un poco con ellas y leerles algunos textos de la Biblia sin ofrecerles un curso. ¿Qué método te gusta más a ti y por qué? Cuenta cómo te ha ido al dirigir algún curso bíblico en la puerta.",
         "references": "",
         "directAnswer": "<strong>Debemos tener conversaciones sencillas para no abrumar a la persona y permitir que comprenda mejor el mensaje del Reino.</strong>",
         "deepAnswer": "Al mantener nuestras explicaciones sencillas y centradas en un solo punto bíblico, <strong>imitamos el método de enseñanza de Jesús.</strong> <strong>Esto ayuda a que el interlocutor no se sienta confundido y pueda asimilar la verdad gradualmente, evitando que el exceso de información desvíe su atención de lo más importante: el propósito de Jehová.</strong>",
-        "shortAnswer": "La sencillez ayuda a que la verdad eche raíces en el corazón."
+        "shortAnswer": "La sencillez ayuda a que la verdad eche raíces en el corazón.",
+        "subtitle": "Empieza cursos bíblicos"
       },
       {
-        "id": "11B_q43",
+        "id": "11B_q35",
         "question": "¿Por qué es clave escuchar con atención?",
         "references": "",
         "directAnswer": "Escuchar con atención es clave porque <strong>demuestra respeto sincero, nos permite comprender el verdadero sentir de la persona y nos ayuda a adaptar nuestra respuesta bíblica</strong> de forma eficaz.",
@@ -5849,7 +5782,7 @@ const lessonsData = [
         "shortAnswer": "Demuestra respeto, crea confianza y nos permite adaptar la enseñanza a la necesidad real."
       },
       {
-        "id": "11B_q44",
+        "id": "11B_q36",
         "question": "Si la persona todavía no valora las enseñanzas de la Biblia, ¿por qué no debes señalar sus ideas equivocadas o algún mal hábito que tenga?",
         "references": "w19.03 pág. 23 párrs. 12, 13",
         "directAnswer": "No debemos señalar sus errores de inmediato porque <strong>podríamos levantar barreras defensivas o hacerla sentir juzgada</strong>, perdiendo la oportunidad de seguir conversando.",
@@ -5857,7 +5790,7 @@ const lessonsData = [
         "shortAnswer": "Para evitar levantar defensas; la verdad bíblica debe moldear su corazón progresivamente."
       },
       {
-        "id": "11B_q45",
+        "id": "11B_q37",
         "question": "¿Cuánto deben durar las primeras visitas? ¿Por qué?",
         "references": "",
         "directAnswer": "<strong>Deben ser breves para respetar el tiempo de la persona y dejarla con ganas de seguir conversando en otra ocasión.</strong>",
@@ -5865,7 +5798,7 @@ const lessonsData = [
         "shortAnswer": "Sé breve para que siempre se queden con ganas de más."
       },
       {
-        "id": "11B_q46",
+        "id": "11B_q38",
         "question": "Para hacer revisitas se necesita constancia. ¿Por qué?",
         "references": "",
         "directAnswer": "<strong>La constancia es necesaria porque a menudo necesitamos varias visitas para cultivar el interés inicial de una persona.</strong>",
@@ -5874,7 +5807,7 @@ const lessonsData = [
         "subtitle": "Lo que puede pasar al hacer revisitas"
       },
       {
-        "id": "11B_q47",
+        "id": "11B_q39",
         "question": "¿Qué haces cuando la persona está muy ocupada y no te puede atender?",
         "references": "",
         "directAnswer": "Si está muy ocupada, <strong>lo mejor es ser comprensivo, ofrecer volver en otro momento y retirarnos con amabilidad.</strong>",
@@ -5882,7 +5815,7 @@ const lessonsData = [
         "shortAnswer": "Sé respetuoso y busca otro momento que sea conveniente para ella."
       },
       {
-        "id": "11B_q48",
+        "id": "11B_q40",
         "question": "¿Por qué es útil mencionarle brevemente alguna idea bíblica incluso si está ocupada?",
         "references": "",
         "directAnswer": "<strong>Mencionar una idea bíblica breve ayuda a dejar una semilla de verdad que puede despertar su curiosidad.</strong>",
@@ -5891,7 +5824,7 @@ const lessonsData = [
         "note": "SUGERENCIA: Algunos precursores hacen una notita con algunos textos bíblicos y se la dejan a la persona para que los lea más tarde."
       },
       {
-        "id": "11B_q49",
+        "id": "11B_q41",
         "question": "Incluso cuando la persona está ocupada, ¿cómo preparas el terreno para visitarla de nuevo?",
         "references": "",
         "directAnswer": "<strong>Podemos preparar el terreno dejando una pregunta pendiente que la persona desee contestar en nuestra próxima visita.</strong>",
@@ -5899,23 +5832,16 @@ const lessonsData = [
         "shortAnswer": "Planta la curiosidad para asegurar el interés en el próximo encuentro."
       },
       {
-        "id": "11B_q50",
-        "question": "¿Qué dices si ves que a la persona no le interesa el men-",
+        "id": "11B_q42",
+        "question": "¿Qué dices si ves que a la persona no le interesa el mensaje y reacciona mal o es cortante contigo? ¿Por qué actúas así? (w18.07 pág. 27 párr. 9 - pág. 28 párr. 1).",
         "references": "",
         "directAnswer": "Si no hay interés, <strong>mantenemos siempre una actitud calmada, amable y respetuosa para dejar la puerta abierta a futuro.</strong>",
         "deepAnswer": "Si la persona reacciona de forma cortante, recordamos que <em>la apacibilidad</em> es un fruto del espíritu. Nuestra respuesta debe reflejar los valores cristianos, sin tomarnos el rechazo de forma personal. <strong>Al retirarnos con dignidad, dejamos una buena impresión que quizás, en el futuro, cuando sus circunstancias cambien, le permita recordar que los Testigos de Jehová son personas respetuosas y amables.</strong>",
-        "shortAnswer": "Mantén siempre la calma y la bondad, pues reflejan nuestro mensaje."
+        "shortAnswer": "Mantén siempre la calma y la bondad, pues reflejan nuestro mensaje.",
+        "subtitle": "Lo que puede pasar al hacer revisitas"
       },
       {
-        "id": "11B_q51",
-        "question": "saje y reacciona mal o es cortante contigo? ¿Por qué actúas así?",
-        "references": "w18.07 pág. 27 párr. 9-pág. 28 párr. 1",
-        "directAnswer": "<strong>Actuamos así porque queremos reflejar la personalidad de Jehová y mantener una conducta excelente incluso bajo presión.</strong>",
-        "deepAnswer": "Al responder con mansedumbre, <strong>evitamos aumentar la tensión y cumplimos con el principio bíblico de no devolver mal por mal.</strong> Nuestra actitud ejemplar puede desarmar la hostilidad y, aunque en ese momento no haya interés, <strong>cumplimos con nuestro papel de dar un buen testimonio cristiano que honra a nuestro Dios Jehová.</strong>",
-        "shortAnswer": "La mansedumbre es nuestra mejor defensa y un poderoso testimonio."
-      },
-      {
-        "id": "11B_q52",
+        "id": "11B_q43",
         "question": "En esos casos, ¿qué haces para dejar una buena impresión?",
         "references": "Mat. 10:12, 13; Rom. 12:17, 18",
         "directAnswer": "Para dejar una buena impresión, <strong>saludamos amistosamente y ofrecemos algo que edifica de la Palabra de Dios.</strong>",
@@ -5923,23 +5849,15 @@ const lessonsData = [
         "shortAnswer": "Saludamos amistosamente y ofrecemos un mensaje que edifica."
       },
       {
-        "id": "11B_q53",
-        "question": "¿Qué deberías hacer si alguien llega mientras estás ha-",
+        "id": "11B_q44",
+        "question": "¿Qué deberías hacer si alguien llega mientras estás hablando con la persona? ¿Por qué?",
         "references": "",
         "directAnswer": "Si llega alguien mientras estás hablando con la persona, <strong>te disculpas brevemente y le ofreces un saludo cordial.</strong>",
         "deepAnswer": "Debemos ser considerados con todos los que se encuentran en la casa, mostrando el mismo respeto que le daríamos a la persona con la que ya estábamos conversando. <strong>Un saludo breve y amigable a la persona recién llegada demuestra tacto y consideración.</strong> <br> Esto también puede abrir una oportunidad para extender el mensaje del Reino a un nuevo oyente.",
         "shortAnswer": "Saluda cordialmente a la persona que llega."
       },
       {
-        "id": "11B_q54",
-        "question": "blando con la persona? ¿Por qué?",
-        "references": "",
-        "directAnswer": "<strong>Se le ofrece un saludo amable y se le invita a escuchar brevemente el tema que se está tratando.</strong>",
-        "deepAnswer": "<strong>El propósito es ser hospitalarios y corteses, sin ignorar a nadie.</strong> Un saludo cálido y una breve explicación del propósito de nuestra visita pueden invitar a la nueva persona a participar. <br> <strong>Esto muestra que valoramos a todas las personas y que nuestro mensaje es para quienes deseen escucharlo.</strong>",
-        "shortAnswer": "Saluda y explica brevemente el tema."
-      },
-      {
-        "id": "11B_q55",
+        "id": "11B_q45",
         "question": "Si te cuesta hacer revisitas, ¿por qué podría ayudarte acompañar a alguien que haga buenas revisitas?",
         "references": "",
         "directAnswer": "<strong>Acompañar a un publicador experimentado te permite observar y aprender de sus excelentes técnicas y enfoque.</strong>",
@@ -5947,8 +5865,8 @@ const lessonsData = [
         "shortAnswer": "Observa y aprende de sus excelentes técnicas."
       },
       {
-        "id": "11B_q56",
-        "question": "¿Por qué te ayudará a cumplir bien con tu ministerio pedirle a Jehová que te ayude a hacer revisitas?",
+        "id": "11B_q46",
+        "question": "¿Qué dices si ves que a la persona no le interesa el mensaje y reacciona mal o es cortante contigo? ¿Por qué actúas así? (w18.07 pág. 27 párr. 9 - pág. 28 párr. 1).",
         "references": "1 Cor. 3:6",
         "directAnswer": "Jehová es quien hace crecer la verdad en el corazón de las personas, por lo que <strong>su ayuda es esencial para el éxito del ministerio.</strong>",
         "deepAnswer": "La Biblia nos enseña que ni el que planta ni el que riega es algo, sino Dios, quien da el crecimiento (1 Cor. 3:6). <strong>Pedirle a Jehová sabiduría y guía en nuestras revisitas nos ayuda a enfocar nuestros esfuerzos en las personas receptivas y a decir lo que agrada a Dios.</strong> <br> Su espíritu nos capacita para ser mejores en nuestro ministerio y a cumplir con nuestra comisión de predicar.",
@@ -6126,7 +6044,8 @@ const lessonsData = [
         "references": "",
         "directAnswer": "Jesús está capacitado porque <strong>conoce profundamente a Jehová, siente empatía por nosotros y es nuestro guía perfecto.</strong>",
         "deepAnswer": "Jesús demuestra ser un Amo ideal porque <strong>tiene el espíritu de Jehová (Is. 11:2, 3), conoce profundamente a sus ovejas (Juan 10:14, 15) y nos ha dejado un modelo perfecto para que sigamos sus pasos (1 Ped. 2:21)</strong>. Además, <strong>como Pastor, él se asegura de saciarnos espiritualmente y protegernos, tal como promete Apocalipsis 7:16, 17.</strong>",
-        "shortAnswer": "Jesús es el Amo perfecto porque nos guía con amor, sabiduría y empatía."
+        "shortAnswer": "Jesús es el Amo perfecto porque nos guía con amor, sabiduría y empatía.",
+        "subtitle": "Imita la forma de ser de Jesús"
       },
       {
         "id": "13A_q2",
@@ -6248,7 +6167,8 @@ const lessonsData = [
         "references": "Mat. 9:10-13; Luc. 7:36-50",
         "directAnswer": "<strong>Jesús les demostró cariño al interesarse personalmente por ellos, sin importar su reputación social.</strong>",
         "deepAnswer": "En Mateo 9:10-13, vemos a Jesús <strong>comiendo con recaudadores de impuestos, mostrando que deseaba sanar a quienes reconocían su necesidad espiritual</strong>. En Lucas 7:36-50, <strong>trató a una mujer pecadora con dignidad y comprensión</strong>, validando que el arrepentimiento sincero y el amor profundo son lo que realmente valora Jehová.",
-        "shortAnswer": "Jesús veía el potencial espiritual incluso en los marginados."
+        "shortAnswer": "Jesús veía el potencial espiritual incluso en los marginados.",
+        "subtitle": "Trabaja duro, igual que Jesús"
       },
       {
         "id": "13A_q16",
@@ -6272,7 +6192,8 @@ const lessonsData = [
         "references": "Mar. 6:31-34",
         "directAnswer": "<strong>Jesús sacrificaba su descanso por las necesidades ajenas</strong>, y <strong>yo puedo imitarlo viendo las interrupciones como oportunidades para servir.</strong>",
         "deepAnswer": "En Marcos 6:31-34, vemos que cuando Jesús buscaba tranquilidad, la gente lo encontró y él no los rechazó; al contrario, les enseñó con compasión. Podemos imitarlo <strong>preparándonos mentalmente para ser flexibles y priorizando el bienestar espiritual de los demás sobre nuestra propia comodidad.</strong>",
-        "shortAnswer": "Imita a Jesús priorizando las necesidades ajenas sobre tu descanso."
+        "shortAnswer": "Imita a Jesús priorizando las necesidades ajenas sobre tu descanso.",
+        "subtitle": "Mantén las cosas materiales en su lugar"
       },
       {
         "id": "13A_q19",
@@ -6304,7 +6225,8 @@ const lessonsData = [
         "references": "",
         "directAnswer": "<strong>Jesús respetaba a todos porque entendía que cada persona tiene el valor suficiente para ser objeto del amor de Dios.</strong>",
         "deepAnswer": "Sabemos que no discriminaba porque <strong>trataba con igual dignidad a hombres, mujeres, judíos y samaritanos.</strong> <strong>Al resaltar las virtudes de las personas en lugar de sus errores, Jesús les daba la confianza necesaria para mejorar.</strong> Como sus discípulos, debemos esforzarnos por ver en cada individuo a alguien que merece nuestro respeto y cariño.",
-        "shortAnswer": "Trata a todos con dignidad, reconociendo el valor que Jehová ve en ellos."
+        "shortAnswer": "Trata a todos con dignidad, reconociendo el valor que Jehová ve en ellos.",
+        "subtitle": "Sigue fielmente los pasos de Jesús"
       },
       {
         "id": "13A_q23",
@@ -6410,7 +6332,7 @@ const lessonsData = [
     "questions": [
       {
         "id": "13B_q1",
-        "question": "¿Qué implica enseñar? (it-2 pág. 273). Da cursos bíblicos que motiven al estudiante a progresar.",
+        "question": "¿Qué implica enseñar? (it-2 pág. 273).",
         "references": "parte 1",
         "directAnswer": "<strong>Enseñar implica transmitir conocimientos de manera que el estudiante comprenda, acepte y aplique lo que aprende en su vida.</strong>",
         "deepAnswer": "Según la obra <em>Perspicacia</em>, enseñar va más allá de solo dar información; requiere <strong>instrucción activa que moldee el corazón.</strong> Para motivar al estudiante a progresar, debemos <strong>usar métodos que despierten su interés y le ayuden a ver cómo la verdad bíblica transforma su personalidad para agradar a Jehová.</strong>",
@@ -6422,7 +6344,8 @@ const lessonsData = [
         "references": "",
         "directAnswer": "<strong>Se le llama el Gran Instructor porque su sabiduría es infinita y sus métodos son perfectos para educar a la humanidad.</strong>",
         "deepAnswer": "<strong>Vemos a Jehová a través de su creación y de cómo guía a su pueblo mediante su Palabra escrita, la Biblia.</strong> <strong>Lo 'oímos' cuando prestamos atención a las instrucciones espirituales que recibimos en las reuniones, el estudio personal y la dirección de su organización bajo la guía del espíritu santo.</strong>",
-        "shortAnswer": "Es nuestro Gran Instructor porque nos guía mediante su Palabra y su organización."
+        "shortAnswer": "Es nuestro Gran Instructor porque nos guía mediante su Palabra y su organización.",
+        "subtitle": "Nuestro Gran Instructor"
       },
       {
         "id": "13B_q3",
@@ -6442,7 +6365,7 @@ const lessonsData = [
       },
       {
         "id": "13B_q5",
-        "question": "¿Cómo usa Jehová hoy su espíritu para enseñarnos? (Juan 14:26). Jesús, el Gran Maestro.",
+        "question": "¿Cómo usa Jehová hoy su espíritu para enseñarnos? (Juan 14:26).",
         "references": "Juan 13:13",
         "directAnswer": "<strong>Jehová usa su espíritu santo para ayudarnos a recordar las enseñanzas de Jesús y entender las verdades espirituales profundas.</strong>",
         "deepAnswer": "Como indica Juan 14:26, <strong>el espíritu santo funciona como un ayudante que aclara nuestra mente.</strong> Al reconocer a Jesús como nuestro Maestro (Juan 13:13), <strong>permitimos que el espíritu nos guíe a aplicar sus enseñanzas, asegurándonos de que nuestra conducta sea un reflejo exacto del modelo que Cristo nos dejó.</strong>",
@@ -6454,7 +6377,8 @@ const lessonsData = [
         "references": "Mat. 4:7, 10; Juan 7:16",
         "directAnswer": "<strong>Jesús basaba todas sus enseñanzas en la Palabra de Dios, no en sus propias ideas u opiniones humanas.</strong>",
         "deepAnswer": "Al usar con frecuencia la expresión 'está escrito', Jesús demostraba que <strong>las Escrituras tenían la autoridad final</strong> (Mat. 4:7, 10). Él enseñaba lo que Jehová le había mandado (Juan 7:16), estableciendo así el modelo para nosotros: <strong>el contenido de nuestros cursos bíblicos siempre debe estar fundamentado en la Biblia.</strong>",
-        "shortAnswer": "Jesús siempre basó sus enseñanzas en la autoridad de la Palabra de Dios."
+        "shortAnswer": "Jesús siempre basó sus enseñanzas en la autoridad de la Palabra de Dios.",
+        "subtitle": "Jesús, el Gran Maestro"
       },
       {
         "id": "13B_q7",
@@ -6473,39 +6397,41 @@ const lessonsData = [
         "shortAnswer": "Jehová usa su espíritu santo para guiarnos hacia la verdad mediante una Biblia clara, fiel y accesible en nuestro propio idioma."
       },
       {
-        "id": "13B_q10",
-        "question": "¿Por qué volvieron con las manos vacías los guardias que fueron a arrestar a Jesús? (Juan 7:45, 46). Según Mateo 7:28, 29,",
+        "id": "13B_q9",
+        "question": "¿Por qué volvieron con las manos vacías los guardias que fueron a arrestar a Jesús? (Juan 7:45, 46).",
         "references": "",
         "directAnswer": "<strong>Los guardias no arrestaron a Jesús porque quedaron profundamente impactados con su forma de enseñar, admitiendo que ningún hombre había hablado jamás como él.</strong>",
         "deepAnswer": "La enseñanza de Jesús se destacaba no por simple elocuencia, sino porque <strong>transmitía la verdad y la sabiduría procedentes de su Padre, Jehová.</strong> Sus palabras tenían un poder y una autoridad que desarmaron por completo a los oficiales, demostrando que un mensaje que proviene del corazón de Dios supera cualquier resistencia. Para nosotros como precursores, este relato es un recordatorio de que <strong>cuando basamos nuestra enseñanza en las Escrituras, logramos un impacto que va más allá de nuestras propias capacidades de oratoria.</strong>",
         "shortAnswer": "Jesús enseñaba con una sabiduría y autoridad divinas que desarmaban a sus opositores."
       },
       {
-        "id": "13B_q11",
-        "question": "¿por qué se quedaba la gente impactada cuando Jesús enseñaba?",
+        "id": "13B_q10",
+        "question": "¿Por qué volvieron con las manos vacías los guardias que fueron a arrestar a Jesús? (Juan 7:45, 46).",
         "references": "",
         "directAnswer": "<strong>La muchedumbre quedaba sumamente impactada porque Jesús les enseñaba como una persona que tiene autoridad divina, marcando un claro contraste con los escribas de su época.</strong>",
         "deepAnswer": "A diferencia de los líderes religiosos que basaban su instrucción en áridas tradiciones humanas y citas interminables de otros rabinos, <strong>Jesús enseñaba con la autoridad inequívoca de la Palabra de Dios.</strong> Sus explicaciones eran claras, sencillas, lógicas y apelaban directamente al corazón de las personas sinceras. Al imitar su dechado de enseñanza, nosotros también <strong>debemos esforzarnos por utilizar siempre la Biblia como la máxima autoridad en nuestras conversaciones espirituales.</strong>",
         "shortAnswer": "Jesús enseñaba verdades claras y lógicas con la autoridad de la Palabra de Dios."
       },
       {
-        "id": "13B_q12",
-        "question": "¿Qué cuatro cosas hicieron que Esdras fuera un buen maestro?",
+        "id": "13B_q11",
+        "question": "Según Mateo 7:28, 29, ¿por qué se quedaba la gente impactada cuando Jesús enseñaba?",
         "references": "Esd. 7:10",
         "directAnswer": "<strong>Esdras fue un excelente maestro porque preparó su corazón, consultó la ley de Jehová, la puso en práctica y luego enseñó sus decretos en Israel.</strong>",
         "deepAnswer": "Esdras nos dejó un maravilloso patrón de preparación en cuatro pasos fundamentales: <strong>primero, preparó su corazón al cultivar una actitud receptiva; segundo, estudió concienzudamente la Palabra de Dios; tercero, aplicó personalmente lo aprendido en su vida diaria; y cuarto, enseñó con eficacia a los demás.</strong> Este excelente ejemplo nos enseña que <strong>para ser maestros eficientes en el ministerio, primero debemos vivir la verdad nosotros mismos antes de intentar sembrarla en el corazón de los estudiantes.</strong>",
-        "shortAnswer": "Esdras preparó su corazón, estudió la verdad, la aplicó y luego la enseñó con eficacia."
+        "shortAnswer": "Esdras preparó su corazón, estudió la verdad, la aplicó y luego la enseñó con eficacia.",
+        "subtitle": "Prepárate bien y piensa en el estudiante"
       },
       {
-        "id": "13B_q13",
+        "id": "13B_q12",
         "question": "Según 2 Samuel 12:1-7, ¿cómo se nota que el profeta Natán se preparó bien antes de hablar con David?",
         "references": "",
         "directAnswer": "<strong>Natán demostró una excelente preparación al utilizar una ilustración sumamente conmovedora y adaptada a la vida de David, logrando que el rey dictara su propio juicio antes de aplicar la censura.</strong>",
         "deepAnswer": "El profeta Natán mostró gran tacto y discernimiento al diseñar una historia sobre un pastor y su ovejita que el propio David, siendo un ex pastor, comprendería y sentiría de inmediato. En lugar de confrontar directamente al rey de manera áspera, <strong>preparó el terreno con empatía y valentía, permitiendo que la conciencia de David despertara por sí sola.</strong> <strong>Esto nos enseña la importancia de prepararnos bien para usar analogías y preguntas bien pensadas que lleguen al corazón del estudiante sin ponerlo a la defensiva.</strong>",
-        "shortAnswer": "Natán usó una ilustración empática y bien pensada que despertó la conciencia de David sin rodeos destructivos."
+        "shortAnswer": "Natán usó una ilustración empática y bien pensada que despertó la conciencia de David sin rodeos destructivos.",
+        "subtitle": "Prepárate bien y piensa en el estudiante"
       },
       {
-        "id": "13B_q14",
+        "id": "13B_q13",
         "question": "¿Qué implica prepararse para cada sesión tomando en cuenta las necesidades del estudiante?",
         "references": "w20.10 pág. 8 párrs. 7, 8",
         "directAnswer": "Implica ir más allá de solo repasar la información técnica de la lección; <strong>requiere que meditemos con anticipación en la personalidad, el trasfondo y las dificultades específicas del estudiante.</strong>",
@@ -6513,107 +6439,72 @@ const lessonsData = [
         "shortAnswer": "Significa adaptar con amor y oración el contenido de la lección a las circunstancias individuales del estudiante."
       },
       {
-        "id": "13B_q15",
-        "question": "Pregúntate: “¿En qué debe mejorar el estudiante para",
+        "id": "13B_q14",
+        "question": "Pregúntate: “¿En qué debe mejorar el estudiante para que progrese espiritualmente? ¿Qué ideas tal vez le cueste comprender o aceptar? ¿Cómo le llegaré al corazón?”.",
         "references": "",
         "directAnswer": "<strong>Hacernos esta pregunta nos permite fijar metas espirituales claras y realistas para el estudiante, guiándolo de forma intencionada en su progreso.</strong>",
         "deepAnswer": "Meditar en los aspectos donde el estudiante debe mejorar nos ayuda a no dar la sesión a ciegas o de manera monótona. <strong>Al identificar con claridad sus debilidades espirituales, podemos dirigir las conversaciones, las ilustraciones y las metas de estudio de una manera que atienda directamente esas necesidades.</strong> <strong>Esto nos capacita para ser verdaderos colaboradores de Jehová, ayudando al estudiante a cultivar cualidades cristianas duraderas.</strong>",
-        "shortAnswer": "Identificar las necesidades del estudiante nos permite guiarlo con un propósito espiritual claro."
+        "shortAnswer": "Identificar las necesidades del estudiante nos permite guiarlo con un propósito espiritual claro.",
+        "note": "Comienza a prepararte orándole a Jehová por el estudiante y sus necesidades. Pídele que te ayude a llegarle al corazón (Hech. 16:14; Col. 1:9, 10)."
       },
       {
-        "id": "13B_q16",
-        "question": "que progrese espiritualmente? ¿Qué ideas tal vez le",
-        "references": "",
-        "directAnswer": "<strong>Prever las enseñanzas bíblicas o las normas morales que al estudiante le cueste aceptar nos permite preparar explicaciones más empáticas, sencillas y bíblicamente fundamentadas.</strong>",
-        "deepAnswer": "Cada estudiante viene con una crianza o creencias arraigadas que pueden chocar con las verdades de la Biblia. <strong>Al anticipar qué puntos específicos de la lección podrían causarle conflicto moral o intelectual, podemos seleccionar con prudencia los textos y las ilustraciones adicionales que le ayuden a razonar de forma calmada.</strong> Así evitamos debates innecesarios y lo ayudamos a abrir su mente a la guía del espíritu de Jehová.",
-        "shortAnswer": "Anticipar los puntos difíciles nos ayuda a enseñar con empatía y a derribar prejuicios con paciencia."
-      },
-      {
-        "id": "13B_q17",
-        "question": "¿Qué ideas o textos bíblicos le costará comprender o aceptar? ¿Cómo le llegará al corazón?",
+        "id": "13B_q15",
+        "question": "Pregúntate: “¿En qué debe mejorar el estudiante para que progrese espiritualmente? ¿Qué ideas tal vez le cueste comprender o aceptar? ¿Cómo le llegaré al corazón?”.",
         "references": "Hech. 16:14; Col. 1:9, 10",
         "directAnswer": "<strong>La oración nos ayuda a reconocer con humildad que solo Jehová puede hacer crecer la verdad y abrir el corazón de nuestro estudiante a través de su espíritu santo.</strong>",
         "deepAnswer": "El texto de Hechos 16:14 muestra que es Jehová quien <em>'abre de par en par el corazón'</em> para recibir el mensaje divino. <strong>Al orar fervientemente por el estudiante antes de la preparación y de la sesión, demostramos que dependemos de la bendición de Dios y no de nuestras propias habilidades.</strong> <strong>Le pedimos a Jehová que nos dé discernimiento para llegar al corazón y que ayude al estudiante a andar de una manera digna de él</strong>, produciendo fruto en toda buena obra (Col. 1:9, 10).",
         "shortAnswer": "Oramos porque dependemos del espíritu de Jehová para tocar el corazón del estudiante.",
-        "note": "Nota: Comienza a prepararte orándole a Jehová por el estudiante y sus necesidades. Pídele que te ayude a llegarle al corazón."
+        "note": "Comienza a prepararte orándole a Jehová por el estudiante y sus necesidades. Pídele que te ayude a llegarle al corazón (Hech. 16:14; Col. 1:9, 10)."
       },
       {
-        "id": "13B_q18",
-        "question": "De la vida, ¿por qué debes fijarte en...",
-        "references": "",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": "",
-        "subQuestions": [
-          {
-            "id": "13B_q18_a",
-            "question": "De la vida, ¿por qué debes fijarte en el título de la lección?",
-            "references": "",
-            "directAnswer": "<strong>Debes fijarte en el título de la lección porque este establece la verdad central y el enfoque espiritual que se desarrollará en todo el estudio.</strong>",
-            "deepAnswer": "El título de la lección en el libro <em>¡Disfrute de la vida!</em> sirve como un ancla temática. Al analizarlo de antemano, <strong>el maestro puede enfocar la conversación en los aspectos más importantes de la verdad bíblica que se trata, asegurándose de que el estudiante comprenda desde el principio cuál es el objetivo de la lección y cómo esta le beneficia personalmente.</strong>",
-            "shortAnswer": "El título define el tema central y el propósito espiritual de la lección."
-          },
-          {
-            "id": "13B_q18_b",
-            "question": "De la vida, ¿por qué debes fijarte en los textos con una indicación para que se lean?",
-            "references": "",
-            "directAnswer": "<strong>Debes fijarte en los textos indicados porque constituyen la columna vertebral doctrinal y son la base de autoridad para todo lo que aprendemos.</strong>",
-            "deepAnswer": "<strong>Los textos que tienen una indicación para ser leídos son esenciales porque proporcionan la fuente inspirada de la enseñanza.</strong> Al identificarlos, el maestro puede preparar preguntas de análisis que ayuden al estudiante a razonar sobre las Escrituras, <strong>permitiendo que sea la Palabra de Dios, y no la opinión del maestro, la que moldee el corazón y la vida del estudiante.</strong>",
-            "shortAnswer": "Son la base bíblica fundamental que sustenta las enseñanzas de la lección."
-          },
-          {
-            "id": "13B_q18_c",
-            "question": "De la vida, ¿por qué debes fijarte en las imágenes y los videos?",
-            "references": "",
-            "directAnswer": "<strong>Debes fijarte en las imágenes y los videos porque son ayudas visuales diseñadas para hacer que las verdades bíblicas sean más fáciles de asimilar, recordar y sentir.</strong>",
-            "deepAnswer": "<strong>Las imágenes y los videos apelan a las emociones y a la imaginación del estudiante.</strong> Al preparar estas secciones, <strong>el maestro puede usar preguntas de reflexión que ayuden al estudiante a visualizarse a sí mismo en las situaciones descritas, lo cual facilita que la verdad bíblica pase de la cabeza al corazón</strong>, siendo una herramienta poderosa para la enseñanza dinámica.",
-            "shortAnswer": "Ayudan a visualizar y asimilar profundamente las enseñanzas bíblicas."
-          },
-          {
-            "id": "13B_q18_d",
-            "question": "De la vida, ¿por qué debes fijarte en el resumen, el repaso, el recuadro 'Propóngase esto' y la sección 'Descubra algo más'?",
-            "references": "",
-            "directAnswer": "Debes fijarte en estas secciones finales porque <strong>están diseñadas para evaluar la comprensión del estudiante y motivarlo a aplicar activamente lo aprendido en su vida diaria.</strong>",
-            "deepAnswer": "El resumen, el repaso y el recuadro 'Propóngase esto' <strong>permiten medir cuánto ha asimilado el estudiante y le ayudan a establecer metas teocráticas realistas.</strong> Por otro lado, la sección 'Descubra algo más' <strong>fomenta el estudio personal y la investigación.</strong> Al dominar estas partes, el maestro guía al estudiante a pasar del conocimiento teórico a la acción práctica, fomentando un progreso espiritual constante.",
-            "shortAnswer": "Sirven para evaluar el progreso y motivar al estudiante a aplicar lo aprendido."
-          }
-        ]
-      },
-      {
-        "id": "13B_q19",
-        "question": "¿Cómo te ayudará hacer todo esto a centrarte en las ideas principales al prepararte? Marca las preguntas u oraciones que crees que serán especialmente útiles para el estudiante.",
+        "id": "13B_q16",
+        "question": "¿Cómo te ayudará hacer todo esto a centrarte en las ideas principales al prepararte? Marca las preguntas u oraciones que crees que serán especialmente útiles para el estudiante. ¿Por qué te ayudará hacer eso? ¿Y cómo beneficiará al estudiante?",
         "references": "",
         "directAnswer": "Hacer todo este análisis <strong>nos ayuda a discriminar la información secundaria y a mantenernos concentrados únicamente en los puntos clave doctrinales durante el estudio.</strong>",
         "deepAnswer": "<strong>Una preparación bien estructurada evita que nos desviemos del tema con explicaciones largas o detalles históricos innecesarios que confundan al estudiante.</strong> Al marcar los textos principales y definir de antemano el objetivo de cada sección, <strong>podemos formular preguntas sencillas y directas que ayuden al estudiante a descubrir la verdad por sí mismo.</strong> Esto mantiene el curso bíblico dinámico, fluido y enfocado en las ideas que realmente impulsarán su crecimiento espiritual.",
         "shortAnswer": "Tener un enfoque claro nos permite enseñar con sencillez y evitar desvíos innecesarios en la lección."
       },
       {
-        "id": "13B_q20",
-        "question": "¿Por qué",
-        "references": "",
-        "directAnswer": "Determinar qué textos no copiados de la lección son más útiles <strong>nos permite adaptar la enseñanza directamente a las necesidades, dudas y circunstancias particulares del estudiante.</strong>",
-        "deepAnswer": "Al prepararnos bien, <strong>debemos discernir qué textos bíblicos adicionales tocarán la fibra sensible del estudiante de acuerdo con su situación actual.</strong> La Palabra de Dios tiene poder para transformar vidas, pero su impacto es mayor cuando se aplica de forma oportuna a los desafíos específicos de la persona (Heb. 4:12). Esto transforma el estudio en una guía espiritual personalizada y no en un simple análisis académico.",
-        "shortAnswer": "Permite adaptar la verdad bíblica a las necesidades y circunstancias específicas del estudiante."
-      },
-      {
-        "id": "13B_q21",
-        "question": "te ayudará hacer eso? ¿Y cómo beneficiará al estudiante?",
-        "references": "",
-        "directAnswer": "<strong>A nosotros nos ayudará a dirigir el estudio de forma fluida y enfocada</strong>, mientras que <strong>al estudiante le permitirá asimilar las verdades bíblicas sin sentirse abrumado.</strong>",
-        "deepAnswer": "<strong>Planificar de antemano qué textos se leerán evita que nos desviemos del tema principal y optimiza el tiempo de la sesión.</strong> Para el estudiante, este enfoque ordenado <em>facilita la comprensión</em> de los puntos clave, permitiendo que las enseñanzas de Jehová echen raíces en su corazón de manera progresiva y sin distracciones.",
-        "shortAnswer": "Optimiza el tiempo del maestro y evita que el estudiante se sature de información."
-      },
-      {
-        "id": "13B_q22",
-        "question": "¿Qué ventajas le has visto a buscar la relación entre los textos y la idea principal de la lección?",
+        "id": "13B_q17",
+        "question": "Al preparar cada lección del curso interactivo Disfrute de la vida, ¿por qué debes fijarte en...",
         "references": "",
         "directAnswer": "<strong>Ayuda a que el estudiante perciba claramente que las enseñanzas provienen de la Biblia y no de criterios humanos, fortaleciendo así su fe en Jehová.</strong>",
         "deepAnswer": "Cuando ayudamos al estudiante a conectar un texto bíblico con la idea clave del párrafo, <strong>fomentamos su discernimiento espiritual.</strong> Esta destreza <strong>le enseña a usar la Palabra de Dios como la autoridad máxima para tomar decisiones</strong>, permitiéndole ver el hilo conductor de la verdad en toda la lección.",
-        "shortAnswer": "Enseña al estudiante a razonar usando la Biblia como la autoridad suprema de sus creencias."
+        "shortAnswer": "Enseña al estudiante a razonar usando la Biblia como la autoridad suprema de sus creencias.",
+        "subQuestions": [
+          {
+            "id": "13B_q17_a",
+            "question": "... el título de la lección?",
+            "directAnswer": "Para tener clara **la idea central de la lección** y dirigir toda la enseñanza hacia ese objetivo principal.",
+            "deepAnswer": "El título resume la verdad fundamental que el estudiante debe asimilar. Enfocarnos en él nos ayuda a **no desviarnos con explicaciones secundarias** y a asegurar que el estudiante entienda el punto clave de la clase.",
+            "shortAnswer": "Para mantener el enfoque en la idea principal del tema."
+          },
+          {
+            "id": "13B_q17_b",
+            "question": "... los textos con una indicación para que se lean?",
+            "directAnswer": "Para **dar prioridad a los textos bíblicos clave** que prueban las ideas de la lección.",
+            "deepAnswer": "La Palabra de Dios tiene poder transformador. Al leer los textos principales, **hacemos que sea Jehová quien enseñe directamente al estudiante**, construyendo su fe sobre cimientos divinos sólidos.",
+            "shortAnswer": "Dar prioridad a la lectura directa de los textos bíblicos principales."
+          },
+          {
+            "id": "13B_q17_c",
+            "question": "... las imágenes y los videos?",
+            "directAnswer": "Para **aprovechar los recursos visuales**, que ayudan a entender y recordar las ideas de manera interactiva.",
+            "deepAnswer": "Las imágenes y los videos están diseñados para tocar el corazón y aclarar conceptos complejos. Prepararlos de antemano nos permite **hacer preguntas que inviten al estudiante a reflexionar en lo que ve**.",
+            "shortAnswer": "Usar los videos e imágenes para tocar el corazón del estudiante."
+          },
+          {
+            "id": "13B_q17_d",
+            "question": "... el resumen, el repaso, el recuadro “Propóngase esto” y la sección “Descubra algo más”?",
+            "directAnswer": "Para ayudar al estudiante a **repasar las ideas principales y ponerse metas prácticas** de crecimiento espiritual.",
+            "deepAnswer": "Estas secciones finales consolidan el aprendizaje. El repaso evalúa lo aprendido; 'Propóngase esto' ofrece metas realistas de crecimiento personal; y 'Descubra algo más' satisface a los estudiantes que desean profundizar más en el tema.",
+            "shortAnswer": "Utilizar las herramientas finales para consolidar el aprendizaje y fijar metas."
+          }
+        ]
       },
       {
-        "id": "13B_q23",
-        "question": "¿Por qué es práctico que escribas notas breves en la publicación?",
+        "id": "13B_q18",
+        "question": "@cómo te ayudará hacer todo esto a centrarte en las ideas principales al prepararte? Marca las preguntas u oraciones que crees que serán especialmente útiles para el estudiante. ¿Por qué te ayudará hacer eso? ¿Y cómo beneficiará al estudiante?",
         "references": "",
         "directAnswer": "Escribir notas breves <strong>nos sirve de guía visual rápida para recordar qué puntos resaltar, qué preguntas adicionales hacer y cómo aplicar los textos de forma sencilla.</strong>",
         "deepAnswer": "Mantener anotaciones breves en nuestra publicación de estudio <strong>evita que demos explicaciones demasiado largas u opiniones personales.</strong> Tal como aconseja el folleto <em>Una obra de amor</em>, <strong>estas notas sencillas nos ayudan a mantener el enfoque en el objetivo de la lección y a responder de manera ágil a las necesidades del estudiante.</strong>",
@@ -6621,45 +6512,29 @@ const lessonsData = [
         "note": "Nota al instructor: Repase puntos principales del apéndice C “Cómo dirigir cursos bíblicos con el manual Disfrute de la vida” del folleto Una obra de amor."
       },
       {
-        "id": "13B_q24",
-        "question": "¿Por qué le ayudará al estudiante que le muestres las anotaciones y marcas que hiciste en tu publicación cuando te preparaste?",
-        "references": "Luc. 6:40",
-        "directAnswer": "Ver nuestras propias marcas <strong>le enseña visualmente la importancia de la preparación personal y lo motiva a imitar ese buen hábito de estudio.</strong>",
-        "deepAnswer": "En armonía con Lucas 6:40, el estudiante tiende a imitar los hábitos de su maestro; por eso, <strong>al mostrarle nuestro libro preparado, le transmitimos el valor que le damos a la verdad.</strong> Esta lección práctica le demuestra de manera sencilla <em>cómo buscar las respuestas</em> y destacar las palabras clave, capacitándolo para su propio progreso espiritual.",
-        "shortAnswer": "Enseña con el ejemplo la importancia de prepararse y cómo hacerlo de forma práctica.",
-        "subtitle": "Enseña al estudiante a prepararse"
-      },
-      {
-        "id": "13B_q25",
-        "question": "¿Cómo podrías animar al estudiante a que él también marque las palabras que le ayuden a recordar la respuesta?",
-        "references": "",
-        "directAnswer": "Podemos animarlo <strong>haciéndolo juntos durante la lección, prestándole nuestro propio libro de muestra o guiándolo con paciencia para subrayar solo la idea principal.</strong>",
-        "deepAnswer": "Durante el estudio, podemos decirle con bondad: \"Mira cómo subrayé yo esta palabra para recordar la respuesta; ¿por qué no intentas marcarla tú también en tu manual?\". Al experimentar la satisfacción de identificar por sí mismo la respuesta clave, <strong>el estudiante ganará confianza y desarrollará habilidades de estudio personales que le servirán para toda la vida.</strong>",
-        "shortAnswer": "Se logra guiándolo con amor y paciencia a marcar juntos las palabras clave durante la sesión."
-      },
-      {
-        "id": "13B_q26",
-        "question": "¿Cómo le beneficiará que lo animes a responder con sus propias palabras? Invita al estudiante a leer los textos bíblicos cuando se prepare.",
+        "id": "13B_q19",
+        "question": "¿Cómo le beneficiará que lo animes a responder con sus propias palabras?",
         "references": "",
         "directAnswer": "Le beneficia enormemente porque <strong>le ayuda a procesar e interiorizar la verdad, lo que demuestra que realmente comprende lo que está aprendiendo.</strong>",
         "deepAnswer": "Cuando el estudiante se expresa con sus propias palabras en vez de limitarse a leer el texto, nos permite a nosotros <em>evaluar su verdadero entendimiento</em>. Este valioso ejercicio <strong>fortalece su capacidad de razonar, le ayuda a hacer suya la verdad y lo prepara de manera excelente para defender su fe ante otros en el futuro.</strong>",
         "shortAnswer": "Asegura que el estudiante comprenda de verdad la información y la grabe en su corazón."
       },
       {
-        "id": "13B_q27",
-        "question": "¿Qué es probable que necesite saber para encontrarlos, y cómo podrías ayudarlo tú?",
+        "id": "13B_q20",
+        "question": "Invita al estudiante a leer los textos bíblicos cuando se prepare. ¿Qué es probable que necesite saber para encontrarlos, y cómo podrías ayudarlo tú? (lffi pág. 2).",
         "references": "lffi pág. 2",
         "directAnswer": "Es muy probable que necesite <strong>aprender el orden de los libros bíblicos y cómo usar las citas</strong>; <strong>podemos ayudarlo enseñándole a usar el índice del manual de estudio.</strong>",
         "deepAnswer": "Un estudiante nuevo suele desconocer la estructura de la Biblia, por lo que <strong>debemos enseñarle a localizar los textos de forma práctica.</strong> Podemos usar la guía visual de la página 2 del manual <em>Disfrute de la vida</em> (lffi) para explicarle el uso del índice, los capítulos y los versículos, practicando juntos tanto en el formato impreso como en la aplicación JW Library.",
         "shortAnswer": "Necesita aprender a usar el índice y las citas bíblicas, lo cual podemos enseñarle con las ayudas del manual."
       },
       {
-        "id": "13B_q28",
+        "id": "13B_q21",
         "question": "Si tú te preparas y eres regular en el estudio, ¿qué le estarás enseñando al estudiante?",
         "references": "",
         "directAnswer": "<strong>Le estaremos enseñando que el estudio de la Biblia es una prioridad sagrada en nuestra vida que merece respeto, orden y autodisciplina.</strong>",
         "deepAnswer": "Nuestro ejemplo constante de puntualidad y preparación <strong>le demuestra que la adoración a Jehová no es algo secundario, sino un estilo de vida basado en el amor a la verdad.</strong> Al vernos siempre listos y con un corazón dispuesto, <strong>el estudiante comprenderá que la regularidad en el alimento espiritual es la clave para cultivar una relación sólida con Dios.</strong>",
-        "shortAnswer": "Que el estudio personal es una prioridad espiritual que requiere constancia y devoción."
+        "shortAnswer": "Que el estudio personal es una prioridad espiritual que requiere constancia y devoción.",
+        "subtitle": "Enseña al estudiante a prepararse"
       }
     ],
     "image": "public_preaching.png",
@@ -6684,7 +6559,7 @@ const lessonsData = [
     "questions": [
       {
         "id": "14A_q1",
-        "question": "¿Qué buen uso hizo Jesús de las preguntas en los siguientes textos? Mateo 16:13, 15; Mateo 17:24-27; Juan 11:26. Da cursos bíblicos que motiven al estudiante a progresar (parte 2).",
+        "question": "¿Qué buen uso hizo Jesús de las preguntas en los siguientes textos? Mateo 16:13, 15; Mateo 17:24-27; Juan 11:26.",
         "references": "",
         "directAnswer": "<strong>Jesús utilizó preguntas con destreza para conocer lo que pensaban sus discípulos, ayudarlos a razonar sobre principios bíblicos y fortalecer su fe personal.</strong>",
         "deepAnswer": "En Mateo 16:13, 15, <strong>Jesús usó preguntas de opinión para evaluar la convicción de sus discípulos</strong>, ayudándolos a expresar su fe personal en él. En Mateo 17:24-27, <strong>empleó preguntas de razonamiento para guiar a Pedro a la conclusión correcta</strong> sobre los impuestos sin ofenderlo. Y en Juan 11:26, tras revelar una gran verdad, <strong>usó una pregunta directa para consolar a Marta y hacerla reflexionar sobre su propia esperanza en la resurrección.</strong>",
@@ -7048,11 +6923,12 @@ const lessonsData = [
         "directAnswer": "<strong>Podemos ayudarlos animándolos desde el mismo principio a compartir de manera informal lo que aprenden con su familia y amigos mediante el uso de herramientas sencillas como los tratados.</strong>",
         "deepAnswer": "Es vital inculcar en el estudiante el deseo de predicar desde el inicio de su estudio. Una forma excelente de lograrlo es <strong>sugiriéndole ideas prácticas, como regalar un tratado bíblico a un familiar o amigo que esté pasando por una situación difícil.</strong> Durante la sesión de estudio, podemos hacer breves ensayos preguntándole: <em>“¿Cómo le explicarías esta verdad a un conocido usando tus propias palabras?”</em>. Esto les ayuda a vencer el temor y a experimentar el gozo de dar desde temprano.",
         "shortAnswer": "Anímalos a predicar de manera informal mediante el uso de tratados y sencillas sesiones de práctica durante el estudio.",
-        "note": "SUGERENCIA: Hay precursores que les dan a sus estudiantes algunos tratados para que se los den a sus amigos y familiares. Otros ensayan con ellos cómo predicar informalmente (lff lección 22)."
+        "note": "SUGERENCIA: Hay precursores que les dan a sus estudiantes algunos tratados para que se los den a sus amigos y familiares. Otros ensayan con ellos cómo predicar informalmente (lff lección 22).",
+        "subtitle": "Prepáralos para predicar"
       },
       {
         "id": "15A_q2",
-        "question": "¿cómo le ayudarías a darse cuenta de los cambios que debe hacer antes de dar ese paso? Ayúdalos a ser cristianos maduros.",
+        "question": "Si el estudiante te dice que quiere salir a predicar, ¿cómo le ayudarías a darse cuenta de los cambios que debe hacer antes de dar ese paso? (Sal. 24:3-6; 50:16; Rom. 2:21-24; 1 Cor. 6:9, 10; Apoc. 18:2, 4; lff pág. 254).",
         "references": "Sal. 24:3-6; 50:16; Rom. 2:21-24; 1 Cor. 6:9, 10; Apoc. 18:2, 4; lff pág. 254",
         "directAnswer": "<strong>Le ayudaría analizando con tacto y amor las normas morales y doctrinales de la Biblia, permitiendo que las Escrituras y nuestras publicaciones le muestren con claridad qué cambios debe realizar.</strong>",
         "deepAnswer": "Para ser publicador, el estudiante debe armonizar su vida con las normas de Jehová. Basándonos en textos como 1 Corintios 6:9, 10 y Salmo 24:3-6, <strong>debemos guiarlo con bondad a comprender que quienes representan a Dios deben mantener una conducta limpia.</strong> Con la ayuda de la lección 60 del libro <em>¡Disfrute de la vida!</em>, podemos <strong>examinar la importancia de abandonar por completo la religión falsa (Apoc. 18:4) y ser coherentes entre lo que predicamos y lo que vivimos (Rom. 2:21-24).</strong>",
@@ -7084,7 +6960,7 @@ const lessonsData = [
       },
       {
         "id": "15A_q6",
-        "question": "¿Cómo puedes preparar al estudiante para su primer día?",
+        "question": "¿Cómo puedes preparar al estudiante para su primer día de predicación? ¿Por qué deberías hablar con él sobre la importancia de ir bien arreglado y de usar ropa limpia y adecuada? (lff lección 52).",
         "references": "",
         "directAnswer": "<strong>Prepáralo ensayando de antemano una presentación muy sencilla y breve, explicándole qué puede esperar en las puertas y acompañándolo estrechamente en el territorio.</strong>",
         "deepAnswer": "La preparación práctica para el primer día de predicación es clave para disipar la ansiedad. <strong>Dediquen una parte de la sesión de estudio a practicar una presentación sencilla</strong>, tal vez usando un texto bíblico directo o una pregunta que despierte interés. Explícale cómo se desarrolla el trabajo en el territorio y <strong>asegúrale que tú llevarás la iniciativa en las primeras casas; luego, anímalo con paciencia a participar de forma gradual leyendo un versículo o entregando un tratado.</strong>",
@@ -7092,89 +6968,70 @@ const lessonsData = [
       },
       {
         "id": "15A_q7",
-        "question": "¿de predicación? ¿Por qué deberías hablar con él sobre la importancia de ir bien arreglado y de usar ropa limpia?",
-        "references": "",
-        "directAnswer": "<strong>Debemos hablar con él sobre la importancia del arreglo personal porque somos representantes de Jehová y no queremos poner ningún obstáculo al mensaje del Reino.</strong>",
-        "deepAnswer": "Nuestra apariencia física en el ministerio del campo es un reflejo de nuestro respeto a Dios y a las personas del territorio. <strong>Hablar con tacto al estudiante sobre ir bien arreglado, limpio y con ropa modesta le ayuda a comprender que somos ministros que portan un mensaje sagrado.</strong> Como embajadores o enviados de Jehová, <strong>nuestra pulcritud y modestia dignifican la verdad y evitan que las personas se distraigan o rechacen el mensaje por causa de nuestro aspecto exterior.</strong>",
-        "shortAnswer": "Nuestra vestimenta y arreglo personal deben honrar a Jehová y dignificar el mensaje que predicamos."
-      },
-      {
-        "id": "15A_q8",
-        "question": "¿Por qué las campañas especiales son una buena oportunidad para capacitar a los nuevos publicadores?",
-        "references": "",
-        "directAnswer": "<strong>Las campañas especiales son ideales porque ofrecen presentaciones muy sencillas y directas, y le permiten al nuevo publicador sentir el entusiasmo de toda la congregación.</strong>",
-        "deepAnswer": "Durante las campañas especiales de la congregación (como la distribución de invitaciones para la Conmemoración o las asambleas), <strong>el mensaje suele ser breve y fácil de presentar, lo que reduce la presión sobre el nuevo publicador.</strong> Además, el ambiente de unidad y el esfuerzo colectivo de la hermandad resultan sumamente contagiosos y animadores. <strong>Ver a tantos publicadores trabajando hombro a hombro le infunde confianza al principiante y lo ayuda a integrarse plenamente en el servicio gozoso.</strong>",
-        "shortAnswer": "Las campañas facilitan la predicación al usar presentaciones simples y ofrecer un ambiente de gran apoyo colectivo."
-      },
-      {
-        "id": "15A_q9",
-        "question": "¿Por qué es muy importante que sigas ayudando al estudiante a mejorar en la predicación?",
+        "question": "¿Por qué es muy importante que sigas ayudando al estudiante a mejorar en la predicación? ¿Y por qué también es muy importante ir capacitándolo en las diferentes facetas del ministerio?",
         "references": "",
         "directAnswer": "<strong>Es fundamental seguir ayudándolo para que continúe echando raíces espirituales profundas, desarrolle madurez y aprenda a aguantar las pruebas de la fe.</strong>",
         "deepAnswer": "El hecho de que alguien comience a predicar no significa que su crecimiento espiritual haya concluido; sigue siendo un \"niño\" espiritual en muchos aspectos. Es de suma importancia <strong>continuar dándole clases de la Biblia de manera sistemática hasta terminar las publicaciones de estudio recomendadas.</strong> <strong>Tu constante apoyo y guía le ayudarán a afrontar la indiferencia o la oposición en el ministerio, a mejorar sus habilidades de enseñanza y a progresar firmemente hacia la dedicación y el bautismo cristiano.</strong>",
-        "shortAnswer": "Sigue ayudando al estudiante para que se arraigue en la verdad, adquiera madurez y persevere en el servicio a Dios."
-      },
-      {
-        "id": "15A_q10",
-        "question": "¿Y por qué también es muy importante ir capacitándolo en las diferentes facetas del ministerio? Comenta los siguientes pasos que pueden servirte para ayudar a un publicador nuevo a ir mejorando en el ministerio (Juec. 7:17):",
-        "references": "",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": "",
+        "shortAnswer": "Sigue ayudando al estudiante para que se arraigue en la verdad, adquiera madurez y persevere en el servicio a Dios.",
+        "note": "Comenta los siguientes pasos que pueden servirte para ayudar a un publicador nuevo a ir mejorando en el ministerio (Juec. 7:17):",
         "subQuestions": [
           {
-            "id": "15A_q10_a",
-            "question": "¿Por qué es muy importante ir capacitándolo en las diferentes facetas del ministerio? (Juec. 7:17)",
-            "references": "Juec. 7:17",
-            "directAnswer": "<strong>Capacitar al nuevo publicador en varias facetas del servicio del campo lo convierte en un colaborador versátil, seguro de sí mismo y con mayor gozo en su ministerio, preparándolo para enfrentar diversas situaciones en el territorio.</strong>",
-            "deepAnswer": "La capacitación progresiva es fundamental porque el ministerio abarca diversas facetas (predicación de casa en casa, pública, revisitas, cursos bíblicos). <strong>Al diversificar su formación, el nuevo publicador no solo se siente más cómodo en distintas situaciones, sino que desarrolla las habilidades necesarias para ser eficaz bajo la guía del espíritu santo.</strong> <strong>El principio de Jueces 7:17 destaca la importancia de modelar el trabajo, permitiendo que el nuevo vea cómo aplicar los principios bíblicos en la práctica</strong>, lo cual es vital para su crecimiento espiritual y confianza personal.",
-            "shortAnswer": "Es importante para que el publicador sea versátil, gane seguridad y encuentre más gozo al enfrentar las distintas facetas de la predicación."
+            "id": "15A_q7_a",
+            "question": "Demostrarle en la práctica cómo participar en las diferentes facetas de la predicación.",
+            "directAnswer": "Consiste en **acompañarlo en el ministerio** y predicar a las puertas mostrándole cómo lo haces tú.",
+            "deepAnswer": "La teoría no basta. Llevarlo a predicar con nosotros, mostrarle cómo iniciamos conversaciones, cómo respondemos objeciones y cómo usamos la Biblia, **le da un ejemplo vivo de un ministerio de calidad**.",
+            "shortAnswer": "Llevarlo a predicar y predicar en las puertas sirviéndole de modelo."
           },
           {
-            "id": "15A_q10_b",
-            "question": "Comenta cómo el paso de 'demostrarle en la práctica cómo participar en las diferentes facetas de la predicación' puede servir para ayudar a un publicador nuevo a ir mejorando. (Juec. 7:17)",
-            "references": "Juec. 7:17",
-            "directAnswer": "Demostrar en la práctica es <strong>aplicar el principio de 'mírenme a mí', permitiendo que el estudiante observe cómo manejamos las conversaciones, cómo usamos la Biblia y cómo respondemos a las objeciones en un entorno real.</strong>",
-            "deepAnswer": "Al demostrar en la práctica, <strong>estamos aplicando el modelo de Gedeón</strong> (Juec. 7:17). Muchos publicadores nuevos se sienten intimidados por la incertidumbre del ministerio. Al ver cómo nosotros iniciamos una conversación o presentamos un tratado, ellos eliminan el temor a lo desconocido. Este paso no solo es técnico, sino espiritual, ya que <strong>les permite ver cómo el amor por el prójimo motiva nuestra forma de hablar y actuar al declarar las buenas nuevas.</strong>",
-            "shortAnswer": "Al ver tu ejemplo, el estudiante reduce su temor y aprende métodos eficaces que puede imitar en el servicio."
+            "id": "15A_q7_b",
+            "question": "Dejar que él intente hacer lo mismo que tú.",
+            "directAnswer": "Es darle la oportunidad de **participar activamente en la conversación en una puerta**.",
+            "deepAnswer": "Debemos animarlo a que él use un texto bíblico o presente un tratado de forma sencilla. **Al dejarlo predicar de forma activa, adquiere experiencia práctica** y vence la timidez inicial.",
+            "shortAnswer": "Permitirle que hable y presente el mensaje bíblico por sí mismo."
           },
           {
-            "id": "15A_q10_c",
-            "question": "Comenta cómo el paso de 'dejar que él intente hacer lo mismo que tú' puede servir para ayudar a un publicador nuevo a ir mejorando. (Juec. 7:17)",
-            "references": "Juec. 7:17",
-            "directAnswer": "Dejar que el estudiante lo intente es el paso decisivo para <strong>convertir la observación en acción, permitiéndole adquirir experiencia propia y fortalecer su fe al ver cómo Jehová lo apoya en la labor.</strong>",
-            "deepAnswer": "La instrucción teocrática requiere que el estudiante pase de ser un observador a un participante activo. Al dejarle intentar hacer lo mismo, <strong>le demostramos confianza.</strong> Aunque pueda cometer errores, este proceso es donde ocurre el verdadero aprendizaje. Es crucial ser pacientes y respetuosos con su ritmo, permitiéndole desarrollar su propia personalidad al enseñar la verdad, siempre recordando que <strong>el objetivo es que él aprenda a confiar en el respaldo de Jehová y no solo en sus habilidades.</strong>",
-            "shortAnswer": "Le permite pasar a la acción y adquirir confianza propia al aplicar lo que ha observado en el ministerio."
-          },
-          {
-            "id": "15A_q10_d",
-            "question": "Comenta cómo el paso de 'felicitarlo sinceramente para darle confianza' puede servir para ayudar a un publicador nuevo a ir mejorando. (Juec. 7:17)",
-            "references": "Juec. 7:17",
-            "directAnswer": "La felicitación sincera es un bálsamo que edifica al nuevo publicador, <strong>ayudándole a enfocarse en sus logros en lugar de en sus errores, lo que estimula su deseo de seguir mejorando.</strong>",
-            "deepAnswer": "A menudo, el publicador nuevo es su crítico más severo. Una felicitación sincera, basada en un punto específico (como su buena lectura, su actitud amable o su valentía al hablar), <strong>ayuda a que su corazón se sienta animado.</strong> Siguiendo el ejemplo de Jesús, quien siempre buscaba lo bueno en sus discípulos a pesar de sus debilidades, al felicitarlo estamos imitando la ternura de Jehová. <strong>Esto crea un ambiente de seguridad donde el publicador se siente motivado a esforzarse aún más la próxima vez.</strong><br><br>Experiencia: Un precursor relató que al empezar, sentía que no servía para la predicación tras un mal inicio. Su compañero, en lugar de corregir sus errores inmediatamente, le felicitó con entusiasmo por la manera en que había sonreído a un amo de casa, a pesar de que el resto de la presentación no salió bien. Esa pequeña dosis de confianza cambió su perspectiva: dejó de pensar en lo que falló y empezó a enfocarse en lo que podía mejorar, transformándolo eventualmente en un maestro eficaz de la Palabra de Dios.",
-            "shortAnswer": "La felicitación sincera fortalece su confianza, reduce su ansiedad y le motiva a seguir esforzándose por mejorar."
+            "id": "15A_q7_c",
+            "question": "Felicitarlo sinceramente para darle confianza.",
+            "directAnswer": "Consiste en **resaltar sus aciertos y animarlo con amor** tras la conversación.",
+            "deepAnswer": "Felicitarlo de corazón por su esfuerzo y su valor fortalece su autoestima teocrática. Esto **le da la seguridad necesaria para perseverar** en el ministerio cristiano.",
+            "shortAnswer": "Elogiar sinceramente su esfuerzo para infundirle ánimo."
           }
         ]
       },
       {
-        "id": "15A_q11",
-        "question": "¿Cómo le dejarías claro al estudiante lo importante que es predicar regularmente? (2 Ped. 1:5-8; lff pág. 254).",
+        "id": "15A_q8",
+        "question": "¿Por qué es muy importante que sigas ayudando al estudiante a mejorar en la predicación? ¿Y por qué también es muy importante ir capacitándolo en las diferentes facetas del ministerio?",
         "references": "",
         "directAnswer": "Le ayudamos a comprender que <strong>la constancia en el ministerio del campo refleja la profundidad de su amistad con Jehová y es fundamental para su propio crecimiento espiritual.</strong>",
         "deepAnswer": "Basándonos en 2 Pedro 1:5-8, debemos <strong>mostrarle al estudiante que las cualidades cristianas se complementan con una fe activa que produce fruto</strong>, evitando que nos volvamos inactivos o estériles. Al examinar juntos el manual <em>Disfrute de la vida</em> (pág. 254), podemos razonar sobre cómo <strong>la predicación regular no es una simple obligación, sino un privilegio sagrado que protege nuestra espiritualidad y demuestra nuestro amor leal a Jehová.</strong> Al participar regularmente en el ministerio, el estudiante experimentará de primera mano el gozo que proviene de dar a otros.",
-        "shortAnswer": "La predicación regular es el reflejo natural de una fe viva y de un corazón profundamente agradecido a Jehová."
+        "shortAnswer": "La predicación regular es el reflejo natural de una fe viva y de un corazón profundamente agradecido a Jehová.",
+        "note": "Comenta los siguientes pasos que pueden servirte para ayudar a un publicador nuevo a ir mejorando en el ministerio (Juec. 7:17):",
+        "subQuestions": [
+          {
+            "id": "15A_q8_a",
+            "question": "Demostrarle en la práctica cómo participar en las diferentes facetas de la predicación.",
+            "directAnswer": "Consiste en **acompañarlo en el ministerio** y predicar a las puertas mostrándole cómo lo haces tú.",
+            "deepAnswer": "La teoría no basta. Llevarlo a predicar con nosotros, mostrarle cómo iniciamos conversaciones, cómo respondemos objeciones y cómo usamos la Biblia, **le da un ejemplo vivo de un ministerio de calidad**.",
+            "shortAnswer": "Llevarlo a predicar y predicar en las puertas sirviéndole de modelo."
+          },
+          {
+            "id": "15A_q8_b",
+            "question": "Dejar que él intente hacer lo mismo que tú.",
+            "directAnswer": "Es darle la oportunidad de **participar activamente en la conversación en una puerta**.",
+            "deepAnswer": "Debemos animarlo a que él use un texto bíblico o presente un tratado de forma sencilla. **Al dejarlo predicar de forma activa, adquiere experiencia práctica** y vence la timidez inicial.",
+            "shortAnswer": "Permitirle que hable y presente el mensaje bíblico por sí mismo."
+          },
+          {
+            "id": "15A_q8_c",
+            "question": "Felicitarlo sinceramente para darle confianza.",
+            "directAnswer": "Consiste en **resaltar sus aciertos y animarlo con amor** tras la conversación.",
+            "deepAnswer": "Felicitarlo de corazón por su esfuerzo y su valor fortalece su autoestima teocrática. Esto **le da la seguridad necesaria para perseverar** en el ministerio cristiano.",
+            "shortAnswer": "Elogiar sinceramente su esfuerzo para infundirle ánimo."
+          }
+        ]
       },
       {
-        "id": "15A_q12",
-        "question": "¿Cómo puede ayudarte esta lista a ver si el estudiante va progresando?",
-        "references": "",
-        "directAnswer": "Esta lista de metas espirituales nos sirve como un mapa detallado para <strong>evaluar con objetividad el desarrollo del estudiante y ver qué aspectos necesitan fortalecerse.</strong>",
-        "deepAnswer": "Como maestros y precursores, necesitamos herramientas espirituales para discernir con claridad el progreso del estudiante de la Biblia. Esta lista de hitos espirituales nos permite <strong>identificar de manera práctica en qué áreas el estudiante está mostrando madurez y en cuáles necesita un apoyo más personalizado.</strong> Al evaluar su progreso con amor y perspicacia, <strong>podemos adaptar nuestra enseñanza para ayudarlo a superar cualquier obstáculo que impida su avance hacia la dedicación.</strong>",
-        "shortAnswer": "La lista funciona como un termómetro espiritual para evaluar con amor y objetividad el progreso real del estudiante.",
-        "subtitle": "Prepáralos para la dedicación y el bautismo"
-      },
-      {
-        "id": "15A_q13",
+        "id": "15A_q9",
         "question": "¿Qué harías si te das cuenta de que se ha estancado en uno o varios de los siguientes pasos?",
         "references": "Mat. 16:24; 1 Ped. 3:21",
         "directAnswer": "",
@@ -7182,7 +7039,7 @@ const lessonsData = [
         "shortAnswer": "",
         "subQuestions": [
           {
-            "id": "15A_q13_a",
+            "id": "15A_q9_a",
             "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado al tratar de conocer a Jehová y a su Hijo, Jesucristo? (Juan 17:3).",
             "references": "Juan 17:3; Mat. 16:24; 1 Ped. 3:21",
             "directAnswer": "<strong>Ayúdelo a profundizar en el amor de Jehová analizando los atributos divinos y mostrando cómo el conocimiento de Jesús es la clave para la vida eterna.</strong>",
@@ -7190,7 +7047,7 @@ const lessonsData = [
             "shortAnswer": "Ayúdelo a ver a Jehová y a Jesús como personas reales para fortalecer su deseo de entablar una amistad con ellos."
           },
           {
-            "id": "15A_q13_b",
+            "id": "15A_q9_b",
             "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y su fe no crece a pesar de ir teniendo más conocimiento? (Juan 3:16).",
             "references": "Juan 3:16; Mat. 16:24; 1 Ped. 3:21",
             "directAnswer": "<strong>Ayúdelo a meditar en el sacrificio de Jesús para que su fe pase del plano intelectual al emocional, tocando su corazón.</strong>",
@@ -7198,7 +7055,7 @@ const lessonsData = [
             "shortAnswer": "Fomente la meditación personal en el amor de Dios para que el conocimiento se transforme en convicción profunda."
           },
           {
-            "id": "15A_q13_c",
+            "id": "15A_q9_c",
             "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado en el paso de empezar a orar a Jehová con frecuencia? (Hech. 2:21).",
             "references": "Hech. 2:21; Mat. 16:24; 1 Ped. 3:21",
             "directAnswer": "<strong>Enséñele el valor de la oración como un medio de comunicación y ayúdelo a superar la vergüenza o el miedo enseñándole a orar con sencillez.</strong>",
@@ -7206,7 +7063,7 @@ const lessonsData = [
             "shortAnswer": "Ayúdelo a superar el temor a orar practicando juntos y explicándole que Jehová valora la sinceridad sobre la elocuencia."
           },
           {
-            "id": "15A_q13_d",
+            "id": "15A_q9_d",
             "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y no ve lo importante que es reunirse regularmente con la congregación? (Heb. 10:24, 25).",
             "references": "Heb. 10:24, 25; Mat. 16:24; 1 Ped. 3:21",
             "directAnswer": "<strong>Analice con él los beneficios de la asociación espiritual y ayúdele a vencer los obstáculos que le impiden asistir al Salón del Reino.</strong>",
@@ -7214,7 +7071,7 @@ const lessonsData = [
             "shortAnswer": "Identifique los obstáculos que le impiden asistir y ofrézcale ayuda práctica, destacando el ánimo que recibirá de la hermandad."
           },
           {
-            "id": "15A_q13_e",
+            "id": "15A_q9_e",
             "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y le cuesta arrepentirse de sus pecados? (Hech. 17:30).",
             "references": "Hech. 17:30; Mat. 16:24; 1 Ped. 3:21",
             "directAnswer": "<strong>Ayúdelo a entender la gravedad de sus actos a la luz de las normas de Jehová y enséñele a valorar el perdón divino basado en el rescate.</strong>",
@@ -7222,7 +7079,7 @@ const lessonsData = [
             "shortAnswer": "Ayúdele a ver la importancia de la perspectiva de Jehová sobre el pecado y cómo su amor abre el camino al perdón mediante el arrepentimiento."
           },
           {
-            "id": "15A_q13_f",
+            "id": "15A_q9_f",
             "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y no da “media vuelta” para abandonar las prácticas que Dios condena? (Hech. 3:19).",
             "references": "Hech. 3:19; Mat. 16:24; 1 Ped. 3:21",
             "directAnswer": "<strong>Muestre empatía ante la dificultad de hacer cambios en su estilo de vida y analice con él los beneficios a largo plazo de obedecer a Dios.</strong>",
@@ -7230,7 +7087,7 @@ const lessonsData = [
             "shortAnswer": "Sea paciente y ofrezca apoyo práctico para sustituir las malas costumbres por hábitos cristianos, destacando los beneficios de obedecer a Dios."
           },
           {
-            "id": "15A_q13_g",
+            "id": "15A_q9_g",
             "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y su fe no lo impulsa a hablar con otros de lo que cree? (2 Cor. 4:13).",
             "references": "2 Cor. 4:13; Mat. 16:24; 1 Ped. 3:21",
             "directAnswer": "<strong>Ayúdelo a reconocer que el mensaje de la Biblia es tan bueno que debe compartirse y permítale acompañarle en el ministerio de forma sencilla.</strong>",
@@ -7238,7 +7095,7 @@ const lessonsData = [
             "shortAnswer": "Ayúdele a ver la predicación como una oportunidad de expresar gratitud y enséñele a compartir pequeñas verdades con quienes le rodean."
           },
           {
-            "id": "15A_q13_h",
+            "id": "15A_q9_h",
             "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y le cuesta dedicarse a Jehová para ser un seguidor de Jesús? (1 Ped. 4:2).",
             "references": "1 Ped. 4:2; Mat. 16:24; 1 Ped. 3:21",
             "directAnswer": "<strong>Analice con él qué significa realmente la dedicación y ayúdele a verla como un paso de lealtad y protección, no como una carga.</strong>",
@@ -7246,7 +7103,7 @@ const lessonsData = [
             "shortAnswer": "Ayúdele a ver que la dedicación es un paso de lealtad que le ofrece la protección y guía de Jehová para toda su vida."
           },
           {
-            "id": "15A_q13_i",
+            "id": "15A_q9_i",
             "question": "¿Qué harías si te das cuenta de que el estudiante se ha estancado y teme bautizarse para demostrar en público su dedicación a Jehová? (1 Ped. 3:21).",
             "references": "1 Ped. 3:21; Mat. 16:24; 1 Ped. 3:21",
             "directAnswer": "<strong>Ayúdele a entender que el bautismo es un paso de obediencia necesario para una conciencia limpia y la salvación, quitando importancia al miedo al qué dirán.</strong>",
@@ -7256,15 +7113,16 @@ const lessonsData = [
         ]
       },
       {
-        "id": "15A_q14",
+        "id": "15A_q10",
         "question": "Antes de que el estudiante se dedique a Jehová, ¿qué debe sentir por él y por su organización?",
         "references": "Sal. 40:8; 104:33; Zac. 8:23",
         "directAnswer": "Antes de dedicarse a Jehová, <strong>el estudiante debe sentir un profundo amor personal por él, un deseo ferviente de hacer su voluntad y un sincero aprecio por su organización terrestre.</strong>",
         "deepAnswer": "El estudiante debe llegar a sentir lo que expresa el Salmo 40:8: un deleite sincero en hacer la voluntad de Dios, y desear cantar alabanzas a su Creador durante toda la vida, como indica el Salmo 104:33. Además, <strong>debe reconocer con convicción que la organización de Jehová es el pueblo con el que Dios está en la actualidad</strong>, cumpliendo la profecía de Zacarías 8:23 de aferrarse a la 'falda de un judío' espiritual porque sabe que 'Dios está con ustedes'. Este apego emocional y espiritual es el motor que lo sostendrá en su servicio fiel.",
-        "shortAnswer": "Debe sentir un amor leal hacia Jehová como su Padre y un profundo aprecio por la organización que él dirige hoy."
+        "shortAnswer": "Debe sentir un amor leal hacia Jehová como su Padre y un profundo aprecio por la organización que él dirige hoy.",
+        "subtitle": "Prepáralos para la dedicación y el bautismo"
       },
       {
-        "id": "15A_q15",
+        "id": "15A_q11",
         "question": "¿Qué puedes hacer para que poco a poco el estudiante se sienta así?",
         "references": "lff lecciones 18-20",
         "directAnswer": "Podemos lograrlo <strong>destacando constantemente las hermosas cualidades de Jehová en cada estudio y familiarizándolo de manera práctica con el funcionamiento y el amor de la congregación cristiana.</strong>",
@@ -7272,7 +7130,7 @@ const lessonsData = [
         "shortAnswer": "Ayúdale a conocer la hermosa personalidad de Jehová y a integrarse con amor en la vida de la congregación."
       },
       {
-        "id": "15A_q16",
+        "id": "15A_q12",
         "question": "¿Por qué es muy importante que el estudiante entienda bien qué implica dedicarse a Dios?",
         "references": "",
         "directAnswer": "Es fundamental porque <strong>la dedicación es un voto solemne e incondicional que define su relación eterna con Jehová y que no debe tomarse a la ligera.</strong>",
@@ -7280,7 +7138,7 @@ const lessonsData = [
         "shortAnswer": "La dedicación es un voto sagrado de amor eterno y exclusividad que requiere pleno entendimiento y madurez."
       },
       {
-        "id": "15A_q17",
+        "id": "15A_q13",
         "question": "Explícales la relación entre la dedicación y el bautismo. ¿Cómo puedes ayudar al estudiante a entender lo que implica cada uno de estos pasos?",
         "references": "",
         "directAnswer": "Lo logramos <strong>analizando con ellos pasajes bíblicos clave sobre el compromiso cristiano</strong> y <strong>explicando claramente la distinción entre la dedicación íntima y el bautismo público.</strong>",
@@ -7288,7 +7146,7 @@ const lessonsData = [
         "shortAnswer": "Explícale con paciencia la relación entre la dedicación privada a Jehová y el bautismo público."
       },
       {
-        "id": "15A_q18",
+        "id": "15A_q14",
         "question": "¿Cómo puedes ayudar al estudiante a reflexionar sobre su verdadera motivación para bautizarse, y por qué es eso tan importante? (Mat. 24:13; 28:19, 20)",
         "references": "",
         "directAnswer": "Ayudamos al estudiante <strong>haciéndole preguntas reflexivas para asegurarnos de que se bautiza por un amor sincero a Jehová</strong> y no por presiones o para complacer a otros, lo cual <strong>es vital para su aguante.</strong>",
@@ -7296,15 +7154,16 @@ const lessonsData = [
         "shortAnswer": "Asegúrate de que su motivación sea el amor puro a Jehová, pues solo eso garantiza el aguante cristiano ante las pruebas."
       },
       {
-        "id": "15A_q19",
+        "id": "15A_q15",
         "question": "Como precursor, ¿qué debes seguir haciendo para ayudar al estudiante después de que se bautice?",
         "references": "Hech. 14:22; Gál. 6:10; 1 Ped. 4:10",
         "directAnswer": "Como precursores, debemos <strong>seguir estudiando con ellos hasta terminar el segundo libro de estudio y continuar brindándoles nuestro apoyo espiritual, guía y compañerismo en la congregación.</strong>",
         "deepAnswer": "Nuestra labor de hacer discípulos no termina en la piscina del bautismo; según Hechos 14:22, <strong>debemos continuar 'fortaleciendo las almas de los discípulos' para que permanezcan firmes en la fe.</strong> En armonía con Gálatas 6:10 y 1 Pedro 4:10, <strong>debemos usar nuestros dones espirituales para integrarlos plenamente en la congregación, haciendo el bien especialmente a estos nuevos miembros de la 'familia de la fe'.</strong> Seguir predicando con ellos y ayudarlos a cultivar hábitos de estudio personal sólidos les permitirá echar raíces profundas y llegar a ser cristianos maduros.",
-        "shortAnswer": "Sigue apoyándolos, predicando y estudiando con ellos después del bautismo para que echen raíces profundas en la verdad."
+        "shortAnswer": "Sigue apoyándolos, predicando y estudiando con ellos después del bautismo para que echen raíces profundas en la verdad.",
+        "subtitle": "Ayúdalos a ser cristianos maduros"
       },
       {
-        "id": "15A_q20",
+        "id": "15A_q16",
         "question": "¿Cuánto tiempo debes seguir ayudando a alguien que se acaba de bautizar, y cómo puedes hacerlo?",
         "references": "w15 15/2 págs. 15, 16; w14 15/6 págs. 30-32 párrs. 12-18",
         "directAnswer": "Debemos seguir ayudando al recién bautizado <strong>hasta que se sienta seguro y sea un cristiano maduro.</strong> Podemos lograrlo <strong>mediante el pastoreo amoroso, el ejemplo personal y el acompañamiento constante en el ministerio.</strong>",
@@ -7312,12 +7171,13 @@ const lessonsData = [
         "shortAnswer": "Acompaña al nuevo hermano con paciencia hasta que esté plenamente establecido en la verdad."
       },
       {
-        "id": "15A_q21",
+        "id": "15A_q17",
         "question": "Ustedes deben estar “arraigados” y “firmes en la fe”. ¿Por qué es eso tan importante?",
         "references": "Col. 2:6, 7; 1 Ped. 5:8, 9; 2 Tim. 3:12",
         "directAnswer": "Estar arraigados y firmes es vital <strong>para no ser engañados por filosofías mundanas y para resistir las pruebas de fe.</strong> Como cristianos, enfrentaremos oposición, y solo <strong>una fe profunda nos permitirá mantenernos íntegros.</strong>",
         "deepAnswer": "Tal como menciona Colosenses 2:6, 7, <strong>debemos estar \"estabilizados en la fe\" para evitar que los ataques del Diablo nos desvíen.</strong> 1 Pedro 5:8, 9 nos recuerda que nuestro adversario busca a quien devorar, y <strong>la única defensa eficaz es una fe sólida.</strong> Además, al recordar que las dificultades y la persecución son parte del camino del discípulo (2 Tim. 3:12), nos preparamos mental y emocionalmente para no rendirnos.",
-        "shortAnswer": "Una fe firme es nuestro escudo protector contra los ataques de Satanás y las presiones del mundo."
+        "shortAnswer": "Una fe firme es nuestro escudo protector contra los ataques de Satanás y las presiones del mundo.",
+        "subtitle": "Ayúdalos a ser cristianos maduros"
       }
     ],
     "image": "pioneer_studying.png",
@@ -7376,48 +7236,33 @@ const lessonsData = [
       },
       {
         "id": "15B_q5",
-        "question": "Cuando te preparas para dar un curso bíblico, ¿qué métodos de enseñanza de Jesús puedes aplicar?",
-        "references": "",
-        "directAnswer": "Puedo aplicar el **preparar preguntas de opinión bien pensadas, buscar comparaciones sencillas del entorno y enfocarme en los textos bíblicos**.",
-        "deepAnswer": "Para imitar al Amo, al prepararnos para el curso bíblico debemos meditar en el perfil del estudiante. Planificamos **preguntas adicionales que lo inviten a razonar y a abrir su corazón**. También seleccionamos ilustraciones sencillas de la vida diaria que hagan fácil entender las verdades espirituales profundas de las lecciones.",
-        "shortAnswer": "Preparar preguntas de opinión respetuosas, usar ilustraciones sencillas y basar todo en la Biblia."
-      },
-      {
-        "id": "15B_q6",
-        "question": "¿cómo puedes tomar en cuenta las necesidades de tu estudiante?",
-        "references": "",
-        "subtitle": "Ayuda al estudiante a progresar (parte 1) — “Enséñenles a obedecer todo lo que yo les he mandado”",
-        "directAnswer": "Tomo en cuenta sus necesidades al **adaptar el ritmo del estudio, responder con paciencia a sus dudas y considerar su nivel cultural y de lectura**.",
-        "deepAnswer": "No todos los estudiantes progresan al mismo ritmo. Algunos necesitan más explicaciones o enfrentar prejuicios familiares. Debemos **prepararnos pensando en sus dificultades particulares y orar a Jehová específicamente por ellos**, ayudándolos a superar sus barreras espirituales con cariño.",
-        "shortAnswer": "Ajustando el ritmo de la lección y respondiendo con amor a sus dificultades específicas."
-      },
-      {
-        "id": "15B_q7",
-        "question": "• ¿Cómo puedes ayudar al estudiante a aprovechar al máximo las clases que le das?",
+        "question": "Cuando te preparas para dar un curso bíblico, ¿cómo puedes tomar en cuenta las necesidades de tu estudiante?",
         "references": "",
         "directAnswer": "Enseñándole a **preparar la lección de antemano, subrayar las respuestas clave y buscar los textos citados en su propia Biblia**.",
         "deepAnswer": "La preparación del estudiante acelera su crecimiento. Debemos dedicar tiempo a enseñarle a estudiar: mostrándole cómo encontrar las ideas principales, cómo buscar las referencias y cómo expresar las respuestas con sus propias palabras, fomentando la disciplina del estudio personal.",
-        "shortAnswer": "Enseñándole a estudiar la lección de antemano y a buscar los textos bíblicos."
+        "shortAnswer": "Enseñándole a estudiar la lección de antemano y a buscar los textos bíblicos.",
+        "subtitle": "Lección 13B Da cursos bíblicos que motiven al estudiante a progresar (parte 1)"
       },
       {
-        "id": "15B_q8",
+        "id": "15B_q6",
         "question": "• ¿Cómo puedes imitar a Jesús al usar preguntas?",
         "references": "Lucas 6:40",
-        "subtitle": "Ayuda al estudiante a progresar (parte 2) — “Todo el que esté perfectamente instruido será como su maestro”",
+        "subtitle": "Lección 14A Da cursos bíblicos que motiven al estudiante a progresar (parte 2) - “Todo el que esté perfectamente instruido será como su maestro”",
         "directAnswer": "Imito a Jesús usando **preguntas de opinión amables que inviten al estudiante a expresar lo que piensa y siente en su corazón**.",
         "deepAnswer": "Las preguntas de Jesús (como '¿Qué te parece?') no buscaban evaluar datos, sino descubrir motivaciones. En el estudio, usamos preguntas de opinión con tacto para saber si el estudiante capta el valor práctico de lo que aprende y si está de acuerdo en su interior con las normas bíblicas.",
         "shortAnswer": "Usar preguntas amables para conocer lo que hay en el corazón y mente del estudiante."
       },
       {
-        "id": "15B_q9",
+        "id": "15B_q7",
         "question": "¿Y al usar ejemplos y comparaciones?",
         "references": "",
         "directAnswer": "Uso **ejemplos sencillos, breves y de la vida cotidiana que aclaren las verdades profundas de la Biblia sin complicar la explicación**.",
         "deepAnswer": "Las comparaciones de Jesús (la oveja perdida, el sembrador) eran familiares para sus oyentes. Al enseñar, debemos **usar ilustraciones claras que tengan relación con el entorno del estudiante**, lo que le ayudará a recordar las verdades y a superar prejuicios religiosos o morales.",
-        "shortAnswer": "Ilustrar las verdades con comparaciones sencillas del día a día de la persona."
+        "shortAnswer": "Ilustrar las verdades con comparaciones sencillas del día a día de la persona.",
+        "subtitle": "Lección 14A Da cursos bíblicos que motiven al estudiante a progresar (parte 2) - “Todo el que esté perfectamente instruido será como su maestro”"
       },
       {
-        "id": "15B_q10",
+        "id": "15B_q8",
         "question": "• ¿Cómo puedes explicar verdades profundas de forma sencilla, breve y clara?",
         "references": "",
         "subtitle": "Repaso del día 5",
@@ -7426,7 +7271,7 @@ const lessonsData = [
         "shortAnswer": "Enfocarse en el tema principal y evitar explicaciones complejas o detalles secundarios."
       },
       {
-        "id": "15B_q11",
+        "id": "15B_q9",
         "question": "• ¿De qué maneras puedes dirigir a tus estudiantes a la congregación cristiana?",
         "references": "",
         "directAnswer": "Invitándolos a las reuniones desde el principio, **explicándoles cómo se llevan a cabo y usando los videos sobre el Salón del Reino**.",
@@ -7434,24 +7279,25 @@ const lessonsData = [
         "shortAnswer": "Invitándolo al Salón del Reino desde las primeras clases y presentándole a los hermanos."
       },
       {
-        "id": "15B_q12",
+        "id": "15B_q10",
         "question": "• ¿Qué puedes hacer para llegar al corazón de tu estudiante?",
         "references": "3 Juan 4",
-        "subtitle": "Da cursos bíblicos que motiven al estudiante a progresar — “Nada me da más alegría que oír que mis hijos siguen andando en la verdad”",
+        "subtitle": "Lección 14B Taller 4. Da cursos bíblicos que motiven al estudiante a progresar - “Nada me da más alegría que oír que mis hijos siguen andando en la verdad”",
         "directAnswer": "Lo logro mostrando **un interés sincero por él como persona, escuchando sus preocupaciones y ayudándole a ver que Jehová le ama**.",
         "deepAnswer": "Para tocar el corazón, debemos ir más allá de la teoría. Interesarse por su familia, sus problemas de salud o trabajo genera confianza. Le enseñamos a ver a Jehová no como una fuerza, sino como un **Padre celestial amoroso que desea tener una estrecha amistad con él**.",
         "shortAnswer": "Mostrar un interés personal genuino y ayudarle a cultivar amor por Jehová."
       },
       {
-        "id": "15B_q13",
+        "id": "15B_q11",
         "question": "• ¿Cómo puedes ayudar a tu estudiante a superar las dificultades?",
         "references": "",
         "directAnswer": "Ayudándole a **buscar la guía de la Biblia, orando juntos por sus problemas y dándole apoyo emocional constante**.",
         "deepAnswer": "Cuando surgen pruebas (como oposición familiar o vicios), le mostramos relatos de fe en la Biblia. **Oramos con él de corazón en el estudio**, pidiendo fuerzas a Jehová, y le recordamos que los cambios valen la pena para obtener la aprobación y bendición divina.",
-        "shortAnswer": "Darle apoyo emocional, orar con él y mostrarle consejos bíblicos para aguantar."
+        "shortAnswer": "Darle apoyo emocional, orar con él y mostrarle consejos bíblicos para aguantar.",
+        "subtitle": "Lección 14B Taller 4. Da cursos bíblicos que motiven al estudiante a progresar - “Nada me da más alegría que oír que mis hijos siguen andando en la verdad”"
       },
       {
-        "id": "15B_q14",
+        "id": "15B_q12",
         "question": "• ¿Cómo podrías ayudar a tu estudiante a progresar para que llegue al bautismo?",
         "references": "",
         "directAnswer": "Enseñándole la importancia de **la dedicación a Jehová en oración, evaluando sus pasos de cambio y animándole a predicar**.",
@@ -7459,24 +7305,25 @@ const lessonsData = [
         "shortAnswer": "Guiarlo en los pasos de fe: arrepentimiento, dedicación personal y bautismo en agua."
       },
       {
-        "id": "15B_q15",
+        "id": "15B_q13",
         "question": "• ¿Qué pasos son necesarios para que se apruebe al estudiante como publicador? ¿Cómo puedes seguir capacitando a un publicador nuevo?",
         "references": "Hebreos 6:1",
-        "subtitle": "“Ya que hemos dejado atrás las enseñanzas básicas acerca del Cristo, avancemos hacia la madurez”",
+        "subtitle": "Lección 15A Ayúdalos a ser cristianos maduros - “Ya que hemos dejado atrás las enseñanzas básicas acerca del Cristo, avancemos hacia la madurez”",
         "directAnswer": "Es necesario que **exprese el deseo de predicar y que los ancianos verifiquen que comprende las doctrinas básicas y vive bajo normas bíblicas**.",
         "deepAnswer": "Una vez aprobado como publicador no bautizado, lo capacitamos llevándolo con nosotros al territorio. Le enseñamos a empezar conversaciones, a usar la Biblia en las puertas y a ser constante. **Nuestra meta es que adquiera confianza y desarrolle un ministerio regular**.",
         "shortAnswer": "Revisar los requisitos con los ancianos y acompañarlo en el ministerio para capacitarlo."
       },
       {
-        "id": "15B_q16",
+        "id": "15B_q14",
         "question": "• ¿Cómo le explicarías a tu estudiante lo que es la dedicación?",
         "references": "",
         "directAnswer": "Le explicaría que es **una promesa solemne y privada hecha a Jehová en oración, prometiéndole darle devoción exclusiva y hacer su voluntad**.",
         "deepAnswer": "La dedicación es el paso más importante. Se lo ilustramos como una decisión del corazón: prometerle a nuestro Padre Jehová que su servicio será el centro de nuestra vida. Le aclaramos que no es un pacto con una organización, sino una entrega total y personal a Dios por amor.",
-        "shortAnswer": "Una promesa solemne y personal en oración para dar devoción exclusiva a Jehová."
+        "shortAnswer": "Una promesa solemne y personal en oración para dar devoción exclusiva a Jehová.",
+        "subtitle": "Lección 15A Ayúdalos a ser cristianos maduros - “Ya que hemos dejado atrás las enseñanzas básicas acerca del Cristo, avancemos hacia la madurez”"
       },
       {
-        "id": "15B_q17",
+        "id": "15B_q15",
         "question": "• Después de que tu estudiante se bautice, ¿cómo debes seguir ayudándolo?",
         "references": "",
         "directAnswer": "Debemos **terminar de estudiar con él los libros de estudio (como el libro *Disfrute de la vida*) para que esté arraigado y firme en la fe**.",
@@ -7518,7 +7365,7 @@ const lessonsData = [
       },
       {
         "id": "16A_q3",
-        "question": "¿Por qué ser amigos de Jehová nos hace las personas más felices del mundo? (Juan 6:44; Efes. 4:18). La felicidad que viene de Jehová es tu fortaleza.",
+        "question": "¿Por qué ser amigos de Jehová nos hace las personas más felices del mundo? (Juan 6:44; Efes. 4:18).",
         "references": "",
         "directAnswer": "Ser amigos de Jehová nos hace las personas más felices del mundo porque <strong>nos rescata de la oscuridad espiritual y nos conecta directamente con la Fuente del gozo y del propósito en la vida.</strong>",
         "deepAnswer": "A diferencia de las personas del mundo, quienes se encuentran mentalmente \"en oscuridad\" y \"separadas de la vida que pertenece a Dios\" (Efes. 4:18), nosotros disfrutamos de una relación íntima con el Creador. Esta amistad no es por mérito propio, sino porque Jehová, en su inmenso amor, nos ha atraído hacia él mediante su espíritu santo (Juan 6:44). <strong>Saber que el Soberano del universo nos cuida, nos escucha y nos considera sus amigos nos da una paz interior y una fortaleza que ninguna circunstancia difícil en este sistema de cosas nos puede arrebatar.</strong>",
@@ -7530,7 +7377,8 @@ const lessonsData = [
         "references": "Rom. 5: 8, 18, 19; Col. 1:21-23",
         "directAnswer": "<strong>Jesús dio su vida voluntariamente como rescate por nosotros para liberarnos del pecado, reconciliarnos con Jehová y darnos una esperanza limpia y eterna.</strong>",
         "deepAnswer": "Como descendientes de Adán, estábamos condenados a la imperfección y la muerte, pero Jesús demostró el gran amor de Dios al morir por nosotros cuando todavía éramos pecadores (Rom. 5:8). Mediante su obediencia perfecta y su sacrificio redentor, hizo posible que se nos declare justos para vida (Rom. 5:18, 19). Gracias a esto, <strong>hemos pasado de ser enemigos espirituales a estar completamente reconciliados con Dios, presentándonos santos y sin tacha ante él, siempre y cuando permanezcamos firmes en la fe</strong> (Col. 1:21-23).",
-        "shortAnswer": "Jesús entregó su vida para librarnos de la culpa del pecado y devolvernos la maravillosa oportunidad de ser amigos de Dios para siempre."
+        "shortAnswer": "Jesús entregó su vida para librarnos de la culpa del pecado y devolvernos la maravillosa oportunidad de ser amigos de Dios para siempre.",
+        "subtitle": "La felicidad que viene de Jehová es tu fortaleza"
       },
       {
         "id": "16A_q5",
@@ -7542,7 +7390,7 @@ const lessonsData = [
       },
       {
         "id": "16A_q6",
-        "question": "¿Por qué podemos decir que ser felices no es algo opcional? (Gál. 5:22; Filip. 4:4; w21.02 pág. 28 párrs. 6, 7). Una vida con sentido.",
+        "question": "¿Por qué podemos decir que ser felices no es algo opcional? (Gál. 5:22; Filip. 4:4; w21.02 pág. 28 párrs. 6, 7).",
         "references": "",
         "directAnswer": "Ser felices no es opcional porque <strong>el gozo es un mandato divino y un aspecto fundamental del fruto del espíritu santo que todo cristiano debe cultivar.</strong>",
         "deepAnswer": "La Palabra de Dios no presenta el gozo como una simple sugerencia, sino como un mandato claro: \"Regocíjense en el Señor siempre\" (Filip. 4:4). Dado que el gozo es la segunda cualidad que se menciona como parte del \"fruto del espíritu\" (Gál. 5:22), esforzarnos por mantener una actitud alegre demuestra que estamos permitiendo que la fuerza activa de Jehová guíe nuestra vida. <strong>Estar felices, incluso ante las pruebas, honra a Jehová, fortalece nuestra salud espiritual y hace que nuestro ministerio sea mucho más atrayente para las personas del territorio.</strong>",
@@ -7555,7 +7403,8 @@ const lessonsData = [
         "directAnswer": "<strong>Nos hace felices la esperanza de ver el Reino de Dios santificar el nombre de Jehová y traer el Paraíso</strong>, y <strong>la Biblia nos anima a regocijarnos siempre imitando a nuestro \"Dios feliz\".</strong>",
         "deepAnswer": "<strong>Nuestra felicidad se basa en la gloriosa esperanza de que el Reino de Dios santificará su santo nombre y eliminará toda la maldad de la Tierra</strong> (Mat. 6:9, 10). <strong>La Biblia nos insta constantemente a mantener una actitud alegre y positiva (Filip. 4:4), reflejando la personalidad de Jehová, quien es llamado \"el Dios feliz\"</strong> (1 Tim. 1:11). Como muestra la experiencia de la hermana Janeen, cuando compartimos activamente esta esperanza con otros en el ministerio de precursor, la verdad se graba más en nuestro corazón y nuestra propia fe se mantiene dinámica y fuerte.",
         "shortAnswer": "Nos alegra la esperanza del Reino y se nos anima a mantener vivo ese gozo compartiendo activamente las buenas noticias con el prójimo.",
-        "note": "EXPERIENCIA: Una precursora llamada Janeen dice: “Cada vez que tengo la oportunidad de enseñarle la verdad a alguien, siento que se graba más en mi mente y en mi corazón. Así mi fe sigue creciendo en vez de quedarse estancada”."
+        "note": "EXPERIENCIA: Una precursora llamada Janeen dice: “Cada vez que tengo la oportunidad de enseñarle la verdad a alguien, siento que se graba más en mi mente y en mi corazón. Así mi fe sigue creciendo en vez de quedarse estancada”.",
+        "subtitle": "Una vida con sentido"
       },
       {
         "id": "16A_q8",
@@ -7625,7 +7474,7 @@ const lessonsData = [
       },
       {
         "id": "16A_q16",
-        "question": "¿Por qué los precursores se sienten más felices cuando hacen felices a los demás? (Prov. 11:25). Una fortaleza enorme.",
+        "question": "¿Por qué los precursores se sienten más felices cuando hacen felices a los demás? (Prov. 11:25).",
         "references": "",
         "directAnswer": "Los precursores somos más felices al ayudar a otros porque <strong>seguimos el principio bíblico de que dar produce más satisfacción que recibir.</strong>",
         "deepAnswer": "Tal como señala Proverbios 11:25, 'el que refresca a otros será refrescado'. Cuando invertimos nuestras energías en ayudar a los demás a conocer la verdad, estamos sembrando semillas de vida eterna; al hacerlo, <strong>recibimos abundantes bendiciones espirituales y la satisfacción de saber que estamos complaciendo a Jehová.</strong> Ese espíritu generoso nos fortalece y nos protege contra el desánimo, convirtiendo nuestra labor en una fuente constante de alegría.",
@@ -7637,7 +7486,8 @@ const lessonsData = [
         "references": "",
         "directAnswer": "Tener una actitud positiva vale la pena porque <strong>nos permite centrarnos en las bendiciones presentes y en la esperanza futura, en lugar de dejarnos vencer por las dificultades.</strong>",
         "deepAnswer": "Como nos muestra Colosenses 1:9-11, Jehová nos da poder para aguantar y ser pacientes con felicidad si mantenemos nuestro discernimiento espiritual. Aunque tengamos problemas, <strong>seguir el ejemplo de Jesús, quien se concentró en el 'gozo que se le puso delante' (Heb. 12:2), nos ayuda a ver más allá de las aflicciones.</strong> <strong>La gratitud y la alabanza constantes a Jehová, como en el Salmo 100:2, transforman nuestra perspectiva y nos permiten mantener la alegría incluso en medio de las pruebas.</strong>",
-        "shortAnswer": "Una actitud positiva basada en la esperanza de Jehová nos sostiene y nos permite aguantar con gozo."
+        "shortAnswer": "Una actitud positiva basada en la esperanza de Jehová nos sostiene y nos permite aguantar con gozo.",
+        "subtitle": "Una fortaleza enorme"
       },
       {
         "id": "16A_q18",
@@ -8211,11 +8061,12 @@ const lessonsData = [
     "questions": [
       {
         "id": "17B_q1",
-        "question": "¿Por qué incluyó Dios en la Biblia ejemplos de siervos fieles que demostraron aguante?",
+        "question": "¿Por qué incluyó Dios en la Biblia ejemplos de siervos fieles que demostraron aguante? (Heb. 12:1; Sant. 5:10, 11).",
         "references": "Heb. 12:1; Sant. 5: 10, 11",
         "directAnswer": "<strong>Jehová incluyó estos ejemplos para motivarnos a correr con aguante la carrera de la vida, imitando la fe de quienes ya sirvieron a Dios fielmente.</strong>",
         "deepAnswer": "Como indica Hebreos 12:1, estos siervos fieles son como una \"nube de testigos\" que nos rodea, cuya lealtad nos sirve de modelo. Santiago 5:10, 11 subraya que al considerar cómo los profetas y Job permanecieron leales bajo sufrimiento, nosotros también <strong>nos sentimos impulsados a ser constantes en nuestro ministerio, sabiendo que el aguante es una cualidad que Jehová valora profundamente.</strong>",
-        "shortAnswer": "Son modelos de fe que nos animan a perseverar en nuestro servicio a Dios."
+        "shortAnswer": "Son modelos de fe que nos animan a perseverar en nuestro servicio a Dios.",
+        "subtitle": "Ejemplos de aguante"
       },
       {
         "id": "17B_q2",
@@ -8251,7 +8102,7 @@ const lessonsData = [
       },
       {
         "id": "17B_q6",
-        "question": "¿Qué fue “lo que al final Jehová hizo” por Job, como",
+        "question": "¿Qué fue “lo que al final Jehová hizo” por Job, como mencionó Santiago? ¿Por qué llegó Job a conocer mejor las cualidades de Jehová durante las pruebas que pasó? (Job 42:5).",
         "references": "",
         "directAnswer": "<strong>Lo que Jehová hizo al final fue bendecir a Job abundantemente, dándole el doble de lo que tenía antes y devolviéndole su bienestar.</strong>",
         "deepAnswer": "Como indica Job 42:12, <strong>Jehová bendijo la última parte de la vida de Job más que la primera.</strong> Esta restauración no fue solo material, sino que validó su integridad, demostrando que para nuestro Padre celestial, el aguante de sus siervos nunca pasa inadvertido ni queda sin recompensa.",
@@ -8259,30 +8110,15 @@ const lessonsData = [
       },
       {
         "id": "17B_q7",
-        "question": "mencionó Santiago? ¿Por qué llegó Job a conocer mejor las cualidades de Jehová durante las pruebas que pasó? (Job 42:5). “Ustedes necesitan aguantar”",
-        "references": "Heb. 10:36",
-        "directAnswer": "Job conoció mejor a Jehová porque <strong>las pruebas eliminaron las dudas y le permitieron ver el poder y la misericordia de Dios con sus propios ojos.</strong>",
-        "deepAnswer": "En Job 42:5, él declara: \"Mis oídos habían oído hablar de ti, pero ahora mis propios ojos te han visto\". <strong>Las dificultades le permitieron experimentar la sabiduría y la tierna compasión de Jehová de manera directa.</strong> Hebreos 10:36 confirma que necesitamos aguantar para hacer la voluntad de Dios y recibir lo que él ha prometido.",
-        "shortAnswer": "Las pruebas lo llevaron de un conocimiento teórico a una relación viva y real con Jehová."
-      },
-      {
-        "id": "17B_q8",
-        "question": "¿Por qué no debes apresurarte a evitar situaciones o asignaciones que exijan mucho aguante de tu parte?",
-        "references": "Rom. 5:3, 4; Sant. 1:4",
-        "directAnswer": "No debemos evitarlas porque <strong>las situaciones difíciles producen en nosotros la cualidad probada del aguante, la cual es necesaria para ser completos.</strong>",
-        "deepAnswer": "Romanos 5:3, 4 nos anima a sentirnos orgullosos de nuestros sufrimientos, pues estos producen aguante y madurez. Santiago 1:4 añade que <strong>debemos dejar que el aguante complete su obra para que seamos \"íntegros y completos, sin que nos falte nada\".</strong> Huir de las asignaciones difíciles nos privaría de esa necesaria madurez espiritual.",
-        "shortAnswer": "Las pruebas son oportunidades necesarias para desarrollar nuestra madurez espiritual."
-      },
-      {
-        "id": "17B_q9",
         "question": "Si demuestras aguante, ¿qué dice eso sobre el tipo de corazón que tienes?",
         "references": "Luc. 8:15",
         "directAnswer": "Si demuestras aguante, eso <strong>revela que tienes un corazón honesto, bueno y receptivo que valora la verdad sobre todas las cosas.</strong>",
         "deepAnswer": "Jesús explicó en la ilustración del sembrador (Lucas 8:15) que los que retienen la palabra con un corazón honesto y bueno \"dan fruto con aguante\". Por lo tanto, <strong>el aguante es la prueba externa de que la \"semilla\" de la verdad ha echado raíces profundas y está dando frutos en nuestro servicio sagrado.</strong>",
-        "shortAnswer": "Es la prueba definitiva de que nuestro corazón es honesto y está bien dispuesto."
+        "shortAnswer": "Es la prueba definitiva de que nuestro corazón es honesto y está bien dispuesto.",
+        "subtitle": "“Ustedes necesitan aguantar”"
       },
       {
-        "id": "17B_q10",
+        "id": "17B_q8",
         "question": "¿Por qué no es bueno que vivas asustado por lo que pueda pasar cuando nos persigan?",
         "references": "1 Cor. 10:13",
         "directAnswer": "No debemos vivir asustados porque <strong>Jehová es fiel y nunca permitirá que seamos tentados más allá de lo que podemos soportar.</strong>",
@@ -8290,7 +8126,7 @@ const lessonsData = [
         "shortAnswer": "Jehová nos da la garantía de que nunca nos dejará enfrentar pruebas insuperables."
       },
       {
-        "id": "17B_q11",
+        "id": "17B_q9",
         "question": "¿Qué te ayudará a tener fuerzas para aguantar la persecución y ser fiel?",
         "references": "Prov. 27:11; Hech. 5:41; Heb. 12: 1, 2",
         "directAnswer": "Para aguantar la persecución, nos ayuda <strong>recordar que nuestra lealtad alegra el corazón de Jehová y fijar la vista en la esperanza del Reino.</strong>",
@@ -8298,7 +8134,7 @@ const lessonsData = [
         "shortAnswer": "Centrar nuestra mente en alegrar a Jehová y en la recompensa futura."
       },
       {
-        "id": "17B_q12",
+        "id": "17B_q10",
         "question": "¿Por qué puede que se requiera aguante en las siguientes situaciones, y qué podría ayudarte a aguantar?",
         "references": "",
         "directAnswer": "",
@@ -8306,7 +8142,7 @@ const lessonsData = [
         "shortAnswer": "",
         "subQuestions": [
           {
-            "id": "17B_q12_a",
+            "id": "17B_q10_a",
             "question": "¿Por qué puede que se requiera aguante al empezar a predicar temprano, y qué podría ayudarte a aguantar?",
             "references": "",
             "directAnswer": "Se requiere aguante para <strong>vencer la tendencia a la pereza o la comodidad</strong>; <strong>la disciplina personal y el amor por las personas son claves para perseverar.</strong>",
@@ -8314,7 +8150,7 @@ const lessonsData = [
             "shortAnswer": "La disciplina personal y el deseo sincero de hallar a las personas ayudan a vencer la pereza matutina."
           },
           {
-            "id": "17B_q12_b",
+            "id": "17B_q10_b",
             "question": "¿Por qué puede que se requiera aguante al pasar mucho calor o mucho frío al predicar, y qué podría ayudarte a aguantar?",
             "references": "",
             "directAnswer": "<strong>Las condiciones climáticas extremas ponen a prueba nuestra determinación</strong>; <strong>una preparación adecuada y enfocarse en la urgencia de la obra ayudan a soportarlas.</strong>",
@@ -8322,7 +8158,7 @@ const lessonsData = [
             "shortAnswer": "La preparación física y recordar la importancia vital de nuestro mensaje ayudan a superar las incomodidades del clima."
           },
           {
-            "id": "17B_q12_c",
+            "id": "17B_q10_c",
             "question": "¿Por qué puede que se requiera aguante al tener diferencias de personalidad con tu compañero de precursorado o con algún otro hermano, y qué podría ayudarte a aguantar?",
             "references": "",
             "directAnswer": "<strong>Las diferencias de personalidad ponen a prueba nuestra humildad y amor</strong>; <strong>aplicar la paciencia y buscar la unidad cristiana son fundamentales.</strong>",
@@ -8330,7 +8166,7 @@ const lessonsData = [
             "shortAnswer": "La humildad, el perdón y el enfoque en las buenas cualidades del prójimo ayudan a mantener la paz y la unidad."
           },
           {
-            "id": "17B_q12_d",
+            "id": "17B_q10_d",
             "question": "¿Por qué puede que se requiera aguante al enfrentarse a la indiferencia o apatía de la gente, y qué podría ayudarte a aguantar?",
             "references": "",
             "directAnswer": "<strong>La falta de interés de la gente puede desalentar</strong>; <strong>aguantar requiere ver la obra como Jehová la ve y recordar que nuestra labor es exitosa por el simple hecho de ser testigos.</strong>",
@@ -8340,7 +8176,7 @@ const lessonsData = [
         ]
       },
       {
-        "id": "17B_q13",
+        "id": "17B_q11",
         "question": "¿Qué te ayudará a aguantar en los siguientes casos?",
         "references": "",
         "directAnswer": "",
@@ -8348,7 +8184,7 @@ const lessonsData = [
         "shortAnswer": "",
         "subQuestions": [
           {
-            "id": "17B_q13_a",
+            "id": "17B_q11_a",
             "question": "¿Qué te ayudará a aguantar al enfrentar la oposición de tu familia? (Sal. 27:10; Mat. 10:34-37; Mar. 10:29, 30)",
             "references": "Sal. 27:10; Mat. 10:34-37; Mar. 10:29, 30",
             "directAnswer": "<strong>Tener presente que, aunque los familiares cercanos nos abandonen, Jehová y su familia espiritual, la congregación, nos brindan un apoyo mucho más duradero y leal.</strong>",
@@ -8356,7 +8192,7 @@ const lessonsData = [
             "shortAnswer": "Confiar en que Jehová nos adopta como su familia y nos provee el apoyo de la congregación."
           },
           {
-            "id": "17B_q13_b",
+            "id": "17B_q11_b",
             "question": "¿Qué te ayudará a aguantar al recibir —tú o un ser querido— algún tipo de disciplina? (Prov. 1:8; Heb. 12:11)",
             "references": "Prov. 1:8; Heb. 12:11",
             "directAnswer": "<strong>Ver la disciplina no como un castigo, sino como una muestra del amor de Jehová que tiene como objetivo corregirnos y ayudarnos a producir un fruto pacífico: la justicia.</strong>",
@@ -8364,7 +8200,7 @@ const lessonsData = [
             "shortAnswer": "Reconocer que la disciplina proviene del amor de Jehová para nuestro perfeccionamiento."
           },
           {
-            "id": "17B_q13_c",
+            "id": "17B_q11_c",
             "question": "¿Qué te ayudará a aguantar si tienes mala salud o pasas por periodos de depresión? (Sal. 41:3; Mat. 11:28-30; Rom. 12:12)",
             "references": "Sal. 41:3; Mat. 11:28-30; Rom. 12:12",
             "directAnswer": "<strong>Refugiarnos en la oración constante, meditar en las promesas de la Biblia y aceptar el consuelo de Jehová, quien se interesa profundamente por nuestro bienestar emocional y físico.</strong>",
@@ -8372,7 +8208,7 @@ const lessonsData = [
             "shortAnswer": "La oración, la meditación bíblica y la confianza en que Jehová sostiene a quienes están agobiados."
           },
           {
-            "id": "17B_q13_d",
+            "id": "17B_q11_d",
             "question": "¿Qué te ayudará a aguantar al enfrentarte a tentaciones, como ofertas de trabajo que sacrifican actividades espirituales? (Sal. 37:25; Mat. 5:3; 6:33)",
             "references": "Sal. 37:25; Mat. 5:3; 6:33",
             "directAnswer": "<strong>Mantener una visión clara de lo que es realmente importante, recordando que buscar primero el Reino de Dios nos garantiza el cuidado de Jehová, mientras que la codicia material solo trae ansiedad.</strong>",
@@ -8380,7 +8216,7 @@ const lessonsData = [
             "shortAnswer": "Dar prioridad absoluta a los intereses del Reino por encima de las ventajas materiales."
           },
           {
-            "id": "17B_q13_e",
+            "id": "17B_q11_e",
             "question": "Si te presionan en el trabajo. Por ejemplo, si se burlan de ti por seguir los principios de la Biblia (Sal. 55:22; Juan 16:33).",
             "references": "Sal. 55:22; Juan 16:33",
             "directAnswer": "<strong>Lanzar nuestra carga sobre Jehová mediante la oración y recordar que nuestra conducta ejemplar y paciente es el mejor testimonio, pudiendo incluso atraer a otros a la verdad.</strong>",
@@ -8391,7 +8227,7 @@ const lessonsData = [
         ]
       },
       {
-        "id": "17B_q14",
+        "id": "17B_q12",
         "question": "¿Cómo te ayudarán los siguientes puntos a aguantar los problemas y a mantenerte cerca de Jehová?",
         "references": "Sant. 1:2-4; w21.02 pág. 28 párr. 7",
         "directAnswer": "",
@@ -8399,7 +8235,7 @@ const lessonsData = [
         "shortAnswer": "",
         "subQuestions": [
           {
-            "id": "17B_q14_a",
+            "id": "17B_q12_a",
             "question": "Estudiar y meditar (Prov. 15:28; 2 Tim. 2:15).",
             "references": "Prov. 15:28; 2 Tim. 2:15; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
             "directAnswer": "<strong>El estudio y la meditación nos permiten llenar nuestra mente con los pensamientos de Jehová, lo cual fortalece nuestra fe y nos da la estabilidad necesaria para resistir bajo presión.</strong>",
@@ -8408,7 +8244,7 @@ const lessonsData = [
             "note": "EXPERIENCIA: Un hermano que había estado en campos de concentración nazis escribió: “Cuando me arrestaron, me sentí agradecido de no haber descuidado el estudio personal, ya que este me ayudó a tener fe para aguantar las pruebas”."
           },
           {
-            "id": "17B_q14_b",
+            "id": "17B_q12_b",
             "question": "¿Cómo te ayudará el punto 'Pasar tiempo con los hermanos' a aguantar los problemas y a mantenerte cerca de Jehová? (1 Cor. 15:33; Heb. 10:24, 25).",
             "references": "1 Cor. 15:33; Heb. 10:24, 25; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
             "directAnswer": "<strong>Pasar tiempo con los hermanos nos proporciona el estímulo mutuo, el apoyo emocional y el ejemplo de fidelidad que necesitamos para no rendirnos.</strong>",
@@ -8416,7 +8252,7 @@ const lessonsData = [
             "shortAnswer": "La asociación con nuestros hermanos es una fuente vital de ánimo y protección espiritual."
           },
           {
-            "id": "17B_q14_c",
+            "id": "17B_q12_c",
             "question": "¿Cómo te ayudará el punto 'Predicar' a aguantar los problemas y a mantenerte cerca de Jehová? (Mat. 24:14; 28:19, 20).",
             "references": "Mat. 24:14; 28:19, 20; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
             "directAnswer": "<strong>La predicación nos mantiene enfocados en el propósito de Jehová y en las promesas futuras, lo que nos ayuda a poner nuestros problemas en una perspectiva eterna.</strong>",
@@ -8424,7 +8260,7 @@ const lessonsData = [
             "shortAnswer": "El ministerio nos ayuda a mantenernos enfocados en las promesas de Dios, fortaleciendo nuestra perseverancia."
           },
           {
-            "id": "17B_q14_d",
+            "id": "17B_q12_d",
             "question": "¿Cómo te ayudará el punto 'Orar' a aguantar los problemas y a mantenerte cerca de Jehová? (Prov. 15:29).",
             "references": "Prov. 15:29; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
             "directAnswer": "<strong>La oración nos permite comunicarnos directamente con Jehová, descargando nuestras ansiedades sobre él y recibiendo la paz que supera todo pensamiento.</strong>",
@@ -8432,7 +8268,7 @@ const lessonsData = [
             "shortAnswer": "La oración es el canal mediante el cual recibimos la paz y fortaleza divina para seguir adelante."
           },
           {
-            "id": "17B_q14_e",
+            "id": "17B_q12_e",
             "question": "¿Cómo te ayudará el punto 'Tener una buena conciencia' a aguantar los problemas y a mantenerte cerca de Jehová? (1 Tim. 1:18, 19; 1 Ped. 3:16).",
             "references": "1 Tim. 1:18, 19; 1 Ped. 3:16; Sant. 1:2-4; w21.02 pág. 28 párr. 7",
             "directAnswer": "<strong>Una buena conciencia nos brinda la libertad mental y la confianza ante Dios de que estamos haciendo lo correcto, lo cual es esencial para no sentirnos derrotados por la culpa.</strong>",
@@ -8442,23 +8278,25 @@ const lessonsData = [
         ]
       },
       {
-        "id": "17B_q15",
+        "id": "17B_q13",
         "question": "¿En qué sentido somos felices cuando pasamos por pruebas?",
         "references": "",
         "directAnswer": "<strong>Somos felices porque sabemos que nuestras pruebas demuestran que tenemos una fe genuina y cuentan con la aprobación de Dios.</strong>",
         "deepAnswer": "La felicidad no proviene de la ausencia de problemas, sino de saber que nuestra integridad agrada a Jehová. <strong>Santiago explica que estas situaciones ponen a prueba nuestra fe, y al superarlas, demostramos que nuestra devoción es pura y digna de confianza ante nuestro Padre celestial.</strong>",
-        "shortAnswer": "La felicidad proviene de saber que nuestra fe probada agrada a Jehová."
+        "shortAnswer": "La felicidad proviene de saber que nuestra fe probada agrada a Jehová.",
+        "subtitle": "“Que el aguante complete su obra”"
       },
       {
-        "id": "17B_q16",
+        "id": "17B_q14",
         "question": "¿Cómo dejamos que el aguante nos haga “completos”?",
         "references": "",
         "directAnswer": "<strong>El aguante nos hace 'completos' al permitir que Jehová corrija nuestros defectos y refine nuestra personalidad cristiana.</strong>",
         "deepAnswer": "Al aguantar bajo presión, dejamos de ser cristianos inmaduros. <strong>El aguante actúa como un proceso de refinamiento, permitiendo que las enseñanzas de la Biblia moldeen nuestras actitudes, nuestra paciencia y nuestra compasión, convirtiéndonos en siervos cristianos más equilibrados y capacitados.</strong>",
-        "shortAnswer": "El aguante es el proceso que nos permite madurar y pulir nuestra personalidad cristiana."
+        "shortAnswer": "El aguante es el proceso que nos permite madurar y pulir nuestra personalidad cristiana.",
+        "subtitle": "“Que el aguante complete su obra”"
       },
       {
-        "id": "17B_q17",
+        "id": "17B_q15",
         "question": "¿En qué sentido nos hacemos “perfectos” en el servicio a Dios?",
         "references": "Mat. 5:48",
         "directAnswer": "<strong>Nos hacemos 'perfectos' en el sentido de que logramos una madurez espiritual total y una devoción sin reservas a Dios.</strong>",
@@ -8466,7 +8304,7 @@ const lessonsData = [
         "shortAnswer": "Alcanzamos una madurez espiritual plena que refleja las cualidades de nuestro Padre."
       },
       {
-        "id": "17B_q18",
+        "id": "17B_q16",
         "question": "¿Cómo te ha dado este curso fuerzas para seguir aguantando?",
         "references": "",
         "directAnswer": "<strong>Este curso me ha dado la seguridad de que, con el apoyo de Jehová, es posible mantener el gozo incluso en medio de las pruebas.</strong>",
@@ -8474,7 +8312,7 @@ const lessonsData = [
         "shortAnswer": "Me ha recordado que no estoy solo y que Jehová sostiene mi mano."
       },
       {
-        "id": "17B_q19",
+        "id": "17B_q17",
         "question": "¿Qué cosas has aprendido que te ayudarán a seguir siendo precursor?",
         "references": "",
         "directAnswer": "<strong>He aprendido que el estudio constante y la confianza total en Jehová son los pilares que me mantendrán feliz en el precursorado.</strong>",
@@ -8482,7 +8320,7 @@ const lessonsData = [
         "shortAnswer": "El estudio constante y priorizar a Jehová son esenciales para perseverar en el ministerio."
       },
       {
-        "id": "17B_q20",
+        "id": "17B_q18",
         "question": "De las ideas que aprendiste, ¿cuáles puedes usar para animar a otros a aguantar?",
         "references": "",
         "directAnswer": "<strong>Puedo compartir experiencias sobre el poder de la oración y la importancia de ver los problemas como oportunidades para demostrar nuestra lealtad.</strong>",
@@ -8490,7 +8328,7 @@ const lessonsData = [
         "shortAnswer": "Recordarles que su aguante no es en vano y que Jehová valora mucho su lealtad."
       },
       {
-        "id": "17B_q21",
+        "id": "17B_q19",
         "question": "¿Por qué es el amor tan importante para aguantar?",
         "references": "Rom. 8:38, 39; 1 Cor. 13:7, 8",
         "directAnswer": "<strong>El amor es la base de nuestra lealtad a Jehová</strong>; si amamos a Dios por encima de todo, nada podrá separarnos de él.",
@@ -8498,7 +8336,7 @@ const lessonsData = [
         "shortAnswer": "El amor es el motor que nos permite soportar cualquier cosa sin renunciar a nuestra amistad con Jehová."
       },
       {
-        "id": "17B_q22",
+        "id": "17B_q20",
         "question": "¿Qué pruebas has superado gracias al espíritu de Jehová?",
         "references": "",
         "directAnswer": "<strong>He superado pruebas de salud y presiones económicas gracias a que el espíritu de Jehová me ha dado la fortaleza que excede lo normal.</strong>",
@@ -8506,28 +8344,30 @@ const lessonsData = [
         "shortAnswer": "El espíritu santo me ha dado la fortaleza espiritual y la calma necesaria para no rendirme ante las dificultades."
       },
       {
-        "id": "17B_q23",
-        "question": "¿Cómo te ha ayudado hacer frente a esas pruebas? La recompensa por aguantar.",
+        "id": "17B_q21",
+        "question": "¿Cómo te ha ayudado hacer frente a esas pruebas?",
         "references": "",
         "directAnswer": "<strong>Hacer frente a las pruebas me ha ayudado a <strong>desarrollar una fe más refinada y a confiar plenamente en el apoyo constante de Jehová</strong>.</strong>",
         "deepAnswer": "<strong>Cada prueba superada funciona como un refinamiento de nuestra fe, permitiéndonos desarrollar un aguante que agrada a nuestro Padre celestial.</strong> Al ver cómo Jehová responde a nuestras súplicas, nuestra confianza en su cuidado amoroso se vuelve inquebrantable. Este proceso no solo nos prepara para los desafíos futuros, sino que <strong>nos hace más empáticos con otros hermanos que sufren, permitiéndonos brindarles el consuelo que nosotros mismos recibimos de Dios</strong>.",
         "shortAnswer": "Superar pruebas fortalece mi fe y me permite experimentar personalmente el apoyo y la fidelidad de Jehová."
       },
       {
-        "id": "17B_q24",
-        "question": "¿Qué les dijo Pablo a los hermanos de Tesalónica sobre el aguante que demostraron?",
+        "id": "17B_q22",
+        "question": "¿Cómo te ha ayudado hacer frente a esas pruebas?",
         "references": "1 Tes. 1:3; 2 Tes. 1:4, 5",
         "directAnswer": "<strong>Pablo felicitó a los tesalonicenses por su «obra de fe» y su «labor de amor» bajo persecución, asegurándoles que su aguante era prueba del juicio justo de Dios.</strong>",
         "deepAnswer": "En 1 Tesalonicenses 1:3, Pablo destaca que recordaba sin cesar la constancia de su esperanza en el Señor. Más adelante, en 2 Tesalonicenses 1:4, 5, les dice que <strong>su aguante servía de ejemplo para otras congregaciones y era una prueba clara de que Dios los consideraba dignos de su Reino</strong>. Pablo les enseñó que <strong>sus sufrimientos no eran en vano, sino que demostraban que Dios juzgaría justamente a los que los oprimían</strong>.",
-        "shortAnswer": "Pablo reconoció que el aguante de ellos era una prueba visible de su fe y de que eran dignos del Reino de Dios."
+        "shortAnswer": "Pablo reconoció que el aguante de ellos era una prueba visible de su fe y de que eran dignos del Reino de Dios.",
+        "subtitle": "La recompensa por aguantar"
       },
       {
-        "id": "17B_q25",
+        "id": "17B_q23",
         "question": "¿Qué maravillosa recompensa les promete Dios a los que aguanten?",
         "references": "Luc. 21:19; Sant. 1:12",
         "directAnswer": "<strong>Dios promete a los que aguantan que salvarán sus vidas y recibirán la «corona de la vida».</strong>",
         "deepAnswer": "Jesús aseguró en Lucas 21:19 que <strong>mediante el aguante ganaremos nuestras almas, es decir, nuestra salvación definitiva</strong>. Asimismo, Santiago 1:12 nos da la maravillosa promesa de que <strong>la persona que sigue aguantando bajo prueba será declarada aprobada y recibirá la «corona de la vida»</strong>, la cual Jehová ha prometido a los que siguen amándolo. Esta recompensa, ya sea vida eterna en el cielo o en la Tierra, supera por mucho cualquier sufrimiento temporal que enfrentemos hoy.",
-        "shortAnswer": "Jehová promete la vida eterna y la felicidad duradera a todos los que se mantienen fieles y aguantan hasta el fin."
+        "shortAnswer": "Jehová promete la vida eterna y la felicidad duradera a todos los que se mantienen fieles y aguantan hasta el fin.",
+        "subtitle": "La recompensa por aguantar"
       }
     ],
     "image": "public_preaching.png",
