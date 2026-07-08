@@ -2575,7 +2575,7 @@ const lessonsData = [
         "references": "Apocalipsis 4:11",
         "subtitle": "Lección 4A La soberanía de Jehová y la santificación de su nombre — “Enséñame a hacer tu voluntad” (Salmo 143:10).",
         "directAnswer": "Los precursores la defienden al **obedecer a Jehová en todo aspecto de su vida, someterse de buena gana a su organización y enseñar a otros que sus normas son justas (Apoc. 4:11)**.",
-        "deepAnswer": "Como precursores, defendemos la soberanía de Jehová al regir nuestra conducta por su Palabra. Demostramos que servir a Dios no es una carga pesada, sino un deleite. Al predicar con gozo y aguantar los desafíos con paciencia, probamos que el Diablo es un mentiroso y que Jehová es el único Soberano digno de gobernar nuestras vidas.",
+        "deepAnswer": "Basándonos en la **Lección 4A**, los precursores defienden la soberanía de Jehová al regir su conducta íntima y pública por sus normas, demostrando que servir a Dios no es una carga, sino la mejor forma de vivir. Se someten de corazón a la guía teocrática, no solo para ser vistos, sino por amor leal (Prov. 27:11).",
         "shortAnswer": "Obedeciendo de buena gana a Jehová y mostrando con nuestro ministerio que sus normas son perfectas."
       },
       {
@@ -2583,7 +2583,7 @@ const lessonsData = [
         "question": "¿Cómo puedes ayudar a otros a amar la soberanía de Jehová?",
         "references": "",
         "directAnswer": "Les ayudamos mostrando **los excelentes resultados de obedecer las normas bíblicas en nuestra vida familiar, conducta y gozo personal**.",
-        "deepAnswer": "Las personas se sienten atraídas a la soberanía de Jehová cuando ven sus beneficios. Al ver que nuestra obediencia produce familias unidas, paz mental y honradez, ellos captan el valor de la ley de Dios. Además, les enseñamos a razonar sobre el amor de Jehová como Creador, ayudándolos a desear someterse a su guía teocrática por amor.",
+        "deepAnswer": "Basándonos en la **Lección 4A**, ayudamos a otros al predicarles con entusiasmo de casa en casa y mediante nuestro buen comportamiento y sujeción teocrática, demostrando que la ley de Dios produce paz mental, familias unidas y honradez. Les enseñamos a razonar sobre el derecho de Jehová a gobernarnos por habernos creado.",
         "shortAnswer": "Dando un buen testimonio con nuestra conducta feliz y enseñando el amor de Jehová en el ministerio."
       },
       {
@@ -2592,7 +2592,7 @@ const lessonsData = [
         "references": "Filipenses 2:4",
         "subtitle": "Lección 4B Interésate sinceramente por los demás — Busquen “no solo sus propios intereses, sino también los de los demás” (Filipenses 2:4).",
         "directAnswer": "Lo demuestro al **ser sumamente cortés, escuchar con atención y empatía, felicitar con sinceridad y amoldar mi mensaje a sus circunstancias reales**.",
-        "deepAnswer": "De acuerdo con Filipenses 2:4, debemos buscar el interés de los demás. En el ministerio, esto implica no dar una presentación mecánica. Escuchamos al amo de casa, mantenemos un contacto visual respetuoso, validamos sus comentarios y usamos textos que respondan a sus preocupaciones específicas, demostrando amor sincero.",
+        "deepAnswer": "Basándonos en la **Lección 4B**, demostramos interés teniendo en cuenta lo que el amo de casa está haciendo en el momento y adaptándonos a su tiempo (Juan 4:7, 10, 28, 29). Escuchamos con paciencia y empatía sin parecer que lo estamos interrogando, y buscamos puntos en común para consolarlo con las Escrituras.",
         "shortAnswer": "Escuchando con empatía, mostrando respeto cultural y adaptando el mensaje a sus necesidades."
       },
       {
@@ -2600,7 +2600,7 @@ const lessonsData = [
         "question": "¿Por qué es tan importante escuchar para mostrar interés por otros?",
         "references": "",
         "directAnswer": "Es fundamental porque **dignifica a la persona, nos permite ganarnos su confianza y nos ayuda a saber qué verdades bíblicas la consolarán**.",
-        "deepAnswer": "Escuchar con total atención es una de las muestras más claras de honra cristiana (Rom. 12:10). Evita que parezcamos vendedores o personas impositivas. Cuando el amo de casa ve que valoramos sus ideas y sentimientos, derriba sus prejuicios y se siente más dispuesto a prestar atención al mensaje del Reino.",
+        "deepAnswer": "Basándonos en la **Lección 4B**, escuchar con atención es una muestra de honra cristiana (Rom. 12:10). Demuestra que valoramos lo que la persona piensa y siente. Muchas veces, lo que más recuerdan las personas de nuestra visita no es lo que les dijimos, sino cómo las escuchamos y el respeto que les mostramos.",
         "shortAnswer": "Dignifica a nuestro oyente, crea confianza y revela qué temas bíblicos le ayudarán mejor."
       },
       {
@@ -2608,7 +2608,7 @@ const lessonsData = [
         "question": "¿Cuál es la razón más importante por la que nos interesamos por los demás?",
         "references": "",
         "directAnswer": "La razón principal es que **así imitamos de forma fiel el inmenso amor y la tierna compasión de nuestro Padre Jehová**.",
-        "deepAnswer": "Jehová es la personificación del amor. Al interesarnos sinceramente por las personas de nuestro territorio, reflejamos las cualidades de nuestro Padre celestial. Este amor sincero es lo que realmente atrae a las personas a la verdad, haciendo que las buenas nuevas sean más hermosas y memorables para ellas.",
+        "deepAnswer": "Basándonos en la **Lección 4B**, nuestra motivación principal no es usar una técnica de ventas, sino imitar a Jehová, quien se interesa profundamente por las personas. Este amor sincero refleja las cualidades de nuestro Padre celestial y atrae a los merecedores del Reino a su organización.",
         "shortAnswer": "Imitar el amor y compasión de Jehová, atrayendo a las personas a su organización."
       },
       {
@@ -2617,15 +2617,15 @@ const lessonsData = [
         "references": "Mateo 28:19",
         "subtitle": "Lección 5A La predicación de casa en casa: el método principal para llegar a las personas — “Hagan discípulos de gente de todas las naciones” (Mateo 28:19).",
         "directAnswer": "Nos ayuda al **recordar que Jesús predicaba impulsado por el amor a Dios y una profunda compasión por las personas que estaban cargadas (Mat. 9:36)**.",
-        "deepAnswer": "Jesús es nuestro modelo perfecto. Él consideraba la predicación como su alimento y sentía dolor al ver a la gente 'descarriada como ovejas sin pastor'. Al meditar en su celo y empatía, **vencemos nuestro propio desánimo y nos sentimos motivados a seguir buscando a los merecedores del mensaje** con la misma compasión.",
-        "shortAnswer": "Imitar la compasión y el amor de Jesús nos da las fuerzas para predicar con celo."
+        "deepAnswer": "Basándonos en la **Lección 5A**, Jesús consideraba la predicación como su alimento y sentía dolor al ver a la gente 'descarriada como ovejas sin pastor'. Meditar en su celo y en la inmensa autoridad de quien nos mandó realizar esta labor (Mat. 28:18-20) nos da las fuerzas necesarias para predicar con entusiasmo.",
+        "shortAnswer": "Imitar la compasión and el amor de Jesús nos da las fuerzas para predicar con celo."
       },
       {
         "id": "6B_q7",
         "question": "¿Cómo puedes contagiar a otros tu entusiasmo por la predicación de casa en casa?",
         "references": "",
         "directAnswer": "Lo contagiamos al **predicar con alegría real, compartir experiencias edificantes en la congregación e invitar a otros a acompañarnos**.",
-        "deepAnswer": "El entusiasmo es contagioso. Cuando los hermanos nos ven predicar con gozo y sin quejarnos, se sienten motivados. Compartir en el Salón del Reino cómo Jehová nos ayudó en una conversación o cómo iniciamos un estudio bíblico infunde ánimo a toda la congregación para participar en el ministerio.",
+        "deepAnswer": "Basándonos en la **Lección 5A**, contagiamos nuestro entusiasmo al mantener una actitud positiva y gozosa en el ministerio. Compartir experiencias de estudios bíblicos o buenas conversaciones en el Salón del Reino anima a la congregación, y hacer planes para predicar juntos ayuda a otros a disfrutar de esta labor.",
         "shortAnswer": "Predicando con gozo, relatando buenas experiencias e invitando a los publicadores a predicar juntos."
       },
       {
@@ -2634,7 +2634,7 @@ const lessonsData = [
         "references": "Hechos 5:42",
         "subtitle": "Lección 5B Taller 1 — “Todos los días, sin parar, seguían enseñando y declarando las buenas noticias [...] de casa en casa” (Hechos 5:42).",
         "directAnswer": "Pienso usar **comentarios breves sobre noticias locales, preguntas sencillas de opinión o mostrar un video corto de jw.org**.",
-        "deepAnswer": "En el Taller 1 aprendimos que las conversaciones naturales son las más eficaces. Podemos romper el hielo preguntando qué opina sobre una noticia del barrio o mostrando el código QR de un tratado. La clave es ser amables, sonreír y permitir que la persona hable sin forzar la lectura del texto de inmediato.",
+        "deepAnswer": "Basándonos en la **Lección 5B**, las conversaciones naturales y amigables son las más eficaces. Pienso usar un tratado, hacer preguntas sobre problemas locales o usar las sugerencias del kit de enseñanza, permitiendo que la persona exprese su opinión sin presionarla.",
         "shortAnswer": "Preguntar la opinión del amo de casa sobre temas locales o noticias del día con sencillez."
       },
       {
@@ -2642,7 +2642,7 @@ const lessonsData = [
         "question": "¿Qué te ayudará a ser flexible al predicar de casa en casa?",
         "references": "",
         "directAnswer": "Me ayudará **preparar varios temas basados en diferentes folletos o textos bíblicos, y estar listo para cambiar de tema según la reacción del amo de casa**.",
-        "deepAnswer": "La flexibilidad teocrática exige no imponer un bosquejo rígido. Si la persona nos dice que está ocupada, somos breves; si menciona que está enferma o de duelo, cambiamos nuestra presentación para consolarla con un texto directo, mostrando empatía real.",
+        "deepAnswer": "Basándonos en la **Lección 5B**, nos ayuda no aferrarnos a un bosquejo rígido. Si la persona nos menciona una preocupación (como una enfermedad o la muerte de un ser querido), debemos cambiar de tema de inmediato para mostrar empatía y leerle un texto bíblico consolador.",
         "shortAnswer": "Llevar preparadas varias opciones y adaptar la conversación al estado de ánimo y tiempo del amo de casa."
       },
       {
@@ -2650,7 +2650,7 @@ const lessonsData = [
         "question": "¿Qué puedes hacer para que otros hermanos disfruten de la predicación de casa en casa?",
         "references": "",
         "directAnswer": "Puedo **acompañarlos de buena gana, elogiarlos por sus esfuerzos sinceros y ayudarlos a prepararse sin criticar su estilo personal**.",
-        "deepAnswer": "Para ayudar a otros a disfrutar de la predicación, debemos ser compañeros amables. Escuchamos con respeto sus presentaciones, los felicitamos por su valor en las puertas y evitamos corregirlos constantemente. Crear una atmósfera de apoyo y hermandad hace que el ministerio sea placentero.",
+        "deepAnswer": "Basándonos en la **Lección 5B**, podemos colaborar con ellos amablemente en el territorio. Los felicitamos de corazón por su valor en las puertas y evitamos corregirlos o imponerles nuestra forma de predicar, promoviendo un ambiente relajado y de apoyo mutuo.",
         "shortAnswer": "Trabajar juntos con paciencia, elogiando sus virtudes en lugar de criticar sus errores."
       },
       {
@@ -2659,7 +2659,7 @@ const lessonsData = [
         "references": "Salmo 68:11",
         "subtitle": "Lección 6A Mujeres que alegran a Jehová — “Las mujeres que proclaman las buenas noticias son un ejército grande” (Salmo 68:11).",
         "directAnswer": "Valoro que **les den un lugar digno, seguro y de igual valor espiritual, valorando su lealtad y su enorme contribución al ministerio**.",
-        "deepAnswer": "Jehová y Jesús elevaron la condición de la mujer frente al desprecio del mundo. Valoro que Jesús les enseñara públicamente, las curara con total respeto y las eligiera para dar el anuncio de su resurrección. Además, Jehová las describe como un 'ejército grande' (Sal. 68:11), confirmando que su labor es vital para la congregación.",
+        "deepAnswer": "Basándonos en la **Lección 6A**, valoramos que Jehová y Jesús les otorguen una dignidad inmensa. Jesús rompió los prejuicios de su época al enseñar a las mujeres públicamente, tratarlas con ternura y convertirlas en las primeras mensajeras de su resurrección (Luc. 10:38-42; Mat. 28:1, 8-10).",
         "shortAnswer": "Su aprecio por la dignidad femenina y su alta estima espiritual hacia las hermanas fieles."
       },
       {
@@ -2667,16 +2667,16 @@ const lessonsData = [
         "question": "¿Por qué podemos decir que el principio de autoridad dignifica a las mujeres?",
         "references": "",
         "directAnswer": "Porque **establece un orden de paz y amor donde el esposo debe tratar a su esposa con la misma ternura que Cristo trata a la congregación**.",
-        "deepAnswer": "El principio de jefatura (1 Cor. 11:3) no implica inferioridad, ya que Cristo también está sujeto a Dios. Dignifica a la mujer porque exige que el varón la ame como a su propio cuerpo y la honre como a una 'vasija más frágil'. Bajo este orden teocrático amoroso, la mujer se siente segura, respetada y valorada.",
+        "deepAnswer": "Basándonos en la **Lección 6A**, el principio de jefatura no denota inferioridad alguna, pues Cristo mismo se somete a la autoridad de Jehová (1 Cor. 11:3). Este orden protege a la mujer de tratos ásperos, exigiendo que el esposo la ame como a su propio cuerpo y la trate con el cuidado y honra de una 'vasija más frágil' (Efes. 5:28-31; 1 Ped. 3:7).",
         "shortAnswer": "Porque organiza la familia en amor y respeto, protegiendo y valorando el papel de la esposa."
       },
       {
         "id": "6B_q13",
         "question": "¿Cómo pueden las hermanas ampliar su ministerio en estos últimos días?",
         "references": "",
-        "directAnswer": "Pueden hacerlo **sirviendo como precursoras auxiliares o regulares, colaborando en la predicación pública o mudándose donde haya mayor necesidad**.",
-        "deepAnswer": "Las hermanas ejemplares tienen muchas puertas abiertas. Amplían su ministerio al perfeccionar sus habilidades para enseñar, dar apoyo espiritual a las hermanas más jóvenes de la congregación (Tito 2:3-5), o colaborando en tareas administrativas, de traducción o en la construcción de Salones del Reino bajo la dirección de la sucursal.",
-        "shortAnswer": "Sirviendo en el precursorado, apoyando a otras hermanas y participando en proyectos teocráticos."
+        "directAnswer": "Pueden hacerlo **participando celosamente en la predicación y enseñanza (Hech. 2:17, 18; 18:26), aconsejando a las más jóvenes (Tito 2:3-5), y dirigiendo reuniones de servicio cuando sea necesario (km 3/15)**.",
+        "deepAnswer": "Al repasar la **Lección 6A**, vemos que las hermanas pueden ampliar su ministerio de las siguientes formas: <br>1. **En la predicación**: Dedicando tiempo a predicar y enseñar la verdad con exactitud a otros, imitando a Priscila (Hech. 18:26). <br>2. **En la congregación**: Las hermanas mayores pueden ser maestras de lo que es bueno y guiar con cariño a las más jóvenes (Tito 2:3-5). <br>3. **En tareas especiales**: Dirigiendo de manera ordenada las reuniones para el servicio del campo cuando no haya hermanos bautizados disponibles (km 3/15).",
+        "shortAnswer": "Sirviendo en el precursorado, apoyando a otras hermanas y dirigiendo reuniones de servicio cuando haga falta."
       }
     ],
     "image": "pioneer_studying.png",
@@ -3023,237 +3023,249 @@ const lessonsData = [
     "questions": [
       {
         "id": "7B_q1",
-        "question": "¿De qué dos espíritus diferentes se habla en 1 Corintios 2:12? Lee Efesios 2:2, 3.",
-        "references": "",
-        "directAnswer": "<strong>En 1 Corintios 2:12 se habla del espíritu que proviene de Dios y del espíritu que proviene del mundo, el cual es obra de Satanás.</strong>",
-        "deepAnswer": "El apóstol Pablo explica que <strong>tenemos la opción de estar bajo la influencia de dos espíritus opuestos: el espíritu de Dios, que nos guía hacia la verdad y la vida, y el espíritu del mundo, un sistema de ideas y actitudes impulsado por Satanás.</strong> <strong>Efesios 2:2, 3 aclara que este último espíritu opera en los hijos de la desobediencia, llevándolos a seguir los deseos de la carne y la mente, en completa oposición a la voluntad de Dios.</strong>",
-        "shortAnswer": "El espíritu de Dios frente al espíritu de Satanás."
+        "question": "¿De qué dos espíritus diferentes se habla en 1 Corintios 2:12?",
+        "references": "1 Corintios 2:12",
+        "directAnswer": "Se habla del **espíritu del mundo (que proviene de Satanás) y del espíritu que proviene de Dios (el espíritu santo)**.",
+        "deepAnswer": "1 Corintios 2:12 hace un contraste absoluto: el espíritu del mundo influye en los seres humanos para que piensen y actúen de forma independiente de Dios, mientras que el espíritu que proviene de Dios nos ayuda a entender y valorar las cosas espirituales que Jehová nos ha dado generosamente.",
+        "shortAnswer": "Se habla del espíritu del mundo y del espíritu santo que proviene de Dios."
       },
       {
         "id": "7B_q2",
-        "question": "¿Qué es el espíritu del mundo? (w12 15/10 pág. 13 párr. 4). Lucha contra “el espíritu del mundo”.",
-        "references": "",
-        "directAnswer": "<strong>El espíritu del mundo es la influencia omnipresente de Satanás, que promueve actitudes y comportamientos contrarios a los principios de Jehová.</strong>",
-        "deepAnswer": "Según la Watchtower, <strong>el espíritu del mundo es, en esencia, la mentalidad y la actitud que prevalecen en la sociedad humana debido a la influencia dominante de Satanás, el gobernante de este sistema.</strong> <strong>Se caracteriza por el egoísmo, el materialismo, la rebeldía y la falta de respeto por las normas divinas, impregnando todos los aspectos de la vida y promoviendo un modo de pensar que se opone a la voluntad de Dios.</strong>",
-        "shortAnswer": "La influencia de Satanás que promueve actitudes anti-Dios."
+        "question": "¿Qué es el espíritu del mundo? (Lee Efesios 2:2, 3; w12 15/10 pág. 13 párr. 4).",
+        "references": "Efesios 2:2, 3; w12 15/10 pág. 13 párr. 4",
+        "directAnswer": "El espíritu del mundo es **la fuerza activa o actitud dominante que promueve Satanás y que impulsa a la humanidad a desobedecer a Dios y seguir sus propios deseos egoístas**.",
+        "deepAnswer": "Según *La Atalaya* (w12 15/10 pág. 13), el espíritu del mundo es una fuerza invisible que influye en la mentalidad de las personas. Efesios 2:2, 3 lo describe como 'el espíritu que ahora opera en los hijos de la desobediencia', el cual fomenta los deseos de la carne y del pensamiento humano independiente de Jehová.",
+        "shortAnswer": "Es la fuerza activa invisible promovida por Satanás que impulsa a la desobediencia a Dios."
       },
       {
         "id": "7B_q3",
-        "question": "¿Cómo influye en la gente?",
+        "question": "¿Cómo influye en la gente? (Juan 8:44; Hech. 13:10; 1 Juan 3:8, 10; w18.02 pág. 19 párr. 4).",
         "references": "Juan 8:44; Hech. 13:10; 1 Juan 3:8, 10; w18.02 pág. 19 párr. 4",
-        "directAnswer": "<strong>Influye en la gente impulsándola a seguir los deseos egoístas, promoviendo la desobediencia a Dios y fomentando actitudes de enemistad hacia la verdad.</strong>",
-        "deepAnswer": "<strong>Este espíritu actúa como un veneno que corrompe el pensamiento y el corazón humanos</strong>, tal como Jesús describió a los líderes religiosos de su tiempo como hijos del Diablo (Juan 8:44), un espíritu que incita a la maldad y la destrucción. En Hechos 13:10, Pablo describe a un hombre lleno de engaño, influenciado por este espíritu. Los que están bajo su control son identificados como la prole del Diablo (1 Juan 3:8, 10), que actúa de manera opuesta a los principios de Dios, <strong>influyendo en las decisiones y acciones de las personas hacia la rebelión y el alejamiento de Jehová.</strong>",
-        "shortAnswer": "Impulsa al egoísmo, la rebelión y el alejamiento de Dios."
+        "directAnswer": "Influye empujando a las personas a **actuar con egoísmo, rebelión, orgullo, mentira y a imitar las cualidades malvadas de Satanás el Diablo**.",
+        "deepAnswer": "El espíritu del mundo moldea los pensamientos de la gente de manera que consideren normales la inmoralidad, el materialismo y el desacato a la autoridad. Los textos bíblicos muestran que quienes se dejan dominar por esta influencia terminan haciendo la voluntad del Diablo, quien es mentiroso, promotor de injusticias y enemigo de la rectitud (Juan 8:44).",
+        "shortAnswer": "Fomentando el egoísmo, el orgullo, la mentira y el desprecio a las normas morales de Jehová."
       },
       {
         "id": "7B_q4",
-        "question": "¿De qué maneras puede echar raíces en la mente y el corazón de una persona el espíritu del mundo? (Prov. 4:23). Preguntas para meditar. Lee Salmo 26:4; 119:37; 1 Corintios 15:33.",
-        "references": "",
-        "directAnswer": "<strong>Puede echar raíces mediante la exposición continua a ideas mundanas, la mala compañía y la falta de vigilancia en nuestros pensamientos y conversaciones.</strong>",
-        "deepAnswer": "La mente y el corazón son el blanco principal del espíritu del mundo, y puede infiltrarse de diversas maneras. <strong>Prov. 4:23 nos advierte que guardemos nuestro corazón, sugiriendo que debemos ser celosos protectores de lo que permitimos entrar en él.</strong> <strong>La mala influencia de personas que no aman a Jehová (Salmo 26:4; 1 Corintios 15:33) puede llevarnos a adoptar sus puntos de vista, y la falta de diligencia al meditar en la Palabra de Dios (Salmo 119:37) deja espacio para que las ideas mundanas germinen y crezcan.</strong>",
-        "shortAnswer": "A través de la mala compañía, ideas mundanas y falta de vigilancia."
+        "question": "¿De qué maneras puede echar raíces en la mente y el corazón de una persona el espíritu del mundo? (Prov. 4:23).",
+        "references": "Prov. 4:23",
+        "directAnswer": "Echa raíces cuando **descuidamos nuestra espiritualidad y permitimos que ideas mundanas entren a través del entretenimiento, las malas compañías o el materialismo**.",
+        "deepAnswer": "Proverbios 4:23 nos manda: 'Protege tu corazón más que cualquier otra cosa'. Si no somos selectivos con lo que leemos, vemos u oímos, o si nos asociamos estrechamente con personas no creyentes, la actitud del mundo se filtrará poco a poco, adormeciendo nuestra conciencia y desplazando el amor por Jehová.",
+        "shortAnswer": "Al descuidar el estudio, la oración y exponernos a entretenimientos y compañías dañinas."
       },
       {
         "id": "7B_q5",
-        "question": "¿Cómo pueden influir otras personas en lo que piensas y haces?",
-        "references": "",
-        "directAnswer": "<strong>Otras personas pueden influir en nuestros pensamientos y acciones al compartir sus ideas, modelos de comportamiento y presiones sociales.</strong>",
-        "deepAnswer": "<strong>La compañía que escogemos y las conversaciones que mantenemos con otras personas tienen un impacto significativo en nuestra forma de pensar y actuar.</strong> Si nos asociamos con quienes no aman a Jehová, es probable que adoptemos sus puntos de vista y actitudes, tal como se describe en Proverbios 4:23 y 1 Corintios 15:33. <strong>La presión social y el ejemplo de los demás, especialmente si no están firmemente arraigados en los principios bíblicos, pueden llevarnos gradualmente a comprometer nuestros valores y a actuar de manera que no agrade a Dios.</strong>",
-        "shortAnswer": "Sus ideas, ejemplos y presiones pueden moldear nuestro pensar y actuar."
+        "question": "¿Cómo pueden influir otras personas en lo que piensas y haces? (Lee Salmo 26:4; 119:37; 1 Corintios 15:33).",
+        "references": "Salmo 26:4; 119:37; 1 Corintios 15:33",
+        "subtitle": "Preguntas para meditar",
+        "directAnswer": "Influyen de forma poderosa, ya que **la presión social y las malas conversaciones corrompen los hábitos útiles y debilitan nuestra lealtad a Dios**.",
+        "deepAnswer": "1 Corintios 15:33 advierte claramente: 'Las malas compañías echan a perder los hábitos útiles'. Salmo 26:4 nos aconseja evitar a los mentirosos y disimulados. Las personas que no aman a Jehová nos presionarán (a veces sutilmente) para que compartamos su vocabulario, su forma de vestir, su entretenimiento o sus metas materialistas.",
+        "shortAnswer": "Corrompiendo nuestros buenos hábitos y empujándonos a adoptar metas y conductas antibíblicas."
       },
       {
         "id": "7B_q6",
-        "question": "¿Por qué no debes tener contacto estrecho con nada ni nadie que esté contaminado con el espíritu del mundo? Si usas mal los chats o foros de internet o las redes sociales, ¿qué efecto podría tener eso en cómo atiendes tus responsabilidades en la congregación? (Prov. 22:1; Ecl. 10:1; Efes. 5:15, 16). Lee Santiago 3:14-18.",
+        "question": "¿Por qué no debes tener contacto estrecho con nada ni nadie que esté contaminado con el espíritu del mundo?",
         "references": "",
-        "directAnswer": "<strong>No debemos tener contacto estrecho con nada ni nadie contaminado con el espíritu del mundo porque puede corromper nuestra espiritualidad y nuestra relación con Jehová.</strong>",
-        "deepAnswer": "<strong>Mantener una distancia prudencial de lo que está contaminado con el espíritu del mundo es crucial para nuestra pureza espiritual.</strong> El contacto estrecho, incluso a través de medios modernos, puede erosionar nuestra fe y nuestro compromiso con los principios bíblicos. <strong>Si nos exponemos a material inmoral, ideas rebeldes o actitudes egoístas, estas influencias pueden arraigarse en nuestra mente y corazón, alejándonos de la guía divina y debilitando nuestra relación con Jehová.</strong>",
-        "shortAnswer": "Para proteger tu espiritualidad y tu relación con Jehová."
+        "directAnswer": "Porque **tarde o temprano imitaremos sus malas costumbres, dañando nuestra amistad con Jehová y perdiendo nuestra santidad**.",
+        "deepAnswer": "La Biblia exige que el pueblo de Dios se mantenga limpio y separado de las prácticas mundanas. El contacto estrecho y voluntario con ambientes, filosofías o personas que desprecian a Jehová contamina nuestra mente. Actúa como un veneno lento que entorpece nuestra espiritualidad y destruye el deseo de servir como precursores.",
+        "shortAnswer": "Para proteger nuestra espiritualidad y no contaminar nuestra mente con actitudes mundanas."
+      },
+      {
+        "id": "7B_q7",
+        "question": "Si usas mal los chats o foros de internet o las redes sociales, ¿qué efecto podría tener eso en cómo atiendes tus responsabilidades en la congregación? (Prov. 22:1; Ecl. 10:1; Efes. 5:15, 16).",
+        "references": "Prov. 22:1; Ecl. 10:1; Efes. 5:15, 16",
+        "directAnswer": "Puede hacer que **perdamos mucho tiempo valioso, expongamos nuestra reputación cristiana y descuidemos nuestro ministerio y preparación teocrática**.",
+        "deepAnswer": "Efesios 5:15, 16 nos insta a 'aprovechar el tiempo de la mejor manera'. El uso adictivo o inadecuado de las redes sociales roba tiempo para el estudio personal, la predicación y las reuniones. Además, un solo comentario o foto inapropiada en internet puede dañar nuestro buen nombre (Prov. 22:1) y actuar como 'una mosca muerta que echa a perder el aceite' (Ecl. 10:1).",
+        "shortAnswer": "Nos roba tiempo para las actividades espirituales y puede dañar gravemente nuestra reputación cristiana."
       },
       {
         "id": "7B_q8",
-        "question": "¿Qué dice de ti lo que escoges para divertirte?",
-        "references": "",
-        "directAnswer": "<strong>Lo que escogemos para divertirnos dice mucho sobre nuestros valores, nuestros intereses y si nuestra mente está enfocada en las cosas espirituales o mundanas.</strong>",
-        "deepAnswer": "<strong>Nuestra elección de entretenimiento es un claro indicador de hacia dónde está orientada nuestra mente y nuestro corazón.</strong> <strong>Si buscamos diversion que promueva el egoísmo, la inmoralidad, la violencia o la rebeldía, esto revela que estamos siendo influenciados por el espíritu del mundo.</strong> Por otro lado, si disfrutamos de actividades que nos edifican espiritualmente, que glorifican a Jehová o que nos ayudan a fortalecer nuestra fe, esto demuestra que hemos elegido la vida y que estamos aplicando las enseñanzas de la Palabra de Dios en todas las áreas de nuestra vida.",
-        "shortAnswer": "Revela si tus intereses son espirituales o mundanos."
+        "question": "¿Qué dice de ti lo que escoges para divertirte? (Lee Santiago 3:14-18).",
+        "references": "Santiago 3:14-18",
+        "directAnswer": "Dice si **nos dejamos guiar por la sabiduría celestial (pura, pacífica y amable) o por la sabiduría terrenal y demoníaca (celos, peleas y desorden)**.",
+        "deepAnswer": "Santiago 3:14-18 contrasta la sabiduría terrenal con la de arriba. Nuestro entretenimiento revela qué hay en nuestro corazón. Si elegimos diversión violenta, inmoral o llena de ocultismo, demostramos que nos atrae la sabiduría demoníaca. En cambio, buscar entretenimiento sano refleja un corazón limpio y guiado por la sabiduría de Jehová.",
+        "shortAnswer": "Revela si amamos la pureza de la sabiduría de Dios o si nos atrae el desorden del mundo."
       },
       {
         "id": "7B_q9",
-        "question": "¿Cómo usa Satanás las revistas, los libros, las películas, la música y los videojuegos para atrapar a los precursores?",
+        "question": "¿Cómo usa Satanás las revistas, los libros, las películas, la música y los videojuegos para atrapar a los precursores? (Sal. 97:10; w13 15/1 págs. 14, 15 párrs. 11-15).",
         "references": "Sal. 97:10; w13 15/1 págs. 14, 15 párrs. 11-15",
-        "directAnswer": "<strong>Satanás utiliza el entretenimiento moderno para debilitar de forma gradual nuestra sensibilidad moral, presentándonos el pecado como algo normal y atractivo hasta que dejamos de odiar lo malo.</strong>",
-        "deepAnswer": "<strong>El archienemigo de Jehová promueve sutilmente el espiritismo, la violencia y la inmoralidad sexual mediante los medios de comunicación populares para corromper nuestra mente.</strong> Tal como nos advierte Salmo 97:10, los que amamos a Jehová debemos odiar activamente el mal, no solo evitarlo por obligación. Las publicaciones del esclavo fiel señalan que <strong>el Diablo busca adormecer nuestra conciencia de manera progresiva, haciendo que consumamos contenidos inapropiados de forma pasiva y descuidemos nuestro \"escudo de la fe\" como precursores.</strong>",
-        "shortAnswer": "Satanás disfraza el pecado de entretenimiento para adormecer progresivamente nuestra conciencia cristiana."
+        "directAnswer": "Los usa para **presentar lo malo como inofensivo, atrayéndonos gradualmente a través de pequeñas dosis de inmoralidad, violencia u ocultismo**.",
+        "deepAnswer": "Satanás no siempre nos tienta con cosas abiertamente perversas desde el inicio. Usa los medios de entretenimiento modernos para que nos insensibilicemos ante el pecado. Si los precursores no odian lo malo (Sal. 97:10), pueden caer en la trampa de ver películas o jugar videojuegos que justifican la inmoralidad o la violencia, debilitando su fe hasta hacerlos tropezar.",
+        "shortAnswer": "Presentando el pecado como algo inofensivo y divertido, insensibilizando nuestra conciencia teocrática."
       },
       {
         "id": "7B_q10",
-        "question": "¿Por qué seríamos hipócritas si viéramos o escucháramos cosas sucias? (Is. 52:11). Lee 1 Timoteo 6:8-10.",
-        "references": "",
-        "directAnswer": "<strong>Seríamos hipócritas porque intentaríamos mantener una apariencia de santidad en el ministerio del campo mientras contaminamos en privado nuestra mente con la inmundicia del sistema de Satanás.</strong>",
-        "deepAnswer": "De acuerdo con Isaías 52:11, <strong>quienes portamos los utensilios de Jehová —como los precursores en el ministerio de tiempo completo— debemos mantenernos estrictamente limpios en sentido moral y espiritual.</strong> <strong>Si predicamos las normas elevadas de Jehová pero en secreto nos deleitamos con contenidos inmundos, caemos en la falsedad espiritual.</strong> Además, al meditar en 1 Timoteo 6:8-10, comprendemos que alimentar deseos carnales o codiciosos nos aparta de la fe verdadera, destruyendo nuestra relación con el Creador.",
-        "shortAnswer": "No podemos portar los utensilios limpios de Jehová si en secreto alimentamos la mente con la suciedad del mundo."
+        "question": "¿Por qué seríamos hipócritas si viéramos o escucháramos cosas sucias? (Is. 52:11).",
+        "references": "Is. 52:11",
+        "directAnswer": "Seríamos hipócritas porque **por un lado predicamos la santidad de Dios y por el otro consumimos en secreto la inmundicia moral del mundo**.",
+        "deepAnswer": "Isaías 52:11 da un mandato rotundo a quienes sirven en el templo: '¡Manténganse limpios, ustedes que llevan los utensilios de Jehová!'. Un precursor es un ministro público. Si en la predicación enseña a otros a obedecer las normas morales de la Biblia pero en privado ve pornografía o escucha música inmoral, actúa con hipocresía, ofendiendo a Jehová.",
+        "shortAnswer": "Porque no podemos llevar el mensaje limpio de Dios y al mismo tiempo contaminarnos en privado."
       },
       {
         "id": "7B_q11",
-        "question": "¿Qué dice de ti tu forma de ver las cosas materiales?",
-        "references": "",
-        "directAnswer": "<strong>Nuestra actitud hacia las cosas materiales revela claramente dónde está nuestro corazón y si confiamos plenamente en la promesa de Jehová de proveer lo necesario.</strong>",
-        "deepAnswer": "<strong>La manera en que administramos nuestros recursos y el valor que les damos muestra si estamos buscando primero el Reino o si hemos caído en la trampa del materialismo.</strong> <strong>Si nos obsesionamos con tener lo último en tecnología, ropa de marca o un estilo de vida costoso, demostramos que el espíritu del mundo está influyendo en nosotros.</strong> Por el contrario, un precursor con un <em>\"ojo sencillo\"</em> demuestra una fe inquebrantable, valorando el tesoro del ministerio por encima de cualquier posesión efímera.",
-        "shortAnswer": "Tu forma de ver lo material revela si buscas primero el Reino de Dios o las riquezas de este sistema."
+        "question": "¿Qué dice de ti tu forma de ver las cosas materiales? (Lee 1 Timoteo 6:8-10).",
+        "references": "1 Timoteo 6:8-10",
+        "directAnswer": "Dice si **tenemos una actitud de contentamiento y confianza en Jehová o si nos domina el amor al dinero y el deseo de enriquecernos**.",
+        "deepAnswer": "1 Timoteo 6:8-10 muestra que tener sustento y con qué cubrirnos debe ser suficiente para nosotros. El deseo de acumular riquezas es una trampa mortal. Si un precursor está obsesionado con tener el último modelo de dispositivo, ropa de marca o lujos, demuestra que el espíritu del mundo ha apagado su fe, exponiéndose a muchos dolores.",
+        "shortAnswer": "Revela si estamos satisfechos con las cosas necesarias o si nos domina la codicia materialista."
       },
       {
         "id": "7B_q12",
         "question": "¿Por qué los precursores nos tenemos que esforzar constantemente para no perder el equilibrio en este asunto?",
         "references": "",
-        "directAnswer": "<strong>Los precursores debemos esforzarnos constantemente porque la presión comercial y social del sistema de Satanás es implacable y busca hacernos creer que el éxito se mide por lo que poseemos.</strong>",
-        "deepAnswer": "<strong>Al estar expuestos diariamente a la propaganda de un mundo consumista, es fácil que la inclinación imperfecta a desear más cosas empiece a echar raíces en nuestro corazón.</strong> <strong>Mantener el paso en el servicio de precursor exige un autoexamen sincero para no ceder a la sutil trampa del materialismo, la cual podría ahogar nuestra espiritualidad.</strong> Un esfuerzo constante en oración y meditación nos ayuda a recordar que la verdadera riqueza proviene de nuestra estrecha amistad con Jehová.",
-        "shortAnswer": "Debemos esforzarnos continuamente para que el brillo engañoso de este mundo no apague nuestro celo por el ministerio."
+        "directAnswer": "Porque **vivimos en un mundo saturado de publicidad y consumismo que nos presiona diariamente para que el ministerio sea secundario**.",
+        "deepAnswer": "El espíritu del mundo nos rodea. El sistema de Satanás promueve la idea de que la felicidad se basa en poseer muchas cosas. Para que un precursor conserve su 'ojo sencillo' y mantenga el Reino en primer lugar, debe luchar activamente contra la corriente mundana, haciendo del contentamiento y la sencillez su protección.",
+        "shortAnswer": "Para contrarrestar la presión diaria del consumismo y mantener el ojo sencillo teocrático."
       },
       {
         "id": "7B_q13",
-        "question": "¿Cómo podría afectar la vida de un precursor el deseo de tener más cosas? Lee 1 Timoteo 2:9, 10.",
+        "question": "¿Cómo podría afectar la vida de un precursor el deseo de tener más cosas?",
         "references": "",
-        "directAnswer": "<strong>El deseo de tener más cosas puede desviar nuestra atención del ministerio, sobrecargarnos de deudas y robarnos el valioso tiempo que dedicamos a servir a Jehová.</strong>",
-        "deepAnswer": "Según el principio de 1 Timoteo 2:9, 10, nuestra principal belleza y adorno deben ser las \"buenas obras\", no el lujo material ni la ostentación. <strong>Si un precursor cede al deseo de acumular bienes, se verá obligado a trabajar más horas seglares, lo que provocará un cansancio físico y espiritual que afectará su rendimiento en el campo.</strong> Al final, este deseo insaciable podría llevarlo a perder el maravilloso privilegio de ser precursor e incluso a naufragar en su fe.",
-        "shortAnswer": "El materialismo consume el tiempo y las energías que un precursor necesita para su sagrado ministerio."
+        "directAnswer": "Podría obligarlo a **trabajar más horas laicas, lo que le causaría agotamiento físico, pérdida de gozo y finalmente abandonar el precursorado**.",
+        "deepAnswer": "El deseo de adquirir más bienes materiales exige más dinero. Esto suele llevar a los hermanos a aceptar empleos de tiempo completo o con horarios complicados que chocan con la predicación. Al final, el cansancio y la falta de tiempo destruyen sus hábitos de estudio y su ministerio, ahogando su espiritualidad.",
+        "shortAnswer": "Robándole tiempo y energías para el ministerio, llevándolo a abandonar el servicio de tiempo completo."
       },
       {
         "id": "7B_q14",
-        "question": "¿Cómo podría revelar tu higiene personal y tu manera de vestir y de arreglarte que el espíritu del mundo te domina?",
-        "references": "",
-        "directAnswer": "<strong>Revelaría la influencia del mundo si adoptamos modas inmodestas, descuidadas o extravagantes que reflejen un espíritu de rebeldía o sensualidad.</strong>",
-        "deepAnswer": "<strong>Nuestra apariencia externa es un reflejo directo de nuestra condición espiritual y de a quién queremos agradar.</strong> <strong>Si vestimos de manera excesivamente informal, provocativa o siguiendo modas extremas que borran los límites de la decencia, demostramos que el \"espíritu del mundo\" ha moldeado nuestros valores.</strong> Como representantes del Dios santo, Jehová, nuestra higiene, vestimenta y arreglo personal deben caracterizarse siempre por el buen juicio y la santidad.",
-        "shortAnswer": "Tu aspecto exterior revela si te amolda el espíritu del mundo o el espíritu santo de Jehová."
+        "question": "¿Cómo podría revelar tu higiene personal y tu manera de vestir y de arreglarte que el espíritu del mundo te domina? (Lee 1 Timoteo 2:9, 10).",
+        "references": "1 Timoteo 2:9, 10",
+        "directAnswer": "Lo revela cuando **adoptamos modas extremas, desaliñadas, inmodestas o provocativas que reflejan rebeldía o falta de respeto**.",
+        "deepAnswer": "Nuestra vestimenta y arreglo personal hablan por nosotros. 1 Timoteo 2:9, 10 nos insta a arreglarnos con modestia y buen juicio. Si vestimos de forma desaliñada o seguimos tendencias mundanas inmodestas (como ropa muy ajustada, rota o con mensajes inapropiados), mostramos que estamos amoldándonos a este sistema de cosas en vez de ser ejemplos de santidad.",
+        "shortAnswer": "Al imitar estilos inmodestos o rebeldes del mundo en lugar de vestir con buen juicio."
       },
       {
         "id": "7B_q15",
         "question": "¿Qué efecto puede tener en otros la ropa que se pone un precursor y su forma de arreglarse?",
         "references": "",
-        "directAnswer": "<strong>El arreglo de un precursor puede dignificar el mensaje que predicamos o, por el contrario, hacer tropezar a otros y restarle valor a nuestro ministerio.</strong>",
-        "deepAnswer": "Como precursores, somos el foco de atención tanto dentro como fuera de la congregación; por lo tanto, <strong>una vestimenta inmodesta o desaliñada podría sembrar dudas sobre la seriedad de nuestra fe.</strong> <strong>En el territorio, un arreglo inapropiado puede levantar una barrera innecesaria que impida que las personas escuchen las buenas nuevas del Reino.</strong> Dentro de la congregación, nuestra modestia y pulcritud sirven de excelente ejemplo para los más jóvenes y demuestran respeto por el rebaño.",
-        "shortAnswer": "Nuestra apariencia puede ser un puente para que otros acepten la verdad o un tropiezo que los aleje de Jehová."
+        "directAnswer": "Puede **hacer que las personas tropiecen, reste dignidad a nuestro mensaje y debilite la confianza de los hermanos en nuestra madurez**.",
+        "deepAnswer": "Como precursores, representamos a Jehová. Si nuestro arreglo es inapropiado, distraerá del mensaje del Reino o hará que la gente en el territorio nos juzgue mal. Además, en la congregación, los hermanos mayores y jóvenes se fijan en nuestro ejemplo; una apariencia mundana debilita la fe de otros y causa preocupación en los ancianos.",
+        "shortAnswer": "Puede hacer tropezar a las personas en el territorio y dar un mal ejemplo en la congregación."
       },
       {
         "id": "7B_q16",
-        "question": "Al tomar decisiones en este asunto, ¿cómo demostraría alguien que le importan más sus “derechos” que tener responsabilidades en la congregación? (Sal. 68:6; Filip. 4:5; 1 Ped. 5:6). Contribuye a que la congregación se mantenga limpia. La gente es cada vez más mala y más pervertida, y ese tipo de conducta se puede meter en la congregación.",
-        "references": "2 Tim. 3:1-5, 13; Jud. 3, 4, 11-13",
-        "directAnswer": "<strong>Demostramos que nos importan más nuestros \"derechos\" si insistimos en vestir o actuar a nuestro antojo, ignorando los consejos bíblicos y la paz de la congregación.</strong>",
-        "deepAnswer": "<strong>Al aferrarnos tercamente a preferencias personales en lugar de mostrar la razonabilidad que menciona Filipenses 4:5, demostramos falta de humildad y sumisión</strong>, cualidades esenciales según 1 Pedro 5:6. Un precursor maduro <strong>prefiere ceder de buen grado antes que causar tropiezo o dividir la congregación, valorando la unidad teocrática por encima del egoísmo</strong>. Reconocemos que, en estos últimos días difíciles descritos en 2 Timoteo 3:1-5, <strong>mantenernos limpios exige sacrificar nuestros supuestos derechos por el bienestar espiritual del rebaño.</strong>",
-        "shortAnswer": "Quien exige sus derechos por encima de la paz de la congregación demuestra falta de humildad y madurez espiritual."
+        "question": "Al tomar decisiones en este asunto, ¿cómo demostraría alguien que le importan más sus “derechos” que tener responsabilidades en la congregación? (Sal. 68:6; Filip. 4:5; 1 Ped. 5:6).",
+        "references": "Sal. 68:6; Filip. 4:5; 1 Ped. 5:6",
+        "directAnswer": "Lo demuestra al **insistir tercamente en vestir o actuar a su manera, ignorando los consejos bíblicos de los ancianos y el efecto en la conciencia de los demás**.",
+        "deepAnswer": "Filipenses 4:5 nos pide: 'Que todos sepan que son personas razonables'. Si un precursor dice 'tengo derecho a vestirme como quiera' a pesar de saber que ofende la conciencia de otros o debilita su influencia espiritual, demuestra orgullo. Pone sus preferencias personales por encima del bienestar de la congregación y del honor del ministerio.",
+        "shortAnswer": "Al insistir en su gusto personal a costa de ofender la conciencia de los hermanos y dañar el ministerio."
       },
       {
         "id": "7B_q17",
-        "question": "Según Apocalipsis 2:1, ¿de qué podemos estar seguros?",
-        "references": "",
-        "directAnswer": "<strong>Podemos estar completamente seguros de que Jesucristo está al tanto de todo lo que ocurre en las congregaciones y tiene el control total para mantenerlas limpias.</strong>",
-        "deepAnswer": "Apocalipsis 2:1 nos presenta a Jesús sosteniendo las \"siete estrellas\" (los ancianos) y caminando en medio de los \"siete candelabros de oro\" (las congregaciones). Esta poderosa imagen nos asegura que el Cabeza de la congregación vigila activamente el estado espiritual de su pueblo y no tolera la inmundicia de forma indefinida. Los precursores podemos confiar plenamente en su guía activa y <strong>debemos colaborar celosamente con los ancianos para mantener la congregación limpia y fuerte.</strong>",
-        "shortAnswer": "Jesucristo observa activamente a cada congregación y tiene el poder para mantenerla pura.",
-        "note": "Nota al instructor: Al analizar las siguientes preguntas, ayuda a los precursores a entender qué pueden hacer ellos para mantener la congregación limpia."
+        "question": "¿Según Apocalipsis 2:1, de qué podemos estar seguros?",
+        "references": "Apocalipsis 2:1",
+        "subtitle": "Contribuye a que la congregación se mantenga limpia",
+        "note": "La gente es cada vez más mala y más pervertida, y ese tipo de conducta se puede meter en la congregación (2 Tim. 3:1-5, 13; Jud. 3, 4, 11-13).\n\nNota al instructor: Al analizar las siguientes preguntas, ayuda a los precursores a entender qué pueden hacer ellos para mantener la congregación limpia.",
+        "directAnswer": "Podemos estar seguros de que **Jesucristo vigila de cerca todas las congregaciones, conociendo su estado espiritual y actuando para mantenerlas limpias**.",
+        "deepAnswer": "Apocalipsis 2:1 describe a Jesús sosteniendo las estrellas (los ancianos) en su mano derecha y caminando en medio de los candelabros (las congregaciones). Esto nos garantiza que **Jesús está al tanto de todo lo que ocurre** y que él apoya y dirige a los ancianos para que protejan a la congregación de influencias corruptas, asegurando la santidad de su pueblo.",
+        "shortAnswer": "De que Jesús supervisa activamente las congregaciones y apoya a los ancianos para mantenerlas limpias."
       },
       {
         "id": "7B_q18",
-        "question": "¿Qué opina Jehová de los chismes? Si sabes que alguien de la congregación ha cometido un pecado grave, ¿por qué no debes quedarte callado?",
+        "question": "¿Qué opina Jehová de las siguientes prácticas?",
         "references": "",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": "",
+        "directAnswer": "Jehová las **aborrece por completo, ya que son contrarias a su santidad, amor y justicia, y destruyen la espiritualidad del ser humano**.",
+        "deepAnswer": "Jehová es santo y exige que su pueblo se mantenga limpio de las prácticas corruptas del mundo. Estas prácticas destruyen la relación de las personas con Dios y causan gran daño a la congregación si se tolera el pecado en ella.",
+        "shortAnswer": "Jehová las aborrece porque violan sus leyes santas y corrompen al ser humano.",
         "subQuestions": [
           {
             "id": "7B_q18_a",
-            "question": "¿Qué opina Jehová de la inmoralidad sexual? (Lev. 20:10, 13, 15, 16; Rom. 1:24, 26, 27, 32; 1 Cor. 6:9, 10; nwt pág. 1827).",
-            "references": "Lev. 20:10, 13, 15, 16; Rom. 1:24, 26, 27, 32; 1 Cor. 6:9, 10; nwt pág. 1827",
-            "directAnswer": "<strong>Jehová considera la inmoralidad sexual como un pecado grave que contamina a la persona y que, si no hay arrepentimiento, impide entrar en el Reino de Dios.</strong>",
-            "deepAnswer": "Jehová, como nuestro Creador, estableció las normas para el uso correcto del sexo dentro del matrimonio. Cualquier forma de inmoralidad sexual —ya sea adulterio, homosexualidad o incesto— es una violación de sus leyes santas y una falta de respeto a la santidad de la vida y la familia. <strong>Dios aborrece estas prácticas porque degradan al ser humano y debilitan la relación espiritual con Él.</strong>",
-            "shortAnswer": "Es una conducta que Jehová condena firmemente por ser contraria a sus normas de pureza."
+            "question": "La inmoralidad sexual? (Lev. 20:10, 13, 15, 16; Rom. 1:24, 26, 27, 32; 1 Cor. 6:9, 10; nwt pág. 1827).",
+            "directAnswer": "Jehová la condena y aborrece, decretando que quienes la practican no heredarán su Reino.",
+            "deepAnswer": "La ley de Dios protege el matrimonio. La inmoralidad sexual (como el adulterio, la homosexualidad y la bestialidad) degrada al ser humano y lo separa de Dios. Los textos muestran que Jehová juzga con severidad la impureza moral.",
+            "shortAnswer": "La condena firmemente por ser una grave ofensa contra la pureza y el orden del matrimonio."
           },
           {
             "id": "7B_q18_b",
-            "question": "¿Qué opina Jehová de la apostasía? (Deut. 13:13, 15; 2 Cor. 6:14, 15, 17, 18; 2 Juan 7, 9, 10; Apoc. 18:4).",
-            "references": "Deut. 13:13, 15; 2 Cor. 6:14, 15, 17, 18; 2 Juan 7, 9, 10; Apoc. 18:4",
-            "directAnswer": "<strong>Jehová rechaza enérgicamente la apostasía y exige que su pueblo se mantenga separado de quienes rechazan la verdad, evitando cualquier lealtad dividida.</strong>",
-            "deepAnswer": "La apostasía es una rebelión contra Jehová y su organización. Él considera a los apóstatas como personas que se han dejado engañar y que intentan apartar a otros de la verdad. Por eso, <strong>Jehová manda que sus siervos 'salgan' de la religión falsa y eviten el contacto espiritual con los apóstatas, para proteger su fe y mantener la pureza de la adoración verdadera.</strong>",
-            "shortAnswer": "La considera una traición a la verdad que exige una separación total para evitar la contaminación espiritual."
+            "question": "La apostasía? (Deut. 13:13, 15; 2 Cor. 6:14, 15, 17, 18; 2 Juan 7, 9, 10; Apoc. 18:4).",
+            "directAnswer": "Jehová la detesta y ordena alejarse por completo de cualquier enseñanza o persona apóstata.",
+            "deepAnswer": "La apostasía es rebelión contra Jehová y su organización. Los apóstatas intentan envenenar la fe de otros. La Biblia nos ordena no recibirlos en casa y rechazar sus ideas ponzoñosas, manteniéndonos separados de la religión falsa.",
+            "shortAnswer": "La aborrece y manda rechazarla por completo para proteger la verdad."
           },
           {
             "id": "7B_q18_c",
-            "question": "¿Qué opina Jehová del aborto? (Éx. 21:22-25; Sal. 127:3; 139:14-16).",
-            "references": "Éx. 21:22-25; Sal. 127:3; 139:14-16",
-            "directAnswer": "<strong>Jehová valora la vida desde la concepción; por lo tanto, ve el aborto como un acto que desprecia la santidad de la vida que Él otorga.</strong>",
-            "deepAnswer": "Para Jehová, la vida comienza mucho antes del nacimiento. Las Escrituras indican que Dios 've' al ser humano mientras se está formando en el vientre (Sal. 139:16). Por lo tanto, <strong>quitar intencionadamente la vida a un no nacido es equivalente a quitarle la vida a un ser humano ante los ojos de Dios.</strong> Él ve los hijos como un regalo valioso y una herencia.",
-            "shortAnswer": "Jehová condena el aborto porque la vida es un regalo sagrado que comienza en la concepción."
+            "question": "El aborto? (Éx. 21:22-25; Sal. 127:3; 139:14-16).",
+            "directAnswer": "Jehová considera el aborto como un asesinato, pues para Él la vida de un bebé en el vientre es sagrada.",
+            "deepAnswer": "Salmo 139:16 muestra que los ojos de Jehová ven el embrión. Éxodo 21 exige cobrar vida por vida si se daña al feto. Para Dios, la vida empieza desde la concepción, y acabar con ella voluntariamente es violar la santidad de la vida.",
+            "shortAnswer": "Lo considera un pecado grave porque respeta la santidad de la vida desde la concepción."
           },
           {
             "id": "7B_q18_d",
-            "question": "¿Qué opina Jehová de la mentira descarada y malintencionada y el testimonio falso? (Prov. 6:16, 19; Col. 3:9; Apoc. 22:15; it-2 pág. 368 párr. 4).",
-            "references": "Prov. 6:16, 19; Col. 3:9; Apoc. 22:15; it-2 pág. 368 párr. 4",
-            "directAnswer": "<strong>Jehová aborrece la mentira y el testimonio falso porque contradicen su naturaleza veraz y dañan gravemente el tejido de la congregación y las relaciones humanas.</strong>",
-            "deepAnswer": "<strong>La mentira malintencionada es una de las cosas que Jehová detesta</strong>, ya que Satanás es el 'padre de la mentira'. Al mentir, una persona imita al Diablo y falta al respeto al prójimo. <strong>El testimonio falso, en particular, puede destruir vidas y nombres honrados, algo que el Dios de justicia no tolera bajo ninguna circunstancia.</strong>",
-            "shortAnswer": "Son actos que Jehová aborrece profundamente, pues proceden del 'padre de la mentira'."
+            "question": "La mentira descarada y malintencionada y el testimonio falso? (Prov. 6:16, 19; Col. 3:9; Apoc. 22:15; it-2 pág. 368 párr. 4).",
+            "directAnswer": "Jehová detesta la lengua mentirosa y advierte que los mentirosos habituales no estarán en el nuevo mundo.",
+            "deepAnswer": "Proverbios 6 enumera las cosas que Jehová odia, destacando al 'testigo falso que lanza mentiras'. Colosenses 3:9 nos ordena: 'No se mientan unos a otros'. La mentira es el lenguaje de Satanás, y los precursores deben ser ejemplos de honradez absoluta.",
+            "shortAnswer": "La detesta porque proviene de Satanás y destruye la confianza y la paz."
           },
           {
             "id": "7B_q18_e",
-            "question": "¿Qué opina Jehová del maltrato verbal y la calumnia? (Lev. 19:16; 1 Cor. 6:10; it-1 pág. 473 párr. 4).",
-            "references": "Lev. 19:16; 1 Cor. 6:10; it-1 pág. 473 párr. 4",
-            "directAnswer": "<strong>El maltrato verbal y la calumnia son ofensas graves ante Jehová, ya que usan la lengua para dañar la reputación y la paz de los demás.</strong>",
-            "deepAnswer": "La calumnia es una forma de odio expresado con palabras. <strong>Jehová nos ordena no difamar a nadie.</strong> <strong>El uso del lenguaje abusivo o malicioso demuestra falta de amor y pone en peligro la posición de la persona ante Dios.</strong> Debemos recordar que nuestras palabras reflejan lo que hay en nuestro corazón.",
-            "shortAnswer": "Jehová reprueba el uso dañino de la lengua, considerándolo una falta grave contra el prójimo."
+            "question": "El maltrato verbal y la calumnia? (Lev. 19:16; 1 Cor. 6:10; it-1 pág. 473 párr. 4).",
+            "directAnswer": "Jehová condena a los difamadores y prohíbe el uso de palabras hirientes o chismes que dañen a otros.",
+            "deepAnswer": "Levítico 19:16 prohíbe andar calumniando entre el pueblo. 1 Corintios 6:10 advierte que los difamadores no heredarán el Reino de Dios. Las palabras hirientes o el maltrato de palabra destruyen la paz y equivalen a herir espiritualmente a un hermano.",
+            "shortAnswer": "Los condena porque dañan el amor fraternal y violan la ley del respeto mutuo."
           },
           {
             "id": "7B_q18_f",
-            "question": "¿Qué opina Jehová de la impureza y la conducta descarada? (2 Cor. 12:21; Gál. 5:19; Efes. 4:18, 19; 2 Ped. 2:7; nwt pág. 1820; w12 15/3 págs. 30, 31).",
-            "references": "2 Cor. 12:21; Gál. 5:19; Efes. 4:18, 19; 2 Ped. 2:7; nwt pág. 1820; w12 15/3 págs. 30, 31",
-            "directAnswer": "<strong>Jehová exige que su pueblo sea santo y puro; por ello, rechaza la conducta descarada y la impureza, que muestran un desprecio cínico por sus normas.</strong>",
-            "deepAnswer": "La 'conducta descarada' (o libertinaje) implica una actitud desafiante y una falta de respeto por las leyes de Dios. Quienes practican la impureza de manera persistente demuestran que no tienen temor de Dios y han perdido el sentido de lo que es correcto. <strong>Jehová requiere que sus siervos se aparten de cualquier estilo de vida que refleje estas obras de la carne.</strong>",
-            "shortAnswer": "Son conductas contrarias a la santidad que Dios exige de quienes desean servirle."
+            "question": "La impureza y la conducta descarada? (2 Cor. 12:21; Gál. 5:19; Efes. 4:18, 19; 2 Ped. 2:7; nwt pág. 1820; w12 15/3 págs. 30, 31).",
+            "directAnswer": "Jehová aborrece la conducta descarada porque muestra desprecio por las leyes morales y carece de vergüenza.",
+            "deepAnswer": "La conducta descarada (en griego *aselgeia*) implica una actitud desafiante y desvergonzada ante las normas de Dios. Efesios 4:19 describe a quienes perdieron el sentido moral y se entregaron a la impureza con codicia. Los cristianos evitan esto de corazón.",
+            "shortAnswer": "La rechaza por reflejar una total falta de respeto a las normas morales divinas."
           },
           {
             "id": "7B_q18_g",
-            "question": "¿Qué opina Jehová de la borrachera? (1 Cor. 5:11; 6:9, 10).",
-            "references": "1 Cor. 5:11; 6:9, 10",
-            "directAnswer": "<strong>Jehová condena la borrachera porque despoja a la persona del autocontrol y puede llevarla a cometer actos contrarios a la voluntad de Dios.</strong>",
-            "deepAnswer": "Aunque beber alcohol no es pecado, la borrachera sí lo es. Esta nubla el juicio, fomenta la pérdida del dominio propio y suele conducir a la inmoralidad o la violencia. <strong>El cristiano debe mantener sus facultades mentales claras para servir a Jehová</strong>, por lo que la borrachera es motivo de disciplina en la congregación.",
-            "shortAnswer": "Es una conducta que el cristiano debe evitar para mantener el control de sus facultades y su integridad espiritual."
-          },
-          {
-            "id": "7B_q18_h",
-            "question": "Si ves o te enteras de que alguien del pueblo de Jehová ha cometido un pecado grave, ¿por qué no debes quedarte callado?",
-            "references": "Lev. 5:1; Gál. 6:1; Sant. 5:19, 20",
-            "directAnswer": "<strong>No debemos quedarnos callados porque el silencio podría ser cómplice, y el amor a Jehová, a la congregación y al propio pecador nos mueve a procurar que reciba ayuda espiritual.</strong>",
-            "deepAnswer": "El amor verdadero nos obliga a actuar. Si sabemos de un pecado grave, nuestro silencio podría permitir que la situación empeore y que la congregación se contamine (1 Cor. 5:6). <strong>Al informar a los ancianos, estamos ayudando al pecador a arrepentirse y a restaurar su relación con Jehová</strong>, tal como manda la Biblia en Gálatas 6:1. Es una muestra de lealtad a la santidad del nombre de Dios."
+            "question": "La borrachera? (1 Cor. 5:11; 6:9, 10).",
+            "directAnswer": "Jehová prohíbe el exceso de alcohol y decreta que los borrachos no heredarán el Reino de Dios.",
+            "deepAnswer": "Aunque la Biblia no prohíbe el uso moderado del vino, condena con severidad el abuso del alcohol. La borrachera hace perder el control mental y la dignidad espiritual, rebajando al cristiano y apartándolo del espíritu santo.",
+            "shortAnswer": "La condena porque nubla el buen juicio y aparta al cristiano de Dios."
           }
         ]
       },
       {
+        "id": "7B_q19",
+        "question": "Si ves o te enteras de que alguien del pueblo de Jehová ha cometido un pecado grave, ¿por qué no debes quedarte callado? (Lev. 5:1; nota; 1 Cor. 5:1, 2).",
+        "references": "Lev. 5:1; 1 Cor. 5:1, 2",
+        "directAnswer": "No debemos callarnos para **proteger la santidad y limpieza de la congregación, y para ayudar al pecador a arrepentirse y recibir ayuda espiritual**.",
+        "deepAnswer": "Levítico 5:1 indica que quien calla ante una mala acción de la que es testigo carga con la culpa. Quedarse callado permite que el pecado contamine a la congregación (1 Cor. 5:1, 2). Además, informar a los ancianos no es traición, sino un acto de lealtad a Jehová y de verdadero amor por el pecador, permitiendo que reciba la disciplina y ayuda necesarias.",
+        "shortAnswer": "Para evitar que la congregación se contamine y asegurar que el pecador reciba la ayuda necesaria."
+      },
+      {
         "id": "7B_q20",
-        "question": "¿Por qué es un gesto de bondad animar a quien ha cometido un pecado grave a hablar con los ancianos?",
+        "question": "¿Por qué es un gesto de bondad animar a quien ha cometido un pecado grave a hablar con los ancianos? (Sant. 5:14).",
         "references": "Sant. 5:14",
-        "directAnswer": "<strong>Es un gesto de bondad porque los ancianos son pastores amorosos capacitados para sanar, consolar y ayudar al pecador a restaurar su amistad con Jehová.</strong>",
-        "deepAnswer": "Lejos de ser un castigo, la ayuda de los ancianos es una provisión amorosa de Jehová para restaurar espiritualmente a los debilitados. Santiago 5:14 explica que los ancianos pueden orar por el pecador y \"untarlo con aceite\", lo que representa la aplicación tierna y consoladora de los principios de la Palabra de Dios. <strong>Animar a alguien a acudir a ellos es el mayor acto de compasión, pues le abre la puerta para que reciba la misericordia divina y cure su salud espiritual.</strong>",
-        "shortAnswer": "Es un acto de amor que encamina al pecador hacia la curación espiritual y la misericordia de Dios."
+        "directAnswer": "Es una muestra de bondad porque **los ancianos tienen el deber y las cualidades para curarlo espiritualmente y ayudarlo a recuperar la amistad con Jehová**.",
+        "deepAnswer": "Santiago 5:14 muestra que los ancianos pueden orar por el enfermo espiritual y 'untar con aceite' (aconsejarlo con la Palabra de Dios). Animar al pecador a confesar su falta le da la oportunidad de arrepentirse voluntariamente y ser sanado espiritualmente, lo que le evitará perder la vida eterna.",
+        "shortAnswer": "Porque los ancianos son pastores amorosos capacitados para curarlo y restaurarlo espiritualmente."
       },
       {
         "id": "7B_q21",
-        "question": "Si no lo hace, ¿cómo demuestras que amas a Jehová, a la congregación y a esa persona si les cuentas lo ocurrido a los ancianos? (1 Cor. 1:11; 5:6; 1 Tim. 5:22). Si te molesta la conciencia o sigues angustiado por un pecado grave que cometiste hace ya tiempo, ¿por qué deberías pedirles ayuda a los ancianos?",
-        "references": "",
-        "directAnswer": "Si el implicado no confiesa, <strong>informar a los ancianos demuestra amor leal a Jehová al defender su santidad, a la congregación al proteger su pureza, y a la persona al permitir que reciba disciplina salvadora.</strong>",
-        "deepAnswer": "Al imitar el ejemplo de los de la casa de Cloe, quienes informaron de los problemas en Corinto (1 Corintios 1:11), demostramos amor por la paz y el orden teocrático. Además, protegemos al cuerpo de creyentes de que \"un poco de levadura fermente toda la masa\" (1 Corintios 5:6) y evitamos ser partícipes de pecados ajenos (1 Timoteo 5:22). <strong>Esta valiente acción es una muestra de amor verdadero, pues da al transgresor la oportunidad de recapacitar, arrepentirse y salvar su relación con Jehová.</strong>",
-        "shortAnswer": "Demuestra amor leal al proteger la santidad de la congregación y buscar la salvación del pecador."
+        "question": "Si no lo hace, ¿cómo demuestras que amas a Jehová, a la congregación y a esa persona si les cuentas lo ocurrido a los ancianos? (1 Cor. 1:11; 5:6; 1 Tim. 5:22).",
+        "references": "1 Cor. 1:11; 5:6; 1 Tim. 5:22",
+        "directAnswer": "Demuestras amor al **poner la santidad de Dios en primer lugar, proteger a los hermanos de malas influencias y evitar que el pecador se hunda más en su error**.",
+        "deepAnswer": "Al informar a los ancianos, demostramos: <br>1. **Amor a Jehová**: Defendemos su nombre santo. <br>2. **Amor a la congregación**: Evitamos que 'un poco de levadura fermente toda la masa' (1 Cor. 5:6). <br>3. **Amor al pecador**: No somos cómplices de su destrucción espiritual; forzamos de forma teocrática que reciba la ayuda que necesita.",
+        "shortAnswer": "Protegiendo el nombre de Jehová, la pureza de la congregación y buscando la salvación del pecador."
+      },
+      {
+        "id": "7B_q22",
+        "question": "Si te molesta la conciencia o sigues angustiado por un pecado grave que cometiste hace ya tiempo, ¿por qué deberías pedirles ayuda a los ancianos? (Sant. 5:14-16).",
+        "references": "Sant. 5:14-16",
+        "directAnswer": "Deberías pedir ayuda porque **ellos orarán contigo, te aconsejarán con cariño y te ayudarán a sentir el perdón y la paz que da Jehová**.",
+        "deepAnswer": "Ocultar un pecado grave causa un enorme desgaste espiritual y emocional. Santiago 5:16 nos anima a confesar los pecados para ser curados. Los ancianos no están para castigar, sino para sanar. Su pastoreo comprensivo y sus oraciones sinceras aliviarán la culpa en tu corazón, devolviéndote el gozo de servir a Jehová con la conciencia limpia.",
+        "shortAnswer": "Para aliviar el peso de la culpa y recibir el pastoreo curativo que te devolverá la paz con Jehová."
       },
       {
         "id": "7B_q23",
-        "question": "¿Cómo demuestras que tomas en serio las advertencias de Dios?",
+        "question": "¿Cómo demuestras que tomas en serio las advertencias de Dios? (Gál. 5:16, 17, 19-21).",
         "references": "Gál. 5:16, 17, 19-21",
-        "directAnswer": "<strong>Demuestras que tomas en serio las advertencias divinas al oponerte activamente a los deseos de la carne y dejarte guiar por el espíritu santo en cada aspecto de tu vida.</strong>",
-        "deepAnswer": "Tomar en serio las advertencias divinas implica una lucha activa diaria, tal como se menciona en Gálatas 5:16, 17, donde el espíritu y la carne están en constante oposición. <strong>Al rechazar con firmeza las prácticas degradantes de \"las obras de la carne\" (Gálatas 5:19-21) y cultivar con esmero el fruto del espíritu, demostramos que nuestro mayor deseo es agradar a Jehová.</strong> <strong>Esto exige orar con fervor, estudiar las Escrituras y aplicar los principios bíblicos de inmediato ante cualquier tentación.</strong>",
-        "shortAnswer": "Se demuestra combatiendo los deseos carnales y permitiendo que el espíritu santo dirija nuestras decisiones."
+        "directAnswer": "Lo demostramos al **dejar que el espíritu santo guíe nuestras acciones, luchando con determinación contra los deseos egoístas de la carne**.",
+        "deepAnswer": "Gálatas 5:16 declara: 'Sigan andando por el espíritu y no llevarán a cabo ningún deseo de la carne'. Tomar en serio las advertencias de Jehová implica no jugar con la tentación, sino cortar de raíz cualquier pensamiento o acción impura antes de que dé a luz el pecado, manteniéndonos santos para Dios.",
+        "shortAnswer": "Andando según el espíritu santo y rechazando con firmeza las obras de la carne."
       },
       {
         "id": "7B_q24",
-        "question": "¿Por qué no debes dejar de luchar contra el espíritu del mundo?",
+        "question": "¿Por qué no debes dejar de luchar contra el espíritu del mundo? (Juan 16:33; Jud. 3).",
         "references": "Juan 16:33; Jud. 3",
-        "directAnswer": "No debes dejar de luchar porque <strong>el espíritu del mundo es hostil y persistente</strong>, pero tenemos la garantía de que con la ayuda de Jehová y el ejemplo de Jesús saldremos victoriosos.",
-        "deepAnswer": "El apóstol Judas nos insta a \"luchar tenazmente por la fe\" (Judas 3) <strong>debido a las sutiles influencias que intentan apartarnos de la verdad</strong>. Aunque la presión del sistema de Satanás es intensa, las palabras de nuestro Caudillo en Juan 16:33 nos llenan de valor: \"¡Cobren ánimo! Yo he vencido al mundo\". Esta gran verdad nos asegura que nosotros también podemos vencer su influencia destructiva si confiamos plenamente en Jehová y nos mantenemos firmes en la adoración pura.",
-        "shortAnswer": "Luchamos porque la influencia del mundo es destructiva, pero la victoria está garantizada gracias a Cristo."
+        "directAnswer": "No debemos rendirnos porque **Jesús ya venció al mundo, y nosotros debemos 'luchar tenazmente por la fe' para salvar nuestras vidas (Jud. 3)**.",
+        "deepAnswer": "Satanás usará cualquier medio para apartarnos de Jehová. Judas 3 nos insta a 'luchar tenazmente por la fe'. Jesús nos dio el ejemplo y nos animó diciendo: '¡Cobren valor! Yo he vencido al mundo' (Juan 16:33). Mantenernos en pie de guerra espiritual asegura nuestra salvación y honra a Jehová ante el mundo.",
+        "shortAnswer": "Porque la lucha es constante, pero la victoria está garantizada gracias al ejemplo de Jesús."
       }
     ],
     "image": "pioneer_studying.png",
