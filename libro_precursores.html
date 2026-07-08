@@ -7,6 +7,16 @@
     <link rel="stylesheet" href="styles.css?v=2.2.2">
 </head>
 <body class="theme-jw">
+    <!-- Cabecera Móvil Sticky -->
+    <div class="mobile-header">
+        <button class="mobile-menu-btn" onclick="toggleSidebar(true)">☰</button>
+        <span class="mobile-title" id="mobile-header-title">Lección 1A</span>
+        <button class="mobile-tools-btn" onclick="toggleControlSidebar(true)">📝</button>
+    </div>
+    <!-- Overlays de Cierre para Móviles -->
+    <div class="sidebar-overlay" id="sidebar-overlay" onclick="toggleSidebar(false)"></div>
+    <div class="control-sidebar-overlay" id="control-sidebar-overlay" onclick="toggleControlSidebar(false)"></div>
+
     <div class="app-container">
         
         <!-- SIDEBAR IZQUIERDA (NAVEGACIÓN) -->

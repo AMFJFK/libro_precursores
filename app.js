@@ -47,6 +47,17 @@ function loadLesson(index, scroll = false) {
     currentLessonIndex = index;
     const lesson = lessonsData[index];
 
+    // Cerrar el menú lateral izquierdo si estuviera abierto en móviles
+    if (typeof toggleSidebar === "function") {
+        toggleSidebar(false);
+    }
+
+    // Actualizar título en la cabecera móvil
+    const mobTitle = document.getElementById("mobile-header-title");
+    if (mobTitle) {
+        mobTitle.textContent = `Lección ${lesson.id}`;
+    }
+
     // Deslizar automáticamente al contenido de la lección en dispositivos móviles
     if (scroll && window.innerWidth <= 1024) {
         const mainContent = document.querySelector(".main-content");
@@ -575,7 +586,13 @@ function showScripture(ref) {
         `;
     }
 
-    document.getElementById("scripture-viewer").scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    if (window.innerWidth <= 1024) {
+        if (typeof toggleControlSidebar === "function") {
+            toggleControlSidebar(true);
+        }
+    } else {
+        document.getElementById("scripture-viewer").scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
 }
 
 function resetScriptureViewer() {
@@ -1557,6 +1574,34 @@ function escapeHtml(text) {
         .replace(/>/g, "&gt;")
         .replace(/"/g, "&quot;")
         .replace(/'/g, "&#039;");
+}
+
+// --- MOBILE DRAWER NAVIGATION SYSTEM ---
+function toggleSidebar(state) {
+    const sidebar = document.querySelector(".sidebar");
+    const overlay = document.getElementById("sidebar-overlay");
+    if (!sidebar || !overlay) return;
+    if (state) {
+        sidebar.classList.add("open");
+        overlay.classList.add("active");
+    } else {
+        sidebar.classList.remove("open");
+        overlay.classList.remove("active");
+    }
+}
+
+// Close sidebar on swipe or click outside
+function toggleControlSidebar(state) {
+    const controlSidebar = document.querySelector(".control-sidebar");
+    const overlay = document.getElementById("control-sidebar-overlay");
+    if (!controlSidebar || !overlay) return;
+    if (state) {
+        controlSidebar.classList.add("open");
+        overlay.classList.add("active");
+    } else {
+        controlSidebar.classList.remove("open");
+        overlay.classList.remove("active");
+    }
 }
 
 
