@@ -2265,7 +2265,7 @@ const lessonsData = [
         "id": "6A_q3",
         "question": "¿Cómo demostró Jesús que respetaba la dignidad de las mujeres? (w12 1/9 págs. 8-11).",
         "references": "w12 1/9 págs. 8-11",
-        "subtitle": "Jesús dedicó tiempo a enseñar a las mujeres. Les habló con respeto y cariño. Incluso eligió a algunas para que anunciaran su resurrección (Mat. 28:1, 8-10; Luc. 10:38-42; 13:10-16).",
+        "note": "Jesús dedicó tiempo a enseñar a las mujeres. Les habló con respeto y cariño. Incluso eligió a algunas para que anunciaran su resurrección (Mat. 28:1, 8-10; Luc. 10:38-42; 13:10-16).",
         "directAnswer": "Jesús lo demostró al **romper con las costumbres de su época, hablar con ellas en público, enseñarles verdades profundas y elegirlas como las primeras testigos de su resurrección**.",
         "deepAnswer": "En una época donde los líderes religiosos despreciaban a las mujeres y les prohibían estudiar la Ley, Jesús actuó de forma revolucionaria. **Les enseñó verdades espirituales profundas** (como a la samaritana y a Marta en Lucas 10), **las curó con ternura llamándolas 'hijas de Abrahán'** (Lucas 13) y las honró al encargarles que anunciaran la gran noticia de su resurrección a los propios apóstoles (Mateo 28).",
         "shortAnswer": "Jesús las curó con cariño, conversó con ellas públicamente y las honró como maestras y mensajeras."
@@ -2299,7 +2299,7 @@ const lessonsData = [
         "question": "En 1 Pedro 3:7 aparece la expresión “denles honra como a una vasija más frágil”. ¿Qué quiere decir este mandato, y cómo beneficia y protege a las mujeres? (w15 15/1 pág. 20 párr. 8).",
         "references": "1 Pedro 3:7; w15 15/1 pág. 20 párr. 8",
         "directAnswer": "Significa que **los esposos deben tratar a sus esposas con extremo cuidado, aprecio y delicadeza, reconociendo que tienen el mismo valor espiritual y son coherederas de la vida**.",
-        "deepAnswer": "Según *La Atalaya* (w15 15/1 pág. 20), describir a la mujer como una 'vasija más frágil' no significa inferioridad moral o intelectual, sino una menor fuerza física física. **La honra implica que el esposo valora sus sentimientos, respeta sus opiniones y la protege activamente**. Este mandato protege a la mujer de abusos físicos o emocionales y asegura que el esposo la trate como a un tesoro valioso, manteniendo así abiertas sus propias oraciones ante Dios.",
+        "deepAnswer": "Según *La Atalaya* (w15 15/1 pág. 20), describir a la mujer como una 'vasija más frágil' no significa inferioridad moral o intelectual, sino una menor fuerza física física. **La honra implica que el esposo valora sus sentimientos, respeta sus opiniones y la protege activamente**. Este mandato protege a la mujer de abusos físicos o emocionales y asegura que el esposo la trate como a un tesoro valioso, manteniendo así abiertas sus oraciones ante Dios.",
         "shortAnswer": "Tratarlas con cuidado y aprecio por su valor espiritual, protegiéndolas de tratos ásperos."
       },
       {
@@ -2355,7 +2355,7 @@ const lessonsData = [
         "id": "6A_q14",
         "question": "¿Qué significan las palabras de 1 Corintios 14:33-35? (1 Tim. 2:12; w12 1/9 pág. 9, recuadro; g 7/10 pág. 29 párrs. 2-4).",
         "references": "1 Cor. 14:33-35; 1 Tim. 2:12; w12 1/9 pág. 9, recuadro; g 7/10 pág. 29 párrs. 2-4",
-        "subtitle": "EXPERIENCIA: Un hombre que trataba mal a su esposa cristiana contó: “Mi esposa me mostraba mucho respeto. Nunca me humilló. Tampoco intentó imponerme sus creencias. Siempre me cuidó con cariño. Si ella tenía que ir a una asamblea, dejaba la comida preparada y la casa limpia. Su actitud fue lo que despertó mi interés por la Biblia. Y, bueno, aquí estoy”. Este es solo un ejemplo más de un hombre que fue ganado “sin una palabra” gracias a la conducta de su esposa.",
+        "note": "EXPERIENCIA: Un hombre que trataba mal a su esposa cristiana contó: “Mi esposa me mostraba mucho respeto. Nunca me humilló. Tampoco intentó imponerme sus creencias. Siempre me cuidó con cariño. Si ella tenía que ir a una asamblea, dejaba la comida preparada y la casa limpia. Su actitud fue lo que despertó mi interés por la Biblia. Y, bueno, aquí estoy”. Este es solo un ejemplo más de un hombre que fue ganado “sin una palabra” gracias a la conducta de su esposa.",
         "directAnswer": "Significa que **en las reuniones de la congregación, las hermanas no deben asumir la función de enseñar públicamente ni debatir con los que enseñan**, respetando el orden teocrático.",
         "deepAnswer": "En el siglo primero, en Corinto, había desorden en las reuniones. El apóstol Pablo aclaró que 'Dios no es un Dios de desorden, sino de paz' (1 Cor. 14:33). Al instruir a las mujeres a 'guardar silencio', se refiere a **no interrumpir la enseñanza oficial de la congregación ni cuestionar la autoridad de los maestros nombrados (los ancianos)**. Las mujeres pueden comentar y participar de forma ordenada, pero respetando que la enseñanza pública formal está encomendada a los varones bautizados.",
         "shortAnswer": "Las hermanas no enseñan públicamente en la congregación ni debaten, respetando el orden y la paz."
@@ -2365,7 +2365,7 @@ const lessonsData = [
         "question": "¿Qué puede conseguir una cristiana si respeta la autoridad de su esposo no Testigo? (1 Ped. 3:1, 2).",
         "references": "1 Ped. 3:1, 2",
         "directAnswer": "Puede conseguir **ganar a su esposo para la verdad sin decir una palabra, gracias a su conducta casta y respetuosa**.",
-        "deepAnswer": "1 Pedro 3:1, 2 insta a las esposas cristianas a estar sujetas a sus esposos no creyentes. Esto significa que **su conducta amorosa, honrada, paciente y sucia de respetuosa sumisión civil puede conmover el corazón del esposo**. Al ver que su esposa es mejor cónyuge por ser Testigo, muchos esposos se sienten motivados a investigar la Biblia y aceptar el mensaje del Reino.",
+        "deepAnswer": "1 Pedro 3:1, 2 insta a las esposas cristianas a estar sujetas a sus esposos no creyentes. Esto significa que **su conducta amorosa, honrada, paciente y llena de respetuosa sumisión puede conmover el corazón del esposo**. Al ver que su esposa es mejor cónyuge por ser Testigo, muchos esposos se sienten motivados a investigar la Biblia y aceptar el mensaje del Reino.",
         "shortAnswer": "Ganar a su esposo para la verdad mediante su ejemplo de buena conducta y respeto."
       },
       {
@@ -2404,7 +2404,7 @@ const lessonsData = [
         "id": "6A_q20",
         "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza en cada una de estas situaciones (w21.02 pág. 16, recuadro; w15 15/2 pág. 30):",
         "references": "w21.02 pág. 16, recuadro; w15 15/2 pág. 30",
-        "directAnswer": "La cristiana debe cubrirse cuando **realiza una actividad de enseñanza o adoración organizada en presencia de su esposo o de un hermano bautizado, o al dirigir una función congregacional**.",
+        "directAnswer": "La cristiana debe cubrirse cuando **realiza una actividad de enseñanza o adoración en presencia de su esposo o de un hermano bautizado, o al dirigir una reunión de la congregación**.",
         "deepAnswer": "La aplicación práctica de 1 Corintios 11:2-16 exige discernir la presencia del esposo o de hermanos bautizados, y si la reunión es organizada por la congregación. La cobertura de la cabeza sirve como señal de respeto teocrático, permitiendo que la hermana sirva con una conciencia limpia y dé un testimonio excelente ante los ángeles y la congregación.",
         "shortAnswer": "La cobertura se usa según la presencia de varones dedicados, el tipo de actividad teocrática y el orden de la congregación.",
         "subQuestions": [
@@ -2454,14 +2454,14 @@ const lessonsData = [
             "id": "6A_q20_g",
             "question": "Interpreta discursos bíblicos al lenguaje de señas en las reuniones o asambleas cristianas.",
             "directAnswer": "Parece necesario que se cubra debido al importante papel del intérprete (w09 15/11 págs. 12, 13).",
-            "deepAnswer": "Al interpretar la enseñanza teocrática al lenguaje de señas en la plataforma, la hermana capta la atención del auditorio de sordos y transmite el mensaje directamente de forma visual. *La Atalaya* explica que, debido a esta visibilidad y rol de transmisión directa, es apropiado que se cubra.",
+            "deepAnswer": "Durante los discursos públicos, la imagen de la hermana intérprete suele aparecer en una pantalla grande o en un lugar muy visible de la plataforma para el beneficio de los sordos, captando la atención directa de una parte del auditorio. Por ello, la publicación oficial *La Atalaya* (w09 15/11 págs. 12, 13) indica que parece necesario que se cubra la cabeza para mostrar de forma visible su sumisión al orden de jefatura teocrática.",
             "shortAnswer": "Debe cubrirse debido a la gran visibilidad e importancia de su rol de intérprete."
           },
           {
             "id": "6A_q20_h",
             "question": "Interpreta al lenguaje de señas asignaciones de la reunión de entre semana, el Estudio de La Atalaya y las canciones del Reino.",
             "directAnswer": "“Tal vez le resulte práctico llevar la cabeza cubierta durante toda la reunión” (w09 15/11 pág. 13).",
-            "deepAnswer": "Dado que las asignaciones y el Estudio de La Atalaya implican la transmisión visual de enseñanza teocrática directa en la congregación, y las canciones se intercalan, las pautas teocráticas sugieren de forma práctica mantener la cabeza cubierta durante toda la sesión para evitar estar poniéndose y quitándose la cobertura constantemente.",
+            "deepAnswer": "Al interpretar la reunión de entre semana o el Estudio de La Atalaya, la hermana tendría que cubrirse la cabeza en momentos como los discursos o la oración de los hermanos, y descubrirse al traducir comentarios de hermanas o demostraciones. Para evitar estar poniéndose y quitándose la cobertura constantemente, la recomendación práctica de la publicación es llevar la cabeza cubierta durante toda la reunión.",
             "shortAnswer": "Es práctico y recomendable llevarla cubierta durante toda la reunión."
           }
         ]
@@ -2470,7 +2470,7 @@ const lessonsData = [
         "id": "6A_q21",
         "question": "¿Qué motivos puede tener una hermana para cubrirse la cabeza en situaciones en las que en realidad no sea necesario? (1 Tim. 1:5).",
         "references": "1 Tim. 1:5",
-        "subtitle": "Las hermanas pueden cubrirse la cabeza con un sombrero, una pañoleta, un chal o una prenda similar que sea digna.",
+        "note": "Las hermanas pueden cubrirse la cabeza con un sombrero, una pañoleta, un chal o una prenda similar que sea digna.",
         "directAnswer": "Puede hacerlo por **respeto a su propia conciencia, para no dar tropiezo a otros o para demostrar un amor sincero que nace de un corazón limpio**.",
         "deepAnswer": "1 Timoteo 1:5 enseña que el objetivo de este mandato es 'el amor que nace de un corazón limpio, de una buena conciencia y de una fe sincera'. Si una hermana tiene dudas o prefiere cubrirse para estar totalmente segura y mantener su paz mental, Jehová acepta con gusto este acto de devoción voluntaria, demostrando su deseo sincero de no violar la jefatura.",
         "shortAnswer": "Por motivos de conciencia personal y para asegurar su total paz mental ante Jehová."
@@ -2591,7 +2591,7 @@ const lessonsData = [
         "question": "¿Cómo demostrarás que te interesas de verdad por los demás?",
         "references": "Filipenses 2:4",
         "subtitle": "Lección 4B Interésate sinceramente por los demás — Busquen “no solo sus propios intereses, sino también los de los demás” (Filipenses 2:4).",
-        "directAnswer": "Lo demuestro al **ser sumamente cortes, escuchar con atención y empatía, felicitar con sinceridad y amoldar mi mensaje a sus circunstancias reales**.",
+        "directAnswer": "Lo demuestro al **ser sumamente cortés, escuchar con atención y empatía, felicitar con sinceridad y amoldar mi mensaje a sus circunstancias reales**.",
         "deepAnswer": "De acuerdo con Filipenses 2:4, debemos buscar el interés de los demás. En el ministerio, esto implica no dar una presentación mecánica. Escuchamos al amo de casa, mantenemos un contacto visual respetuoso, validamos sus comentarios y usamos textos que respondan a sus preocupaciones específicas, demostrando amor sincero.",
         "shortAnswer": "Escuchando con empatía, mostrando respeto cultural y adaptando el mensaje a sus necesidades."
       },
@@ -2647,7 +2647,7 @@ const lessonsData = [
       },
       {
         "id": "6B_q10",
-        "question": "• ¿Qué puedes hacer para que otros hermanos disfruten de la predicación de casa en casa?",
+        "question": "¿Qué puedes hacer para que otros hermanos disfruten de la predicación de casa en casa?",
         "references": "",
         "directAnswer": "Puedo **acompañarlos de buena gana, elogiarlos por sus esfuerzos sinceros y ayudarlos a prepararse sin criticar su estilo personal**.",
         "deepAnswer": "Para ayudar a otros a disfrutar de la predicación, debemos ser compañeros amables. Escuchamos con respeto sus presentaciones, los felicitamos por su valor en las puertas y evitamos corregirlos constantemente. Crear una atmósfera de apoyo y hermandad hace que el ministerio sea placentero.",
@@ -2655,7 +2655,7 @@ const lessonsData = [
       },
       {
         "id": "6B_q11",
-        "question": "• ¿Qué es lo que más valoras de la forma en que Jehová y Jesús honran a las mujeres?",
+        "question": "¿Qué es lo que más valoras de la forma en que Jehová y Jesús honran a las mujeres?",
         "references": "Salmo 68:11",
         "subtitle": "Lección 6A Mujeres que alegran a Jehová — “Las mujeres que proclaman las buenas noticias son un ejército grande” (Salmo 68:11).",
         "directAnswer": "Valoro que **les den un lugar digno, seguro y de igual valor espiritual, valorando su lealtad y su enorme contribución al ministerio**.",
@@ -2664,7 +2664,7 @@ const lessonsData = [
       },
       {
         "id": "6B_q12",
-        "question": "• ¿Por qué podemos decir que el principio de autoridad dignifica a las mujeres?",
+        "question": "¿Por qué podemos decir que el principio de autoridad dignifica a las mujeres?",
         "references": "",
         "directAnswer": "Porque **establece un orden de paz y amor donde el esposo debe tratar a su esposa con la misma ternura que Cristo trata a la congregación**.",
         "deepAnswer": "El principio de jefatura (1 Cor. 11:3) no implica inferioridad, ya que Cristo también está sujeto a Dios. Dignifica a la mujer porque exige que el varón la ame como a su propio cuerpo y la honre como a una 'vasija más frágil'. Bajo este orden teocrático amoroso, la mujer se siente segura, respetada y valorada.",
@@ -2672,7 +2672,7 @@ const lessonsData = [
       },
       {
         "id": "6B_q13",
-        "question": "• ¿Cómo pueden las hermanas ampliar su ministerio en estos últimos días?",
+        "question": "¿Cómo pueden las hermanas ampliar su ministerio en estos últimos días?",
         "references": "",
         "directAnswer": "Pueden hacerlo **sirviendo como precursoras auxiliares o regulares, colaborando en la predicación pública o mudándose donde haya mayor necesidad**.",
         "deepAnswer": "Las hermanas ejemplares tienen muchas puertas abiertas. Amplían su ministerio al perfeccionar sus habilidades para enseñar, dar apoyo espiritual a las hermanas más jóvenes de la congregación (Tito 2:3-5), o colaborando en tareas administrativas, de traducción o en la construcción de Salones del Reino bajo la dirección de la sucursal.",
