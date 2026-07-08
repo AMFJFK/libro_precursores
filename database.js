@@ -2246,309 +2246,307 @@ const lessonsData = [
     "questions": [
       {
         "id": "6A_q1",
-        "question": "¿Por qué es un papel muy respetable para la mujer ser “una ayudante que [...] complemente” al hombre?",
+        "question": "¿Por qué es un papel muy respetable para la mujer ser “una ayudante que [...] complemente” al hombre? (Gén. 2:18, 23; Sal. 33:20; w12 1/9 págs. 4, 5).",
         "references": "Gén. 2:18, 23; Sal. 33:20; w12 1/9 págs. 4, 5",
-        "directAnswer": "<strong>Jehová creó a la mujer no como un ser inferior, sino como una ayuda idónea que complementa perfectamente al hombre.</strong> <strong>El término hebreo traducido como 'ayudante' se usa también en la Biblia para referirse a Jehová mismo como protector y auxilio de su pueblo, lo que demuestra la gran dignidad y valor de esta función.</strong>",
-        "deepAnswer": "En Génesis 2:18, Jehová dice: 'No es bueno que el hombre siga solo. Voy a hacerle una ayudante que lo complemente'. <strong>En hebreo, 'ayudante' (ezer) no denota servidumbre ni inferioridad.</strong> De hecho, a menudo se usa para describir a Jehová (Sal. 33:20: 'Jehová es nuestra ayuda'). Al crear a Eva a partir de una costilla de Adán, <strong>Jehová la diseñó para ser su igual social y compañera, dotándola de cualidades necesarias para trabajar hombro con hombro con el hombre para llenar la Tierra.</strong>",
-        "shortAnswer": "Ser ayudante y complemento no denota inferioridad, sino igualdad social y colaboración digna."
+        "subtitle": "Ocupan un lugar digno y se merecen respeto",
+        "directAnswer": "Ser una ayudante es un papel muy respetable porque **no denota inferioridad, sino el apoyo mutuo y la colaboración necesarios para trabajar hombro con hombro como su igual social y compañera**.",
+        "deepAnswer": "En hebreo, la palabra traducida como 'ayudante' (*ezer*) no implica servidumbre. De hecho, a menudo se usa en la Biblia para describir la ayuda que Jehová brinda a su pueblo (Sal. 33:20). Al crear a Eva a partir de una costilla de Adán, Jehová la diseñó **para ser su complemento perfecto y compañera de igual dignidad**, dotándola de cualidades necesarias para cumplir con el propósito de Dios en la Tierra en total armonía.",
+        "shortAnswer": "Es respetable porque describe una relación de igual a igual, brindando apoyo y compañerismo."
       },
       {
         "id": "6A_q2",
-        "question": "¿Cómo indican Gálatas 3:26-28 y 4:26, y Apocalipsis 12:1 y 19:7 que Jehová le da a la mujer un lugar digno en su organización?",
-        "references": "it-2 pág. 432 párr. 3",
-        "directAnswer": "Bajo el nuevo pacto, <strong>hombres y mujeres tienen el mismo privilegio de ser coherederos con Cristo, sin distinción espiritual.</strong> Además, <strong>la parte celestial de la organización de Jehová y la novia celestial de Jesús son representadas simbólicamente por mujeres, lo que exalta el estatus de la mujer a los ojos de Dios.</strong>",
-        "deepAnswer": "Gálatas 3:28 declara enfáticamente: 'No hay judío ni griego, no hay esclavo ni libre, no hay varón ni mujer; porque todos ustedes son uno en unión con Cristo Jesús'. <strong>En el plano de la herencia celestial, Dios no hace favoritismos por género.</strong> Además, <strong>Jehová usa figuras femeninas de gran gloria para representar realidades celestiales: 'la Jerusalén de arriba' es llamada nuestra madre (Gál. 4:26), la organización celestial es descrita como una mujer radiante vestida del sol (Apoc. 12:1), y los 144,000 en el cielo son representados colectivamente como la 'novia' de Cristo en sus bodas celestiales (Apoc. 19:7).</strong>",
-        "shortAnswer": "Ante Jehová, hombres y mujeres son coherederos espirituales iguales en Cristo, y su organización celestial es simbolizada por una mujer."
+        "question": "¿Cómo indican Gálatas 3:26-28 y 4:26, y Apocalipsis 12:1 y 19:7 que Jehová le da a la mujer un lugar digno en su organización? (it-2 pág. 432 párr. 3).",
+        "references": "Gál. 3:26-28; 4:26; Apoc. 12:1; 19:7; it-2 pág. 432 párr. 3",
+        "directAnswer": "Indican que **para Dios no hay distinciones de género en cuanto a los herederos celestiales**, y usa a la mujer simbólicamente para **representar a su propia organización celestial y a la novia de Cristo**.",
+        "deepAnswer": "Gálatas 3:26-28 muestra que, a los ojos de Jehová, todos los herederos del Reino son iguales, afirmando que 'no hay varón ni mujer'. Además, **Jehová honra la feminidad al personificar su leal organización celestial como una madre o esposa celestial** (Gálatas 4:26; Apocalipsis 12:1) y describe al grupo selecto que gobernará con Cristo en el cielo como su 'novia' (Apocalipsis 19:7), lo que demuestra la altísima honra y dignidad que les otorga.",
+        "shortAnswer": "Muestran que hombres y mujeres tienen el mismo valor espiritual y representan símbolos celestiales excelsos."
       },
       {
         "id": "6A_q3",
-        "question": "¿Cómo demostró Jesús que respetaba la dignidad de las mujeres?",
+        "question": "¿Cómo demostró Jesús que respetaba la dignidad de las mujeres? (w12 1/9 págs. 8-11).",
         "references": "w12 1/9 págs. 8-11",
-        "directAnswer": "Jesús rompió con las tradiciones prejuiciosas de su tiempo: <strong>les enseñó verdades espirituales profundas públicamente, conversó con ellas con bondad y las defendió de críticas.</strong> Además, <strong>les concedió el inmenso honor de ser las primeras testigos en presenciar y proclamar su resurrección.</strong>",
-        "deepAnswer": "Jesús desafió las normas rabínicas que menospreciaban a las mujeres. <strong>Instruyó a María mientras Marta atendía las tareas (Luc. 10:38-42), indicando que el estudio espiritual es vital para ellas.</strong> <strong>Sanó públicamente a una mujer encorvada llamándola con dignidad 'hija de Abrahán' (Luc. 13:16).</strong> En el momento culminante de su resurrección, <strong>no se apareció primero a los apóstoles masculinos, sino a mujeres fieles (María Magdalena y la otra María), dándoles la asignación divina de anunciar la gran noticia a sus hermanos (Mat. 28:8-10).</strong>",
-        "shortAnswer": "Jesús les enseñó de buena gana, las trató con absoluto respeto y las eligió para anunciar su resurrección."
+        "subtitle": "Jesús dedicó tiempo a enseñar a las mujeres. Les habló con respeto y cariño. Incluso eligió a algunas para que anunciaran su resurrección (Mat. 28:1, 8-10; Luc. 10:38-42; 13:10-16).",
+        "directAnswer": "Jesús lo demostró al **romper con las costumbres de su época, hablar con ellas en público, enseñarles verdades profundas y elegirlas como las primeras testigos de su resurrección**.",
+        "deepAnswer": "En una época donde los líderes religiosos despreciaban a las mujeres y les prohibían estudiar la Ley, Jesús actuó de forma revolucionaria. **Les enseñó verdades espirituales profundas** (como a la samaritana y a Marta en Lucas 10), **las curó con ternura llamándolas 'hijas de Abrahán'** (Lucas 13) y las honró al encargarles que anunciaran la gran noticia de su resurrección a los propios apóstoles (Mateo 28).",
+        "shortAnswer": "Jesús las curó con cariño, conversó con ellas públicamente y las honró como maestras y mensajeras."
       },
       {
         "id": "6A_q4",
         "question": "¿Cómo se está cumpliendo la profecía de Salmo 68:11?",
-        "references": "",
-        "directAnswer": "<strong>La profecía de Salmo 68:11 se cumple mediante el gran \"ejército\" de hermanas bautizadas que proclaman celosamente las buenas nuevas del Reino en todo el mundo.</strong>",
-        "deepAnswer": "En la organización de Jehová, las mujeres desempeñan un papel fundamental en la obra de evangelización. Como indica Salmo 68:11, <strong>la cantidad de hermanas que anuncian las buenas nuevas constituye un verdadero ejército espiritual.</strong> <strong>Ya sea sirviendo como precursoras, misioneras o colaborando activamente con sus congregaciones locales, su abnegación, empatía y empeño son vitales para llevar el mensaje de salvación a millones de hogares.</strong>",
-        "shortAnswer": "Las hermanas celosas en la predicación constituyen el valioso ejército de proclamadoras que predijo el salmista."
+        "references": "Salmo 68:11",
+        "directAnswer": "Se cumple mediante **el inmenso número de hermanas cristianas que predican con celo y regularidad las buenas noticias del Reino hoy en día**.",
+        "deepAnswer": "Salmo 68:11 declara: 'Jehová da la orden; las mujeres que proclaman las buenas noticias son un ejército grande'. En la actualidad, **la mayor parte de la fuerza de predicación mundial está compuesta por fieles hermanas** que dedican millones de horas como precursoras y publicadoras, llevando el mensaje de salvación a los hogares con amor y persistencia.",
+        "shortAnswer": "Con el gran ejército de hermanas que encabezan la predicación mundial con lealtad."
       },
       {
         "id": "6A_q5",
         "question": "¿Cómo muestra Génesis 2:20-24 que desde el principio se estableció que el hombre y la mujer tuvieran una relación de cariño y respeto?",
-        "references": "",
-        "directAnswer": "Génesis muestra que <strong>Dios creó a la mujer como una compañera idónea y un complemento perfecto para el hombre, estableciendo una unión íntima basada en el amor y el apoyo mutuo.</strong>",
-        "deepAnswer": "Al crear a Eva, <strong>Jehová no la hizo inferior, sino una \"ayudante que lo complementara\" perfectamente (Gén. 2:20).</strong> La reacción poética de Adán al verla demuestra el profundo afecto y la valoración que sintió de inmediato por su esposa. <strong>El diseño divino de que el hombre se adhiera a su esposa y que \"lleguen a ser una sola carne\" (Gén. 2:24) subraya que su relación debía caracterizarse por un cuidado tierno, mutua interdependencia y un respeto inquebrantable.</strong>",
-        "shortAnswer": "Desde el principio, Jehová diseñó el matrimonio para ser una unión indisoluble de amor, respeto y complementariedad."
+        "references": "Gén. 2:20-24",
+        "directAnswer": "Lo muestra al describir que **Jehová creó a la mujer de una costilla del hombre, y Adán la aceptó con un gozo inmenso como carne de su carne, formando una unión indisoluble**.",
+        "deepAnswer": "Génesis 2:20-24 relata que Dios no creó a la mujer del polvo, sino del costado de Adán para indicar que **debía estar a su lado, no bajo sus pies ni sobre su cabeza**. Adán se sintió tan conmovido que exclamó: 'Esto por fin es hueso de mis huesos'. El texto concluye indicando que el esposo debe dejar a sus padres para 'adherirse a su esposa', mostrando que debían ser 'una sola carne' en amor y respeto mutuos.",
+        "shortAnswer": "Al ser creada de su costado, Adán la valoró de inmediato como parte de sí mismo, formando una unión íntima."
       },
       {
         "id": "6A_q6",
-        "question": "¿Cómo indica Efesios 5:28-31 que para Dios no ha cambiado la relación entre el esposo y la esposa? En 1 Pedro 3:7 aparece la expresión “denles honra como a una vasija más frágil”. ¿Qué quiere decir este mandato, y cómo beneficia y protege a las mujeres?",
-        "references": "",
-        "directAnswer": "<strong>Efesios 5:28-31 reafirma que el estándar de Dios para el matrimonio no ha cambiado, mandando a los esposos a amar y cuidar tiernamente a sus esposas como a sus propios cuerpos.</strong>",
-        "deepAnswer": "El apóstol Pablo cita directamente el mandato original de Génesis para demostrar que el propósito divino sigue intacto. <strong>Los esposos cristianos deben amar a sus esposas y cuidarlas como a su propio cuerpo, alimentándolas y protegiéndolas con la misma ternura con la que Cristo cuida a la congregación (Efes. 5:28-31).</strong> Complementando esto, <strong>1 Pedro 3:7 exhorta a los esposos a darles \"honra como a un vaso más débil\", lo que significa tratarlas con sumo cuidado, delicadeza y valorar su elevada espiritualidad como coherederas de la vida.</strong>",
-        "shortAnswer": "Para Dios, el esposo debe tratar a su esposa con el mismo amor abnegado y tierno cuidado del principio."
+        "question": "¿Cómo indica Efesios 5:28-31 que para Dios no ha cambiado la relación entre el esposo y la esposa?",
+        "references": "Efes. 5:28-31",
+        "directAnswer": "Lo indica al ordenar a los esposos que **amen a sus esposas como a sus propios cuerpos, alimentándolas y cuidándolas con la misma ternura con la que cuidan de sí mismos**.",
+        "deepAnswer": "Efesios 5:28-31 recalca que el matrimonio cristiano debe imitar el amor original del Edén. El apóstol Pablo recuerda que 'el que ama a su esposa se ama a sí mismo'. **Dios exige que el esposo trate a su compañera con el mismo cariño y protección con que Jesús cuida a la congregación**, demostrando que la dignificación de la mujer sigue siendo una norma absoluta para Jehová.",
+        "shortAnswer": "Exige que el esposo la ame y cuide como a su propio cuerpo, manteniendo el diseño original divino."
       },
       {
         "id": "6A_q7",
-        "question": "¿Qué quiere decir este mandato, y cómo beneficia y protege a las mujeres?",
-        "references": "w15 15/1 pág. 20 párr. 8",
-        "directAnswer": "<strong>Tratar a la esposa como a una 'vasija más frágil' significa valorarla profundamente, reconociendo que físicamente puede ser diferente, pero posee un inmenso valor espiritual.</strong> <strong>Implica cuidarla con ternura, respetar sus sentimientos y comprender que ella es heredera junto con el esposo del favor inmerecido de la vida.</strong>",
-        "deepAnswer": "El apóstol Pedro exhorta a los esposos a morar con sus esposas de acuerdo con el conocimiento y asignarles honra como a un vaso más frágil. Esto no denota inferioridad intelectual o espiritual. En la antigüedad, <strong>un vaso frágil de porcelana o cristal era el más valioso de la casa y se trataba con extrema delicadeza.</strong> <strong>El esposo que ama a su esposa según la Biblia valora su opinión, la protege del abuso, es cariñoso y sensible a sus límites emocionales y físicos, sabiendo que si la trata mal, sus propias oraciones a Jehová serán estorbadas.</strong>",
-        "shortAnswer": "Tratarla con el cuidado que merece un objeto de inmenso valor y belleza, protegiendo sus sentimientos y espiritualidad."
+        "question": "En 1 Pedro 3:7 aparece la expresión “denles honra como a una vasija más frágil”. ¿Qué quiere decir este mandato, y cómo beneficia y protege a las mujeres? (w15 15/1 pág. 20 párr. 8).",
+        "references": "1 Pedro 3:7; w15 15/1 pág. 20 párr. 8",
+        "directAnswer": "Significa que **los esposos deben tratar a sus esposas con extremo cuidado, aprecio y delicadeza, reconociendo que tienen el mismo valor espiritual y son coherederas de la vida**.",
+        "deepAnswer": "Según *La Atalaya* (w15 15/1 pág. 20), describir a la mujer como una 'vasija más frágil' no significa inferioridad moral o intelectual, sino una menor fuerza física física. **La honra implica que el esposo valora sus sentimientos, respeta sus opiniones y la protege activamente**. Este mandato protege a la mujer de abusos físicos o emocionales y asegura que el esposo la trate como a un tesoro valioso, manteniendo así abiertas sus propias oraciones ante Dios.",
+        "shortAnswer": "Tratarlas con cuidado y aprecio por su valor espiritual, protegiéndolas de tratos ásperos."
       },
       {
         "id": "6A_q8",
-        "question": "¿Cómo puede ser la esposa “una corona para su esposo”? (Prov. 12:4). El principio de autoridad.",
-        "references": "",
-        "directAnswer": "<strong>Una esposa es una corona para su esposo cuando es virtuosa, trabajadora y apoya lealmente su jefatura, lo que ennoblece y dignifica a su familia.</strong>",
-        "deepAnswer": "En tiempos bíblicos, una corona representaba honor, dignidad y autoridad; por lo tanto, <strong>una esposa \"capaz\" hace que su esposo se sienta sumamente respetado y valorado.</strong> <strong>Al usar sus capacidades para cuidar de su hogar, cultivar cualidades espirituales y cooperar de buen grado con su cabeza, ella realza la reputación de su esposo ante los demás (Prov. 12:4).</strong> Su conducta excelente y su espíritu humilde no solo benefician a su familia, sino que también traen gran alabanza a Jehová.",
-        "shortAnswer": "La conducta virtuosa y el apoyo leal de la esposa dignifican a su esposo y honran a Jehová."
+        "question": "¿Cómo puede ser la esposa “una corona para su esposo”? (Prov. 12:4).",
+        "references": "Prov. 12:4",
+        "directAnswer": "Es una corona al ser **una mujer virtuosa, leal y trabajadora, que con su buena conducta y apoyo dignifica a su esposo y a su familia**.",
+        "deepAnswer": "Proverbios 12:4 hace un contraste entre la esposa virtuosa, que es una corona (símbolo de honra y esplendor), y la que actúa vergonzosamente. **Una esposa que ama los principios divinos, que colabora con su esposo y edifica su hogar con sabiduría** hace que su esposo se sienta orgulloso de ella y sea respetado por los demás, elevando la dignidad de todo el hogar.",
+        "shortAnswer": "Siendo virtuosa y cooperadora, trayendo honra y buen nombre a su esposo y hogar."
       },
       {
         "id": "6A_q9",
-        "question": "¿Cómo se estableció el principio de autoridad y qué objetivo tiene?",
+        "question": "¿Cómo se estableció el principio de autoridad y qué objetivo tiene? (1 Cor. 11:3; 14:40).",
         "references": "1 Cor. 11:3; 14:40",
-        "directAnswer": "<strong>El principio de autoridad fue establecido por Jehová como una disposición ordenada y amorosa para mantener la paz, la unidad y la armonía en la congregación y el hogar.</strong>",
-        "deepAnswer": "Según 1 Corintios 11:3, <strong>Jehová estableció una cadena de autoridad perfecta que abarca a toda su creación inteligente: la cabeza de Cristo es Dios, la cabeza del varón es Cristo, y la cabeza de la mujer es el varón.</strong> Esta estructura no busca la dominación egoísta, sino el orden teocrático. <strong>Al seguir esta guía divina, se cumple el propósito de que \"todas las cosas se hagan de manera digna y ordenada\" (1 Cor. 14:40), evitando la confusión y promoviendo un ambiente seguro de amor y paz.</strong>",
-        "shortAnswer": "El principio de autoridad garantiza el orden, la paz y la unidad bajo la amorosa dirección de Jehová."
+        "subtitle": "El principio de autoridad",
+        "directAnswer": "Se estableció por orden de Jehová, teniendo como objetivo **mantener el orden, la paz y el buen funcionamiento de la congregación y de la familia (1 Cor. 14:40)**.",
+        "deepAnswer": "1 Corintios 11:3 describe la cadena de autoridad teocrática: Dios es la cabeza de Cristo, Cristo es la cabeza del varón y el varón es la cabeza de la mujer. **Este principio no rebaja a nadie, pues incluso Cristo se somete a Jehová**. Su objetivo es evitar la confusión, asegurando que todas las decisiones se tomen de forma organizada, con amor y en armonía con el orden divino.",
+        "shortAnswer": "Establecido por Jehová para mantener el orden, la paz y la armonía en la congregación y el hogar."
       },
       {
         "id": "6A_q10",
-        "question": "¿Cómo se sentía Jesús al tener que someterse a la autoridad de Jehová?",
+        "question": "¿Cómo se sentía Jesús al tener que someterse a la autoridad de Jehová? (Juan 5:30; 8:38, 39; Filip. 2:5-8).",
         "references": "Juan 5:30; 8:38, 39; Filip. 2:5-8",
-        "directAnswer": "<strong>Jesús se sentía profundamente feliz y honrado de someterse a la autoridad de su Padre, encontrando un gran deleite en cumplir la voluntad divina en todo momento.</strong>",
-        "deepAnswer": "<strong>Para Jesús, someterse a Jehová nunca fue una carga pesada; al contrario, era su alimento y su mayor gozo (Juan 5:30).</strong> Él imitó a su Padre a la perfección y declaró que siempre hacía lo que a él le agradaba (Juan 8:29, 38). Como señala Filipenses 2:5-8, <strong>demostró una actitud mental humilde al despojarse voluntariamente de su alta posición celestial para asumir la forma de un esclavo, siendo obediente hasta la muerte y dejándonos el ejemplo supremo de sumisión leal.</strong>",
-        "shortAnswer": "Jesús demostró que someterse con humildad a la autoridad divina es una fuente de inmenso gozo."
+        "directAnswer": "Jesús se sentía **feliz y en total paz, pues consideraba un honor obedecer a su Padre y hacer su voluntad en todo momento**.",
+        "deepAnswer": "Jesús demostró que someterse a la autoridad no es humillante. En Juan 5:30 dijo que no buscaba su propia voluntad, sino la del Padre. Filipenses 2:5-8 destaca que, a pesar de su posición excelsa, **se humilló a sí mismo voluntariamente y fue obediente hasta la muerte**. Esta sumisión amorosa le dio un profundo gozo y resultó en su ensalzamiento supremo por parte de Dios.",
+        "shortAnswer": "Feliz y honrado de obedecer de corazón a su Padre en todo aspecto."
       },
       {
         "id": "6A_q11",
-        "question": "¿Cómo indica Gálatas 3:26-28 que Dios no tenía prejuicios cuando estableció el principio de autoridad? ¿Por qué no rebaja a la mujer que el hombre ocupe la posición de cabeza?",
-        "references": "",
-        "directAnswer": "<strong>Gálatas 3:26-28 muestra que Dios no tiene prejuicios porque, en sentido espiritual y en su posición ante él, todos los cristianos tienen el mismo valor y dignidad, sin importar su género o condición.</strong>",
-        "deepAnswer": "El texto de Gálatas 3:26-28 deja claro que <strong>ante Jehová no existen distinciones de rango espiritual basadas en el género o el origen social.</strong> Todos los cristianos bautizados \"son uno en unión con Cristo Jesús\" y tienen la misma herencia celestial. Esto demuestra que <strong>el principio de autoridad no se basa en una supuesta superioridad del hombre sobre la mujer, sino en una sabia distribución de funciones necesarias para el orden de la familia y la congregación, manteniendo intacta la igualdad de valor que ambos sexos tienen para Dios.</strong>",
-        "shortAnswer": "A los ojos de Jehová, hombres y mujeres tienen exactamente el mismo valor espiritual y la misma dignidad."
+        "question": "¿Cómo indica Gálatas 3:26-28 que Dios no tenía prejuicios cuando estableció el principio de autoridad?",
+        "references": "Gál. 3:26-28",
+        "directAnswer": "Lo indica al mostrar que **en sentido espiritual y ante Dios, todos los cristianos tienen el mismo valor y son iguales en su unión con Cristo**.",
+        "deepAnswer": "Gálatas 3:28 afirma que 'no hay judío ni griego, no hay esclavo ni libre, no hay varón ni mujer; porque todos ustedes son una persona en unión con Cristo Jesús'. Esto demuestra que **el principio de autoridad no se basa en una superioridad moral o intelectual del hombre**, sino en una asignación teocrática de funciones para mantener el orden.",
+        "shortAnswer": "Muestra que ante Jehová no hay favoritismos de género; todos tienen el mismo valor espiritual."
       },
       {
         "id": "6A_q12",
         "question": "¿Por qué no rebaja a la mujer que el hombre ocupe la posición de cabeza?",
         "references": "",
-        "directAnswer": "<strong>No la rebaja porque la sumisión teocrática es una cualidad noble y un arreglo digno que refleja el orden divino, tal como Jesucristo no se siente rebajado al someterse a Jehová.</strong>",
-        "deepAnswer": "<strong>El principio de jefatura no implica superioridad moral o intelectual, sino una división de funciones establecida por Dios.</strong> Puesto que la cabeza de Cristo es Dios (1 Cor. 11:3), y Jesús es glorioso y digno, <strong>el someterse no degrada a nadie; al contrario, ennoblece a quien ejerce la sumisión de buena gana.</strong> La mujer cristiana que respeta la jefatura de su esposo demuestra madurez espiritual, imita el ejemplo de Jesús y contribuye a la paz y prosperidad de su propio hogar.",
-        "shortAnswer": "La sumisión teocrática es una cualidad digna que imita el ejemplo perfecto de Jesucristo."
+        "directAnswer": "No la rebaja porque **Cristo también se somete a Jehová y eso no le quita su inmensa gloria y dignidad**, y la jefatura del hombre debe ejercerse con el mismo amor de Cristo.",
+        "deepAnswer": "Si el Hijo de Dios no se siente rebajado al someterse a su Cabeza, Jehová, la mujer cristiana tampoco debe sentirse así. Además, **el esposo no es un dictador; tiene el mandato de imitar la jefatura amorosa de Jesús**, quien sirvió a los demás con total ternura y dio su vida por la congregación. Ejercida así, la jefatura del esposo protege y dignifica a la esposa.",
+        "shortAnswer": "Porque la sumisión sigue el ejemplo de Cristo y está diseñada para proteger y honrar a la mujer."
       },
       {
         "id": "6A_q13",
-        "question": "¿Por qué no le hace sufrir a la esposa someterse a la autoridad de su esposo cristiano?",
+        "question": "¿Por qué no le hace sufrir a la esposa someterse a la autoridad de su esposo cristiano? (Rom. 12:10).",
         "references": "Rom. 12:10",
-        "directAnswer": "No le hace sufrir porque <strong>el esposo cristiano ejerce su jefatura con amor, empatía y respeto, imitando el trato considerado de Jesucristo hacia la congregación.</strong>",
-        "deepAnswer": "Cuando un esposo obedece las normas de Jehová, no gobierna con dureza, sino que toma la delantera en \"mostrar honra\" a su esposa, como aconseja Romanos 12:10. En un ambiente donde impera el amor fraternal, el respeto mutuo y el cariño entrañable, <strong>la sumisión de la esposa se convierte en una fuente de seguridad y felicidad</strong>. Al sentirse valorada, amada y protegida por un esposo que imita a Cristo, para ella es un deleite cooperar con su jefatura y trabajar juntos en el servicio a Jehová.",
-        "shortAnswer": "El amor y el respeto mutuo de un esposo cristiano hacen que la sumisión sea un deleite y no una carga."
+        "directAnswer": "No le hace sufrir porque **su esposo la trata con el amor de Cristo, tomándola en cuenta y respetándola como coheredera de la vida**.",
+        "deepAnswer": "De acuerdo con Romanos 12:10, los cristianos deben tomar la iniciativa en mostrarse honra unos a otros. Un esposo cristiano espiritual **ejerce su autoridad con empatía, pidiendo su opinión a la esposa, escuchando sus preocupaciones y buscando su bienestar**. Cuando la esposa se siente profundamente amada y respetada, apoyarlo y someterse a su guía es un deleite y no una causa de sufrimiento.",
+        "shortAnswer": "Porque el esposo la trata con honra, amor y consideración, haciendo que la sujeción sea fácil."
       },
       {
         "id": "6A_q14",
-        "question": "¿Qué significan las palabras de 1 Corintios 14:33-35? (1 Tim. 2:12; w12 1/9 pág. 9, recuadro; g 7/10 pág. 29 párrs. 2-4). EXPERIENCIA: Un hombre que trataba mal a su esposa cristiana contó: “Mi esposa me mostraba mucho respeto. Nunca me humilló. Tampoco intentó imponerme sus creencias. Siempre me cuidó con cariño. Si ella tenía que ir a una asamblea, dejaba la comida preparada y la casa limpia. Su actitud fue lo que despertó mi interés por la Biblia. Y, bueno, aquí estoy”. Este es solo un ejemplo más de un hombre que fue ganado “sin una palabra” gracias a la conducta de su esposa.",
-        "references": "",
-        "directAnswer": "<strong>Estas palabras no prohíben que la mujer participe en la predicación</strong>, sino que <strong>regulan el orden y el respeto a la jefatura dentro de la congregación.</strong>",
-        "deepAnswer": "El apóstol Pablo no estaba silenciando a las mujeres en el ministerio, ya que él mismo alabó a muchas que colaboraban en la obra (Rom. 16:1-4). <strong>Estas instrucciones buscan evitar que se cuestionara la autoridad establecida por Jehová durante las reuniones.</strong> <strong>Se enfatiza el orden y el respeto para que 'todo se haga con decencia y por acuerdo', protegiendo así la unidad de la congregación.</strong>",
-        "shortAnswer": "Las instrucciones de Pablo son para mantener el orden teocrático, no para limitar el privilegio de predicar."
+        "question": "¿Qué significan las palabras de 1 Corintios 14:33-35? (1 Tim. 2:12; w12 1/9 pág. 9, recuadro; g 7/10 pág. 29 párrs. 2-4).",
+        "references": "1 Cor. 14:33-35; 1 Tim. 2:12; w12 1/9 pág. 9, recuadro; g 7/10 pág. 29 párrs. 2-4",
+        "subtitle": "EXPERIENCIA: Un hombre que trataba mal a su esposa cristiana contó: “Mi esposa me mostraba mucho respeto. Nunca me humilló. Tampoco intentó imponerme sus creencias. Siempre me cuidó con cariño. Si ella tenía que ir a una asamblea, dejaba la comida preparada y la casa limpia. Su actitud fue lo que despertó mi interés por la Biblia. Y, bueno, aquí estoy”. Este es solo un ejemplo más de un hombre que fue ganado “sin una palabra” gracias a la conducta de su esposa.",
+        "directAnswer": "Significa que **en las reuniones de la congregación, las hermanas no deben asumir la función de enseñar públicamente ni debatir con los que enseñan**, respetando el orden teocrático.",
+        "deepAnswer": "En el siglo primero, en Corinto, había desorden en las reuniones. El apóstol Pablo aclaró que 'Dios no es un Dios de desorden, sino de paz' (1 Cor. 14:33). Al instruir a las mujeres a 'guardar silencio', se refiere a **no interrumpir la enseñanza oficial de la congregación ni cuestionar la autoridad de los maestros nombrados (los ancianos)**. Las mujeres pueden comentar y participar de forma ordenada, pero respetando que la enseñanza pública formal está encomendada a los varones bautizados.",
+        "shortAnswer": "Las hermanas no enseñan públicamente en la congregación ni debaten, respetando el orden y la paz."
       },
       {
         "id": "6A_q15",
-        "question": "¿Qué puede conseguir una cristiana si respeta la autoridad de su esposo no Testigo? (1 Ped. 3:1, 2). Aunque su conducta no dé los resultados que ella desea, ¿por qué puede sentirse satisfecha la esposa que respeta la autoridad de su esposo?",
-        "references": "",
-        "directAnswer": "Al respetar a su esposo, <strong>una cristiana mantiene una buena conciencia</strong> y <strong>puede ganar a su cónyuge para la verdad mediante su conducta ejemplar.</strong>",
-        "deepAnswer": "Aunque el esposo no reaccione de inmediato, <strong>la esposa cristiana está complaciendo a Jehová al mostrar sujeción y una conducta limpia.</strong> Como indica 1 Pedro 3:1, 2, a menudo las palabras no son tan eficaces como el observar de cerca el profundo respeto y la vida intachable de la esposa. Incluso si el esposo no se hace testigo, <strong>ella mantiene su integridad y honra el nombre de Jehová.</strong>",
-        "shortAnswer": "Su conducta ejemplar honra a Jehová y sirve como un poderoso testimonio silencioso para su esposo."
+        "question": "¿Qué puede conseguir una cristiana si respeta la autoridad de su esposo no Testigo? (1 Ped. 3:1, 2).",
+        "references": "1 Ped. 3:1, 2",
+        "directAnswer": "Puede conseguir **ganar a su esposo para la verdad sin decir una palabra, gracias a su conducta casta y respetuosa**.",
+        "deepAnswer": "1 Pedro 3:1, 2 insta a las esposas cristianas a estar sujetas a sus esposos no creyentes. Esto significa que **su conducta amorosa, honrada, paciente y sucia de respetuosa sumisión civil puede conmover el corazón del esposo**. Al ver que su esposa es mejor cónyuge por ser Testigo, muchos esposos se sienten motivados a investigar la Biblia y aceptar el mensaje del Reino.",
+        "shortAnswer": "Ganar a su esposo para la verdad mediante su ejemplo de buena conducta y respeto."
       },
       {
         "id": "6A_q16",
-        "question": "¿Por qué puede sentirse satisfecha la esposa que respeta la autoridad de su esposo?",
+        "question": "Aunque su conducta no dé los resultados que ella desea, ¿por qué puede sentirse satisfecha la esposa que respeta la autoridad de su esposo? (Col. 3:18, 23).",
         "references": "Col. 3:18, 23",
-        "directAnswer": "La esposa puede sentirse satisfecha porque <strong>sabe que, al respetar la autoridad de su esposo, está obedeciendo a Jehová y reflejando su espíritu.</strong>",
-        "deepAnswer": "Colosenses 3:18 y 23 nos recuerdan que la sujeción es 'como es debido en el Señor'. Cuando una hermana realiza sus tareas domésticas y apoya a su cabeza de familia con un espíritu abnegado, <strong>no lo hace solo por el esposo, sino como un servicio sagrado a Jehová.</strong> <strong>Esa conciencia tranquila le proporciona una profunda paz interior y alegría espiritual.</strong>",
-        "shortAnswer": "Su verdadera satisfacción proviene de saber que está agradando al 'Señor' con su actitud sumisa."
+        "directAnswer": "Puede sentirse satisfecha porque **sabe que está agradando a Jehová y que él valora su lealtad al realizar su labor de toda alma para Dios**.",
+        "deepAnswer": "De acuerdo con Colosenses 3:18 y 23, la sumisión y el trabajo del cristiano deben realizarse 'como para Jehová y no para los hombres'. Incluso si el esposo no acepta la verdad, **la esposa tiene la conciencia limpia y goza de la aprobación de Jehová**, quien no olvidará su aguante y amor leal. Su éxito espiritual no depende de la reacción de su esposo, sino de su propia obediencia a Dios.",
+        "shortAnswer": "Porque agrada a Jehová, quien recompensará su lealtad realizada de toda alma para Él."
       },
       {
         "id": "6A_q17",
-        "question": "Además de la autoridad de su esposo, ¿qué otra autoridad debe respetar la mujer cristiana?",
+        "question": "Además de la autoridad de su esposo, ¿qué otra autoridad debe respetar la mujer cristiana? (1 Cor. 14:35; 1 Tim. 2:11-14).",
         "references": "1 Cor. 14:35; 1 Tim. 2:11-14",
-        "directAnswer": "Además de la jefatura de su esposo, <strong>la mujer cristiana debe respetar la autoridad de los varones designados en la congregación.</strong>",
-        "deepAnswer": "Jehová ha establecido un principio de autoridad que incluye el arreglo de la congregación cristiana. Al igual que se sujeta a su cabeza en la familia, <strong>reconoce el papel de los varones que pastorean el rebaño, mostrando respeto por el orden divino y el funcionamiento de la estructura que Dios ha dispuesto para cuidar a sus siervas.</strong>",
-        "shortAnswer": "Ella reconoce con humildad la autoridad teocrática tanto en la familia como en la congregación."
+        "directAnswer": "Debe respetar **la autoridad de los ancianos y superintendentes nombrados en la congregación cristiana**.",
+        "deepAnswer": "El orden de Dios abarca tanto el hogar como la congregación. 1 Timoteo 2:11-14 y 1 Corintios 14:35 indican que la instrucción teocrática formal dentro de la congregación está a cargo de los varones bautizados nombrados. Por lo tanto, **las hermanas muestran su madurez espiritual al cooperar de buena gana con las decisiones de los ancianos** y someterse a su pastoreo.",
+        "shortAnswer": "La autoridad teocrática de los ancianos y siervos nombrados en la congregación."
       },
       {
         "id": "6A_q18",
-        "question": "¿Cuál es la diferencia entre la autoridad de un anciano y la de un cabeza de familia? (w21.02 págs. 15-18 párrs. 8-13). Cuando una hermana se encarga de cuestiones relacionadas con la adoración a Jehová que normalmente atendería su esposo o un varón bautizado, ¿cómo demuestra que respeta el principio de autoridad? (1 Cor. 11:4, 5).",
-        "references": "",
-        "directAnswer": "<strong>La autoridad del cabeza de familia está limitada al círculo familiar</strong>, mientras que <strong>la del anciano se ejerce para cuidar a todo el rebaño de la congregación.</strong>",
-        "deepAnswer": "<strong>La autoridad de un cabeza de familia es una función sagrada delegada directamente por Dios para cuidar a los suyos.</strong> Por otro lado, <strong>los ancianos tienen la responsabilidad de pastorear la congregación y velar por el bienestar espiritual de todos.</strong> Aunque ambos actúan bajo el principio de la jefatura, sus esferas de responsabilidad y autoridad son distintas según el orden teocrático.",
-        "shortAnswer": "El cabeza cuida a su familia, mientras que los ancianos cuidan a toda la congregación."
+        "question": "¿Cuál es la diferencia entre la autoridad de un anciano y la de un cabeza de familia? (w21.02 págs. 15-18 párrs. 8-13).",
+        "references": "w21.02 págs. 15-18 párrs. 8-13",
+        "directAnswer": "El cabeza de familia tiene **autoridad para fijar normas domésticas y disciplinar a sus hijos**, mientras que el anciano tiene **autoridad espiritual congregacional limitada, pero no puede meterse en la vida privada familiar**.",
+        "deepAnswer": "Según *La Atalaya* (w21.02 págs. 15-18), Jehová ha delimitado claramente estas funciones: <br>• **El cabeza de familia** toma decisiones sobre el horario del hogar, el entretenimiento y los gastos, y tiene el deber de educar y disciplinar a sus hijos. Los ancianos no tienen derecho a fijar estas reglas. <br>• **Los ancianos** tienen la responsabilidad de cuidar el bienestar espiritual de la congregación, corregir doctrinalmente y tratar asuntos judiciales graves. No pueden gobernar las familias con normas personales, sino aconsejar con la Biblia.",
+        "shortAnswer": "El cabeza rige el hogar y educa; el anciano pastorea espiritualmente la congregación sin intervenir en lo doméstico."
       },
       {
         "id": "6A_q19",
+        "question": "Cuando una hermana se encarga de cuestiones relacionadas con la adoración a Jehová que normalmente atendería su esposo o un varón bautizado, ¿cómo demuestra que respeta el principio de autoridad? (1 Cor. 11:4, 5).",
+        "references": "1 Cor. 11:4, 5",
+        "directAnswer": "Demuestra respeto al **cubrirse la cabeza con una prenda adecuada, reconociendo de forma visible que está actuando de forma provisional en el lugar de un varón**.",
+        "deepAnswer": "1 Corintios 11:4, 5 enseña que la mujer que profetiza o realiza una labor de enseñanza en presencia de su esposo o de un varón bautizado debe cubrirse la cabeza. **Al ponerse una cobertura, la hermana envía un mensaje de profundo respeto al orden de jefatura divino**, indicando que es consciente de que está ejerciendo una función que de otro modo correspondería a un hermano.",
+        "shortAnswer": "Cubriéndose la cabeza para mostrar respeto al orden de jefatura establecido por Jehová."
+      },
+      {
+        "id": "6A_q20",
         "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza en cada una de estas situaciones (w21.02 pág. 16, recuadro; w15 15/2 pág. 30):",
-        "references": "w09 15/11 pág. 13",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": "",
+        "references": "w21.02 pág. 16, recuadro; w15 15/2 pág. 30",
+        "directAnswer": "La cristiana debe cubrirse cuando **realiza una actividad de enseñanza o adoración organizada en presencia de su esposo o de un hermano bautizado, o al dirigir una función congregacional**.",
+        "deepAnswer": "La aplicación práctica de 1 Corintios 11:2-16 exige discernir la presencia del esposo o de hermanos bautizados, y si la reunión es organizada por la congregación. La cobertura de la cabeza sirve como señal de respeto teocrático, permitiendo que la hermana sirva con una conciencia limpia y dé un testimonio excelente ante los ángeles y la congregación.",
+        "shortAnswer": "La cobertura se usa según la presencia de varones dedicados, el tipo de actividad teocrática y el orden de la congregación.",
         "subQuestions": [
           {
-            "id": "6A_q19_a",
-            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando ora en voz alta en su nombre y en el de sus hijos no bautizados delante de su esposo no creyente. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-            "references": "w09 15/11 pág. 13",
-            "directAnswer": "<strong>No es necesario que la cristiana se cubra la cabeza en esta situación</strong>, ya que <strong>ella está orando ante su familia en el marco de sus responsabilidades naturales como madre, y el esposo no es un siervo de Jehová que lidere el culto familiar.</strong>",
-            "deepAnswer": "La cristiana tiene la responsabilidad de educar a sus hijos en el camino de Jehová. <strong>Al orar con sus hijos no bautizados, ejerce su papel materno.</strong> Aunque su esposo no sea creyente, esto no invalida el papel de la madre ante sus hijos. <strong>Como no está realizando una labor que le corresponda a un varón dedicado en la congregación, no se requiere la cobertura.</strong>",
-            "shortAnswer": "No es necesario, pues ejerce su papel como madre ante sus hijos menores."
+            "id": "6A_q20_a",
+            "question": "Ora en voz alta en su nombre y en el de sus hijos no bautizados delante de su esposo no creyente.",
+            "directAnswer": "Tiene que cubrirse porque su esposo está presente.",
+            "deepAnswer": "Aunque su esposo no sea Testigo de Jehová, él sigue siendo el cabeza de la familia por disposición divina. Por lo tanto, al orar en su presencia en el hogar, la hermana debe cubrirse en señal de respeto a la jefatura de su esposo.",
+            "shortAnswer": "Tiene que cubrirse porque su esposo está presente."
           },
           {
-            "id": "6A_q19_b",
-            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando le da clases de la Biblia a su hijo bautizado cuando no está presente su esposo. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-            "references": "w09 15/11 pág. 13",
-            "directAnswer": "<strong>No es necesario que la hermana se cubra la cabeza</strong>, ya que <strong>es la madre instruyendo a su propio hijo, una labor que le corresponde por su papel parental.</strong>",
-            "deepAnswer": "El principio de jefatura en la congregación no anula la autoridad de los padres sobre sus hijos. <strong>Cuando una madre enseña a su hijo, está cumpliendo el mandato bíblico de instruir a su descendencia.</strong> Aunque el hijo esté bautizado, <strong>la relación sigue siendo la de madre e hijo, por lo tanto, no se requiere el uso de la cobertura.</strong>",
-            "shortAnswer": "No es necesario, ya que la madre tiene la responsabilidad dada por Dios de instruir a sus hijos."
+            "id": "6A_q20_b",
+            "question": "Le da clases de la Biblia a su hijo bautizado cuando no está presente su esposo.",
+            "directAnswer": "Tiene que cubrirse, pues su hijo está bautizado y debería enseñarle un varón que estuviera bautizado.",
+            "deepAnswer": "Aunque sea la madre, al enseñar formalmente de la Biblia a un varón bautizado de la congregación (su propio hijo), debe cubrirse porque el hijo ya es un miembro dedicado a Jehová y la instrucción formal correspondería teóricamente a un varón bautizado.",
+            "shortAnswer": "Tiene que cubrirse porque enseña a un varón bautizado."
           },
           {
-            "id": "6A_q19_c",
-            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando predica de casa en casa y hace revisitas acompañada de un hermano bautizado. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-            "references": "w09 15/11 pág. 13",
-            "directAnswer": "<strong>No es necesario que se cubra la cabeza.</strong> <strong>La predicación es una actividad en la que tanto varones como mujeres participan por igual, y la presencia del hermano no cambia la naturaleza de la actividad ministerial.</strong>",
-            "deepAnswer": "Al predicar de casa en casa, la hermana está realizando el ministerio cristiano junto a un hermano. En esta labor no se está realizando una función de jefatura, sino un servicio compartido. Por lo tanto, <strong>no se aplica el principio del uso de cobertura que se reserva para situaciones donde la mujer toma el lugar que le correspondería a un varón en la congregación.</strong>",
-            "shortAnswer": "No es necesario, ya que ambos están realizando la labor de predicar el Reino."
+            "id": "6A_q20_c",
+            "question": "Predica de casa en casa y hace revisitas acompañada de un hermano bautizado.",
+            "directAnswer": "No tiene que cubrirse, pues tanto los hombres como las mujeres tienen la responsabilidad de predicar y enseñar a los no creyentes.",
+            "deepAnswer": "La predicación pública y las revisitas a personas no creyentes es una labor asignada a toda la congregación. Trabajar junto a un hermano en esta faceta no implica que ella esté bajo la jefatura de enseñanza del hermano en la congregación, por lo que no requiere cobertura.",
+            "shortAnswer": "No tiene que cubrirse al predicar a los no creyentes junto a un hermano."
           },
           {
-            "id": "6A_q19_d",
-            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando dirige un curso bíblico ya establecido en presencia de un hermano bautizado. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-            "references": "w09 15/11 pág. 13",
-            "directAnswer": "Sí, <strong>la hermana debe cubrirse la cabeza al dirigir el curso bíblico en presencia de un varón bautizado.</strong>",
-            "deepAnswer": "Al dirigir un curso bíblico mientras un varón bautizado está presente, la hermana <strong>está asumiendo una responsabilidad de enseñanza que normalmente recaería en el hermano.</strong> <strong>El uso de la cobertura reconoce simbólicamente que ella realiza esta función debido a una circunstancia particular, manteniendo el respeto al principio de jefatura divina.</strong>",
-            "shortAnswer": "Sí, para demostrar respeto por el orden de jefatura, ya que un hermano bautizado está presente."
+            "id": "6A_q20_d",
+            "question": "Dirige un curso bíblico ya establecido en presencia de un hermano bautizado.",
+            "directAnswer": "Tiene que cubrirse porque está presente un hermano bautizado. Él debe hacer la oración.",
+            "deepAnswer": "Si un hermano bautizado acompaña a una hermana a un curso bíblico establecido y ella es quien lo dirige, ella debe cubrirse la cabeza por estar enseñando en presencia de un varón dedicado. Además, por respeto a su jefatura, el hermano es quien debe realizar la oración del estudio.",
+            "shortAnswer": "Tiene que cubrirse por dirigir un curso establecido en presencia de un hermano."
           },
           {
-            "id": "6A_q19_e",
-            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando dirige una reunión para el servicio del campo que organiza la congregación. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-            "references": "w09 15/11 pág. 13",
-            "directAnswer": "Sí, <strong>debe cubrirse la cabeza, ya que está realizando una labor que le corresponde organizar y dirigir a un varón bautizado.</strong>",
-            "deepAnswer": "Dirigir una reunión para el servicio del campo es una función teocrática de supervisión que normalmente realiza un varón. Si no hay varones disponibles y la hermana es asignada para dirigirla, <strong>debe usar una cobertura para indicar que está cumpliendo temporalmente una función que, bajo circunstancias normales, sería responsabilidad de un varón.</strong>",
-            "shortAnswer": "Sí, porque dirige una actividad que es responsabilidad habitual de los varones bautizados."
+            "id": "6A_q20_e",
+            "question": "Dirige una reunión para el servicio del campo que organiza la congregación.",
+            "directAnswer": "Tiene que cubrirse porque es una reunión organizada por la congregación.",
+            "deepAnswer": "La reunión para el servicio del campo es una extensión de las reuniones organizadas por la congregación. Si no hay ningún varón bautizado disponible para dirigirla y se asigna a una hermana, ella debe cubrirse la cabeza en reconocimiento de esta función congregacional.",
+            "shortAnswer": "Tiene que cubrirse porque dirige una reunión de la congregación."
           },
           {
-            "id": "6A_q19_f",
-            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando interpreta oralmente un discurso bíblico o lee en público los párrafos de una publicación durante una reunión de la congregación. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-            "references": "w09 15/11 pág. 13",
-            "directAnswer": "Sí, <strong>debe cubrirse la cabeza, ya que está ayudando a llevar a cabo la enseñanza en la congregación, una labor que corresponde a los varones.</strong>",
-            "deepAnswer": "Al actuar como intérprete o lectora durante una reunión, la hermana está facilitando la enseñanza directa a la congregación. Como esta función de enseñanza es una responsabilidad delegada a los varones, <strong>el uso de la cobertura actúa como una señal de sujeción al orden de jefatura establecido por Dios en la congregación.</strong>",
-            "shortAnswer": "Sí, ya que realiza una función de enseñanza que le corresponde a un varón en la reunión."
+            "id": "6A_q20_f",
+            "question": "Interpreta oralmente un discurso bíblico o lee en público los párrafos de una publicación durante una reunión de la congregación.",
+            "directAnswer": "No tiene que cubrirse porque no es ella la que preside.",
+            "deepAnswer": "La hermana que simplemente lee los párrafos o traduce un discurso no está originando la enseñanza ni presidiendo la reunión. Ella está actuando bajo la dirección del hermano bautizado que dirige la reunión, por lo que no necesita cobertura.",
+            "shortAnswer": "No tiene que cubrirse porque no está presidiendo ni enseñando ideas propias."
           },
           {
-            "id": "6A_q19_g",
-            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando interpreta discursos bíblicos al lenguaje de señas en las reuniones o asambleas cristianas. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-            "references": "w09 15/11 pág. 13",
-            "directAnswer": "Sí, <strong>la hermana debe cubrirse la cabeza al interpretar discursos, ya que está participando activamente en la enseñanza pública de la congregación.</strong>",
-            "deepAnswer": "La interpretación al lenguaje de señas en este contexto es una extensión de la enseñanza del discurso. Dado que el orador es un varón y la hermana está facilitando su mensaje para los sordos, ella se convierte en parte del equipo de enseñanza. <strong>Para mantener el orden teocrático y el respeto a la jefatura, es necesario el uso de la cobertura.</strong>",
-            "shortAnswer": "Sí, para demostrar respeto a la jefatura mientras actúa como parte del proceso de enseñanza."
+            "id": "6A_q20_g",
+            "question": "Interpreta discursos bíblicos al lenguaje de señas en las reuniones o asambleas cristianas.",
+            "directAnswer": "Parece necesario que se cubra debido al importante papel del intérprete (w09 15/11 págs. 12, 13).",
+            "deepAnswer": "Al interpretar la enseñanza teocrática al lenguaje de señas en la plataforma, la hermana capta la atención del auditorio de sordos y transmite el mensaje directamente de forma visual. *La Atalaya* explica que, debido a esta visibilidad y rol de transmisión directa, es apropiado que se cubra.",
+            "shortAnswer": "Debe cubrirse debido a la gran visibilidad e importancia de su rol de intérprete."
           },
           {
-            "id": "6A_q19_h",
-            "question": "Lee 1 Corintios 11:2-16. Explica las razones que hay para que una cristiana se cubra o no la cabeza cuando interpreta al lenguaje de señas asignaciones de la reunión de entre semana, el Estudio de La Atalaya y las canciones del Reino. (w21.02 pág. 16, recuadro; w15 15/2 pág. 30)",
-            "references": "w09 15/11 pág. 13",
-            "directAnswer": "Sí, <strong>debe cubrirse la cabeza al interpretar las asignaciones de la reunión y el Estudio de La Atalaya.</strong> <strong>No es necesario al interpretar las canciones.</strong>",
-            "deepAnswer": "<strong>La interpretación de las partes de enseñanza, como el Estudio de La Atalaya o las asignaciones de la reunión de entre semana, requiere que la hermana se cubra la cabeza porque está participando en la enseñanza formal.</strong> Sin embargo, al interpretar las canciones, <strong>la función es de acompañamiento en la adoración, lo cual no constituye una función de enseñanza formal sobre la congregación.</strong>",
-            "shortAnswer": "Sí para las partes de enseñanza, pero no es necesario para la interpretación de las canciones."
+            "id": "6A_q20_h",
+            "question": "Interpreta al lenguaje de señas asignaciones de la reunión de entre semana, el Estudio de La Atalaya y las canciones del Reino.",
+            "directAnswer": "“Tal vez le resulte práctico llevar la cabeza cubierta durante toda la reunión” (w09 15/11 pág. 13).",
+            "deepAnswer": "Dado que las asignaciones y el Estudio de La Atalaya implican la transmisión visual de enseñanza teocrática directa en la congregación, y las canciones se intercalan, las pautas teocráticas sugieren de forma práctica mantener la cabeza cubierta durante toda la sesión para evitar estar poniéndose y quitándose la cobertura constantemente.",
+            "shortAnswer": "Es práctico y recomendable llevarla cubierta durante toda la reunión."
           }
         ]
       },
       {
-        "id": "6A_q20",
-        "question": "¿Qué motivos puede tener una hermana para cubrirse la cabeza en situaciones en las que en realidad no sea necesario?",
-        "references": "1 Tim. 1:5",
-        "directAnswer": "<strong>Una hermana puede decidir cubrirse en otras situaciones debido a su conciencia, impulsada por un amor sincero y el deseo de no hacer tropezar a nadie.</strong>",
-        "deepAnswer": "Aunque en ciertas situaciones no sea un requisito estricto, una hermana con una 'conciencia limpia y fe sin hipocresía' (1 Tim. 1:5) <strong>podría optar por cubrirse si siente que eso le ayuda a mantener una actitud más respetuosa o si desea ser precavida para no causar inquietud en los demás.</strong> Sus motivos son siempre el amor a Jehová y la humildad.",
-        "shortAnswer": "Su motivo principal es una conciencia limpia y un profundo deseo de mostrar respeto y consideración."
-      },
-      {
         "id": "6A_q21",
-        "question": "¿Qué indica el principio de Hechos 5:29 sobre la sujeción de la esposa a la autoridad del esposo? (ia pág. 80 párr. 16). Privilegios y responsabilidades de las cristianas.",
-        "references": "",
-        "directAnswer": "El principio de Hechos 5:29 establece que, <strong>aunque la esposa debe sujetarse a su esposo, su lealtad primaria y absoluta es siempre hacia Jehová.</strong>",
-        "deepAnswer": "Si un esposo le pidiera a su esposa que viole una ley divina, <strong>ella debe recordar que 'tenemos que obedecer a Dios como gobernante más bien que a los hombres'.</strong> <strong>Esta sujeción relativa permite a la cristiana mantenerse firme en su adoración pura mientras sigue tratando a su esposo con el debido respeto, sin ceder ante exigencias que contradigan la voluntad de Jehová.</strong>",
-        "shortAnswer": "La sujeción de la esposa tiene un límite: siempre debe obedecer a Jehová primero."
+        "question": "¿Qué motivos puede tener una hermana para cubrirse la cabeza en situaciones en las que en realidad no sea necesario? (1 Tim. 1:5).",
+        "references": "1 Tim. 1:5",
+        "subtitle": "Las hermanas pueden cubrirse la cabeza con un sombrero, una pañoleta, un chal o una prenda similar que sea digna.",
+        "directAnswer": "Puede hacerlo por **respeto a su propia conciencia, para no dar tropiezo a otros o para demostrar un amor sincero que nace de un corazón limpio**.",
+        "deepAnswer": "1 Timoteo 1:5 enseña que el objetivo de este mandato es 'el amor que nace de un corazón limpio, de una buena conciencia y de una fe sincera'. Si una hermana tiene dudas o prefiere cubrirse para estar totalmente segura y mantener su paz mental, Jehová acepta con gusto este acto de devoción voluntaria, demostrando su deseo sincero de no violar la jefatura.",
+        "shortAnswer": "Por motivos de conciencia personal y para asegurar su total paz mental ante Jehová."
       },
       {
         "id": "6A_q22",
-        "question": "Según Proverbios 31:1, ¿qué importante responsabilidad tienen las mujeres cristianas?",
-        "references": "",
-        "directAnswer": "<strong>La mujer cristiana tiene la importante responsabilidad de ser una colaboradora capaz y una influencia positiva en su familia y entorno.</strong>",
-        "deepAnswer": "Basado en Proverbios 31, se destaca que <strong>una mujer trabajadora, sabia y temerosa de Jehová es una bendición incalculable.</strong> Su labor no solo sostiene el hogar, sino que <strong>su conducta y palabras de enseñanza dejan una huella profunda en los hijos y en todos aquellos que se benefician de su espiritualidad y dedicación.</strong>",
-        "shortAnswer": "Tiene la responsabilidad de ser una guía sabia y una fuente de fortaleza espiritual para su familia."
+        "question": "¿Qué indica el principio de Hechos 5:29 sobre la sujeción de la esposa a la autoridad del esposo? (ia pág. 80 párr. 16).",
+        "references": "Hechos 5:29; ia pág. 80 párr. 16",
+        "directAnswer": "Indica que **la sujeción de la esposa a su esposo es relativa, y si el esposo le ordena violar una ley de Dios, ella debe 'obedecer a Dios como gobernante' antes que a él**.",
+        "deepAnswer": "Según el libro *Imite su fe* (ia pág. 80), aunque la esposa debe respeto y sumisión a su esposo, esta autoridad está bajo la jefatura suprema de Jehová. Si un esposo (sea creyente o no) le exige cometer un pecado, dejar de predicar o abandonar su adoración, **ella debe mantenerse firme y leal a Dios**, aplicando Hechos 5:29 con apacibilidad pero con absoluta resolución.",
+        "shortAnswer": "Que la sujeción al esposo tiene límites: si choca con la ley de Jehová, se obedece primero a Dios."
       },
       {
         "id": "6A_q23",
-        "question": "De acuerdo con Tito 2:3-5, ¿cómo pueden ayudar en la congregación las mujeres sensatas?",
-        "references": "",
-        "directAnswer": "<strong>Las mujeres sensatas ayudan en la congregación siendo maestras de lo que es bueno y ayudando a las hermanas más jóvenes a amar a sus familias y a Jehová.</strong>",
-        "deepAnswer": "Según Tito 2:3-5, <strong>las hermanas con experiencia tienen el hermoso privilegio de guiar a las más jóvenes mediante su ejemplo y consejos cariñosos.</strong> <strong>Al fomentar cualidades como el amor, la bondad y la sumisión, fortalecen a toda la congregación, creando un ambiente de madurez y devoción piadosa que alegra el corazón de Jehová.</strong>",
-        "shortAnswer": "Aportan estabilidad y madurez al aconsejar y capacitar a las hermanas más jóvenes."
+        "question": "Según Proverbios 31:1, ¿qué importante responsabilidad tienen las mujeres cristianas?",
+        "references": "Prov. 31:1",
+        "subtitle": "Privilegios y responsabilidades de las cristianas",
+        "directAnswer": "Tienen la responsabilidad de **ser maestras y dar instrucción valiosa, especialmente en el hogar al educar a sus hijos en el camino de Jehová**.",
+        "deepAnswer": "Proverbios 31:1 menciona que el rey Lemuel recibió un mensaje de peso de su madre: 'la corrección que su madre le dio'. Esto demuestra que **la madre tiene una gran autoridad y responsabilidad delegada por Dios para instruir a sus hijos** en los caminos de la verdad, moldeando su personalidad moral y espiritual desde la infancia.",
+        "shortAnswer": "Instruir a sus hijos y ser maestras de lo que es bueno en el ámbito familiar."
       },
       {
         "id": "6A_q24",
-        "question": "¿Cómo pueden las mujeres cristianas demostrar que son equilibradas en su forma de vestir y de arreglarse? (1 Tim. 2:9, 10; 1 Ped. 3:3, 4). ¿Por qué es esto tan importante?",
-        "references": "",
-        "directAnswer": "<strong>Las mujeres cristianas demuestran equilibrio en su forma de vestir y arreglarse al escoger atuendos modestos, limpios y que reflejen buen juicio y sensatez.</strong>",
-        "deepAnswer": "<strong>El equilibrio se demuestra al escoger ropa y un arreglo personal que sean modestos, limpios y que reflejen <em>buen juicio y sensatez</em></strong>, tal como se exhorta en las Escrituras. Esto implica evitar atuendos provocativos, extravagantes o desaliñados, buscando honrar a Jehová y no desviar la atención del mensaje del Reino. <strong>Nuestro aspecto debe realzar nuestra condición de siervas de Dios y ser apropiado para el servicio sagrado.</strong>",
-        "shortAnswer": "Modestia, buen juicio y un aspecto que honre a Jehová."
+        "question": "De acuerdo con Tito 2:3-5, ¿cómo pueden ayudar en la congregación las mujeres sensatas?",
+        "references": "Tito 2:3-5",
+        "directAnswer": "Ayudan al **ser maestras de lo que es bueno, dando un excelente ejemplo de conducta y aconsejando con cariño a las mujeres jóvenes**.",
+        "deepAnswer": "Tito 2:3-5 encomienda a las hermanas maduras ('las mujeres mayores') la labor de enseñar a las más jóvenes a amar a sus esposos y a sus hijos, a ser sensatas, castas, trabajadoras en el hogar y buenas. **Este consejo y apoyo mutuo fortalece la espiritualidad y unidad de las familias en la congregación**, evitando que se hable mal de la Palabra de Dios.",
+        "shortAnswer": "Siendo ejemplos de conducta santa y aconsejando con madurez y cariño a las hermanas jóvenes."
       },
       {
         "id": "6A_q25",
-        "question": "¿Por qué es esto tan importante?",
-        "references": "",
-        "directAnswer": "Es importante porque <strong>nuestro arreglo personal refleja nuestra condición de siervas de Dios y la santidad de nuestro mensaje, honrando a Jehová y evitando distracciones para los demás.</strong>",
-        "deepAnswer": "Como leemos en 1 Timoteo 2:9, 10 y 1 Pedro 3:3, 4, <strong>la vestimenta y el arreglo personal modestos son vitales porque demuestran <em>reverencia a Dios y respeto por los demás</em>.</strong> Esto incluye un \"espíritu tranquilo y apacible\" que es de gran valor a los ojos de Dios. Un aspecto equilibrado evita la ostentación y nos permite representar con dignidad el mensaje del Reino, atrayendo a las personas a la verdad en lugar de distraerlas con una apariencia llamativa o inapropiada.",
-        "shortAnswer": "Honra a Jehová y apoya la predicación del Reino."
+        "question": "¿Cómo pueden las mujeres cristianas demostrar que son equilibradas en su forma de vestir y de arreglarse? (1 Tim. 2:9, 10; 1 Ped. 3:3, 4). ¿Por qué es esto tan importante?",
+        "references": "1 Tim. 2:9, 10; 1 Ped. 3:3, 4",
+        "directAnswer": "Lo demuestran al **vestir con ropa apropiada, modestia y buen juicio, priorizando la belleza interior del corazón sobre los adornos ostentosos o modas inmorales**.",
+        "deepAnswer": "De acuerdo con 1 Timoteo 2:9 y 1 Pedro 3:3, 4, la belleza de la cristiana no debe depender de peinados exagerados o ropa lujosa, sino del 'adorno incorruptible de un espíritu apacible y apacible, que es de gran valor a los ojos de Dios'. Esto es vital porque **nuestra apariencia externa debe reflejar devoción piadosa**, sin distraer de las buenas noticias ni dar motivos de tropiezo a las personas en el territorio.",
+        "shortAnswer": "Vistiendo con modestia y buen juicio, reflejando su belleza espiritual interior ante Dios y los hombres."
       },
       {
         "id": "6A_q26",
-        "question": "¿En qué faceta del servicio a Jehová han hecho las mujeres una gran contribución?",
-        "references": "Hech. 2:17, 18; 18:26; g 7/10 págs. 28, 29",
-        "directAnswer": "<strong>Las mujeres cristianas han hecho una contribución fundamental en la faceta de la predicación de las buenas nuevas y la enseñanza de la verdad.</strong>",
-        "deepAnswer": "Desde los tiempos bíblicos, <strong>las mujeres han sido instrumentos valiosos en la proclamación del mensaje del Reino</strong>, tal como lo predijo Joel y lo vemos en Hechos 2:17, 18. Hermanas como Priscila, mencionada en Hechos 18:26, \"explicaron más exactamente el camino de Dios\" a otros. <strong>Su celo y fidelidad en la obra de predicar y enseñar han permitido que incontables personas conozcan a Jehová, contribuyendo de manera significativa a que las buenas nuevas lleguen a los confines de la Tierra.</strong>",
-        "shortAnswer": "La predicación y la enseñanza del Reino."
+        "question": "¿Qué lección enseña a las cristianas Lucas 10:42?",
+        "references": "Luc. 10:42",
+        "directAnswer": "Enseña que **escuchar la instrucción espiritual de Jesús (la 'mejor parte') debe ser prioritario frente a los afanes domésticos cotidianos**.",
+        "deepAnswer": "En Lucas 10:38-42, Jesús elogió a María por sentarse a escuchar sus palabras, mientras Marta se afanaba con los quehaceres. Jesús le recordó a Marta que 'pocas cosas son necesarias, o solo una'. La lección es que **las tareas del hogar son importantes, pero no deben robarnos el tiempo para el estudio personal, las reuniones o el ministerio**, que nos dan verdadero alimento espiritual eterno.",
+        "shortAnswer": "Dar prioridad a la instrucción espiritual y el estudio de la Biblia por encima de las tareas del hogar."
       },
       {
         "id": "6A_q27",
-        "question": "¿Por qué es tan importante que participen en esta labor?",
-        "references": "Rom. 10:13, 14; 1 Cor. 9:16",
-        "directAnswer": "Su participación es crucial porque <strong>la comisión de predicar es para todos los cristianos</strong> y <strong>es el medio por el cual las personas pueden invocar el nombre de Jehová para salvación.</strong>",
-        "deepAnswer": "Es de suma importancia porque, como nos recuerda Romanos 10:13, 14, \"¿cómo invocarán a aquel en quien no han puesto fe? ¿Cómo, a su vez, pondrán fe en aquel de quien no han oído? ¿Cómo, a su vez, oirán sin alguien que predique?\". 1 Corintios 9:16 destaca que <strong>es una \"necesidad\" para los cristianos.</strong> <strong>La participación de las hermanas amplifica el alcance del mensaje y cumple el propósito divino de dar testimonio cabal antes del fin, <em>demostrando su amor a Dios y al prójimo</em>.</strong>",
-        "shortAnswer": "Es vital para la salvación de otros y una necesidad cristiana."
+        "question": "¿En qué faceta del servicio a Jehová han hecho las mujeres una gran contribución? (Hech. 2:17, 18; 18:26; g 7/10 págs. 28, 29).",
+        "references": "Hech. 2:17, 18; 18:26; g 7/10 págs. 28, 29",
+        "directAnswer": "Han hecho una contribución extraordinaria en **la obra de predicar públicamente y hacer discípulos teocráticos (Hech. 2:17, 18)**.",
+        "deepAnswer": "Hechos 2:17, 18 profetizaba que en los últimos días 'sus hijos y sus hijas profetizarán'. En la historia teocrática y hoy en día, **las hermanas han sido pioneras en abrir territorios, iniciar estudios bíblicos y colaborar estrechamente en la enseñanza** (como Priscila en Hechos 18:26, quien ayudó a corregir la instrucción del elocuente Apolo). Su labor es indispensable para el crecimiento de la organización de Jehová.",
+        "shortAnswer": "En el ministerio de predicación de casa en casa y en la enseñanza de la verdad a otros."
       },
       {
         "id": "6A_q28",
-        "question": "¿Qué se puede hacer cuando no hay hermanos capacitados que se encarguen de las reuniones para el servicio del campo entre semana?",
-        "references": "",
-        "directAnswer": "Cuando no hay hermanos capacitados disponibles, <strong>los ancianos pueden pedir a una hermana que dirija la reunión para el servicio del campo.</strong>",
-        "deepAnswer": "En circunstancias donde no hay hermanos capacitados para dirigir las reuniones para el servicio del campo, <strong>los ancianos pueden delegar esta responsabilidad a una hermana.</strong> Es una disposición práctica que asegura que la congregación pueda seguir organizándose para la predicación. Sin embargo, <strong>ella <em>mantendrá la debida sujeción teocrática</em>, lo cual implica que deberá llevar alguna prenda que indique su reconocimiento de la jefatura masculina.</strong>",
-        "shortAnswer": "Una hermana puede dirigir, bajo la dirección de los ancianos."
+        "question": "¿Por qué es tan importante que participen en esta labor? (Rom. 10:13, 14; 1 Cor. 9:16).",
+        "references": "Rom. 10:13, 14; 1 Cor. 9:16",
+        "directAnswer": "Es vital porque **la predicación es el único medio para que las personas invoquen el nombre de Jehová y se salven, y es una obligación sagrada (1 Cor. 9:16)**.",
+        "deepAnswer": "Romanos 10:13, 14 explica que para invocar a Jehová, la gente primero debe oír hablar de él, y esto exige que haya quienes les prediquen. Como cristianas dedicadas, **las hermanas sienten el mismo peso de responsabilidad que Pablo: '¡ay de mí si no anuncio las buenas noticias!'**. Su participación activa en la predicación salva sus propias vidas y las de quienes las escuchan.",
+        "shortAnswer": "Porque predicar es indispensable para salvar vidas y es un mandato ineludible de Dios."
       },
       {
         "id": "6A_q29",
-        "question": "¿Qué instrucciones específicas le podrían dar los ancianos a una hermana?",
+        "question": "¿Qué se puede hacer cuando no hay hermanos capacitados que se encarguen de las reuniones para el servicio del campo entre semana? ¿Qué instrucciones específicas le podrían dar los ancianos a una hermana? (1 Cor. 14:40; km 3/15 págs. 4, 6).",
         "references": "1 Cor. 14:40; km 3/15 págs. 4, 6",
-        "directAnswer": "Los ancianos le instruirían que <strong>mantenga el respeto a la jefatura usando una prenda para la cabeza</strong> y que <strong>dirija la reunión siguiendo el programa y de manera ordenada.</strong>",
-        "deepAnswer": "Siguiendo el principio de 1 Corintios 14:40 de que \"todas las cosas se efectúen decentemente y por arreglo\", los ancianos <strong>instruirían a la hermana sobre la necesidad de usar una cobertura para la cabeza al dirigir una reunión en la que se impartiría instrucción a hombres bautizados en la congregación</strong> (km 3/15 págs. 4, 6). Además, <strong>le indicarían que se ciña al programa de la reunión para el servicio del campo, manteniéndola breve, enfocada en la predicación y con espíritu animador</strong>, sin asumir una función de enseñanza o pastoreo que corresponde a los varones.",
-        "shortAnswer": "Usar prenda para la cabeza y seguir el programa ordenadamente."
+        "directAnswer": "Se puede asignar a una hermana espiritual madura para que la dirija. Los ancianos le indicarán que **debe cubrirse la cabeza, ser breve y hacer una oración respetuosa**.",
+        "deepAnswer": "De acuerdo con las pautas oficiales teocráticas (km 3/15), si no hay hermanos bautizados, una hermana madura y ejemplar puede encargarse de la reunión para el servicio del campo. Los ancianos le darán instrucciones de: 1) **Llevar la cabeza cubierta** mientras dirige la reunión. 2) **Mantener la reunión muy breve (10 a 15 minutos)**. 3) **Hacer la oración ella misma si no hay hermanos bautizados presentes**. Esto asegura que todo se haga de manera digna y ordenada (1 Cor. 14:40).",
+        "shortAnswer": "Asignar a una hermana madura para que la dirija brevemente, con la cabeza cubierta y haciendo ella la oración."
       },
       {
         "id": "6A_q30",
         "question": "¿Qué recompensas reciben las cristianas por su lealtad a Dios?",
         "references": "",
-        "directAnswer": "<strong>Reciben la aprobación de Jehová, la bendición de su espíritu santo, el gozo de servirle fielmente y la esperanza de vida eterna en el Paraíso.</strong>",
-        "deepAnswer": "<strong>Las cristianas leales disfrutan de una relación preciosa con Jehová, su amor y apoyo constantes, y la guía de su espíritu santo.</strong> Experimentan un profundo gozo y satisfacción al saber que están agradando a su Padre celestial y contribuyendo a la santificación de su nombre. Además, <strong>Jehová las recompensa con la valiosa esperanza de la vida eterna en el nuevo mundo</strong>, donde podrán seguir sirviéndole sin imperfecciones, junto a su familia espiritual.",
-        "shortAnswer": "Aprobación divina, gozo y la esperanza de vida eterna."
+        "directAnswer": "Reciben **la profunda amistad y aprobación de Jehová, el respeto y cariño de la congregación, gozo en su ministerio y la promesa de la vida eterna**.",
+        "deepAnswer": "Jehová valora inmensamente la fidelidad de sus hijas. Las recompensa con una conciencia limpia, la felicidad de ver a sus estudiantes progresar y el inestimable consuelo de su espíritu santo. Además, en la congregación, **las hermanas fieles son amadas y respetadas como madres, hermanas e hijas espirituales**, y tienen la maravillosa perspectiva de servir a Jehová por toda la eternidad en el nuevo mundo.",
+        "shortAnswer": "La aprobación y amor de Jehová, el aprecio de los hermanos, y la recompensa de la vida eterna en el Paraíso."
       }
     ],
     "image": "public_preaching.png",
@@ -2574,106 +2572,111 @@ const lessonsData = [
       {
         "id": "6B_q1",
         "question": "¿Cómo defienden los precursores la soberanía de Jehová?",
-        "references": "",
-        "directAnswer": "<strong>Los precursores defienden la soberanía de Jehová al proclamar públicamente Su derecho a gobernar y al vivir en armonía con Sus normas perfectas.</strong>",
-        "deepAnswer": "Los precursores son celosos defensores del Reino de Dios, el medio por el cual Jehová ejercerá su soberanía de manera indiscutible. <strong>Al dedicar su tiempo y energías a predicar las buenas nuevas, no solo anuncian que Jehová es el Soberano Universal, sino que también demuestran con su lealtad y obediencia que su forma de gobernar es justa, amorosa y la única correcta</strong>, desacreditando así los desafíos de Satanás a Su derecho a gobernar.",
-        "shortAnswer": "Proclaman el Reino y viven por las normas de Jehová."
+        "references": "Apocalipsis 4:11",
+        "subtitle": "Lección 4A La soberanía de Jehová y la santificación de su nombre — “Enséñame a hacer tu voluntad” (Salmo 143:10).",
+        "directAnswer": "Los precursores la defienden al **obedecer a Jehová en todo aspecto de su vida, someterse de buena gana a su organización y enseñar a otros que sus normas son justas (Apoc. 4:11)**.",
+        "deepAnswer": "Como precursores, defendemos la soberanía de Jehová al regir nuestra conducta por su Palabra. Demostramos que servir a Dios no es una carga pesada, sino un deleite. Al predicar con gozo y aguantar los desafíos con paciencia, probamos que el Diablo es un mentiroso y que Jehová es el único Soberano digno de gobernar nuestras vidas.",
+        "shortAnswer": "Obedeciendo de buena gana a Jehová y mostrando con nuestro ministerio que sus normas son perfectas."
       },
       {
         "id": "6B_q2",
-        "question": "¿Cómo puedes ayudar a otros a amar la soberanía de Jehová? Busquen “no solo sus propios intereses, sino también los de los demás”.",
-        "references": "Filipenses 2:4",
-        "directAnswer": "<strong>Podemos ayudar a otros a amar la soberanía de Jehová al mostrarles interés genuino y personal,</strong> y <strong>al explicarles con amor y convicción los beneficios de obedecer Sus leyes.</strong>",
-        "deepAnswer": "Como precursores, podemos ayudar a otros a amar la soberanía de Jehová si aplicamos Filipenses 2:4, <strong>interesándonos sinceramente \"no solo en nuestros propios intereses, sino también en los de los demás\".</strong> Esto implica escuchar con empatía, entender sus preocupaciones y mostrarles cómo las justas normas de Jehová son para su verdadero beneficio y felicidad. Al reflejar el amor de Jehová en nuestra actitud y palabras, y <strong>al destacar el amor y la sabiduría que hay detrás de Sus leyes, ayudamos a las personas a ver a Jehová como un Gobernante amoroso y digno de obediencia.</strong>",
-        "shortAnswer": "Muestra interés personal y los beneficios de las leyes divinas."
+        "question": "¿Cómo puedes ayudar a otros a amar la soberanía de Jehová?",
+        "references": "",
+        "directAnswer": "Les ayudamos mostrando **los excelentes resultados de obedecer las normas bíblicas en nuestra vida familiar, conducta y gozo personal**.",
+        "deepAnswer": "Las personas se sienten atraídas a la soberanía de Jehová cuando ven sus beneficios. Al ver que nuestra obediencia produce familias unidas, paz mental y honradez, ellos captan el valor de la ley de Dios. Además, les enseñamos a razonar sobre el amor de Jehová como Creador, ayudándolos a desear someterse a su guía teocrática por amor.",
+        "shortAnswer": "Dando un buen testimonio con nuestra conducta feliz y enseñando el amor de Jehová en el ministerio."
       },
       {
         "id": "6B_q3",
         "question": "¿Cómo demostrarás que te interesas de verdad por los demás?",
-        "references": "",
-        "directAnswer": "<strong>Demostraremos interés genuino escuchando atentamente, haciendo preguntas reflexivas, recordando detalles y ofreciendo ayuda práctica cuando sea posible.</strong>",
-        "deepAnswer": "<strong>Demostramos interés de verdad por los demás al aplicar el principio de <em>Filipenses 2:4</em> en nuestra vida diaria y en el ministerio.</strong> Esto incluye hacer un esfuerzo consciente por escuchar con empatía sus preocupaciones y sentimientos, recordar sus nombres y lo que nos han compartido, y <strong>buscar formas prácticas de ayudarlos, ya sea con una palabra de ánimo, una escritura apropiada o una acción bondadosa.</strong> Nuestro objetivo es que sientan el amor de Jehová a través de nosotros.",
-        "shortAnswer": "Escucha con empatía, recuerda detalles y ofrece ayuda práctica."
+        "references": "Filipenses 2:4",
+        "subtitle": "Lección 4B Interésate sinceramente por los demás — Busquen “no solo sus propios intereses, sino también los de los demás” (Filipenses 2:4).",
+        "directAnswer": "Lo demuestro al **ser sumamente cortes, escuchar con atención y empatía, felicitar con sinceridad y amoldar mi mensaje a sus circunstancias reales**.",
+        "deepAnswer": "De acuerdo con Filipenses 2:4, debemos buscar el interés de los demás. En el ministerio, esto implica no dar una presentación mecánica. Escuchamos al amo de casa, mantenemos un contacto visual respetuoso, validamos sus comentarios y usamos textos que respondan a sus preocupaciones específicas, demostrando amor sincero.",
+        "shortAnswer": "Escuchando con empatía, mostrando respeto cultural y adaptando el mensaje a sus necesidades."
       },
       {
         "id": "6B_q4",
         "question": "¿Por qué es tan importante escuchar para mostrar interés por otros?",
         "references": "",
-        "directAnswer": "<strong>Escuchar con atención demuestra que respetamos a las personas y valoramos sus sentimientos, lo que abre su corazón para recibir el mensaje del Reino.</strong>",
-        "deepAnswer": "Cuando escuchamos con empatía, imitamos el amor y la paciencia de Jehová, quien siempre presta atención a los ruegos de las personas. <strong>Al guardar silencio y mostrar un interés sincero, no solo descubrimos qué le preocupa o en qué cree nuestro interlocutor, sino que también nos ganamos el derecho a ser escuchados.</strong> <strong>Esto nos permite adaptar las verdades bíblicas directamente a sus necesidades emocionales y espirituales</strong>, tal como nos aconseja la Palabra de Dios en <em>Santiago 1:19</em> al ser 'prestos en cuanto a oír'.",
-        "shortAnswer": "Escuchar con empatía desarma los prejuicios y abre el corazón de las personas al mensaje."
+        "directAnswer": "Es fundamental porque **dignifica a la persona, nos permite ganarnos su confianza y nos ayuda a saber qué verdades bíblicas la consolarán**.",
+        "deepAnswer": "Escuchar con total atención es una de las muestras más claras de honra cristiana (Rom. 12:10). Evita que parezcamos vendedores o personas impositivas. Cuando el amo de casa ve que valoramos sus ideas y sentimientos, derriba sus prejuicios y se siente más dispuesto a prestar atención al mensaje del Reino.",
+        "shortAnswer": "Dignifica a nuestro oyente, crea confianza y revela qué temas bíblicos le ayudarán mejor."
       },
       {
         "id": "6B_q5",
-        "question": "¿Cuál es la razón más importante por la que nos interesamos por los demás? El método principal para llegar a las personas. “Hagan discípulos de gente de todas las naciones”.",
-        "references": "Mateo 28:19",
-        "directAnswer": "<strong>La razón más importante por la que nos interesamos por los demás es nuestro amor profundo a Jehová Dios</strong> y <strong>el deseo sincero de obedecer el mandato de Jesús de hacer discípulos.</strong>",
-        "deepAnswer": "<strong>Mostrar un interés genuino por las personas refleja el amor de Dios y es el pilar fundamental para cumplir la comisión de Mateo 28:19 de 'hacer discípulos'.</strong> No participamos en el ministerio por mera obligación formal, sino porque <strong>deseamos que las personas conozcan la verdad, se salven y lleguen a amar a Jehová tanto como nosotros.</strong> Este amor abnegado nos impulsa a buscar incansablemente a quienes tienen la disposición adecuada para alcanzar la vida eterna.",
-        "shortAnswer": "Nos interesamos por otros para imitar el amor de Jehová y cumplir el mandato de hacer discípulos."
+        "question": "¿Cuál es la razón más importante por la que nos interesamos por los demás?",
+        "references": "",
+        "directAnswer": "La razón principal es que **así imitamos de forma fiel el inmenso amor y la tierna compasión de nuestro Padre Jehová**.",
+        "deepAnswer": "Jehová es la personificación del amor. Al interesarnos sinceramente por las personas de nuestro territorio, reflejamos las cualidades de nuestro Padre celestial. Este amor sincero es lo que realmente atrae a las personas a la verdad, haciendo que las buenas nuevas sean más hermosas y memorables para ellas.",
+        "shortAnswer": "Imitar el amor y compasión de Jehová, atrayendo a las personas a su organización."
       },
       {
         "id": "6B_q6",
-        "question": "¿Por qué meditar en el ejemplo de Jesús te ayudará a predicar con más entusiasmo? Repaso del día 2.",
-        "references": "",
-        "directAnswer": "Meditar en el ejemplo de Jesús enciende nuestro entusiasmo porque <strong>nos recuerda su profundo amor por la gente y su absoluta dedicación a hacer la voluntad de su Padre.</strong>",
-        "deepAnswer": "Al reflexionar en cómo Jesús predicaba incansablemente a pesar del cansancio, la apatía o la oposición, <strong>renovamos nuestras propias fuerzas y nuestra motivación interior.</strong> Su compasión por las muchedumbres, a las que veía 'desolladas y desparramadas como ovejas sin pastor', <strong>nos ayuda a ver a las personas de nuestro territorio con los mismos ojos de misericordia.</strong> Estudiar sus métodos de enseñanza <strong>despierta en nosotros el deseo de imitar su destreza y de mantener el gozo en el ministerio</strong> (<em>1 Ped. 2:21</em>).",
-        "shortAnswer": "Meditar en la compasión y el celo de Jesús renueva nuestras fuerzas para predicar con gozo."
+        "question": "¿Por qué meditar en el ejemplo de Jesús te ayudará a predicar con más entusiasmo?",
+        "references": "Mateo 28:19",
+        "subtitle": "Lección 5A La predicación de casa en casa: el método principal para llegar a las personas — “Hagan discípulos de gente de todas las naciones” (Mateo 28:19).",
+        "directAnswer": "Nos ayuda al **recordar que Jesús predicaba impulsado por el amor a Dios y una profunda compasión por las personas que estaban cargadas (Mat. 9:36)**.",
+        "deepAnswer": "Jesús es nuestro modelo perfecto. Él consideraba la predicación como su alimento y sentía dolor al ver a la gente 'descarriada como ovejas sin pastor'. Al meditar en su celo y empatía, **vencemos nuestro propio desánimo y nos sentimos motivados a seguir buscando a los merecedores del mensaje** con la misma compasión.",
+        "shortAnswer": "Imitar la compasión y el amor de Jesús nos da las fuerzas para predicar con celo."
       },
       {
         "id": "6B_q7",
-        "question": "¿Cómo puedes contagiar a otros tu entusiasmo por la predicación de casa en casa? La predicación de casa en casa: el método principal para llegar a las personas. “Todos los días, sin parar, seguían enseñando y declarando las buenas noticias [...] de casa en casa”.",
-        "references": "Hechos 5:42",
-        "directAnswer": "Podemos contagiar a otros nuestro entusiasmo <strong>siendo siempre positivos al hablar del ministerio, preparándonos bien y mostrando un gozo genuino al trabajar con ellos.</strong>",
-        "deepAnswer": "Siguiendo el maravilloso ejemplo de los primeros cristianos en Hechos 5:42, quienes 'sin parar, seguían enseñando y declarando las buenas noticias... de casa en casa', <strong>nuestro propio gozo constante puede motivar a nuestros compañeros.</strong> <strong>Al preparar juntos presentaciones sencillas y eficaces, y al compartir experiencias animadoras en el camino, fortalecemos la fe de nuestros hermanos.</strong> <strong>Una actitud alegre y optimista es sumamente contagiosa y hace que el ministerio de casa en casa sea una experiencia muy edificante.</strong>",
-        "shortAnswer": "El entusiasmo se contagia compartiendo experiencias positivas y mostrando gozo al predicar juntos."
+        "question": "¿Cómo puedes contagiar a otros tu entusiasmo por la predicación de casa en casa?",
+        "references": "",
+        "directAnswer": "Lo contagiamos al **predicar con alegría real, compartir experiencias edificantes en la congregación e invitar a otros a acompañarnos**.",
+        "deepAnswer": "El entusiasmo es contagioso. Cuando los hermanos nos ven predicar con gozo y sin quejarnos, se sienten motivados. Compartir en el Salón del Reino cómo Jehová nos ayudó en una conversación o cómo iniciamos un estudio bíblico infunde ánimo a toda la congregación para participar en el ministerio.",
+        "shortAnswer": "Predicando con gozo, relatando buenas experiencias e invitando a los publicadores a predicar juntos."
       },
       {
         "id": "6B_q8",
         "question": "¿Qué ideas prácticas piensas usar para empezar conversaciones?",
-        "references": "",
-        "directAnswer": "<strong>Pienso usar preguntas de opinión sencillas sobre temas actuales, comentarios amigables sobre el entorno del hogar y un uso natural de la Biblia o el sitio jw.org.</strong>",
-        "deepAnswer": "Para lograr entablar conversaciones eficaces, es vital <strong>comenzar con un saludo cálido y una sonrisa sincera, seguidos de una pregunta de opinión que despierte el interés del amo de casa sin incomodarlo.</strong> También es muy práctico <strong>hacer referencia a una noticia o preocupación local de los vecinos y mostrar brevemente lo que dice la Biblia al respecto.</strong> La clave está en <strong>ser conversacionales, no dar la impresión de estar leyendo un guion y estar listos para escuchar con atención la respuesta de la persona.</strong>",
-        "shortAnswer": "Usar preguntas de opinión sencillas y temas locales de interés es ideal para iniciar conversaciones amenas."
+        "references": "Hechos 5:42",
+        "subtitle": "Lección 5B Taller 1 — “Todos los días, sin parar, seguían enseñando y declarando las buenas noticias [...] de casa en casa” (Hechos 5:42).",
+        "directAnswer": "Pienso usar **comentarios breves sobre noticias locales, preguntas sencillas de opinión o mostrar un video corto de jw.org**.",
+        "deepAnswer": "En el Taller 1 aprendimos que las conversaciones naturales son las más eficaces. Podemos romper el hielo preguntando qué opina sobre una noticia del barrio o mostrando el código QR de un tratado. La clave es ser amables, sonreír y permitir que la persona hable sin forzar la lectura del texto de inmediato.",
+        "shortAnswer": "Preguntar la opinión del amo de casa sobre temas locales o noticias del día con sencillez."
       },
       {
         "id": "6B_q9",
         "question": "¿Qué te ayudará a ser flexible al predicar de casa en casa?",
         "references": "",
-        "directAnswer": "<strong>Estar bien preparados con diferentes temas de conversación y observar atentamente las circunstancias del amo de casa nos ayudará a ser flexibles en el ministerio.</strong>",
-        "deepAnswer": "La flexibilidad proviene de tener una actitud adaptable, imitando al apóstol Pablo, quien se hizo 'todas las cosas para gente de todo tipo'. Nos ayuda mucho <strong>observar detalles al llegar a la puerta, como juguetes, plantas o decoraciones, para intuir las preocupaciones del amo de casa y adaptar nuestra presentación al instante.</strong> Además, si la persona está muy ocupada, ser flexibles significa <strong>ser breves, ofrecer una publicación o sugerir regresar en otro momento oportuno, mostrando siempre una excelente educación teocrática.</strong>",
-        "shortAnswer": "Observar los detalles y estar listos para adaptar nuestro mensaje según la persona nos hace predicadores flexibles."
+        "directAnswer": "Me ayudará **preparar varios temas basados en diferentes folletos o textos bíblicos, y estar listo para cambiar de tema según la reacción del amo de casa**.",
+        "deepAnswer": "La flexibilidad teocrática exige no imponer un bosquejo rígido. Si la persona nos dice que está ocupada, somos breves; si menciona que está enferma o de duelo, cambiamos nuestra presentación para consolarla con un texto directo, mostrando empatía real.",
+        "shortAnswer": "Llevar preparadas varias opciones y adaptar la conversación al estado de ánimo y tiempo del amo de casa."
       },
       {
         "id": "6B_q10",
-        "question": "¿Qué puedes hacer para que otros hermanos disfruten de la predicación de casa en casa? “Las mujeres que proclaman las buenas noticias son un ejército grande”.",
-        "references": "Salmo 68:11",
-        "directAnswer": "<strong>Podemos ayudarlos felicitándolos con total sinceridad por sus esfuerzos, escuchándolos con atención mientras predican y sugiriendo ideas sencillas sin imponer nuestro estilo.</strong>",
-        "deepAnswer": "Para que nuestros compañeros disfruten al máximo del ministerio, <strong>debemos esforzarnos por ser colaboradores animadores</strong>, recordando que 'las mujeres que proclaman las buenas noticias son un ejército grande' (Salmo 68:11). Al predicar juntos, <strong>prestemos atención a sus presentaciones y destaquemos sus puntos fuertes para elevar su confianza en el servicio.</strong> <strong>Adaptémonos con cariño al ritmo del hermano o la hermana y procuremos que la conversación entre puertas sea espiritual, positiva y edificante.</strong>",
-        "shortAnswer": "Ser compañeros amables, positivos y considerados hace que el ministerio sea una delicia para todos."
+        "question": "• ¿Qué puedes hacer para que otros hermanos disfruten de la predicación de casa en casa?",
+        "references": "",
+        "directAnswer": "Puedo **acompañarlos de buena gana, elogiarlos por sus esfuerzos sinceros y ayudarlos a prepararse sin criticar su estilo personal**.",
+        "deepAnswer": "Para ayudar a otros a disfrutar de la predicación, debemos ser compañeros amables. Escuchamos con respeto sus presentaciones, los felicitamos por su valor en las puertas y evitamos corregirlos constantemente. Crear una atmósfera de apoyo y hermandad hace que el ministerio sea placentero.",
+        "shortAnswer": "Trabajar juntos con paciencia, elogiando sus virtudes en lugar de criticar sus errores."
       },
       {
         "id": "6B_q11",
-        "question": "¿Qué es lo que más valoras de la forma en que Jehová y Jesús honran a las mujeres?",
-        "references": "",
-        "directAnswer": "<strong>Valoro profundamente que les concedan una dignidad inmensa, dándoles un papel fundamental en la congregación y el ministerio, y escuchando con ternura sus necesidades.</strong>",
-        "deepAnswer": "Es sumamente conmovedor ver cómo Jehová y Jesús <strong>dignifican a las mujeres al encomendarles la sagrada y noble labor de proclamar el mensaje del Reino.</strong> <strong>Jesús siempre las trató con absoluto respeto, defendió sus derechos frente a la cultura de su época, valoró su fe inquebrantable y las hizo las primeras testigos de su resurrección.</strong> Esta tierna consideración nos demuestra que, para la organización de Jehová, las hermanas fieles son un tesoro de incalculable valor y colaboradoras indispensables en la obra de predicación.",
-        "shortAnswer": "Lo que más valoro es el profundo respeto, la dignidad y el papel tan importante que Jehová y Jesús conceden a las mujeres."
+        "question": "• ¿Qué es lo que más valoras de la forma en que Jehová y Jesús honran a las mujeres?",
+        "references": "Salmo 68:11",
+        "subtitle": "Lección 6A Mujeres que alegran a Jehová — “Las mujeres que proclaman las buenas noticias son un ejército grande” (Salmo 68:11).",
+        "directAnswer": "Valoro que **les den un lugar digno, seguro y de igual valor espiritual, valorando su lealtad y su enorme contribución al ministerio**.",
+        "deepAnswer": "Jehová y Jesús elevaron la condición de la mujer frente al desprecio del mundo. Valoro que Jesús les enseñara públicamente, las curara con total respeto y las eligiera para dar el anuncio de su resurrección. Además, Jehová las describe como un 'ejército grande' (Sal. 68:11), confirmando que su labor es vital para la congregación.",
+        "shortAnswer": "Su aprecio por la dignidad femenina y su alta estima espiritual hacia las hermanas fieles."
       },
       {
         "id": "6B_q12",
-        "question": "¿Por qué podemos decir que el principio de autoridad dignifica a las mujeres?",
+        "question": "• ¿Por qué podemos decir que el principio de autoridad dignifica a las mujeres?",
         "references": "",
-        "directAnswer": "Porque <strong>el principio de autoridad, cuando se ejerce como Jehová manda, no oprime, sino que brinda protección, seguridad y un entorno donde las mujeres pueden florecer.</strong>",
-        "deepAnswer": "El orden de autoridad establecido por Jehová está diseñado para traer paz, seguridad y orden a la familia y a la congregación, nunca para subyugar. Al <strong>imitar el liderazgo amoroso y humilde de Cristo</strong>, los hombres <strong>tratan a las mujeres como 'un vaso más frágil', dándoles el honor y el respeto que merecen</strong> (<em>1 Ped. 3:7</em>). Bajo este marco amoroso, las hermanas se sienten seguras, valoradas y totalmente libres de usar sus talentos y capacidades para alabar a Jehová, sabiendo que su sumisión es sumamente preciosa a los ojos de Dios.",
-        "shortAnswer": "El principio de autoridad dignifica porque ofrece un marco de amor, respeto y protección basado en el ejemplo de Cristo."
+        "directAnswer": "Porque **establece un orden de paz y amor donde el esposo debe tratar a su esposa con la misma ternura que Cristo trata a la congregación**.",
+        "deepAnswer": "El principio de jefatura (1 Cor. 11:3) no implica inferioridad, ya que Cristo también está sujeto a Dios. Dignifica a la mujer porque exige que el varón la ame como a su propio cuerpo y la honre como a una 'vasija más frágil'. Bajo este orden teocrático amoroso, la mujer se siente segura, respetada y valorada.",
+        "shortAnswer": "Porque organiza la familia en amor y respeto, protegiendo y valorando el papel de la esposa."
       },
       {
         "id": "6B_q13",
-        "question": "¿Cómo pueden las hermanas ampliar su ministerio en estos últimos días?",
+        "question": "• ¿Cómo pueden las hermanas ampliar su ministerio en estos últimos días?",
         "references": "",
-        "directAnswer": "<strong>Las hermanas pueden ampliar su servicio emprendiendo el precursorado, apoyando la predicación en territorios de necesidad, aprendiendo otro idioma o colaborando en proyectos de construcción teocrática.</strong>",
-        "deepAnswer": "En estos 'últimos días', las puertas de la actividad teocrática están abiertas de par en par para las hermanas dispuestas. <strong>Pueden capacitarse para ser precursoras regulares, mudarse a donde se necesita más ayuda o postularse para la Escuela para Evangelizadores del Reino si cumplen los requisitos.</strong> Además, <strong>muchas apoyan activamente el diseño y construcción de sucursales o colaboran en departamentos de traducción</strong>, siendo verdaderas columnas de apoyo en la organización de Jehová mediante su abnegación y lealtad.",
-        "shortAnswer": "Las hermanas amplían su ministerio al servir como precursoras, apoyar obras de construcción o predicar en territorios de necesidad."
+        "directAnswer": "Pueden hacerlo **sirviendo como precursoras auxiliares o regulares, colaborando en la predicación pública o mudándose donde haya mayor necesidad**.",
+        "deepAnswer": "Las hermanas ejemplares tienen muchas puertas abiertas. Amplían su ministerio al perfeccionar sus habilidades para enseñar, dar apoyo espiritual a las hermanas más jóvenes de la congregación (Tito 2:3-5), o colaborando en tareas administrativas, de traducción o en la construcción de Salones del Reino bajo la dirección de la sucursal.",
+        "shortAnswer": "Sirviendo en el precursorado, apoyando a otras hermanas y participando en proyectos teocráticos."
       }
     ],
     "image": "pioneer_studying.png",
