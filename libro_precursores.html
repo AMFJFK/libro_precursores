@@ -29,51 +29,51 @@
                 </div>
             </div>
 
-            <!-- Copia de Seguridad -->
-            <div class="backup-panel" style="display: flex; flex-direction: column; gap: 8px; border: 1px dashed var(--border-color); padding: 12px; border-radius: var(--border-radius-sm); background: rgba(var(--primary-rgb), 0.02);">
-                <p style="font-size: 0.78rem; font-weight: 600; color: var(--text-light); text-transform: uppercase; letter-spacing: 0.5px; margin: 0;">Copia de Seguridad</p>
-                <div style="display: flex; gap: 6px;">
-                    <button class="theme-btn" style="flex: 1; padding: 6px 0;" onclick="exportBackup()">📥 Respaldar</button>
-                    <button class="theme-btn" style="flex: 1; padding: 6px 0;" onclick="document.getElementById('import-file').click()">📤 Restaurar</button>
-                </div>
-                <input type="file" id="import-file" style="display: none;" accept=".json" onchange="importBackup(event)">
-            </div>
-
             <!-- Buscador Temático de la Escuela -->
             <div class="search-box">
                 <input type="text" id="syllabus-search" placeholder="🔍 Buscar tema o texto..." oninput="filterLessons()">
             </div>
 
-            <!-- Progreso General -->
-            <div class="progress-panel">
-                <div class="progress-header">
-                    <span>Lección Activa</span>
-                    <span id="progress-percent">0%</span>
-                </div>
-                <div class="progress-bar-container">
-                    <div class="progress-bar-fill" id="progress-bar"></div>
-                </div>
-            </div>
-
-            <!-- Progreso Global -->
-            <div class="progress-panel" style="margin-top: -10px;">
-                <div class="progress-header">
-                    <span>Progreso Global</span>
-                    <span id="global-progress-percent">0%</span>
-                </div>
-                <div class="progress-bar-container">
-                    <div class="progress-bar-fill" id="global-progress-bar"></div>
-                </div>
-            </div>
-
-            <!-- Lista de Lecciones -->
-            <nav class="navigation-menu" id="lessons-nav">
+            <!-- Lista de Lecciones (Ahora arriba, ocupando el espacio principal con flex: 1) -->
+            <nav class="navigation-menu" id="lessons-nav" style="flex: 1; min-height: 250px;">
                 <!-- Se cargará dinámicamente desde JS -->
             </nav>
 
-            <!-- Apartado de Consultas AI / Preguntas Variadas -->
-            <div class="ai-chat-btn-container" style="padding: 12px 16px; border-top: 1px solid var(--border-color); margin-top: auto;">
-                <button class="theme-btn ai-chat-btn" id="ai-chat-sidebar-btn" style="width: 100%; display: flex; align-items: center; justify-content: center; gap: 8px; font-weight: 600; padding: 10px;" onclick="showAiChat()">
+            <!-- Opciones y Progreso (Agrupados abajo, compactos) -->
+            <div class="sidebar-footer-widgets" style="display: flex; flex-direction: column; gap: 10px; border-top: 1px solid var(--border-color); padding-top: 15px; margin-top: auto;">
+                <!-- Progreso General -->
+                <div class="progress-panel" style="background: transparent; border: none; padding: 0;">
+                    <div class="progress-header" style="font-size: 0.75rem;">
+                        <span>Lección Activa</span>
+                        <span id="progress-percent">0%</span>
+                    </div>
+                    <div class="progress-bar-container" style="height: 6px;">
+                        <div class="progress-bar-fill" id="progress-bar"></div>
+                    </div>
+                </div>
+
+                <!-- Progreso Global -->
+                <div class="progress-panel" style="background: transparent; border: none; padding: 0;">
+                    <div class="progress-header" style="font-size: 0.75rem;">
+                        <span>Progreso Global</span>
+                        <span id="global-progress-percent">0%</span>
+                    </div>
+                    <div class="progress-bar-container" style="height: 6px;">
+                        <div class="progress-bar-fill" id="global-progress-bar"></div>
+                    </div>
+                </div>
+
+                <!-- Copia de Seguridad -->
+                <div class="backup-panel" style="background: transparent; border: none; padding: 0;">
+                    <div style="display: flex; gap: 6px;">
+                        <button class="theme-btn" style="flex: 1; padding: 6px 0; font-size: 0.75rem;" onclick="exportBackup()">📥 Respaldar</button>
+                        <button class="theme-btn" style="flex: 1; padding: 6px 0; font-size: 0.75rem;" onclick="document.getElementById('import-file').click()">📤 Restaurar</button>
+                    </div>
+                    <input type="file" id="import-file" style="display: none;" accept=".json" onchange="importBackup(event)">
+                </div>
+
+                <!-- Apartado de Consultas AI / Preguntas Variadas -->
+                <button class="theme-btn ai-chat-btn" id="ai-chat-sidebar-btn" style="width: 100%; display: flex; align-items: center; justify-content: center; gap: 6px; font-weight: 600; padding: 8px; font-size: 0.75rem;" onclick="showAiChat()">
                     ✨ Preguntas Variadas (AI)
                 </button>
             </div>
