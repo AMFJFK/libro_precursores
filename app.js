@@ -903,7 +903,7 @@ function exportBackup() {
     const backupData = {};
     for (let i = 0; i < localStorage.length; i++) {
         const key = localStorage.key(i);
-        if (key && key.startsWith("pioneer_")) {
+        if (key && (key.startsWith("pioneer_") || key === "gemini_api_key")) {
             backupData[key] = localStorage.getItem(key);
         }
     }
@@ -927,7 +927,7 @@ function importBackup(event) {
             const data = JSON.parse(e.target.result);
             let importedCount = 0;
             for (const key in data) {
-                if (key.startsWith("pioneer_")) {
+                if (key.startsWith("pioneer_") || key === "gemini_api_key") {
                     localStorage.setItem(key, data[key]);
                     importedCount++;
                 }
@@ -936,7 +936,7 @@ function importBackup(event) {
                 alert(`¡Copia de seguridad importada con éxito! Se restauraron ${importedCount} elementos. La página se recargará ahora.`);
                 window.location.reload();
             } else {
-                alert("El archivo no contiene datos válidos de esta aplicación (claves 'pioneer_').");
+                alert("El archivo no contiene datos válidos de esta aplicación.");
             }
         } catch (err) {
             alert("Error al leer el archivo. Asegúrate de que es un archivo JSON de copia de seguridad válido.");
