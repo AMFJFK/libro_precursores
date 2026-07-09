@@ -676,6 +676,62 @@ function speakScripture() {
     speakText(null, "scripture-viewer-content", "speak-scripture-btn");
 }
 
+// --- FUNCIONES AUXILIARES PARA BÚSQUEDA POR PALABRAS COMPLETAS ---
+function isAlphaNumeric(char) {
+    if (!char) return false;
+    return /[a-z0-9]/.test(char);
+}
+
+function isValidWordMatch(normalizedText, query, matchIdx) {
+    // 1. Verificar el carácter anterior
+    if (matchIdx > 0 && isAlphaNumeric(normalizedText[matchIdx - 1])) {
+        return false;
+    }
+    
+    // 2. Extraer la palabra completa que empieza en matchIdx
+    let endIdx = matchIdx + query.length;
+    while (endIdx < normalizedText.length && isAlphaNumeric(normalizedText[endIdx])) {
+        endIdx++;
+    }
+    
+    const matchedWord = normalizedText.substring(matchIdx, endIdx);
+    const suffix = matchedWord.substring(query.length);
+    
+    if (suffix === "") return true; // Coincidencia exacta
+    
+    // Si la búsqueda es muy corta (ej. "fe"), solo permitimos plural "s"
+    if (query.length <= 3) {
+        return suffix === "s" || suffix === "es";
+    }
+    
+    // Sufijos comunes permitidos en español para variaciones de género, número y conjugación básica
+    const allowedSuffixes = new Set([
+        "s", "es", "a", "as", "o", "os", 
+        "e", "en", "an", "aron", "ando", "iendo", 
+        "ado", "ados", "ada", "adas", "ido", "idos", "ida", "idas",
+        "ar", "er", "ir", "mos", "ia", "ias", "ora", "oras", "ores",
+        "amente", "idad", "idades"
+    ]);
+    
+    return allowedSuffixes.has(suffix);
+}
+
+function hasWordMatch(text, query) {
+    if (!text || !query) return false;
+    const normText = normalizeText(text);
+    const normQuery = normalizeText(query);
+    if (!normText.includes(normQuery)) return false;
+    
+    let idx = normText.indexOf(normQuery);
+    while (idx !== -1) {
+        if (isValidWordMatch(normText, normQuery, idx)) {
+            return true;
+        }
+        idx = normText.indexOf(normQuery, idx + 1);
+    }
+    return false;
+}
+
 // --- AUTO-EXPANDIR ACORDEONES QUE CONTIENEN COINCIDENCIAS ---
 function expandAccordionMatches(rawQuery) {
     const query = normalizeText(rawQuery);
@@ -715,19 +771,19 @@ function filterLessons() {
         const item = navItems[index];
         if (!item) return;
 
-        const matchTitle = normalizeText(lesson.title).includes(query);
+        const matchTitle = hasWordMatch(lesson.title, rawQuery);
         const matchId = normalizeText(lesson.id).includes(query);
-        const matchLema = normalizeText(lesson.lema).includes(query);
-        const matchIntro = normalizeText(lesson.intro).includes(query);
+        const matchLema = hasWordMatch(lesson.lema, rawQuery);
+        const matchIntro = hasWordMatch(lesson.intro, rawQuery);
         
         let matchQuestions = false;
         if (lesson.questions) {
             matchQuestions = lesson.questions.some(q => 
-                normalizeText(q.question).includes(query) ||
-                normalizeText(q.directAnswer).includes(query) ||
-                normalizeText(q.deepAnswer).includes(query) ||
-                normalizeText(q.shortAnswer).includes(query) ||
-                (q.references && normalizeText(q.references).includes(query))
+                hasWordMatch(q.question, rawQuery) ||
+                hasWordMatch(q.directAnswer, rawQuery) ||
+                hasWordMatch(q.deepAnswer, rawQuery) ||
+                hasWordMatch(q.shortAnswer, rawQuery) ||
+                (q.references && hasWordMatch(q.references, rawQuery))
             );
         }
         
@@ -761,12 +817,14 @@ function highlightSearchTerm(text, query) {
     let matchIdx = normText.indexOf(normQuery, lastIdx);
     
     while (matchIdx !== -1) {
-        if (matchIdx > lastIdx) {
-            html += escapeHtml(text.substring(lastIdx, matchIdx));
+        if (isValidWordMatch(normText, normQuery, matchIdx)) {
+            if (matchIdx > lastIdx) {
+                html += escapeHtml(text.substring(lastIdx, matchIdx));
+            }
+            html += `<mark class="search-highlight">${escapeHtml(text.substring(matchIdx, matchIdx + normQuery.length))}</mark>`;
+            lastIdx = matchIdx + normQuery.length;
         }
-        html += `<mark class="search-highlight">${escapeHtml(text.substring(matchIdx, matchIdx + normQuery.length))}</mark>`;
-        lastIdx = matchIdx + normQuery.length;
-        matchIdx = normText.indexOf(normQuery, lastIdx);
+        matchIdx = normText.indexOf(normQuery, matchIdx + 1);
     }
     if (lastIdx < text.length) {
         html += escapeHtml(text.substring(lastIdx));
@@ -845,7 +903,7 @@ function executeSearch() {
 
     lessonsData.forEach((lesson, lessonIdx) => {
         // 1. Título de Lección
-        if (normalizeText(lesson.title).includes(query)) {
+        if (hasWordMatch(lesson.title, rawQuery)) {
             matches.push({
                 lessonIndex: lessonIdx,
                 lessonId: lesson.id,
@@ -858,7 +916,7 @@ function executeSearch() {
         }
 
         // 2. Lema
-        if (normalizeText(lesson.lema).includes(query)) {
+        if (hasWordMatch(lesson.lema, rawQuery)) {
             matches.push({
                 lessonIndex: lessonIdx,
                 lessonId: lesson.id,
@@ -871,7 +929,7 @@ function executeSearch() {
         }
 
         // 3. Introducción
-        if (normalizeText(lesson.intro).includes(query)) {
+        if (hasWordMatch(lesson.intro, rawQuery)) {
             matches.push({
                 lessonIndex: lessonIdx,
                 lessonId: lesson.id,
@@ -887,7 +945,7 @@ function executeSearch() {
         if (lesson.questions) {
             lesson.questions.forEach((q, qIdx) => {
                 // Pregunta en sí
-                if (normalizeText(q.question).includes(query)) {
+                if (hasWordMatch(q.question, rawQuery)) {
                     matches.push({
                         lessonIndex: lessonIdx,
                         lessonId: lesson.id,
@@ -902,16 +960,16 @@ function executeSearch() {
                 // Campos de respuesta y referencias
                 let snippetSource = "";
                 let sourceName = "";
-                if (normalizeText(q.directAnswer).includes(query)) {
+                if (hasWordMatch(q.directAnswer, rawQuery)) {
                     snippetSource = q.directAnswer;
                     sourceName = "Respuesta Directa";
-                } else if (normalizeText(q.deepAnswer).includes(query)) {
+                } else if (hasWordMatch(q.deepAnswer, rawQuery)) {
                     snippetSource = q.deepAnswer;
                     sourceName = "Respuesta Detallada";
-                } else if (normalizeText(q.shortAnswer).includes(query)) {
+                } else if (hasWordMatch(q.shortAnswer, rawQuery)) {
                     snippetSource = q.shortAnswer;
                     sourceName = "Respuesta Corta";
-                } else if (q.references && normalizeText(q.references).includes(query)) {
+                } else if (q.references && hasWordMatch(q.references, rawQuery)) {
                     snippetSource = q.references;
                     sourceName = "Referencias";
                 }
@@ -931,7 +989,7 @@ function executeSearch() {
                 // Subpreguntas si existen
                 if (q.subQuestions) {
                     q.subQuestions.forEach((subQ, subIdx) => {
-                        if (normalizeText(subQ.question).includes(query)) {
+                        if (hasWordMatch(subQ.question, rawQuery)) {
                             matches.push({
                                 lessonIndex: lessonIdx,
                                 lessonId: lesson.id,
@@ -945,16 +1003,16 @@ function executeSearch() {
 
                         let subSnippetSource = "";
                         let subSourceName = "";
-                        if (normalizeText(subQ.directAnswer).includes(query)) {
+                        if (hasWordMatch(subQ.directAnswer, rawQuery)) {
                             subSnippetSource = subQ.directAnswer;
                             subSourceName = "Respuesta Directa";
-                        } else if (normalizeText(subQ.deepAnswer).includes(query)) {
+                        } else if (hasWordMatch(subQ.deepAnswer, rawQuery)) {
                             subSnippetSource = subQ.deepAnswer;
                             subSourceName = "Respuesta Detallada";
-                        } else if (normalizeText(subQ.shortAnswer).includes(query)) {
+                        } else if (hasWordMatch(subQ.shortAnswer, rawQuery)) {
                             subSnippetSource = subQ.shortAnswer;
                             subSourceName = "Respuesta Corta";
-                        } else if (subQ.references && normalizeText(subQ.references).includes(query)) {
+                        } else if (subQ.references && hasWordMatch(subQ.references, rawQuery)) {
                             subSnippetSource = subQ.references;
                             subSourceName = "Referencias";
                         }
@@ -1311,7 +1369,18 @@ function highlightTextNodes(element, query) {
             !currentNode.parentNode.classList.contains('wol-link')) {
             
             const normalizedText = normalizeText(currentNode.nodeValue);
-            if (normalizedText.includes(normalizedQuery)) {
+            
+            let matchFound = false;
+            let idx = normalizedText.indexOf(normalizedQuery);
+            while (idx !== -1) {
+                if (isValidWordMatch(normalizedText, normalizedQuery, idx)) {
+                    matchFound = true;
+                    break;
+                }
+                idx = normalizedText.indexOf(normalizedQuery, idx + 1);
+            }
+            
+            if (matchFound) {
                 nodesToReplace.push(currentNode);
             }
         }
@@ -1328,17 +1397,19 @@ function highlightTextNodes(element, query) {
         let matchIndex = normalizedText.indexOf(normalizedQuery, lastIndex);
         
         while (matchIndex !== -1) {
-            if (matchIndex > lastIndex) {
-                fragment.appendChild(document.createTextNode(text.substring(lastIndex, matchIndex)));
+            if (isValidWordMatch(normalizedText, normalizedQuery, matchIndex)) {
+                if (matchIndex > lastIndex) {
+                    fragment.appendChild(document.createTextNode(text.substring(lastIndex, matchIndex)));
+                }
+                
+                const mark = document.createElement('mark');
+                mark.className = 'search-highlight';
+                mark.appendChild(document.createTextNode(text.substring(matchIndex, matchIndex + normalizedQuery.length)));
+                fragment.appendChild(mark);
+                
+                lastIndex = matchIndex + normalizedQuery.length;
             }
-            
-            const mark = document.createElement('mark');
-            mark.className = 'search-highlight';
-            mark.appendChild(document.createTextNode(text.substring(matchIndex, matchIndex + normalizedQuery.length)));
-            fragment.appendChild(mark);
-            
-            lastIndex = matchIndex + normalizedQuery.length;
-            matchIndex = normalizedText.indexOf(normalizedQuery, lastIndex);
+            matchIndex = normalizedText.indexOf(normalizedQuery, matchIndex + 1);
         }
         
         if (lastIndex < text.length) {
