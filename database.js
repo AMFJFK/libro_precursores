@@ -909,8 +909,8 @@ const lessonsData = [
         "question": "¿Cómo te han ayudado las notas de estudio que aparecen en la Biblia de estudio?",
         "references": "Biblia de estudio",
         "subtitle": "Biblia de estudio",
-        "directAnswer": "Las notas de estudio de la Biblia han enriquecido mi comprensión al <strong>aclararme el significado de términos originales, aportarme valiosos datos históricos y culturales, y ayudarme a captar el sentido exacto de expresiones que, de otra forma, serían difíciles de entender.</strong>",
-        "deepAnswer": "Las notas de estudio son herramientas fundamentales para profundizar en el mensaje bíblico. Primero, al incluir aclaraciones sobre términos hebreos y griegos, me permiten entender el matiz original detrás de una palabra, evitando confusiones. Segundo, al ofrecer datos arqueológicos y geográficos, sitúan los relatos en su contexto real, lo que hace que los sucesos cobren vida. Tercero, las notas de tipo 'Lit.', 'O', y 'O quizás' son esenciales para interpretar figuras retóricas y modismos que, si se tradujeran literalmente, podrían desvirtuar el mensaje. Finalmente, al conectarme con el glosario y otros apéndices, estas notas <strong>aseguran que mi estudio no sea superficial, sino que me permitan alcanzar un entendimiento profundo, preciso y claro de la Palabra de Dios.</strong>",
+        "directAnswer": "Las notas de estudio de la Biblia enriquecen la comprensión al <strong>aclarar el significado de términos originales, aportar valiosos datos históricos y culturales, y ayudar a captar el sentido exacto de expresiones que, de otra forma, serían difíciles de entender.</strong>",
+        "deepAnswer": "Las notas de estudio son herramientas fundamentales para profundizar en el mensaje bíblico. Primero, al incluir aclaraciones sobre términos hebreos y griegos, permiten entender el matiz original detrás de una palabra, evitando confusiones. Segundo, al ofrecer datos arqueológicos y geográficos, sitúan los relatos en su contexto real, lo que hace que los sucesos cobren vida. Tercero, las notas de tipo 'Lit.', 'O', y 'O quizás' son esenciales para interpretar figuras retóricas y modismos que, si se tradujeran literalmente, podrían desvirtuar el mensaje. Finalmente, al conectarse con el glosario y otros apéndices, estas notas <strong>aseguran que el estudio no sea superficial, sino que permitan alcanzar un entendimiento profundo, preciso y claro de la Palabra de Dios.</strong>",
         "shortAnswer": "Las notas de estudio transforman la lectura superficial en un entendimiento profundo y preciso de las Escrituras."
       }
     ],
@@ -1271,9 +1271,9 @@ const lessonsData = [
         "id": "3A_q26",
         "question": "En vista de los cambios y aclaraciones que se hacen, ¿cómo piensas mejorar tu estudio personal de la Biblia? (2 Ped. 1:19-21).",
         "references": "2 Ped. 1:19-21",
-        "directAnswer": "Para mejorar mi estudio personal de la Biblia, especialmente ante los cambios y aclaraciones, me enfocaré en <strong>estudiar con regularidad las publicaciones actuales de la organización</strong>. Recordando 2 Pedro 1:20, que la profecía no proviene de interpretación personal, utilizaré la <strong>Guía de actividades para la reunión Vida y Ministerio Cristianos</strong> y la <strong>Guía de estudio para el Testigo de Jehová</strong>. Esto me permitirá <strong>profundizar en los ajustes de entendimiento</strong> y asegurarme de que mi comprensión esté <strong>en armonía con la luz más reciente</strong> proporcionada por Jehová a través de su canal.",
-        "deepAnswer": "En vista de los continuos cambios y aclaraciones en nuestro entendimiento bíblico, mejorar mi estudio personal implica una dedicación más profunda a los métodos y herramientas que Jehová nos ha provisto. En primer lugar, recordando las palabras de 2 Pedro 1:19-21, que nos insta a <strong>prestar atención a la palabra profética como a una lámpara que alumbra en un lugar oscuro</strong> y nos aclara que <strong>ninguna profecía proviene de una interpretación personal</strong>, reconoceré la importancia de depender del canal de Jehová para comprender las Escrituras. Mis estrategias incluirán:<ul><li><strong>Estudio sistemático de las publicaciones más recientes:</strong> Esto es fundamental para <strong>captar los ajustes y las nuevas aclaraciones</strong> que se han hecho. No solo leeré, sino que <strong>meditaré en el porqué de estos cambios</strong>, buscando la base escritural para cada ajuste.</li><li><strong>Utilizar eficazmente la *Guía de estudio para el Testigo de Jehová* y la *Biblioteca Watchtower*:</strong> Estas herramientas son esenciales para <strong>investigar los temas a fondo</strong>, comparar explicaciones anteriores con las actuales y <strong>comprender el contexto completo de las aclaraciones</strong>.</li><li><strong>Prepararme a conciencia para las reuniones de congregación:</strong> Esto no solo beneficia mi estudio personal, sino que también me ayuda a <strong>asociar los nuevos entendimientos con los pasajes bíblicos clave</strong> discutidos.</li><li><strong>Dedicar tiempo a la oración:</strong> Pedir a Jehová su espíritu santo para <strong>obtener discernimiento y una mente abierta</strong> para aceptar y aplicar su voluntad, tal como se nos revela progresivamente.</li><li><strong>Tomar notas detalladas:</strong> Al estudiar un tema o un pasaje, registraré los puntos clave, las explicaciones nuevas y cómo estos cambios me afectan personalmente, lo que facilita el <strong>repaso y la retención del conocimiento</strong>.</li></ul>Al aplicar estos métodos, mi objetivo será <strong>alinear mi entendimiento individual con la 'luz' que Jehová nos proporciona progresivamente</strong>, asegurándome de que mi estudio no sea una interpretación personal, sino una asimilación del alimento espiritual a su debido tiempo.",
-        "shortAnswer": "<strong>Alinearé mi estudio con las aclaraciones teocráticas</strong> usando diligentemente las herramientas de la organización y la oración."
+        "directAnswer": "[Sugerencia: Puedes mencionar tus planes para estudiar con regularidad las publicaciones de la organización y analizar las aclaraciones de creencias.]",
+        "deepAnswer": "[Sugerencia: De acuerdo con 2 Pedro 1:19-21, resalta la importancia de confiar en el canal de Jehová y detalla metas prácticas, tales como preparar mejor las reuniones, usar la Guía de estudio de los Testigos de Jehová, dedicar tiempo a la meditación y orar por dirección.]",
+        "shortAnswer": "[Sugerencia: Establece metas concretas para estudiar y meditar en la verdad a fin de mantenerte al día.]"
       },
       {
         "id": "3A_q27",
@@ -1380,9 +1380,9 @@ const lessonsData = [
         "question": "• Menciona algunas ayudas de la Traducción del Nuevo Mundo revisada que aparecen en los apéndices. ¿Cómo piensas usarlas?",
         "references": "Apéndices de la Traducción del Nuevo Mundo",
         "subtitle": "Lección 2B La Traducción del Nuevo Mundo (parte 2) — “¡Cuánto amo tu ley!” (Salmo 119:97).",
-        "directAnswer": "La edición revisada incluye ayudas como <strong>mapas, diagramas, un glosario de términos bíblicos y un apéndice detallado sobre la transmisión del texto</strong>. Pienso usarlas para <strong>profundizar en mi estudio personal y enseñar de forma más visual</strong> en el ministerio.",
-        "deepAnswer": "Los apéndices de la <em>Traducción del Nuevo Mundo</em> revisada ofrecen herramientas valiosas como mapas históricos, pesos y medidas, y análisis de profecías. Pienso integrarlas en mi rutina de estudio para visualizar los relatos bíblicos y comprender mejor el contexto de las palabras originales. Además, en la predicación, estas ayudas me permiten <strong>enseñar de forma dinámica e instructiva</strong>, ayudando a otros a valorar y entender la Palabra de Dios.",
-        "shortAnswer": "Mapas, diagramas y glosario en apéndices, útiles para enriquecer el estudio personal y la predicación."
+        "directAnswer": "[Sugerencia: Puedes mencionar la utilidad de los mapas, diagramas, esquemas o el glosario de términos bíblicos para hacer más visual tu enseñanza.]",
+        "deepAnswer": "[Sugerencia: Explica de qué formas prácticas planeas integrar el uso de los apéndices (como el glosario o las notas culturales) en tu preparación de las reuniones o al dar clases bíblicas.]",
+        "shortAnswer": "[Sugerencia: Identifica ayudas útiles en los apéndices e incorpóralas a tu estudio y predicación.]"
       },
       {
         "id": "3B_q9",
@@ -1429,9 +1429,9 @@ const lessonsData = [
         "id": "3B_q14",
         "question": "• ¿Por qué es importante que los precursores se mantengan al día con las explicaciones más recientes? ¿Cómo has pensado hacerlo tú?",
         "references": "w10 15/7 pág. 24 párr. 15",
-        "directAnswer": "Es vital que los precursores se mantengan al día con las explicaciones más recientes porque <strong>deben enseñar la verdad con exactitud y ser ejemplos en la congregación</strong>. Pienso hacerlo <strong>dedicando tiempo constante a mi estudio personal</strong>, manteniéndome al tanto de las publicaciones y el contenido de la organización.",
-        "deepAnswer": "Mantenerse al día es crucial para los precursores. Como se explica en la atalaya (w10 15/7 pág. 24 párr. 15), nuestro entendimiento de las Escrituras se refina constantemente. Un precursor bien informado puede <strong>enseñar con autoridad y claridad, resolviendo dudas y guiando a otros de forma exacta</strong>. Pienso lograrlo mediante una rutina disciplinada de estudio personal, prestando atención a los anuncios de la organización, investigando las aclaraciones de creencias actuales y preparando a conciencia las reuniones.",
-        "shortAnswer": "Es vital estar al día para enseñar con exactitud y ser un ejemplo fiel en el estudio personal."
+        "directAnswer": "[Sugerencia: Puedes explicar que estar al día permite enseñar la verdad con exactitud y ser un buen ejemplo. Indica cómo pretendes organizar tu horario para lograrlo.]",
+        "deepAnswer": "[Sugerencia: Explica que nuestro entendimiento progresa constantemente. Señala planes específicos para tu estudio personal, como leer los últimos artículos de La Atalaya, revisar la sección de aclaraciones de creencias y apartar tiempo para investigar y meditar.]",
+        "shortAnswer": "[Sugerencia: Mantente al día estudiando la información más reciente de la organización para enseñar con exactitud.]"
       },
       {
         "id": "3B_q15",
@@ -2633,9 +2633,9 @@ const lessonsData = [
         "question": "¿Qué ideas prácticas piensas usar para empezar conversaciones?",
         "references": "Hechos 5:42",
         "subtitle": "Lección 5B Taller 1 — “Todos los días, sin parar, seguían enseñando y declarando las buenas noticias [...] de casa en casa” (Hechos 5:42).",
-        "directAnswer": "Pienso usar **comentarios breves sobre noticias locales, preguntas sencillas de opinión o mostrar un video corto de jw.org**.",
-        "deepAnswer": "Basándonos en la **Lección 5B**, las conversaciones naturales y amigables son las más eficaces. Pienso usar un tratado, hacer preguntas sobre problemas locales o usar las sugerencias del kit de enseñanza, permitiendo que la persona exprese su opinión sin presionarla.",
-        "shortAnswer": "Preguntar la opinión del amo de casa sobre temas locales o noticias del día con sencillez."
+        "directAnswer": "[Sugerencia: Puedes mencionar ideas como hacer preguntas sencillas de opinión, hablar de noticias locales de interés general o utilizar un video breve de JW.org.]",
+        "deepAnswer": "[Sugerencia: Explica qué métodos o temas te resultan más eficaces y naturales en tu territorio local (como usar tratados, hacer preguntas de opinión o iniciar con un saludo amigable) para entablar una conversación.]",
+        "shortAnswer": "[Sugerencia: Usa preguntas sencillas de opinión o temas locales que despierten el interés de la gente.]"
       },
       {
         "id": "6B_q9",
@@ -2754,7 +2754,7 @@ const lessonsData = [
       },
       {
         "id": "7A_q9",
-        "question": "¿Cómo hace esto a través de: a) cartas y correos electrónicos; b) el superintendente de circuito; c) los ancianos de la congregación?",
+        "question": "El esclavo fiel les da instrucciones y consejos a los precursores. ¿Cómo hace esto a través de...",
         "references": "",
         "directAnswer": "",
         "deepAnswer": "",
@@ -2784,8 +2784,7 @@ const lessonsData = [
             "deepAnswer": "Los ancianos de la congregación son los pastores que cuidan del rebaño a nivel local. Ellos son el punto de contacto más directo con los precursores. <strong>Se aseguran de que las instrucciones del esclavo fiel sean comprendidas y puestas en práctica, adaptándolas a las necesidades específicas de la congregación y del territorio.</strong> Su supervisión amorosa y constante es esencial para que cada precursor reciba la atención y el apoyo necesarios para perseverar en su ministerio.",
             "shortAnswer": "Los ancianos aplican las instrucciones del esclavo fiel en la congregación, apoyando directamente a los precursores en su labor diaria."
           }
-        ],
-        "subtitle": "El esclavo fiel les da instrucciones y consejos a los precursores"
+        ]
       },
       {
         "id": "7A_q10",
@@ -2808,9 +2807,9 @@ const lessonsData = [
         "id": "7A_q12",
         "question": "¿Cómo has visto que hacen esto los ancianos de tu congregación? Cuenta algún caso en el que un anciano se esforzó por ayudarte a ti o a alguien de tu familia. Los ancianos vigilan por nosotros como quienes pierden el sueño. Entonces, ¿no deberíamos colaborar con estos pastores que nos quieren y se esfuerzan por cuidarnos con ternura, como hace Jesucristo?",
         "references": "",
-        "directAnswer": "<strong>He visto cómo los ancianos brindan consuelo y guía mediante visitas de pastoreo y atención personalizada cuando pasamos por pruebas o desafíos personales.</strong>",
-        "deepAnswer": "Recuerdo con mucho aprecio una ocasión en la que, tras enfrentar un problema de salud, <strong>un anciano no solo me visitó, sino que me ayudó a buscar textos que fortalecieran mi confianza en Jehová.</strong> Este tipo de atención demuestra que los superintendentes realmente 'sienten' nuestras cargas. Es un alivio saber que no estamos solos y que el cuidado de los ancianos es una expresión del amor del Pastor Principal, Jehová.",
-        "shortAnswer": "Los ancianos muestran su amor mediante visitas de pastoreo oportunas y atención a nuestras necesidades personales."
+        "directAnswer": "Esta es una pregunta de respuesta personal. Puedes reflexionar en ocasiones en las que los ancianos te mostraron un interés sincero y personal, apoyándote espiritualmente.",
+        "deepAnswer": "Sugerencias para tu respuesta personal: <strong>Piensa en un momento en que atravesaste una prueba (enfermedad, desánimo o decisiones importantes) y un anciano te brindó textos bíblicos reconfortantes, te visitó en una visita de pastoreo o te ofreció ayuda práctica.</strong> Relata brevemente cómo ese cuidado te ayudó a sentir el amor de Jehová y por qué te motiva a colaborar con ellos voluntariamente.",
+        "shortAnswer": "Comparte una experiencia personal de cómo un anciano de tu congregación te demostró cuidado pastoral y apoyo amoroso."
       },
       {
         "id": "7A_q14",
@@ -2887,7 +2886,7 @@ const lessonsData = [
       },
       {
         "id": "7A_q23",
-        "question": "¿Por qué se sentirían felices los ancianos al verte feliz a ti? (2 Cor. 1:24). Maneras de apoyar la visita del superintendente de circuito.",
+        "question": "¿Por qué se sentirían felices los ancianos al verte feliz a ti? (2 Cor. 1:24).",
         "references": "",
         "directAnswer": "Los ancianos se sienten felices <strong>porque no son dueños de nuestra fe, sino colaboradores para que tengamos gozo</strong>. <strong>Cuando nos ven servir a Jehová con alegría, ellos cumplen su papel de pastores con mayor satisfacción</strong>.",
         "deepAnswer": "Como indica 2 Corintios 1:24, <strong>el deseo de los ancianos no es dominar nuestra fe, sino ser <em>colaboradores</em> para nuestro gozo</strong>. <strong>Ver que los publicadores progresan y encuentran felicidad en el ministerio les confirma que el rebaño está bien atendido y que Jehová bendice sus esfuerzos pastorales</strong>. ¡Es una alegría compartida ver a la congregación unida en el servicio!",
@@ -2900,7 +2899,8 @@ const lessonsData = [
         "directAnswer": "<strong>La visita es una oportunidad para el intercambio de estímulo mutuo</strong>, tal como Pablo deseaba con los hermanos de Roma. <strong>El superintendente de circuito y su esposa visitan las congregaciones para fortalecer la fe, animar en la predicación y asegurar que se siga el modelo bíblico</strong>.",
         "deepAnswer": "Durante la visita, <strong>el superintendente de circuito revisa los registros y organiza el territorio, mientras que ambos dan guía práctica mediante sus discursos y acompañamiento en el ministerio</strong> (od págs. 48, 49). Este intercambio de ánimo (Rom. 1:11, 12) es vital, pues <strong>nos permite ver el celo de quienes nos visitan y nos sentimos impulsados a imitar su fe</strong>, logrando que la congregación se sienta renovada espiritualmente.",
         "shortAnswer": "Es una oportunidad para el intercambio de estímulo mutuo y fortalecer nuestra fe.",
-        "note": "Nota al instructor: Explica las responsabilidades que tienen el superintendente de circuito y su esposa, y lo que hacen cuando visitan a las congregaciones."
+        "note": "Nota al instructor: Explica las responsabilidades que tienen el superintendente de circuito y su esposa, y lo que hacen cuando visitan a las congregaciones.",
+        "subtitle": "Maneras de apoyar la visita del superintendente de circuito"
       },
       {
         "id": "7A_q25",
@@ -2939,20 +2939,20 @@ const lessonsData = [
         "question": "¿Por qué deberías apoyar la predicación durante esa semana?",
         "references": "",
         "directAnswer": "Deberías apoyarla <strong>porque es una semana especial dedicada a intensificar nuestra actividad y recibir estímulo directo</strong>. Además, al participar, <strong>contribuimos al gozo general de la congregación y al éxito de la visita</strong>.",
-        "deepAnswer": "Apoyar la predicación durante esa semana <strong>es un reflejo de nuestro celo por las buenas noticias</strong> (Rom. 1:12). Como señala <em>Nuestro Ministerio del Reino</em>, esta semana <strong>es una ocasión excelente para aumentar nuestra participación, ya sea ofreciendo más tiempo o probando nuevas facetas del ministerio</strong>. Mi práctica personal suele ser organizar mi semana para estar disponible en las reuniones para el servicio y maximizar mis horas de predicación.",
+        "deepAnswer": "Apoyar la predicación durante esa semana <strong>es un reflejo de nuestro celo por las buenas noticias</strong> (Rom. 1:12). Como señala <em>Nuestro Ministerio del Reino</em>, esta semana <strong>es una ocasión excelente para aumentar nuestra participación, ya sea ofreciendo más tiempo o probando nuevas facetas del ministerio</strong>. Se aconseja organizar la semana para estar disponible en las reuniones para el servicio y maximizar las horas de predicación.",
         "shortAnswer": "Porque es una semana especial para aumentar nuestro celo y recibir estímulo mutuo."
       },
       {
         "id": "7A_q30",
         "question": "¿Qué sueles hacer tú?",
         "references": "Rom. 1:12; mwb19.01 pág. 7",
-        "directAnswer": "Esa fue una pregunta complementaria a la anterior. La clave es que, <strong>al participar, tanto el superintendente como la congregación se benefician de la fe que compartimos</strong>.",
-        "deepAnswer": "Al seguir el consejo de Romanos 1:12 y lo sugerido en la guía de actividades (mwb19.01), nos enfocamos en el <em>intercambio de estímulo</em>. Yo suelo <strong>hacer un esfuerzo especial por invitar a mis estudiantes y preparar mis presentaciones, pues sé que mi ejemplo de entusiasmo puede animar a otros</strong> a hacer lo mismo durante esta semana de especial atención teocrática.",
-        "shortAnswer": "Apoyo la predicación para dar y recibir estímulo, haciendo un esfuerzo extra en mi ministerio."
+        "directAnswer": "Esta es una pregunta de respuesta personal. Puedes reflexionar sobre cómo organizas tu tiempo y actividades durante esa semana especial.",
+        "deepAnswer": "Sugerencias para tu respuesta personal: <strong>Piensa en esfuerzos concretos como invitar a tus estudiantes a asistir, hacer planes de predicación con el superintendente de circuito o su esposa, o ajustar tu horario laboral o escolar para predicar más horas.</strong> Apoyar con entusiasmo la predicación y estar presente en las reuniones para el servicio son excelentes maneras de fomentar un intercambio de estímulo mutuo.",
+        "shortAnswer": "Comparte tus planes o costumbres personales para apoyar activamente la predicación en la semana de la visita."
       },
       {
         "id": "7A_q31",
-        "question": "Durante la visita del superintendente de circuito, ¿cómo puedes poner en práctica el principio de elegir “la mejor parte”? (Luc. 10:38-42). Ayuda para los precursores.",
+        "question": "Durante la visita del superintendente de circuito, ¿cómo puedes poner en práctica el principio de elegir “la mejor parte”? (Luc. 10:38-42).",
         "references": "",
         "directAnswer": "Podemos poner en práctica el principio de elegir “la mejor parte” <strong>prestando atención plena a las palabras del superintendente de circuito y aplicando sus consejos para mejorar nuestro ministerio</strong>.",
         "deepAnswer": "Al igual que María, quien se sentó a los pies de Jesús para escuchar sus enseñanzas, nosotros debemos sintonizar por completo con la guía espiritual que Jehová proporciona a través de sus siervos como el superintendente de circuito. Esto significa <strong>dejar de lado otras distracciones, ya sean ministeriales o personales, y dedicar nuestro tiempo y atención a absorber las valiosas instrucciones que nos ayudarán a servir a Jehová con mayor celo y efectividad</strong>. Al valorar estas citas, demostramos que hemos elegido la parte más importante: el crecimiento espiritual y la edificación de la congregación.",
@@ -2965,6 +2965,7 @@ const lessonsData = [
         "directAnswer": "",
         "deepAnswer": "",
         "shortAnswer": "",
+        "subtitle": "Ayuda para los precursores",
         "subQuestions": [
           {
             "id": "7A_q32_a",
@@ -3793,9 +3794,9 @@ const lessonsData = [
         "id": "8B_q24",
         "question": "¿Qué haces para volver a encontrarte con una persona si no tienes su dirección?",
         "references": "",
-        "directAnswer": "Para volver a contactar con una persona de la cual no tenemos su dirección, podemos <strong>acordar encontrarnos en un punto público específico o facilitarle nuestra información de contacto teocrático para que ella inicie el diálogo.</strong>",
-        "deepAnswer": "Queridos precursores, el celo por buscar a las ovejas de Jehová nos impulsa a ser prudentes y perspicaces. Si las leyes locales o las pautas de la sucursal impiden recoger datos personales, podemos proponer de manera muy natural: <em>'Suelo pasar por esta plaza los martes a esta misma hora, ¿le parecería bien que continuemos nuestra conversación la próxima semana?'</em>. También podemos <strong>ofrecerle una tarjeta de contacto de JW.org o nuestro número de teléfono teocrático</strong>, animándola a que sea ella quien tome la iniciativa de contactarnos.",
-        "shortAnswer": "Acuerda una cita en un lugar público común o provéele tus datos de contacto teocráticos."
+        "directAnswer": "Se puede acordar un encuentro en un punto público específico o facilitarle información de contacto teocrático (como una tarjeta de JW.org) para que la persona tome la iniciativa de contactar.",
+        "deepAnswer": "[Sugerencia: En zonas donde no se permite recopilar datos personales, puedes proponer de forma natural un día y hora para encontrarse en un lugar público, o bien facilitarle una tarjeta de contacto de JW.org o un número telefónico de la congregación.]",
+        "shortAnswer": "Acuerda una cita en un lugar público común o facilita datos de contacto teocráticos."
       },
       {
         "id": "8B_q25",
@@ -3817,9 +3818,9 @@ const lessonsData = [
         "id": "8B_q27",
         "question": "¿Qué publicaciones sueles llevar para estar preparado para predicar en cualquier momento?",
         "references": "",
-        "directAnswer": "<strong>Suelo llevar siempre tratados diversos, tarjetas de contacto de JW.org y mi dispositivo móvil con la aplicación JW Library lista para mostrar videos o leer la Biblia.</strong>",
-        "deepAnswer": "Para estar 'listos para presentar una defensa' (1 Ped. 3:15), <strong>los precursores eficientes aprovechamos el excelente formato de los tratados y las tarjetas de contacto</strong>, que caben fácilmente en un bolsillo o bolso pequeño. Además, <strong>el uso de la aplicación JW Library nos permite tener al instante una biblioteca completa en cientos de idiomas, ideal para mostrar un video corto y edificante</strong> que capte de inmediato la atención de la persona en cualquier entorno informal.",
-        "shortAnswer": "Lleva tratados variados, tarjetas de contacto de JW.org y la aplicación JW Library en tu dispositivo."
+        "directAnswer": "[Sugerencia: Puedes mencionar que llevas tratados variados, tarjetas de contacto de JW.org y tu dispositivo móvil con la aplicación JW Library lista.]",
+        "deepAnswer": "[Sugerencia: Explica cómo aprovechas herramientas de fácil distribución (como tratados y tarjetas) y el uso de JW Library en dispositivos móviles para iniciar conversaciones de forma natural y rápida en entornos informales.]",
+        "shortAnswer": "[Sugerencia: Lleva tratados variados, tarjetas de contacto de JW.org y la aplicación JW Library lista.]"
       },
       {
         "id": "8B_q28",
@@ -4155,9 +4156,9 @@ const lessonsData = [
         "id": "9B_q19",
         "question": "¿Cuáles piensas poner en práctica?",
         "references": "",
-        "directAnswer": "Pienso poner en práctica <strong>el uso de videos breves de nuestro kit de enseñanza directamente en la predicación pública y de casa en casa</strong>.",
-        "deepAnswer": "Tengo el firme propósito de aplicar la sugerencia de <em>escuchar de manera activa y comprensiva</em> antes de responder a las objeciones más comunes de las personas. <br>Al <strong>valerme con mayor destreza de la aplicación JW Library para mostrar textos bíblicos directos</strong>, podré cultivar el interés de inmediato. Confío plenamente en que Jehová bendecirá este esfuerzo por refinar la calidad de mi ministerio de tiempo completo.",
-        "shortAnswer": "Pondré en práctica el uso de videos cortos de la organización para captar el interés de inmediato."
+        "directAnswer": "[Sugerencia: Puedes indicar los métodos o sugerencias específicas de esta lección que deseas aplicar, tales como iniciar conversaciones con preguntas, usar más los videos o escuchar con más empatía.]",
+        "deepAnswer": "[Sugerencia: Describe tu meta personal para refinar la calidad de tu ministerio, por ejemplo, esforzándose por escuchar activamente a las personas o valerte de las herramientas del kit de enseñanza de manera más eficaz.]",
+        "shortAnswer": "[Sugerencia: Elige sugerencias prácticas de la lección para mejorar tu ministerio.]"
       }
     ],
     "image": "pioneer_studying.png",
@@ -4882,7 +4883,7 @@ const lessonsData = [
       },
       {
         "id": "11A_q5",
-        "question": "¿Por qué fijarte en lo que Jesús pensó, dijo e hizo te puede ayudar a conocer mejor a Jehová y su forma de pensar? (Juan 5:19, 30; 14:9, 10). Evalúa tu progreso como persona espiritual",
+        "question": "¿Por qué fijarte en lo que Jesús pensó, dijo e hizo te puede ayudar a conocer mejor a Jehová y su forma de pensar? (Juan 5:19, 30; 14:9, 10).",
         "references": "",
         "directAnswer": "Jesús imitó a su Padre con absoluta perfección; por lo tanto, <strong>al estudiar sus palabras y acciones, estamos aprendiendo directamente cómo siente, piensa y actúa Jehová.</strong>",
         "deepAnswer": "Jesucristo es el reflejo más exacto del Dios Altísimo. En Juan 14:9, Jesús afirmó categóricamente: <em>“El que me ha visto a mí ha visto al Padre también”</em>, y en Juan 5:19, 30 dejó claro que él no hacía nada por su propia cuenta, sino que imitaba a la perfección cada acción de su Padre. <strong>Al analizar detalladamente la compasión, el amor, la justicia y el valor que Jesús demostró al tratar a las personas, logramos un entendimiento profundo y conmovedor de la maravillosa personalidad de Jehová.</strong>",
@@ -4894,7 +4895,8 @@ const lessonsData = [
         "references": "Juan 4:34",
         "directAnswer": "Hacer la voluntad de su Padre era de máxima prioridad para Jesús, tanto que <strong>la comparó con su alimento, aquello que lo sustentaba y le daba verdaderas energías.</strong>",
         "deepAnswer": "En Juan 4:34, Jesús expresó con convicción: <em>“Mi alimento es hacer la voluntad del que me envió y completar su obra”</em>. Del mismo modo en que la comida física nos sostiene, nos fortalece y nos deleita, para Jesús <strong>cumplir fielmente con el ministerio encomendado por Jehová era una fuente vitalizadora de gozo inmenso y satisfacción profunda.</strong> Esta sagrada prioridad dirigió toda su existencia en la Tierra, dándole la fuerza espiritual necesaria para mantenerse leal bajo toda prueba y completar su obra con éxito.",
-        "shortAnswer": "Cumplir con la voluntad de Jehová era el \"alimento\" de Jesús, dándole profunda alegría, vitalidad y propósito en la vida."
+        "shortAnswer": "Cumplir con la voluntad de Jehová era el \"alimento\" de Jesús, dándole profunda alegría, vitalidad y propósito en la vida.",
+        "subtitle": "Evalúa tu progreso como persona espiritual"
       },
       {
         "id": "11A_q7",
@@ -6017,9 +6019,9 @@ const lessonsData = [
         "id": "12B_q14",
         "question": "• ¿Qué sugerencias del taller de hoy piensas usar?",
         "references": "",
-        "directAnswer": "Pienso usar la sugerencia de **preparar preguntas sencillas de opinión y ser constante al regresar a los pocos días**.",
-        "deepAnswer": "Aplicar las técnicas del Taller 3 nos hace ministros más ágiles. Decidir de antemano el día de regreso y dejar un tema intrigante pendiente son métodos probados que mejoran mucho nuestros resultados en el territorio.",
-        "shortAnswer": "Dejar preguntas pendientes atractivas y regresar puntualmente a los pocos días."
+        "directAnswer": "[Sugerencia: Puedes mencionar sugerencias concretas del taller, como preparar preguntas de opinión sencillas, fijar un día específico para volver o dejar una pregunta pendiente.]",
+        "deepAnswer": "[Sugerencia: Explica las técnicas del taller que te parecen más prácticas para tu territorio (como dejar un tema intrigante pendiente o regresar en pocos días) para cultivar el interés de inmediato.]",
+        "shortAnswer": "[Sugerencia: Pon en práctica ideas como dejar una pregunta de opinión pendiente y fijar la fecha de regreso.]"
       }
     ],
     "image": "pioneer_studying.png",
@@ -6040,7 +6042,7 @@ const lessonsData = [
     "questions": [
       {
         "id": "13A_q1",
-        "question": "¿Por qué podemos decir que Jesús está capacitado para ser nuestro Amo? (Is. 11:2, 3; Juan 10:14, 15; 1 Ped. 2:21; Apoc. 7:16, 17). Aprende del Amo.",
+        "question": "¿Por qué podemos decir que Jesús está capacitado para ser nuestro Amo? (Is. 11:2, 3; Juan 10:14, 15; 1 Ped. 2:21; Apoc. 7:16, 17).",
         "references": "",
         "directAnswer": "Jesús está capacitado porque <strong>conoce profundamente a Jehová, siente empatía por nosotros y es nuestro guía perfecto.</strong>",
         "deepAnswer": "Jesús demuestra ser un Amo ideal porque <strong>tiene el espíritu de Jehová (Is. 11:2, 3), conoce profundamente a sus ovejas (Juan 10:14, 15) y nos ha dejado un modelo perfecto para que sigamos sus pasos (1 Ped. 2:21)</strong>. Además, <strong>como Pastor, él se asegura de saciarnos espiritualmente y protegernos, tal como promete Apocalipsis 7:16, 17.</strong>",
@@ -6053,7 +6055,8 @@ const lessonsData = [
         "references": "Mat. 6:22",
         "directAnswer": "Jesús demostró buen juicio al <strong>mantener su ojo 'sencillo', enfocándose completamente en cumplir la voluntad de su Padre.</strong>",
         "deepAnswer": "Tal como menciona Mateo 6:22, Jesús mantuvo su vida enfocada en un solo objetivo: el Reino de Dios. <strong>Al no permitir que las distracciones materiales o las ambiciones personales nublaran su visión, pudo usar todo su tiempo y energía para el ministerio, demostrando así una sabiduría divina inigualable al priorizar lo eterno sobre lo temporal.</strong>",
-        "shortAnswer": "Su ojo estaba enfocado exclusivamente en hacer la voluntad de su Padre."
+        "shortAnswer": "Su ojo estaba enfocado exclusivamente en hacer la voluntad de su Padre.",
+        "subtitle": "Aprende del Amo"
       },
       {
         "id": "13A_q3",
@@ -6221,7 +6224,7 @@ const lessonsData = [
       },
       {
         "id": "13A_q22",
-        "question": "¿Cómo sabemos que Jesús no discriminaba a nadie y que respetaba a todo el mundo? Jesús siempre felicitaba a las personas por lo que hacían bien.",
+        "question": "¿Cómo sabemos que Jesús no discriminaba a nadie y que respetaba a todo el mundo?",
         "references": "",
         "directAnswer": "<strong>Jesús respetaba a todos porque entendía que cada persona tiene el valor suficiente para ser objeto del amor de Dios.</strong>",
         "deepAnswer": "Sabemos que no discriminaba porque <strong>trataba con igual dignidad a hombres, mujeres, judíos y samaritanos.</strong> <strong>Al resaltar las virtudes de las personas en lugar de sus errores, Jesús les daba la confianza necesaria para mejorar.</strong> Como sus discípulos, debemos esforzarnos por ver en cada individuo a alguien que merece nuestro respeto y cariño.",
@@ -6230,11 +6233,12 @@ const lessonsData = [
       },
       {
         "id": "13A_q23",
-        "question": "¿Qué te enseña eso? (Apoc. 2:2, 13, 19; 3:4). Trabaja duro, igual que Jesús.",
+        "question": "¿Qué te enseña eso? (Apoc. 2:2, 13, 19; 3:4).",
         "references": "",
         "directAnswer": "<strong>Nos enseña que, al igual que Jesús, debemos notar y encomiar sinceramente las buenas obras y el aguante de nuestros hermanos antes de dar cualquier consejo o sugerencia.</strong>",
         "deepAnswer": "Jesús, como Cabeza de la congregación cristiana, observa atentamente el esfuerzo de cada uno de sus siervos. En sus cartas a las congregaciones de Asia Menor registradas en Apocalipsis, <strong>él destacó primero los puntos positivos, como su arduo trabajo, fe y aguante, demostrando gran empatía.</strong> <strong>Al imitar este patrón en nuestro precursorado, fortalecemos a nuestros compañeros de milicia espiritual centrándonos en sus virtudes y fomentando un ambiente de amor fraternal.</strong>",
-        "shortAnswer": "Encomia siempre lo bueno de los demás antes de ofrecer sugerencias."
+        "shortAnswer": "Encomia siempre lo bueno de los demás antes de ofrecer sugerencias.",
+        "subtitle": "Jesús siempre felicitaba a las personas por lo que hacían bien."
       },
       {
         "id": "13A_q24",
@@ -6242,7 +6246,8 @@ const lessonsData = [
         "references": "Juan 4:6, 8, 32-35",
         "directAnswer": "<strong>Jesús veía su trabajo espiritual como algo vital y sumamente reconfortante, equiparándolo a su propio alimento</strong>; <strong>podemos imitarlo al dar prioridad absoluta a nuestro ministerio, incluso cuando estemos físicamente cansados.</strong>",
         "deepAnswer": "Para Jesús, <strong>cumplir la comisión de Jehová no era una carga, sino una fuente de verdadera energía y satisfacción espiritual</strong>, tal como leemos en Juan 4:34. Aunque a veces experimentaba cansancio físico (como al sentarse junto al pozo de Sicar), su prioridad seguía siendo predicar las buenas nuevas. Al imitar esta actitud en el precursorado, <strong>aprenderemos a ver el ministerio no como una obligación rutinaria, sino como el 'alimento' diario que nutre nuestra espiritualidad.</strong>",
-        "shortAnswer": "El ministerio debe ser nuestra mayor fuente de gozo y satisfacción espiritual."
+        "shortAnswer": "El ministerio debe ser nuestra mayor fuente de gozo y satisfacción espiritual.",
+        "subtitle": "Trabaja duro, igual que Jesús."
       },
       {
         "id": "13A_q25",
@@ -6279,7 +6284,7 @@ const lessonsData = [
       },
       {
         "id": "13A_q30",
-        "question": "Jesús agradeció el apoyo que le dieron. ¿Cómo puedes tú ser agradecido con los hermanos que te apoyan en tu precursorado? (Luc. 10:38-42). Sigue fielmente los pasos de Jesús.",
+        "question": "Jesús agradeció el apoyo que le dieron. ¿Cómo puedes tú ser agradecido con los hermanos que te apoyan en tu precursorado? (Luc. 10:38-42).",
         "references": "",
         "directAnswer": "<strong>Podemos mostrar agradecimiento valorando la hospitalidad y la ayuda práctica de los hermanos, animándolos espiritualmente a cambio y no siendo una carga exigente para ellos.</strong>",
         "deepAnswer": "Jesús aceptó con gratitud el servicio amoroso de hermanas como Marta y María, aprovechando la ocasión para impartirles valiosas verdades espirituales (Luc. 10:38-42). En nuestro precursorado, podemos imitar este agradecimiento <strong>valorando cada gesto de apoyo, ya sea una invitación a comer o ayuda con el transporte, sin darlo nunca por sentado.</strong> Además, <strong>al compartir con ellos experiencias edificantes del servicio o cooperar con entusiasmo en la congregación, devolvemos un 'intercambio de estímulo' espiritual muy valioso.</strong>",
@@ -6291,7 +6296,8 @@ const lessonsData = [
         "references": "",
         "directAnswer": "<strong>Jesús nos pone el ejemplo de sufrir con paciencia y sin tomar represalias, encomendándose por completo a la justicia de Jehová Dios.</strong>",
         "deepAnswer": "El apóstol Pedro nos recuerda que Jesús nos dejó un modelo para que 'sigamos fielmente sus pasos' al afrontar injusticias y sufrimientos. Cuando fue insultado y maltratado, él <strong>no respondió con insultos ni amenazas, sino que 'se encomendó al que juzga con justicia'</strong> (1 Ped. 2:23). Al encarar pruebas o malentendidos en nuestro servicio, <strong>imitar este silencio digno y esta confianza absoluta en Jehová nos protege de actuar con amargura y honra el nombre de Dios.</strong>",
-        "shortAnswer": "Ante las dificultades, confía en la justicia de Jehová y no busques vengarte."
+        "shortAnswer": "Ante las dificultades, confía en la justicia de Jehová y no busques vengarte.",
+        "subtitle": "Sigue fielmente los pasos de Jesús."
       },
       {
         "id": "13A_q32",
@@ -6758,9 +6764,9 @@ const lessonsData = [
         "id": "14A_q22",
         "question": "¿Qué tienes en cuenta para decidir cuánta información estudiar? (Juan 16:12).",
         "references": "",
-        "directAnswer": "Para decidir cuánta información estudiar, <strong>tengo en cuenta la capacidad de comprensión, la situación personal y el interés del estudiante.</strong>",
-        "deepAnswer": "Como Jesús enseñó, <strong>debemos tener en cuenta lo que el estudiante puede asimilar en ese momento</strong> (Juan 16:12). <strong>Es mejor cubrir menos puntos, pero con mayor profundidad, asegurándonos de que el estudiante capte la esencia y la importancia de lo que está aprendiendo</strong>, evitando saturarlo con demasiada información a la vez.",
-        "shortAnswer": "Adapta la cantidad de información a la capacidad y necesidades del estudiante."
+        "directAnswer": "Para decidir cuánta información estudiar, se debe tener en cuenta la capacidad de comprensión, la situación personal y las necesidades del estudiante.",
+        "deepAnswer": "Como Jesús enseñó, se debe tener en cuenta lo que el estudiante puede asimilar en ese momento (Juan 16:12). Es mejor cubrir menos puntos, pero con mayor profundidad, asegurándonos de que el estudiante capte la esencia de lo que está aprendiendo, en lugar de abrumarlo con demasiados detalles.",
+        "shortAnswer": "Adapta la cantidad de información a la capacidad y necesidades de cada estudiante."
       },
       {
         "id": "14A_q23",
@@ -7482,7 +7488,7 @@ const lessonsData = [
       },
       {
         "id": "16A_q17",
-        "question": "La felicidad no nos quita los problemas. Entonces, ¿por qué vale la pena tener una actitud positiva? (Sal. 59:16, 17; 100:2; Heb. 12:2; Sant. 1:2). Lee y comenta Colosenses 1:9-11.",
+        "question": "La felicidad no nos quita los problemas. Entonces, ¿por qué vale la pena tener una actitud positiva? (Sal. 59:16, 17; 100:2; Heb. 12:2; Sant. 1:2).",
         "references": "",
         "directAnswer": "Tener una actitud positiva vale la pena porque <strong>nos permite centrarnos en las bendiciones presentes y en la esperanza futura, en lugar de dejarnos vencer por las dificultades.</strong>",
         "deepAnswer": "Como nos muestra Colosenses 1:9-11, Jehová nos da poder para aguantar y ser pacientes con felicidad si mantenemos nuestro discernimiento espiritual. Aunque tengamos problemas, <strong>seguir el ejemplo de Jesús, quien se concentró en el 'gozo que se le puso delante' (Heb. 12:2), nos ayuda a ver más allá de las aflicciones.</strong> <strong>La gratitud y la alabanza constantes a Jehová, como en el Salmo 100:2, transforman nuestra perspectiva y nos permiten mantener la alegría incluso en medio de las pruebas.</strong>",
@@ -7495,7 +7501,8 @@ const lessonsData = [
         "references": "Mat. 5:10; 1 Ped. 4:13, 14",
         "directAnswer": "Demostramos paciencia y felicidad porque <strong>sabemos que las pruebas por servir a Dios son una señal de su aprobación.</strong>",
         "deepAnswer": "Según Mateo 5:10 y 1 Pedro 4:13, 14, <strong>sufrir por causa de la justicia nos hace felices porque significa que el espíritu de gloria y de Dios descansa sobre nosotros.</strong> Cuando enfrentamos oposición o dificultades, nuestra perseverancia y alegría son un testimonio público de nuestra lealtad. Entendemos que nuestra paciencia no es en vano, pues estamos dando honra al nombre de Jehová y fortaleciendo nuestra integridad personal.",
-        "shortAnswer": "La felicidad en las pruebas demuestra que tenemos la aprobación de Jehová."
+        "shortAnswer": "La felicidad en las pruebas demuestra que tenemos la aprobación de Jehová.",
+        "subtitle": "Lee y comenta Colosenses 1:9-11."
       },
       {
         "id": "16A_q19",
@@ -7600,7 +7607,7 @@ const lessonsData = [
       },
       {
         "id": "16B_q7",
-        "question": "¿Cómo las usó con Jesús en el desierto? Cuando se pone a prueba tu fe y confianza en Dios,",
+        "question": "¿Cómo las usó con Jesús en el desierto?",
         "references": "",
         "directAnswer": "<strong>Satanás tentó a Jesús en el desierto usando el hambre (deseo de la carne), ofreciéndole todos los reinos del mundo (deseo de los ojos) y desafiándolo a lanzarse del templo (ostentación).</strong>",
         "deepAnswer": "Cuando nos enfrentamos a pruebas, <strong>el ejemplo de Jesús nos enseña que la victoria sobre estas tentaciones depende de nuestra firmeza espiritual</strong>. Aunque Satanás intentó torcer las Escrituras para engañarlo, Jesús siempre respondió con la verdad bíblica. Al ver cómo él rechazó cada intento, aprendemos que <strong>nuestra propia confianza en Dios debe ir acompañada de un conocimiento profundo de Su Palabra</strong>, lo cual nos hace impenetrables a las tácticas del Diablo.",
@@ -7608,7 +7615,7 @@ const lessonsData = [
       },
       {
         "id": "16B_q8",
-        "question": "¿cómo pueden ayudarte las respuestas de Jesús?",
+        "question": "Cuando se pone a prueba tu fe y confianza en Dios, ¿cómo pueden ayudarte las respuestas de Jesús?",
         "references": "w13 15/8 pág. 25 párrs. 8-10",
         "directAnswer": "<strong>Las respuestas de Jesús nos ayudan a confiar en Jehová al recordarnos que nuestra prioridad debe ser la obediencia a Dios, no satisfacer necesidades personales mediante atajos.</strong>",
         "deepAnswer": "Como explica <em>La Atalaya</em>, Jesús no permitió que el hambre, la ambición o el deseo de fama nublaran su juicio. Al meditar en su ejemplo, <strong>aprendemos que cuando nos sentimos tentados o angustiados, debemos recurrir a los principios bíblicos en lugar de buscar soluciones rápidas que violen nuestra conciencia</strong>. <strong>Esto fortalece nuestra confianza en que Jehová nos proveerá lo necesario si permanecemos fieles y le ponemos a él en primer lugar.</strong>",
@@ -7697,7 +7704,7 @@ const lessonsData = [
       },
       {
         "id": "16B_q18_b",
-        "question": "Lee Josué 23:14. ¿Cómo confirman los siguientes relatos bíblicos lo que dijo Josué? Génesis 12:7; Éxodo 3:8; 12:29-32; 16:4, 13-15; Deuteronomio 8:3, 4; Josué 11:23.",
+        "question": "Lee Josué 23:14.",
         "references": "Josué 23:14; Génesis 12:7; Éxodo 3:8; 12:29-32; 16:4, 13-15; Deuteronomio 8:3, 4; Josué 11:23",
         "directAnswer": "Confirman que <strong>ni una sola palabra de todas las promesas de Jehová ha fallado</strong>; todas se cumplieron con absoluta exactitud.",
         "deepAnswer": "Josué 23:14 declara solemnemente: 'ni una sola palabra de todas las buenas promesas... ha fallado'. Relatos como la promesa de la tierra a Abrahán (Gén. 12), la liberación de Egipto (Éx. 3, 12), la provisión de maná en el desierto (Éx. 16, Deut. 8) y la conquista final de Canaán (Jos. 11:23) demuestran que <strong>Jehová cumple cada detalle de lo que promete</strong>, superando cualquier obstáculo humano o natural.",
