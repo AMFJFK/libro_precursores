@@ -743,24 +743,288 @@ function filterLessons() {
     expandAccordionMatches(rawQuery);
 }
 
-// --- EJECUTAR BÚSQUEDA ---
+// --- HELPER PARA QUITAR ETIQUETAS HTML ---
+function stripHtml(html) {
+    if (!html) return "";
+    return html.replace(/<[^>]*>/g, "");
+}
+
+// --- HELPER PARA RESALTAR COINCIDENCIAS ---
+function highlightSearchTerm(text, query) {
+    if (!text) return "";
+    const normText = normalizeText(text);
+    const normQuery = normalizeText(query);
+    if (!normQuery) return escapeHtml(text);
+    
+    let html = "";
+    let lastIdx = 0;
+    let matchIdx = normText.indexOf(normQuery, lastIdx);
+    
+    while (matchIdx !== -1) {
+        if (matchIdx > lastIdx) {
+            html += escapeHtml(text.substring(lastIdx, matchIdx));
+        }
+        html += `<mark class="search-highlight">${escapeHtml(text.substring(matchIdx, matchIdx + normQuery.length))}</mark>`;
+        lastIdx = matchIdx + normQuery.length;
+        matchIdx = normText.indexOf(normQuery, lastIdx);
+    }
+    if (lastIdx < text.length) {
+        html += escapeHtml(text.substring(lastIdx));
+    }
+    return html;
+}
+
+// --- CERRAR VISTA DE RESULTADOS DE BÚSQUEDA ---
+function clearSearchResults() {
+    const searchResultsSec = document.getElementById("search-results-section");
+    if (searchResultsSec) searchResultsSec.style.display = "none";
+
+    // Restaurar secciones de la lección activa
+    const headerBanner = document.querySelector(".header-banner");
+    if (headerBanner) headerBanner.style.display = "block";
+    const lessonIntro = document.getElementById("lesson-intro");
+    if (lessonIntro) lessonIntro.style.display = "block";
+    const accordion = document.getElementById("questions-accordion");
+    if (accordion) accordion.style.display = "block";
+    
+    // Limpiar buscador y restaurar menú lateral
+    const searchInput = document.getElementById("syllabus-search");
+    if (searchInput) {
+        searchInput.value = "";
+        filterLessons();
+    }
+}
+
+// --- IR A UN RESULTADO DE BÚSQUEDA ---
+function goToSearchResult(lessonIndex, questionId) {
+    // Cargar la lección correspondiente
+    loadLesson(lessonIndex, true);
+    
+    // Cerrar panel de resultados
+    const searchResultsSec = document.getElementById("search-results-section");
+    if (searchResultsSec) searchResultsSec.style.display = "none";
+    
+    // Abrir y enfocar la pregunta si corresponde
+    if (questionId) {
+        setTimeout(() => {
+            const subAccordion = document.getElementById(`sub-accordion-${questionId}`);
+            if (subAccordion) {
+                subAccordion.classList.add("open");
+                const parentItem = subAccordion.closest(".accordion-item");
+                if (parentItem) {
+                    parentItem.classList.add("open");
+                    parentItem.scrollIntoView({ behavior: "smooth", block: "center" });
+                }
+            } else {
+                const accordionItem = document.getElementById(`accordion-${questionId}`);
+                if (accordionItem) {
+                    accordionItem.classList.add("open");
+                    accordionItem.scrollIntoView({ behavior: "smooth", block: "center" });
+                }
+            }
+        }, 200);
+    }
+}
+
+// --- EJECUTAR BÚSQUEDA GLOBAL ---
 function executeSearch() {
     const searchInput = document.getElementById("syllabus-search");
     if (!searchInput) return;
 
-    // Asegurarse de que el menú lateral esté filtrado
+    const rawQuery = searchInput.value;
+    const query = normalizeText(rawQuery);
+    if (!query) {
+        clearSearchResults();
+        return;
+    }
+
+    // Filtrar lateral
     filterLessons();
 
-    const query = normalizeText(searchInput.value);
-    if (!query) return;
+    const matches = [];
 
-    // Buscar la primera lección visible que NO sea display: none
-    const visibleItems = Array.from(document.querySelectorAll(".nav-item"));
-    const firstVisible = visibleItems.find(item => item.style.display !== "none");
+    lessonsData.forEach((lesson, lessonIdx) => {
+        // 1. Título de Lección
+        if (normalizeText(lesson.title).includes(query)) {
+            matches.push({
+                lessonIndex: lessonIdx,
+                lessonId: lesson.id,
+                lessonTitle: lesson.title,
+                questionId: null,
+                type: "Título de Lección",
+                text: lesson.title,
+                snippet: highlightSearchTerm(lesson.title, rawQuery)
+            });
+        }
 
-    if (firstVisible) {
-        firstVisible.click();
-        searchInput.blur();
+        // 2. Lema
+        if (normalizeText(lesson.lema).includes(query)) {
+            matches.push({
+                lessonIndex: lessonIdx,
+                lessonId: lesson.id,
+                lessonTitle: lesson.title,
+                questionId: null,
+                type: "Lema",
+                text: `Lema: ${lesson.lemaSource}`,
+                snippet: highlightSearchTerm(lesson.lema, rawQuery)
+            });
+        }
+
+        // 3. Introducción
+        if (normalizeText(lesson.intro).includes(query)) {
+            matches.push({
+                lessonIndex: lessonIdx,
+                lessonId: lesson.id,
+                lessonTitle: lesson.title,
+                questionId: null,
+                type: "Introducción",
+                text: "Introducción de la lección",
+                snippet: highlightSearchTerm(stripHtml(lesson.intro), rawQuery)
+            });
+        }
+
+        // 4. Preguntas
+        if (lesson.questions) {
+            lesson.questions.forEach((q, qIdx) => {
+                // Pregunta en sí
+                if (normalizeText(q.question).includes(query)) {
+                    matches.push({
+                        lessonIndex: lessonIdx,
+                        lessonId: lesson.id,
+                        lessonTitle: lesson.title,
+                        questionId: q.id,
+                        type: `Pregunta ${qIdx + 1}`,
+                        text: q.question,
+                        snippet: highlightSearchTerm(q.question, rawQuery)
+                    });
+                }
+
+                // Campos de respuesta y referencias
+                let snippetSource = "";
+                let sourceName = "";
+                if (normalizeText(q.directAnswer).includes(query)) {
+                    snippetSource = q.directAnswer;
+                    sourceName = "Respuesta Directa";
+                } else if (normalizeText(q.deepAnswer).includes(query)) {
+                    snippetSource = q.deepAnswer;
+                    sourceName = "Respuesta Detallada";
+                } else if (normalizeText(q.shortAnswer).includes(query)) {
+                    snippetSource = q.shortAnswer;
+                    sourceName = "Respuesta Corta";
+                } else if (q.references && normalizeText(q.references).includes(query)) {
+                    snippetSource = q.references;
+                    sourceName = "Referencias";
+                }
+
+                if (snippetSource) {
+                    matches.push({
+                        lessonIndex: lessonIdx,
+                        lessonId: lesson.id,
+                        lessonTitle: lesson.title,
+                        questionId: q.id,
+                        type: `Pregunta ${qIdx + 1} (${sourceName})`,
+                        text: q.question,
+                        snippet: highlightSearchTerm(stripHtml(snippetSource), rawQuery)
+                    });
+                }
+
+                // Subpreguntas si existen
+                if (q.subQuestions) {
+                    q.subQuestions.forEach((subQ, subIdx) => {
+                        if (normalizeText(subQ.question).includes(query)) {
+                            matches.push({
+                                lessonIndex: lessonIdx,
+                                lessonId: lesson.id,
+                                lessonTitle: lesson.title,
+                                questionId: subQ.id,
+                                type: `Pregunta ${qIdx + 1}, apartado ${String.fromCharCode(97 + subIdx)})`,
+                                text: subQ.question,
+                                snippet: highlightSearchTerm(subQ.question, rawQuery)
+                            });
+                        }
+
+                        let subSnippetSource = "";
+                        let subSourceName = "";
+                        if (normalizeText(subQ.directAnswer).includes(query)) {
+                            subSnippetSource = subQ.directAnswer;
+                            subSourceName = "Respuesta Directa";
+                        } else if (normalizeText(subQ.deepAnswer).includes(query)) {
+                            subSnippetSource = subQ.deepAnswer;
+                            subSourceName = "Respuesta Detallada";
+                        } else if (normalizeText(subQ.shortAnswer).includes(query)) {
+                            subSnippetSource = subQ.shortAnswer;
+                            subSourceName = "Respuesta Corta";
+                        } else if (subQ.references && normalizeText(subQ.references).includes(query)) {
+                            subSnippetSource = subQ.references;
+                            subSourceName = "Referencias";
+                        }
+
+                        if (subSnippetSource) {
+                            matches.push({
+                                lessonIndex: lessonIdx,
+                                lessonId: lesson.id,
+                                lessonTitle: lesson.title,
+                                questionId: subQ.id,
+                                type: `Pregunta ${qIdx + 1}, apartado ${String.fromCharCode(97 + subIdx)}) (${subSourceName})`,
+                                text: subQ.question,
+                                snippet: highlightSearchTerm(stripHtml(subSnippetSource), rawQuery)
+                            });
+                        }
+                    });
+                }
+            });
+        }
+    });
+
+    // Ocultar paneles normales de lección
+    const headerBanner = document.querySelector(".header-banner");
+    if (headerBanner) headerBanner.style.display = "none";
+    const lessonIntro = document.getElementById("lesson-intro");
+    if (lessonIntro) lessonIntro.style.display = "none";
+    const accordion = document.getElementById("questions-accordion");
+    if (accordion) accordion.style.display = "none";
+    
+    // Ocultar sección de IA si estuviera visible
+    const aiChatSec = document.getElementById("ai-chat-section");
+    if (aiChatSec) aiChatSec.style.display = "none";
+    const aiChatBtn = document.getElementById("ai-chat-sidebar-btn");
+    if (aiChatBtn) aiChatBtn.classList.remove("active");
+
+    // Mostrar sección de resultados
+    const searchResultsSec = document.getElementById("search-results-section");
+    if (searchResultsSec) searchResultsSec.style.display = "flex";
+
+    document.getElementById("search-results-query-text").textContent = rawQuery;
+
+    const listEl = document.getElementById("search-results-list");
+    listEl.innerHTML = "";
+
+    if (matches.length === 0) {
+        listEl.innerHTML = `<div class="search-results-empty">No se encontraron coincidencias para "<strong>${escapeHtml(rawQuery)}</strong>". Intenta con otra palabra.</div>`;
+        document.getElementById("search-results-count-text").textContent = `No se encontraron coincidencias en el manual.`;
+    } else {
+        document.getElementById("search-results-count-text").textContent = `Se encontraron ${matches.length} coincidencias en el manual.`;
+        
+        matches.forEach(m => {
+            const itemEl = document.createElement("div");
+            itemEl.className = "search-result-item";
+            itemEl.onclick = () => goToSearchResult(m.lessonIndex, m.questionId);
+            
+            itemEl.innerHTML = `
+                <div class="search-result-meta">
+                    <span class="search-result-lesson-title">Lección ${m.lessonId}: ${escapeHtml(m.lessonTitle)}</span>
+                    <span class="search-result-question-num">${escapeHtml(m.type)}</span>
+                </div>
+                <p class="search-result-question">${escapeHtml(m.text)}</p>
+                <p class="search-result-snippet">${m.snippet}</p>
+            `;
+            listEl.appendChild(itemEl);
+        });
+    }
+
+    // Scroll suave a los resultados en móviles
+    if (window.innerWidth <= 1024) {
+        searchResultsSec.scrollIntoView({ behavior: "smooth" });
     }
 }
 

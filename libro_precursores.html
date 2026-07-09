@@ -156,6 +156,23 @@
                     </button>
                 </div>
             </section>
+            
+            <!-- Resultados de Búsqueda -->
+            <section class="search-results-container" id="search-results-section" style="display: none;">
+                <div class="search-results-header">
+                    <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+                        <div style="display: flex; align-items: center; gap: 12px;">
+                            <span class="search-results-badge">🔍 Buscar</span>
+                            <h3>Resultados para: “<span id="search-results-query-text" style="color: var(--accent-color);"></span>”</h3>
+                        </div>
+                        <button class="theme-btn" onclick="clearSearchResults()" style="font-size: 0.75rem; padding: 6px 12px;">Cerrar Resultados</button>
+                    </div>
+                    <p id="search-results-count-text">Se encontraron 0 coincidencias en el manual.</p>
+                </div>
+                <div class="search-results-list" id="search-results-list">
+                    <!-- Se cargará dinámicamente -->
+                </div>
+            </section>
         </main>
 
         <!-- CONTROL SIDEBAR DERECHA (HERRAMIENTAS AUXILIARES) -->
