@@ -23,6 +23,22 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Inicializar Resaltador de Texto
     initTextHighlighter();
+
+    // Configurar comportamiento del buscador al presionar Enter
+    const searchInput = document.getElementById("syllabus-search");
+    if (searchInput) {
+        searchInput.addEventListener("keydown", (event) => {
+            if (event.key === "Enter") {
+                event.preventDefault();
+                // Buscar la primera lección visible filtrada
+                const firstVisible = document.querySelector(".nav-item:not([style*='display: none'])");
+                if (firstVisible) {
+                    firstVisible.click();
+                    searchInput.blur();
+                }
+            }
+        });
+    }
 });
 // --- MENÚ DE LECCIONES ---
 function renderLessonsMenu() {
@@ -132,6 +148,7 @@ function loadLesson(index, scroll = false) {
     const rawQuery = document.getElementById("syllabus-search").value;
     if (rawQuery) {
         highlightMatches(document.querySelector(".main-content"), rawQuery);
+        expandAccordionMatches(rawQuery);
     }
 }
 
@@ -664,6 +681,35 @@ function speakScripture() {
     speakText(null, "scripture-viewer-content", "speak-scripture-btn");
 }
 
+// --- AUTO-EXPANDIR ACORDEONES QUE CONTIENEN COINCIDENCIAS ---
+function expandAccordionMatches(rawQuery) {
+    const query = normalizeText(rawQuery);
+    if (query !== "") {
+        document.querySelectorAll(".accordion-item").forEach(item => {
+            if (item.querySelector(".search-highlight")) {
+                item.classList.add("open");
+            } else {
+                item.classList.remove("open");
+            }
+        });
+        document.querySelectorAll(".sub-accordion-item").forEach(item => {
+            if (item.querySelector(".search-highlight")) {
+                item.classList.add("open");
+                const parentAccordion = item.closest(".accordion-item");
+                if (parentAccordion) {
+                    parentAccordion.classList.add("open");
+                }
+            } else {
+                item.classList.remove("open");
+            }
+        });
+    } else {
+        document.querySelectorAll(".accordion-item, .sub-accordion-item").forEach(item => {
+            item.classList.remove("open");
+        });
+    }
+}
+
 // --- BUSCADOR TEMÁTICO DE LA ESCUELA CON TOLERANCIA A ACENTOS ---
 function filterLessons() {
     const rawQuery = document.getElementById("syllabus-search").value;
@@ -699,6 +745,7 @@ function filterLessons() {
 
     // Resaltar términos de búsqueda en el contenido de la lección activa
     highlightMatches(document.querySelector(".main-content"), rawQuery);
+    expandAccordionMatches(rawQuery);
 }
 
 // --- MODO CONCENTRACIÓN (MODO ZEN) ---
