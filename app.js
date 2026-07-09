@@ -809,6 +809,40 @@ function hasAnyWordMatch(text, termsArray) {
     });
 }
 
+function getMatchScore(match, rawQuery) {
+    let score = 0;
+    
+    // 1. Relevancia según la sección donde aparece
+    const type = match.type;
+    if (type.includes("Título de Lección")) {
+        score += 100;
+    } else if (type.includes("Respuesta Detallada")) {
+        score += 90;
+    } else if (type.includes("Respuesta Directa")) {
+        score += 80;
+    } else if (type.includes("Pregunta") && !type.includes("(")) {
+        score += 70;
+    } else if (type.includes("Introducción")) {
+        score += 50;
+    } else if (type.includes("Lema")) {
+        score += 40;
+    } else if (type.includes("Respuesta Corta")) {
+        score += 30;
+    } else if (type.includes("Referencias")) {
+        score += 10;
+    } else {
+        score += 20;
+    }
+    
+    // 2. Bonus si el término exacto original aparece en el texto del resultado
+    const snippetRaw = stripHtml(match.snippet || "");
+    if (hasAnyWordMatch(match.text, [rawQuery]) || hasAnyWordMatch(snippetRaw, [rawQuery])) {
+        score += 50;
+    }
+    
+    return score;
+}
+
 // --- AUTO-EXPANDIR ACORDEONES QUE CONTIENEN COINCIDENCIAS ---
 function expandAccordionMatches(rawQuery) {
     const query = normalizeText(rawQuery);
@@ -1139,6 +1173,12 @@ function executeSearch() {
             });
         }
     });
+
+    // Calcular relevancia y ordenar los resultados
+    matches.forEach(m => {
+        m.score = getMatchScore(m, rawQuery);
+    });
+    matches.sort((a, b) => b.score - a.score);
 
     // Ocultar paneles normales de lección
     const headerBanner = document.querySelector(".header-banner");
