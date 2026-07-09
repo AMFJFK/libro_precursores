@@ -30,12 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
         searchInput.addEventListener("keydown", (event) => {
             if (event.key === "Enter") {
                 event.preventDefault();
-                // Buscar la primera lección visible filtrada
-                const firstVisible = document.querySelector(".nav-item:not([style*='display: none'])");
-                if (firstVisible) {
-                    firstVisible.click();
-                    searchInput.blur();
-                }
+                executeSearch();
             }
         });
     }
@@ -746,6 +741,27 @@ function filterLessons() {
     // Resaltar términos de búsqueda en el contenido de la lección activa
     highlightMatches(document.querySelector(".main-content"), rawQuery);
     expandAccordionMatches(rawQuery);
+}
+
+// --- EJECUTAR BÚSQUEDA ---
+function executeSearch() {
+    const searchInput = document.getElementById("syllabus-search");
+    if (!searchInput) return;
+
+    // Asegurarse de que el menú lateral esté filtrado
+    filterLessons();
+
+    const query = normalizeText(searchInput.value);
+    if (!query) return;
+
+    // Buscar la primera lección visible que NO sea display: none
+    const visibleItems = Array.from(document.querySelectorAll(".nav-item"));
+    const firstVisible = visibleItems.find(item => item.style.display !== "none");
+
+    if (firstVisible) {
+        firstVisible.click();
+        searchInput.blur();
+    }
 }
 
 // --- MODO CONCENTRACIÓN (MODO ZEN) ---

@@ -266,10 +266,13 @@ body {
 /* Buscador Temático de la Escuela */
 .search-box {
     width: 100%;
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
 }
 
 .search-box input {
-    width: 100%;
+    flex: 1;
     padding: 10px 12px;
     border: 1px solid var(--border-color);
     border-radius: var(--border-radius-sm);
@@ -278,12 +281,37 @@ body {
     font-family: inherit;
     font-size: 0.82rem;
     transition: all 0.2s;
+    min-width: 0; /* Evitar que el input se desborde en contenedores flex */
 }
 
 .search-box input:focus {
     outline: none;
     border-color: var(--accent-color);
     box-shadow: 0 0 0 2px rgba(var(--primary-rgb), 0.1);
+}
+
+.search-btn {
+    padding: 10px 14px;
+    background: var(--accent-color);
+    color: #fff;
+    border: none;
+    border-radius: var(--border-radius-sm);
+    font-size: 0.82rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s, transform 0.1s;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+}
+
+.search-btn:hover {
+    opacity: 0.9;
+}
+
+.search-btn:active {
+    transform: scale(0.95);
 }
 
 /* Lesson Navigation List */
