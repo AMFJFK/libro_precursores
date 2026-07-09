@@ -676,6 +676,58 @@ function speakScripture() {
     speakText(null, "scripture-viewer-content", "speak-scripture-btn");
 }
 
+// --- CONFIGURACIÓN DE GRUPOS CONCEPTUALES (BÚSQUEDA TEMÁTICA AVANZADA) ---
+const conceptGroups = [
+    {
+        name: "Fe y Confianza",
+        keywords: ["fe", "fiel", "fidelidad", "confianza", "creer", "creencia", "confiar", "seguridad"]
+    },
+    {
+        name: "Predicación y Ministerio",
+        keywords: ["predicar", "predicacion", "ministerio", "servicio", "campo", "publicador", "mensaje", "casa", "testificar", "obra", "evangelizar"]
+    },
+    {
+        name: "Oración",
+        keywords: ["oracion", "orar", "orarle", "ruego", "suplicar", "peticion", "comunicacion", "hablar"]
+    },
+    {
+        name: "Estudio y Meditación",
+        keywords: ["estudio", "estudiar", "meditar", "meditacion", "leer", "lectura", "analizar", "investigar", "profundo"]
+    },
+    {
+        name: "Amor y Amistad",
+        keywords: ["amor", "amar", "amistad", "amigo", "afecto", "cariño", "lealtad", "leal"]
+    },
+    {
+        name: "Organización y Guía",
+        keywords: ["organizacion", "esclavo", "cuerpo", "gobernante", "guia", "teocracia", "teocratico", "canal", "instrucciones", "direccion"]
+    },
+    {
+        name: "Liderazgo y Cuidado",
+        keywords: ["superintendente", "anciano", "ancianos", "pastores", "pastor", "visita", "circuito", "cuidado"]
+    },
+    {
+        name: "Servicio de Precursor",
+        keywords: ["precursor", "precursores", "precursorado", "horas", "pionero"]
+    },
+    {
+        name: "Biblia y Traducción",
+        keywords: ["biblia", "escrituras", "traduccion", "nuevo", "mundo", "texto", "pasajes", "manuscritos", "referencias"]
+    },
+    {
+        name: "Dios (Jehová / Jesús)",
+        keywords: ["jehova", "dios", "jesus", "cristo", "padre", "señor", "hijo", "instructor"]
+    },
+    {
+        name: "Familia y Hogar",
+        keywords: ["hogar", "familia", "hijos", "padres", "matrimonio", "esposo", "esposa"]
+    },
+    {
+        name: "Reuniones y Congregación",
+        keywords: ["reunion", "reuniones", "congregacion", "hermanos", "hermana", "salon", "comunidad"]
+    }
+];
+
 // --- FUNCIONES AUXILIARES PARA BÚSQUEDA POR PALABRAS COMPLETAS ---
 function isAlphaNumeric(char) {
     if (!char) return false;
@@ -716,20 +768,45 @@ function isValidWordMatch(normalizedText, query, matchIdx) {
     return allowedSuffixes.has(suffix);
 }
 
-function hasWordMatch(text, query) {
-    if (!text || !query) return false;
+function getExpandedTerms(rawQuery) {
+    const query = normalizeText(rawQuery);
+    const queryWords = query.split(/\s+/).filter(w => w.length > 1);
+    if (queryWords.length === 0) return [query];
+
+    const expandedTerms = new Set();
+    queryWords.forEach(word => {
+        expandedTerms.add(word);
+        
+        conceptGroups.forEach(group => {
+            const matchesGroup = group.keywords.some(kw => {
+                const normKw = normalizeText(kw);
+                return normKw === word || (word.length >= 4 && normKw.startsWith(word.substring(0, 4)));
+            });
+            
+            if (matchesGroup) {
+                group.keywords.forEach(kw => expandedTerms.add(normalizeText(kw)));
+            }
+        });
+    });
+    return Array.from(expandedTerms);
+}
+
+function hasAnyWordMatch(text, termsArray) {
+    if (!text || !termsArray || termsArray.length === 0) return false;
     const normText = normalizeText(text);
-    const normQuery = normalizeText(query);
-    if (!normText.includes(normQuery)) return false;
-    
-    let idx = normText.indexOf(normQuery);
-    while (idx !== -1) {
-        if (isValidWordMatch(normText, normQuery, idx)) {
-            return true;
+    return termsArray.some(term => {
+        const normTerm = normalizeText(term);
+        if (!normText.includes(normTerm)) return false;
+        
+        let idx = normText.indexOf(normTerm);
+        while (idx !== -1) {
+            if (isValidWordMatch(normText, normTerm, idx)) {
+                return true;
+            }
+            idx = normText.indexOf(normTerm, idx + 1);
         }
-        idx = normText.indexOf(normQuery, idx + 1);
-    }
-    return false;
+        return false;
+    });
 }
 
 // --- AUTO-EXPANDIR ACORDEONES QUE CONTIENEN COINCIDENCIAS ---
@@ -767,27 +844,36 @@ function filterLessons() {
     const query = normalizeText(rawQuery);
     const navItems = document.querySelectorAll(".nav-item");
     
+    if (query === "") {
+        navItems.forEach(item => item.style.display = "flex");
+        highlightMatches(document.querySelector(".main-content"), "");
+        expandAccordionMatches("");
+        return;
+    }
+    
+    const termsArray = getExpandedTerms(rawQuery);
+    
     lessonsData.forEach((lesson, index) => {
         const item = navItems[index];
         if (!item) return;
 
-        const matchTitle = hasWordMatch(lesson.title, rawQuery);
+        const matchTitle = hasAnyWordMatch(lesson.title, termsArray);
         const matchId = normalizeText(lesson.id).includes(query);
-        const matchLema = hasWordMatch(lesson.lema, rawQuery);
-        const matchIntro = hasWordMatch(lesson.intro, rawQuery);
+        const matchLema = hasAnyWordMatch(lesson.lema, termsArray);
+        const matchIntro = hasAnyWordMatch(lesson.intro, termsArray);
         
         let matchQuestions = false;
         if (lesson.questions) {
             matchQuestions = lesson.questions.some(q => 
-                hasWordMatch(q.question, rawQuery) ||
-                hasWordMatch(q.directAnswer, rawQuery) ||
-                hasWordMatch(q.deepAnswer, rawQuery) ||
-                hasWordMatch(q.shortAnswer, rawQuery) ||
-                (q.references && hasWordMatch(q.references, rawQuery))
+                hasAnyWordMatch(q.question, termsArray) ||
+                hasAnyWordMatch(q.directAnswer, termsArray) ||
+                hasAnyWordMatch(q.deepAnswer, termsArray) ||
+                hasAnyWordMatch(q.shortAnswer, termsArray) ||
+                (q.references && hasAnyWordMatch(q.references, termsArray))
             );
         }
         
-        if (matchTitle || matchId || matchLema || matchIntro || matchQuestions || query === "") {
+        if (matchTitle || matchId || matchLema || matchIntro || matchQuestions) {
             item.style.display = "flex";
         } else {
             item.style.display = "none";
@@ -805,27 +891,46 @@ function stripHtml(html) {
     return html.replace(/<[^>]*>/g, "");
 }
 
-// --- HELPER PARA RESALTAR COINCIDENCIAS ---
-function highlightSearchTerm(text, query) {
+// --- HELPER PARA RESALTAR COINCIDENCIAS MULTIPLES ---
+function highlightSearchTerm(text, termsArray) {
     if (!text) return "";
+    if (!termsArray || termsArray.length === 0) return escapeHtml(text);
+    
     const normText = normalizeText(text);
-    const normQuery = normalizeText(query);
-    if (!normQuery) return escapeHtml(text);
+    const matches = [];
+    
+    termsArray.forEach(term => {
+        const normTerm = normalizeText(term);
+        let idx = normText.indexOf(normTerm);
+        while (idx !== -1) {
+            if (isValidWordMatch(normText, normTerm, idx)) {
+                matches.push({ start: idx, end: idx + normTerm.length });
+            }
+            idx = normText.indexOf(normTerm, idx + 1);
+        }
+    });
+    
+    if (matches.length === 0) return escapeHtml(text);
+    
+    matches.sort((a, b) => a.start - b.start);
+    const cleanMatches = [];
+    let lastEnd = 0;
+    matches.forEach(m => {
+        if (m.start >= lastEnd) {
+            cleanMatches.push(m);
+            lastEnd = m.end;
+        }
+    });
     
     let html = "";
     let lastIdx = 0;
-    let matchIdx = normText.indexOf(normQuery, lastIdx);
-    
-    while (matchIdx !== -1) {
-        if (isValidWordMatch(normText, normQuery, matchIdx)) {
-            if (matchIdx > lastIdx) {
-                html += escapeHtml(text.substring(lastIdx, matchIdx));
-            }
-            html += `<mark class="search-highlight">${escapeHtml(text.substring(matchIdx, matchIdx + normQuery.length))}</mark>`;
-            lastIdx = matchIdx + normQuery.length;
+    cleanMatches.forEach(m => {
+        if (m.start > lastIdx) {
+            html += escapeHtml(text.substring(lastIdx, m.start));
         }
-        matchIdx = normText.indexOf(normQuery, matchIdx + 1);
-    }
+        html += `<mark class="search-highlight">${escapeHtml(text.substring(m.start, m.end))}</mark>`;
+        lastIdx = m.end;
+    });
     if (lastIdx < text.length) {
         html += escapeHtml(text.substring(lastIdx));
     }
@@ -899,11 +1004,12 @@ function executeSearch() {
     // Filtrar lateral
     filterLessons();
 
+    const termsArray = getExpandedTerms(rawQuery);
     const matches = [];
 
     lessonsData.forEach((lesson, lessonIdx) => {
         // 1. Título de Lección
-        if (hasWordMatch(lesson.title, rawQuery)) {
+        if (hasAnyWordMatch(lesson.title, termsArray)) {
             matches.push({
                 lessonIndex: lessonIdx,
                 lessonId: lesson.id,
@@ -911,12 +1017,12 @@ function executeSearch() {
                 questionId: null,
                 type: "Título de Lección",
                 text: lesson.title,
-                snippet: highlightSearchTerm(lesson.title, rawQuery)
+                snippet: highlightSearchTerm(lesson.title, termsArray)
             });
         }
 
         // 2. Lema
-        if (hasWordMatch(lesson.lema, rawQuery)) {
+        if (hasAnyWordMatch(lesson.lema, termsArray)) {
             matches.push({
                 lessonIndex: lessonIdx,
                 lessonId: lesson.id,
@@ -924,12 +1030,12 @@ function executeSearch() {
                 questionId: null,
                 type: "Lema",
                 text: `Lema: ${lesson.lemaSource}`,
-                snippet: highlightSearchTerm(lesson.lema, rawQuery)
+                snippet: highlightSearchTerm(lesson.lema, termsArray)
             });
         }
 
         // 3. Introducción
-        if (hasWordMatch(lesson.intro, rawQuery)) {
+        if (hasAnyWordMatch(lesson.intro, termsArray)) {
             matches.push({
                 lessonIndex: lessonIdx,
                 lessonId: lesson.id,
@@ -937,7 +1043,7 @@ function executeSearch() {
                 questionId: null,
                 type: "Introducción",
                 text: "Introducción de la lección",
-                snippet: highlightSearchTerm(stripHtml(lesson.intro), rawQuery)
+                snippet: highlightSearchTerm(stripHtml(lesson.intro), termsArray)
             });
         }
 
@@ -945,7 +1051,7 @@ function executeSearch() {
         if (lesson.questions) {
             lesson.questions.forEach((q, qIdx) => {
                 // Pregunta en sí
-                if (hasWordMatch(q.question, rawQuery)) {
+                if (hasAnyWordMatch(q.question, termsArray)) {
                     matches.push({
                         lessonIndex: lessonIdx,
                         lessonId: lesson.id,
@@ -953,23 +1059,23 @@ function executeSearch() {
                         questionId: q.id,
                         type: `Pregunta ${qIdx + 1}`,
                         text: q.question,
-                        snippet: highlightSearchTerm(q.question, rawQuery)
+                        snippet: highlightSearchTerm(q.question, termsArray)
                     });
                 }
 
                 // Campos de respuesta y referencias
                 let snippetSource = "";
                 let sourceName = "";
-                if (hasWordMatch(q.directAnswer, rawQuery)) {
+                if (hasAnyWordMatch(q.directAnswer, termsArray)) {
                     snippetSource = q.directAnswer;
                     sourceName = "Respuesta Directa";
-                } else if (hasWordMatch(q.deepAnswer, rawQuery)) {
+                } else if (hasAnyWordMatch(q.deepAnswer, termsArray)) {
                     snippetSource = q.deepAnswer;
                     sourceName = "Respuesta Detallada";
-                } else if (hasWordMatch(q.shortAnswer, rawQuery)) {
+                } else if (hasAnyWordMatch(q.shortAnswer, termsArray)) {
                     snippetSource = q.shortAnswer;
                     sourceName = "Respuesta Corta";
-                } else if (q.references && hasWordMatch(q.references, rawQuery)) {
+                } else if (q.references && hasAnyWordMatch(q.references, termsArray)) {
                     snippetSource = q.references;
                     sourceName = "Referencias";
                 }
@@ -982,14 +1088,14 @@ function executeSearch() {
                         questionId: q.id,
                         type: `Pregunta ${qIdx + 1} (${sourceName})`,
                         text: q.question,
-                        snippet: highlightSearchTerm(stripHtml(snippetSource), rawQuery)
+                        snippet: highlightSearchTerm(stripHtml(snippetSource), termsArray)
                     });
                 }
 
                 // Subpreguntas si existen
                 if (q.subQuestions) {
                     q.subQuestions.forEach((subQ, subIdx) => {
-                        if (hasWordMatch(subQ.question, rawQuery)) {
+                        if (hasAnyWordMatch(subQ.question, termsArray)) {
                             matches.push({
                                 lessonIndex: lessonIdx,
                                 lessonId: lesson.id,
@@ -997,22 +1103,22 @@ function executeSearch() {
                                 questionId: subQ.id,
                                 type: `Pregunta ${qIdx + 1}, apartado ${String.fromCharCode(97 + subIdx)})`,
                                 text: subQ.question,
-                                snippet: highlightSearchTerm(subQ.question, rawQuery)
+                                snippet: highlightSearchTerm(subQ.question, termsArray)
                             });
                         }
 
                         let subSnippetSource = "";
                         let subSourceName = "";
-                        if (hasWordMatch(subQ.directAnswer, rawQuery)) {
+                        if (hasAnyWordMatch(subQ.directAnswer, termsArray)) {
                             subSnippetSource = subQ.directAnswer;
                             subSourceName = "Respuesta Directa";
-                        } else if (hasWordMatch(subQ.deepAnswer, rawQuery)) {
+                        } else if (hasAnyWordMatch(subQ.deepAnswer, termsArray)) {
                             subSnippetSource = subQ.deepAnswer;
                             subSourceName = "Respuesta Detallada";
-                        } else if (hasWordMatch(subQ.shortAnswer, rawQuery)) {
+                        } else if (hasAnyWordMatch(subQ.shortAnswer, termsArray)) {
                             subSnippetSource = subQ.shortAnswer;
                             subSourceName = "Respuesta Corta";
-                        } else if (subQ.references && hasWordMatch(subQ.references, rawQuery)) {
+                        } else if (subQ.references && hasAnyWordMatch(subQ.references, termsArray)) {
                             subSnippetSource = subQ.references;
                             subSourceName = "Referencias";
                         }
@@ -1025,7 +1131,7 @@ function executeSearch() {
                                 questionId: subQ.id,
                                 type: `Pregunta ${qIdx + 1}, apartado ${String.fromCharCode(97 + subIdx)}) (${subSourceName})`,
                                 text: subQ.question,
-                                snippet: highlightSearchTerm(stripHtml(subSnippetSource), rawQuery)
+                                snippet: highlightSearchTerm(stripHtml(subSnippetSource), termsArray)
                             });
                         }
                     });
@@ -1335,7 +1441,8 @@ function importBackup(event) {
 function highlightMatches(element, query) {
     clearHighlights(element);
     if (!query || !query.trim()) return;
-    highlightTextNodes(element, query.trim());
+    const termsArray = getExpandedTerms(query);
+    highlightTextNodes(element, termsArray);
 }
 
 function clearHighlights(element) {
@@ -1351,10 +1458,8 @@ function clearHighlights(element) {
     });
 }
 
-function highlightTextNodes(element, query) {
-    if (!element || !query) return;
-    const normalizedQuery = normalizeText(query);
-    if (!normalizedQuery) return;
+function highlightTextNodes(element, termsArray) {
+    if (!element || !termsArray || termsArray.length === 0) return;
 
     const walker = document.createTreeWalker(element, NodeFilter.SHOW_TEXT, null, false);
     const nodesToReplace = [];
@@ -1370,15 +1475,18 @@ function highlightTextNodes(element, query) {
             
             const normalizedText = normalizeText(currentNode.nodeValue);
             
-            let matchFound = false;
-            let idx = normalizedText.indexOf(normalizedQuery);
-            while (idx !== -1) {
-                if (isValidWordMatch(normalizedText, normalizedQuery, idx)) {
-                    matchFound = true;
-                    break;
+            // Verificar si hay coincidencia para alguno de los términos
+            const matchFound = termsArray.some(term => {
+                const normTerm = normalizeText(term);
+                let idx = normalizedText.indexOf(normTerm);
+                while (idx !== -1) {
+                    if (isValidWordMatch(normalizedText, normTerm, idx)) {
+                        return true;
+                    }
+                    idx = normalizedText.indexOf(normTerm, idx + 1);
                 }
-                idx = normalizedText.indexOf(normalizedQuery, idx + 1);
-            }
+                return false;
+            });
             
             if (matchFound) {
                 nodesToReplace.push(currentNode);
@@ -1392,25 +1500,46 @@ function highlightTextNodes(element, query) {
         const normalizedText = normalizeText(text);
         const parent = node.parentNode;
         
+        // Encontrar todas las coincidencias para todos los términos
+        const matches = [];
+        termsArray.forEach(term => {
+            const normTerm = normalizeText(term);
+            let idx = normalizedText.indexOf(normTerm);
+            while (idx !== -1) {
+                if (isValidWordMatch(normalizedText, normTerm, idx)) {
+                    matches.push({ start: idx, end: idx + normTerm.length });
+                }
+                idx = normalizedText.indexOf(normTerm, idx + 1);
+            }
+        });
+        
+        if (matches.length === 0) return;
+        
+        // Ordenar y desduplicar coincidencias
+        matches.sort((a, b) => a.start - b.start);
+        const cleanMatches = [];
+        let lastEnd = 0;
+        matches.forEach(m => {
+            if (m.start >= lastEnd) {
+                cleanMatches.push(m);
+                lastEnd = m.end;
+            }
+        });
+        
         const fragment = document.createDocumentFragment();
         let lastIndex = 0;
-        let matchIndex = normalizedText.indexOf(normalizedQuery, lastIndex);
-        
-        while (matchIndex !== -1) {
-            if (isValidWordMatch(normalizedText, normalizedQuery, matchIndex)) {
-                if (matchIndex > lastIndex) {
-                    fragment.appendChild(document.createTextNode(text.substring(lastIndex, matchIndex)));
-                }
-                
-                const mark = document.createElement('mark');
-                mark.className = 'search-highlight';
-                mark.appendChild(document.createTextNode(text.substring(matchIndex, matchIndex + normalizedQuery.length)));
-                fragment.appendChild(mark);
-                
-                lastIndex = matchIndex + normalizedQuery.length;
+        cleanMatches.forEach(m => {
+            if (m.start > lastIndex) {
+                fragment.appendChild(document.createTextNode(text.substring(lastIndex, m.start)));
             }
-            matchIndex = normalizedText.indexOf(normalizedQuery, matchIndex + 1);
-        }
+            
+            const mark = document.createElement('mark');
+            mark.className = 'search-highlight';
+            mark.appendChild(document.createTextNode(text.substring(m.start, m.end)));
+            fragment.appendChild(mark);
+            
+            lastIndex = m.end;
+        });
         
         if (lastIndex < text.length) {
             fragment.appendChild(document.createTextNode(text.substring(lastIndex)));
