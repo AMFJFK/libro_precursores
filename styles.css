@@ -1294,8 +1294,9 @@ body {
     }
     .app-container {
         padding: 72px 16px 16px 16px; /* Space for sticky header */
-        height: 100vh;
-        overflow-y: auto;
+        height: auto;
+        min-height: 100vh;
+        overflow-y: visible;
         display: block;
         width: 100vw;
         gap: 0;
@@ -1344,7 +1345,7 @@ body {
         height: 250px;
     }
     body {
-        overflow-y: hidden;
+        overflow-y: auto;
     }
 }
 
