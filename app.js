@@ -108,7 +108,7 @@ function loadLesson(index, scroll = false) {
     document.getElementById("lesson-title").textContent = lesson.title;
     document.getElementById("lesson-lema").textContent = `“${lesson.lema}”`;
     document.getElementById("lesson-lema-source").textContent = lesson.lemaSource;
-    document.getElementById("lesson-intro").innerHTML = lesson.intro;
+    document.getElementById("lesson-intro").innerHTML = parseMarkdownToHtml(lesson.intro);
 
     // Actualizar Imagen e Ilustración
     document.getElementById("visual-img").src = lesson.image;
@@ -195,9 +195,9 @@ function renderQuestions(lesson) {
             let subItemsHtml = "";
             q.subQuestions.forEach((subQ, sIdx) => {
                 const isSubCompleted = completedState[subQ.id] || false;
-                const subDirectHtml = localStorage.getItem(`pioneer_html_text-direct-${subQ.id}`) || subQ.directAnswer;
-                const subDeepHtml = localStorage.getItem(`pioneer_html_text-deep-${subQ.id}`) || subQ.deepAnswer;
-                const subQuoteHtml = localStorage.getItem(`pioneer_html_text-quote-${subQ.id}`) || `“${subQ.shortAnswer}”`;
+                const subDirectHtml = parseMarkdownToHtml(localStorage.getItem(`pioneer_html_text-direct-${subQ.id}`) || subQ.directAnswer);
+                const subDeepHtml = parseMarkdownToHtml(localStorage.getItem(`pioneer_html_text-deep-${subQ.id}`) || subQ.deepAnswer);
+                const subQuoteHtml = parseMarkdownToHtml(localStorage.getItem(`pioneer_html_text-quote-${subQ.id}`) || `“${subQ.shortAnswer}”`);
                 
                 // Generar spans clicables para las referencias de la subpregunta
                 let subRefsHtml = "";
@@ -227,7 +227,7 @@ function renderQuestions(lesson) {
                             ${subQ.note ? `
                             <div class="question-note-callout" style="margin: 8px 12px 16px 12px;">
                                 <div class="question-note-title">Nota / Observación</div>
-                                <p class="question-note-text">${subQ.note}</p>
+                                <p class="question-note-text">${parseMarkdownToHtml(subQ.note)}</p>
                             </div>
                             ` : ''}
                             <!-- Cabecera de 3 Pestañas para el hijo -->
@@ -312,9 +312,9 @@ function renderQuestions(lesson) {
                 </div>
             `;
         } else {
-            const directHtml = localStorage.getItem(`pioneer_html_text-direct-${q.id}`) || q.directAnswer;
-            const deepHtml = localStorage.getItem(`pioneer_html_text-deep-${q.id}`) || q.deepAnswer;
-            const quoteHtml = localStorage.getItem(`pioneer_html_text-quote-${q.id}`) || `“${q.shortAnswer}”`;
+            const directHtml = parseMarkdownToHtml(localStorage.getItem(`pioneer_html_text-direct-${q.id}`) || q.directAnswer);
+            const deepHtml = parseMarkdownToHtml(localStorage.getItem(`pioneer_html_text-deep-${q.id}`) || q.deepAnswer);
+            const quoteHtml = parseMarkdownToHtml(localStorage.getItem(`pioneer_html_text-quote-${q.id}`) || `“${q.shortAnswer}”`);
 
             // Render standard layout
             contentHtml = `
@@ -333,7 +333,7 @@ function renderQuestions(lesson) {
                         ${q.note ? `
                         <div class="question-note-callout">
                             <div class="question-note-title">Observación / Nota</div>
-                            <p class="question-note-text">${q.note}</p>
+                            <p class="question-note-text">${parseMarkdownToHtml(q.note)}</p>
                         </div>
                         ` : ''}
                         <!-- Cabecera de 3 Pestañas -->
@@ -843,6 +843,14 @@ function getMatchScore(match, rawQuery) {
     return score;
 }
 
+// --- PARSEAR FORMATO DE MARKDOWN A HTML ---
+function parseMarkdownToHtml(text) {
+    if (!text) return "";
+    return text
+        .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+        .replace(/\*([^*]+)\*/g, "<em>$1</em>");
+}
+
 // --- AUTO-EXPANDIR ACORDEONES QUE CONTIENEN COINCIDENCIAS ---
 function expandAccordionMatches(rawQuery) {
     const query = normalizeText(rawQuery);
@@ -1220,7 +1228,7 @@ function executeSearch() {
                     <span class="search-result-question-num">${escapeHtml(m.type)}</span>
                 </div>
                 <p class="search-result-question">${escapeHtml(m.text)}</p>
-                <p class="search-result-snippet">${m.snippet}</p>
+                <p class="search-result-snippet">${parseMarkdownToHtml(m.snippet)}</p>
             `;
             listEl.appendChild(itemEl);
         });

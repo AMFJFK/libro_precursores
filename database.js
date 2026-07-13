@@ -1,4 +1,3 @@
-// Database of study lessons for the Precursor School app
 const lessonsData = [
   {
     "id": "1A",
@@ -4416,20 +4415,12 @@ const lessonsData = [
       },
       {
         "id": "10A_q30",
-        "question": "¿En qué debes tener fe para recibir la vida eterna? (Hech. 4:10, 12).",
+        "question": "¿Qué otros títulos usa la Biblia para referirse a Jesús, y qué nos enseñan sobre sus funciones en el propósito de Dios?",
         "references": "Is. 9:6; Juan 6:68",
         "directAnswer": "",
         "deepAnswer": "",
         "shortAnswer": "",
         "subQuestions": [
-          {
-            "id": "10A_q29_a",
-            "question": "¿En qué debes tener fe para recibir la vida eterna? (Hech. 4:10, 12).",
-            "references": "Hech. 4:10, 12; Juan 6:68",
-            "directAnswer": "Para recibir la vida eterna, <strong>debemos ejercer fe en el nombre de Jesucristo y en su papel fundamental como el único medio de salvación provisto por Jehová.</strong>",
-            "deepAnswer": "De acuerdo con Hechos 4:12, <strong>no existe otro nombre bajo el cielo mediante el cual podamos ser salvos.</strong> Para beneficiarnos de la promesa de la vida eterna, <strong>es vital que demostremos fe en el sacrificio redentor de Jesús, reconociendo que él es el único medio que Jehová ha dispuesto para la salvación de la humanidad.</strong> Como indicaron los apóstoles, al aceptar su nombre y autoridad, alineamos nuestra vida con las palabras de Juan 6:68, reconociendo que solo Jesús tiene 'palabras de vida eterna'.",
-            "shortAnswer": "Debemos tener fe en el nombre de Jesús y en su papel clave en el propósito de Jehová para salvarnos."
-          },
           {
             "id": "10A_q29_b",
             "question": "¿Qué nos enseña sobre Jesús el título bíblico “El Amén”? (Apoc. 3:14).",
@@ -4478,16 +4469,8 @@ const lessonsData = [
             "deepAnswer": "Jesús es el 'Maravilloso Consejero' porque su sabiduría proviene directamente de su Padre, Jehová. Durante su ministerio terrestre demostró una capacidad única para entender las necesidades humanas y dar dirección exacta ante cualquier problema. Hoy, a través de su Palabra y el alimento espiritual que proporciona, <strong>sigue dándonos el mejor consejo posible para tomar decisiones sabias que agraden a Dios.</strong>",
             "shortAnswer": "Nos guía con sabiduría divina para que tomemos las mejores decisiones en nuestra vida."
           }
-        ]
-      },
-      {
-        "id": "10A_q31",
-        "question": "¿Qué otros títulos usa la Biblia para referirse a Jesús, y qué nos enseñan sobre sus funciones en el propósito de Dios?",
-        "references": "Apoc. 3:14; Is. 9:6; Heb. 3:1; Apoc. 17:14; Juan 6:68",
-        "subtitle": "Otros títulos que la Biblia usa para Jesús",
-        "directAnswer": "La Biblia le da a Jesús varios títulos proféticos, como 'El Amén', 'Padre Eterno', 'Sumo sacerdote', 'Rey de reyes', 'Príncipe de Paz' y 'Maravilloso Consejero'.",
-        "deepAnswer": "Estos títulos reflejan aspectos específicos de la autoridad y el papel que Jehová le ha otorgado a su Hijo:<br><ul><li><strong>El Amén (Apoc. 3:14):</strong> Garantiza el cumplimiento de todas las promesas de Dios.</li><li><strong>Padre Eterno (Is. 9:6):</strong> Le da la facultad de conceder vida eterna a la humanidad obediente.</li><li><strong>Sumo sacerdote (Heb. 3:1; 9:13, 14, 25, 26):</strong> Intercede por nuestros pecados ante Jehová con el valor de su sacrificio.</li><li><strong>Rey de reyes (Apoc. 17:14):</strong> Posee el mayor rango real y destruirá a todos los enemigos de Dios.</li><li><strong>Príncipe de Paz (Is. 9:6):</strong> Traerá una paz duradera y justa para toda la Tierra.</li><li><strong>Maravilloso Consejero (Is. 9:6; Juan 6:68):</strong> Nos da la mejor guía y sabiduría para tomar decisiones sabias.</li></ul>",
-        "shortAnswer": "Títulos como 'El Amén', 'Padre Eterno' o 'Sumo sacerdote' revelan las funciones gloriosas de Jesús en el propósito de Jehová."
+        ],
+        "subtitle": "Otros títulos que la Biblia usa para Jesús"
       }
     ],
     "image": "pioneer_studying.png",
@@ -4821,7 +4804,7 @@ const lessonsData = [
       },
       {
         "id": "10B_q22",
-        "question": "¿Por qué somos más felices cuando dejamos que los principios bíblicos guíen nuestra vida? (Sal. 32:8).",
+        "question": "¿De qué maneras revelan nuestras elecciones libres basadas en principios la condición de nuestro corazón? (2 Cor. 9:7).",
         "references": "2 Cor. 9:7",
         "directAnswer": "Al no existir reglas detalladas para cada situación, <strong>nuestras elecciones libres revelan la verdadera condición de nuestro corazón y demuestran que servimos a Jehová por amor sincero y no por simple obligación.</strong>",
         "deepAnswer": "Tal como indica 2 Corintios 9:7, Jehová ama al dador alegre que actúa “como lo ha resuelto en su corazón”, no por la fuerza ni de mala gana. La ausencia de leyes específicas para cada detalle de nuestra vida <strong>nos ofrece una oportunidad maravillosa de probar nuestros motivos más profundos.</strong> Al esforzarnos voluntariamente por discernir qué es lo que más le agrada a nuestro Padre celestial, <strong>demostramos con hechos que nuestro mayor anhelo es imitar su personalidad y glorificar su santo nombre.</strong>",
@@ -4948,35 +4931,12 @@ const lessonsData = [
       },
       {
         "id": "11A_q10",
-        "question": "¿Cómo te ayudan las siguientes ideas a evaluar tu progreso espiritual?",
+        "question": "¿Cómo influye el espíritu santo en la persona que cultiva su espiritualidad? (Gál. 5:16; w11 15/12 pág. 16).",
         "references": "Gál. 5:16; w11 15/12 pág. 16",
         "directAnswer": "Si cultivamos nuestra espiritualidad, <strong>evitaremos los deseos pecaminosos y viviremos guiados por el espíritu de Dios</strong>.",
         "deepAnswer": "Cultivar la espiritualidad tiene un resultado maravilloso: <strong>la vida guiada por el espíritu santo</strong>, tal como lo enseña Gálatas 5:16. Esto significa que, en lugar de dejarnos llevar por los “deseos de la carne”, seremos conducidos por la influencia divina, disfrutando de una relación más estrecha con Jehová. Como se señala en <em>w11</em> 15/12 pág. 16, esto nos protege de caer en prácticas que desagradan a Dios y nos permite experimentar la verdadera libertad.<br>Esto es un reflejo de la guía de Jehová en nuestro diario vivir.",
         "shortAnswer": "Evitas los deseos pecaminosos y vives según el espíritu de Dios.",
-        "subtitle": "¿Cómo puedo saber si soy una persona espiritual?",
-        "subQuestions": [
-          {
-            "id": "11A_q11_a",
-            "question": "Hacerte un autoexamen con la ayuda de la oración (Sal. 26:2; 2 Cor. 13:5). Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”",
-            "directAnswer": "Hacer un autoexamen en oración nos ayuda a **descubrir nuestros verdaderos motivos y debilidades** con la ayuda de Jehová, quien examina nuestro corazón.",
-            "deepAnswer": "La oración sincera al hacer un autoexamen (Sal. 26:2) permite que Jehová nos muestre áreas de mejora que tal vez ocultemos de nosotros mismos. Al preguntarnos con honestidad sobre nuestras motivaciones y debilidades, **abrimos el camino para que el espíritu santo actúe en nosotros, guiándonos hacia la corrección y madurez espiritual**.",
-            "shortAnswer": "El autoexamen en oración saca a la luz nuestras verdaderas motivaciones y debilidades."
-          },
-          {
-            "id": "11A_q11_b",
-            "question": "Estudiar regularmente la Biblia y nuestras publicaciones (Sal. 1:2, 3). ¿Por qué hace falta meditar? ¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
-            "directAnswer": "Hace falta meditar para **grabar la verdad en el corazón**; la meditación nos ayuda a **aprender de la experiencia y evitar repetir los errores del pasado**.",
-            "deepAnswer": "Estudiar sin meditar es como comer sin digerir. Salmo 1:2, 3 destaca que la persona feliz se deleita en la ley de Dios y la lee día y noche. **La meditación nos ayuda a reflexionar en las consecuencias de nuestras acciones y en el punto de vista de Jehová**, lo que nos da la sabiduría necesaria para no repetir los mismos desaciertos del pasado.",
-            "shortAnswer": "La meditación graba los principios en el corazón y evita que repitamos errores pasados."
-          },
-          {
-            "id": "11A_q11_c",
-            "question": "Escuchar a cristianos maduros (Sant. 1:19). ¿Cómo te ayuda a ser más espiritual fijarte en cómo hablan y actúan los hermanos que están fuertes en sentido espiritual? ¿Cómo te ayuda a crecer espiritualmente prestar mucha atención a lo que se dice en las reuniones?",
-            "directAnswer": "Fijarnos en hermanos fuertes nos da **un modelo de fe a imitar**; prestar atención en las reuniones nos permite **adquirir sabiduría práctica de la congregación**.",
-            "deepAnswer": "Santiago 1:19 nos insta a ser prestos para escuchar. Al observar a los hermanos maduros, **vemos cómo aplican el fruto del espíritu en su vida diaria**, lo que nos sirve de ejemplo práctico. Además, las reuniones son el canal que Jehová usa para instruirnos, por lo que **prestar atención concentrada nos ayuda a asimilar consejos y enseñanzas que fortalecen nuestra fe**.",
-            "shortAnswer": "Observar a hermanos maduros y escuchar en las reuniones provee modelos y sabiduría práctica."
-          }
-        ]
+        "subtitle": "¿Cómo puedo saber si soy una persona espiritual?"
       },
       {
         "id": "11A_q11",
@@ -5384,7 +5344,7 @@ const lessonsData = [
       },
       {
         "id": "11B_q15",
-        "question": "¿Qué les dices a las personas para quedar en volver a visitarlas?",
+        "question": "¿Por qué demuestras interés por la persona cuando buscas información sobre un tema que le interesa? (be pág. 33).",
         "references": "be págs. 33-38",
         "directAnswer": "Muestras interés por la persona cuando buscas información sobre un tema que le interesa porque <strong>demuestras que valoras sus pensamientos y sus inquietudes.</strong>",
         "deepAnswer": "Al dedicar tiempo a investigar y preparar material específico sobre un tema que a la persona le importa, <strong>le comunicas de forma poderosa que sus sentimientos y sus preguntas son importantes para ti.</strong> Esto va más allá de una conversación superficial; es una demostración tangible de amor y empatía, reflejando el amor de Jehová por la humanidad.<br>1 Pedro 4:8 nos instruye a que 'el amor cubre una multitud de pecados', y en este contexto, podemos decir que el amor y el interés sincero construyen puentes de comunicación.",
@@ -5392,7 +5352,7 @@ const lessonsData = [
       },
       {
         "id": "11B_q16",
-        "question": "¿Qué puede ayudarte a decidir qué textos leerás y qué publicaciones usarás en la siguiente conversación? (lmd lección 9).",
+        "question": "¿Cómo te ayuda tener una actitud positiva hacia las personas a volver a visitarlas?",
         "references": "lmd lección 9",
         "directAnswer": "Tener una actitud positiva hacia la persona te motivará a volver a visitarla porque <strong>verás su potencial espiritual y el gozo de ayudarla a acercarse a Jehová.</strong>",
         "deepAnswer": "Una perspectiva positiva, enfocada en el valor de cada alma y en las promesas de Jehová, transforma la obra de predicación en un privilegio y una fuente de gozo. Cuando vemos a las personas a través de los ojos de Jehová, con compasión y la esperanza de que acepten Su verdad, <strong>nos sentimos impulsados a seguir esforzándonos, sabiendo que estamos participando en la obra más importante.</strong><br>Hechos 20:35 nos recuerda que 'hay más felicidad en dar que en recibir', y ayudar a otros a acercarse a Jehová es una forma de dar que trae gran satisfacción.",
@@ -5401,7 +5361,7 @@ const lessonsData = [
       },
       {
         "id": "11B_q17",
-        "question": "¿Por qué demuestras interés por la persona cuando buscas información sobre un tema que le interesa? ¿Qué efecto puede tener en la persona que le muestres esa información? (be págs. 33-38).",
+        "question": "¿Por qué volvemos a visitar a la persona aunque no le hayamos dejado ninguna publicación en la primera conversación?",
         "references": "be págs. 33-38",
         "directAnswer": "Podemos volver porque nuestro objetivo no es solo distribuir publicaciones, sino <strong>buscar a las personas merecedoras y llevarles el mensaje del Reino.</strong>",
         "deepAnswer": "Jesús instruyó a sus discípulos que, al entrar en una casa, saludaran a quienes vivían allí. Si la casa era merecedora, su paz vendría sobre ella (Mat. 10:13; Luc. 10:5, 6). Aunque no hayamos dejado literatura, el simple hecho de haber iniciado una conversación basada en la Biblia <strong>nos permite cultivar el interés y determinar si la persona desea escuchar más sobre las buenas nuevas.</strong>",
@@ -5484,7 +5444,7 @@ const lessonsData = [
       },
       {
         "id": "11B_q23",
-        "question": "¿Qué puedes hacer cuando no encuentras a la persona después de varios intentos?",
+        "question": "¿Por qué desconfían algunas personas cuando las visitamos?",
         "references": "",
         "directAnswer": "A veces es porque <strong>han tenido experiencias negativas con otros, porque no entienden bien quiénes somos o porque se sienten invadidos en su privacidad.</strong>",
         "deepAnswer": "Es fundamental entender que, para algunos, <strong>una visita inesperada puede generar desconfianza.</strong> Por eso, <strong>nuestra actitud amable, nuestra apariencia cuidada y nuestro respeto por su tiempo son cruciales para disipar cualquier duda y demostrarles que nuestra única intención es compartir un mensaje de esperanza.</strong>",
@@ -5498,37 +5458,7 @@ const lessonsData = [
         "deepAnswer": "Cuando tratamos a la persona con bondad y empatía, <strong>reflejamos el amor de Jehová.</strong> Esto <strong>permite que el interlocutor se sienta valorado y no juzgado, lo cual es fundamental para que el mensaje bíblico toque su corazón y sea más receptivo a la verdad.</strong>",
         "shortAnswer": "La amabilidad abre el corazón y prepara el terreno para la Palabra de Dios.",
         "subtitle": "Ten claro tu objetivo",
-        "note": "Nuestro objetivo principal es ayudar a las personas a ser discípulos de Jesús y bautizarse. Hoy en día, el mejor método para conseguirlo es dando clases de la Biblia. Así que intenta hablar de un tema bíblico en cada visita. De esa manera, la persona estará cada vez más abierta a recibir clases de la Biblia, y dejaremos claro para qué la visitamos.",
-        "subQuestions": [
-          {
-            "id": "11B_q24_a",
-            "question": "Contestar una pregunta con la Biblia.",
-            "directAnswer": "Permite que la persona vea que las respuestas provienen directamente de **la Palabra inspirada de Dios**, ganando su confianza.",
-            "deepAnswer": "Al contestar una duda directamente de las Escrituras, mostramos que no enseñamos ideas propias. Esto enseña al amo de casa a **respetar la autoridad de la Biblia y fomenta el deseo de seguir examinando la verdad**.",
-            "shortAnswer": "Usar la Biblia para dar respuestas autorizadas y confiables."
-          },
-          {
-            "id": "11B_q24_b",
-            "question": "Ofrecer ciertas publicaciones o mostrar un video que le puedan interesar a la persona.",
-            "directAnswer": "Sirve para **captar el interés de forma visual** y proveer información digerible para la persona.",
-            "deepAnswer": "Los videos de jw.org y nuestros folletos o revistas son sumamente atractivos y están diseñados para el público general. Al mostrarlos, **abrimos una ventana visual al Reino y facilitamos la transición hacia el estudio interactivo**.",
-            "shortAnswer": "Usar videos y literatura para despertar el interés de forma atractiva."
-          },
-          {
-            "id": "11B_q24_c",
-            "question": "Analizar un párrafo de uno de los manuales de estudio.",
-            "directAnswer": "Es el paso clave para **demostrar cómo es una clase de la Biblia** y comenzar el estudio de manera informal.",
-            "deepAnswer": "En lugar de hablar extensamente, leer y analizar un solo párrafo del libro *Disfrute de la vida* demuestra al amo de casa lo sencillo y reconfortante que es estudiar con nosotros, quitando el temor al compromiso.",
-            "shortAnswer": "Demostrar la sencillez del estudio analizando un solo párrafo del manual."
-          },
-          {
-            "id": "11B_q24_d",
-            "question": "Ofrecer un curso bíblico.",
-            "directAnswer": "Es la meta final para **establecer una sesión de estudio regular y progresiva**.",
-            "deepAnswer": "Ofrecer el curso formalmente aclara el propósito de nuestras visitas. Le explicamos que es gratuito, a domicilio o virtual, y que le ayudará a encontrar respuestas a sus dudas vitales en su propia Biblia.",
-            "shortAnswer": "Proponer formalmente un estudio bíblico regular y gratuito."
-          }
-        ]
+        "note": "Nuestro objetivo principal es ayudar a las personas a ser discípulos de Jesús y bautizarse. Hoy en día, el mejor método para conseguirlo es dando clases de la Biblia. Así que intenta hablar de un tema bíblico en cada visita. De esa manera, la persona estará cada vez más abierta a recibir clases de la Biblia, y dejaremos claro para qué la visitamos."
       },
       {
         "id": "11B_q25",
@@ -5659,44 +5589,7 @@ const lessonsData = [
         "directAnswer": "Aunque ambos métodos son válidos, <strong>ofrecer el curso bíblico directamente permite establecer el propósito de nuestra labor desde el principio con claridad.</strong>",
         "deepAnswer": "Personalmente, prefiero una mezcla: <strong>entablar una conversación amena que lleve naturalmente a la oferta del curso.</strong> <strong>Al mostrar cómo la Biblia responde a una pregunta específica de la persona, esta valora el estudio como una herramienta práctica y no solo como una lección teórica.</strong>",
         "shortAnswer": "Lo mejor es adaptar el método para que la persona vea la utilidad del estudio.",
-        "subtitle": "Empieza cursos bíblicos",
-        "subQuestions": [
-          {
-            "id": "11B_q30_a",
-            "question": "Recordar que estás de visita.",
-            "directAnswer": "Implica ser **breve y respetuoso con el tiempo del amo de casa**, no abusando de su hospitalidad.",
-            "deepAnswer": "Ser conscientes de que somos invitados nos ayuda a no extendernos demasiado. **Una visita corta e interesante deja al amo de casa con deseos de que regresemos**, mientras que una visita larga puede abrumarlo.",
-            "shortAnswer": "Ser breves para respetar el tiempo de las personas."
-          },
-          {
-            "id": "11B_q30_b",
-            "question": "Agradecer que te reciban.",
-            "directAnswer": "Muestra **buena educación y gratitud sincera** por el tiempo que la persona nos dedica.",
-            "deepAnswer": "Agradecer a la persona su disposición a escucharnos crea una atmósfera amigable. **Este gesto de cortesía cristiana ablanda los corazones** y nos hace accesibles, abriendo el camino para futuras conversaciones.",
-            "shortAnswer": "Expresar gratitud sincera por la atención recibida."
-          },
-          {
-            "id": "11B_q30_c",
-            "question": "Ir bien arreglado.",
-            "directAnswer": "Refleja **respeto por Jehová, por nuestro ministerio y por la dignidad de las personas**.",
-            "deepAnswer": "Nuestra apariencia personal es un sermón silencioso. Vestirnos con modestia y limpieza dignifica el mensaje del Reino y hace que las personas nos escuchen con más seriedad.",
-            "shortAnswer": "Dignificar el mensaje mediante una apariencia limpia y modesta."
-          },
-          {
-            "id": "11B_q30_d",
-            "question": "Ser puntual (jr pág. 38 párr. 14).",
-            "directAnswer": "Muestra que **somos personas de palabra y que respetamos los compromisos contraídos**.",
-            "deepAnswer": "Llegar a la hora acordada demuestra seriedad y respeto por el tiempo del amo de casa. La puntualidad es un reflejo de nuestra confiabilidad y del valor que le damos al interés espiritual de la persona.",
-            "shortAnswer": "Cumplir puntualmente con la cita acordada por respeto a la persona."
-          },
-          {
-            "id": "11B_q30_e",
-            "question": "Respetar a la persona y su propiedad (Filip. 1:27).",
-            "directAnswer": "Implica **cuidar sus bienes, no entrar a su hogar sin permiso y respetar sus opiniones**.",
-            "deepAnswer": "Demostramos buena conducta al no pisar el jardín, cerrar las verjas y no mirar hacia el interior de la casa indiscretamente. Este respeto por su propiedad demuestra que actuamos como ciudadanos ejemplares y ministros pacíficos.",
-            "shortAnswer": "Cuidar la propiedad ajena y comportarse de forma respetuosa."
-          }
-        ]
+        "subtitle": "Empieza cursos bíblicos"
       },
       {
         "id": "11B_q31",
@@ -5720,55 +5613,11 @@ const lessonsData = [
         "references": "",
         "directAnswer": "<strong>Hablar de temas que le interesan a la persona hace que el mensaje bíblico se perciba como algo relevante para su vida cotidiana.</strong>",
         "deepAnswer": "Al conectar la Biblia con sus preocupaciones o inquietudes, <strong>demostramos que Jehová realmente se interesa en su bienestar.</strong> <strong>Esto convierte nuestra labor en un servicio valioso que atiende necesidades reales, motivando a la persona a ver la Biblia no como un libro antiguo, sino como una guía práctica para el presente.</strong>",
-        "shortAnswer": "Lo que es relevante para la persona se vuelve importante para su corazón.",
-        "subQuestions": [
-          {
-            "id": "11B_q33_a",
-            "question": "Interesarte de verdad en las personas.",
-            "directAnswer": "Nos ayuda a verlas como **futuros siervos de Dios que necesitan ayuda espiritual**, adaptándonos a ellas.",
-            "deepAnswer": "El interés sincero hace que escuchemos con atención en lugar de solo querer hablar. Nos impulsa a pensar en sus problemas y necesidades particulares, imitando el amor de Jehová.",
-            "shortAnswer": "Ver a las personas con compasión y escuchar sus inquietudes."
-          },
-          {
-            "id": "11B_q33_b",
-            "question": "Elegir un tema bíblico que llame la atención.",
-            "directAnswer": "Garantiza que **la conversación gire en torno a asuntos que de verdad les importen**.",
-            "deepAnswer": "Debemos seleccionar temas prácticos (sufrimiento, futuro, familia) que afecten directamente al amo de casa, captando su interés desde el inicio mediante textos oportunos.",
-            "shortAnswer": "Hablar de temas de la Biblia que resuelvan dudas reales de la gente."
-          },
-          {
-            "id": "11B_q33_c",
-            "question": "Preparar el terreno para cada una de las siguientes visitas.",
-            "directAnswer": "Consiste en **dejar una pregunta pendiente al final de cada conversación** para asegurar la próxima cita.",
-            "deepAnswer": "La expectación es clave. Al despedirnos con una duda intrigante por responder, hacemos que la persona espere con interés nuestra siguiente visita, facilitando el regreso.",
-            "shortAnswer": "Dejar preguntas interesantes pendientes para garantizar el regreso."
-          },
-          {
-            "id": "11B_q33_d",
-            "question": "Seguir pensando en la persona después de irte.",
-            "directAnswer": "Nos motiva a **orar por ella, meditar en sus necesidades y buscar publicaciones adecuadas**.",
-            "deepAnswer": "El ministerio no termina al salir del territorio. Pensar en el amo de casa a solas nos ayuda a preparar mejores argumentos y a pedir a Jehová que bendiga el interés mostrado.",
-            "shortAnswer": "Meditar y orar por el amo de casa para prepararle información personalizada."
-          },
-          {
-            "id": "11B_q33_e",
-            "question": "Volver un día o dos más tarde para cultivar el interés.",
-            "directAnswer": "Aprovecha que **la última conversación todavía está fresca en la mente de la persona**.",
-            "deepAnswer": "Volver pronto demuestra que nos importa el amo de casa. Si tardamos semanas, es probable que olvide lo hablado o que la duda pierda fuerza, perdiendo una gran oportunidad.",
-            "shortAnswer": "Regresar a los pocos días para mantener el interés activo."
-          },
-          {
-            "id": "11B_q33_f",
-            "question": "Recordar que tu objetivo es empezar un curso bíblico.",
-            "directAnswer": "Mantiene **nuestro ministerio enfocado en hacer discípulos**, no solo en conversar.",
-            "deepAnswer": "Cada visita y revisita debe encaminarse a mostrar cómo se estudia la Biblia. Tener esta meta clara nos ayuda a ofrecer el manual *Disfrute de la vida* de forma oportuna.",
-            "shortAnswer": "Tener la meta de iniciar un curso de la Biblia en cada hogar."
-          }
-        ]
+        "shortAnswer": "Lo que es relevante para la persona se vuelve importante para su corazón."
       },
       {
         "id": "11B_q34",
-        "question": "A algunos precursores les gusta empezar a estudiar con las personas ofreciéndoles un curso bíblico. Otros prefieren conversar un poco con ellas y leerles algunos textos de la Biblia sin ofrecerles un curso. ¿Qué método te gusta más a ti y por qué? Cuenta cómo te ha ido al dirigir algún curso bíblico en la puerta.",
+        "question": "¿Por qué es importante mantener la sencillez en nuestras explicaciones al enseñar?",
         "references": "",
         "directAnswer": "<strong>Debemos tener conversaciones sencillas para no abrumar a la persona y permitir que comprenda mejor el mensaje del Reino.</strong>",
         "deepAnswer": "Al mantener nuestras explicaciones sencillas y centradas en un solo punto bíblico, <strong>imitamos el método de enseñanza de Jesús.</strong> <strong>Esto ayuda a que el interlocutor no se sienta confundido y pueda asimilar la verdad gradualmente, evitando que el exceso de información desvíe su atención de lo más importante: el propósito de Jehová.</strong>",
@@ -5868,7 +5717,7 @@ const lessonsData = [
       },
       {
         "id": "11B_q46",
-        "question": "¿Qué dices si ves que a la persona no le interesa el mensaje y reacciona mal o es cortante contigo? ¿Por qué actúas así? (w18.07 pág. 27 párr. 9 - pág. 28 párr. 1).",
+        "question": "¿Por qué es esencial la ayuda de Jehová al hacer revisitas? (1 Cor. 3:6).",
         "references": "1 Cor. 3:6",
         "directAnswer": "Jehová es quien hace crecer la verdad en el corazón de las personas, por lo que <strong>su ayuda es esencial para el éxito del ministerio.</strong>",
         "deepAnswer": "La Biblia nos enseña que ni el que planta ni el que riega es algo, sino Dios, quien da el crecimiento (1 Cor. 3:6). <strong>Pedirle a Jehová sabiduría y guía en nuestras revisitas nos ayuda a enfocar nuestros esfuerzos en las personas receptivas y a decir lo que agrada a Dios.</strong> <br> Su espíritu nos capacita para ser mejores en nuestro ministerio y a cumplir con nuestra comisión de predicar.",
@@ -6412,7 +6261,7 @@ const lessonsData = [
       },
       {
         "id": "13B_q10",
-        "question": "¿Por qué volvieron con las manos vacías los guardias que fueron a arrestar a Jesús? (Juan 7:45, 46).",
+        "question": "¿Por qué se asombraban las multitudes de la manera de enseñar de Jesús? (Mat. 7:28, 29; Mar. 1:22).",
         "references": "",
         "directAnswer": "<strong>La muchedumbre quedaba sumamente impactada porque Jesús les enseñaba como una persona que tiene autoridad divina, marcando un claro contraste con los escribas de su época.</strong>",
         "deepAnswer": "A diferencia de los líderes religiosos que basaban su instrucción en áridas tradiciones humanas y citas interminables de otros rabinos, <strong>Jesús enseñaba con la autoridad inequívoca de la Palabra de Dios.</strong> Sus explicaciones eran claras, sencillas, lógicas y apelaban directamente al corazón de las personas sinceras. Al imitar su dechado de enseñanza, nosotros también <strong>debemos esforzarnos por utilizar siempre la Biblia como la máxima autoridad en nuestras conversaciones espirituales.</strong>",
@@ -6455,7 +6304,7 @@ const lessonsData = [
       },
       {
         "id": "13B_q15",
-        "question": "Pregúntate: “¿En qué debe mejorar el estudiante para que progrese espiritualmente? ¿Qué ideas tal vez le cueste comprender o aceptar? ¿Cómo le llegaré al corazón?”.",
+        "question": "¿Por qué es fundamental orar por el estudiante y sus necesidades específicas antes de preparar la clase? (Hech. 16:14; Col. 1:9, 10).",
         "references": "Hech. 16:14; Col. 1:9, 10",
         "directAnswer": "<strong>La oración nos ayuda a reconocer con humildad que solo Jehová puede hacer crecer la verdad y abrir el corazón de nuestro estudiante a través de su espíritu santo.</strong>",
         "deepAnswer": "El texto de Hechos 16:14 muestra que es Jehová quien <em>'abre de par en par el corazón'</em> para recibir el mensaje divino. <strong>Al orar fervientemente por el estudiante antes de la preparación y de la sesión, demostramos que dependemos de la bendición de Dios y no de nuestras propias habilidades.</strong> <strong>Le pedimos a Jehová que nos dé discernimiento para llegar al corazón y que ayude al estudiante a andar de una manera digna de él</strong>, produciendo fruto en toda buena obra (Col. 1:9, 10).",
@@ -7006,35 +6855,12 @@ const lessonsData = [
       },
       {
         "id": "15A_q8",
-        "question": "¿Por qué es muy importante que sigas ayudando al estudiante a mejorar en la predicación? ¿Y por qué también es muy importante ir capacitándolo en las diferentes facetas del ministerio?",
+        "question": "¿Cómo le ayudas al estudiante a comprender la importancia de ser constante en el ministerio del campo? (2 Ped. 1:5-8).",
         "references": "",
         "directAnswer": "Le ayudamos a comprender que <strong>la constancia en el ministerio del campo refleja la profundidad de su amistad con Jehová y es fundamental para su propio crecimiento espiritual.</strong>",
         "deepAnswer": "Basándonos en 2 Pedro 1:5-8, debemos <strong>mostrarle al estudiante que las cualidades cristianas se complementan con una fe activa que produce fruto</strong>, evitando que nos volvamos inactivos o estériles. Al examinar juntos el manual <em>Disfrute de la vida</em> (pág. 254), podemos razonar sobre cómo <strong>la predicación regular no es una simple obligación, sino un privilegio sagrado que protege nuestra espiritualidad y demuestra nuestro amor leal a Jehová.</strong> Al participar regularmente en el ministerio, el estudiante experimentará de primera mano el gozo que proviene de dar a otros.",
         "shortAnswer": "La predicación regular es el reflejo natural de una fe viva y de un corazón profundamente agradecido a Jehová.",
-        "note": "Comenta los siguientes pasos que pueden servirte para ayudar a un publicador nuevo a ir mejorando en el ministerio (Juec. 7:17):",
-        "subQuestions": [
-          {
-            "id": "15A_q8_a",
-            "question": "Demostrarle en la práctica cómo participar en las diferentes facetas de la predicación.",
-            "directAnswer": "Consiste en **acompañarlo en el ministerio** y predicar a las puertas mostrándole cómo lo haces tú.",
-            "deepAnswer": "La teoría no basta. Llevarlo a predicar con nosotros, mostrarle cómo iniciamos conversaciones, cómo respondemos objeciones y cómo usamos la Biblia, **le da un ejemplo vivo de un ministerio de calidad**.",
-            "shortAnswer": "Llevarlo a predicar y predicar en las puertas sirviéndole de modelo."
-          },
-          {
-            "id": "15A_q8_b",
-            "question": "Dejar que él intente hacer lo mismo que tú.",
-            "directAnswer": "Es darle la oportunidad de **participar activamente en la conversación en una puerta**.",
-            "deepAnswer": "Debemos animarlo a que él use un texto bíblico o presente un tratado de forma sencilla. **Al dejarlo predicar de forma activa, adquiere experiencia práctica** y vence la timidez inicial.",
-            "shortAnswer": "Permitirle que hable y presente el mensaje bíblico por sí mismo."
-          },
-          {
-            "id": "15A_q8_c",
-            "question": "Felicitarlo sinceramente para darle confianza.",
-            "directAnswer": "Consiste en **resaltar sus aciertos y animarlo con amor** tras la conversación.",
-            "deepAnswer": "Felicitarlo de corazón por su esfuerzo y su valor fortalece su autoestima teocrática. Esto **le da la seguridad necesaria para perseverar** en el ministerio cristiano.",
-            "shortAnswer": "Elogiar sinceramente su esfuerzo para infundirle ánimo."
-          }
-        ]
+        "note": "Comenta los siguientes pasos que pueden servirte para ayudar a un publicador nuevo a ir mejorando en el ministerio (Juec. 7:17):"
       },
       {
         "id": "15A_q9",
@@ -8360,7 +8186,7 @@ const lessonsData = [
       },
       {
         "id": "17B_q22",
-        "question": "¿Cómo te ha ayudado hacer frente a esas pruebas?",
+        "question": "¿Por qué felicitó el apóstol Pablo a los tesalonicenses por su aguante bajo persecución? (1 Tes. 1:3; 2 Tes. 1:4, 5).",
         "references": "1 Tes. 1:3; 2 Tes. 1:4, 5",
         "directAnswer": "<strong>Pablo felicitó a los tesalonicenses por su «obra de fe» y su «labor de amor» bajo persecución, asegurándoles que su aguante era prueba del juicio justo de Dios.</strong>",
         "deepAnswer": "En 1 Tesalonicenses 1:3, Pablo destaca que recordaba sin cesar la constancia de su esperanza en el Señor. Más adelante, en 2 Tesalonicenses 1:4, 5, les dice que <strong>su aguante servía de ejemplo para otras congregaciones y era una prueba clara de que Dios los consideraba dignos de su Reino</strong>. Pablo les enseñó que <strong>sus sufrimientos no eran en vano, sino que demostraban que Dios juzgaría justamente a los que los oprimían</strong>.",
@@ -8402,196 +8228,3 @@ const lessonsData = [
     "flashcards": []
   }
 ];
-
-const scripturesText = {
-  "Is. 30:20": "Tu Gran Instructor ya no se esconderá, y verás a tu Gran Instructor con tus propios ojos.",
-  "Isaías 30:20": "Tu Gran Instructor ya no se esconderá, y verás a tu Gran Instructor con tus propios ojos.",
-  "Juan 8:28": "Por eso Jesús dijo: 'Cuando hayan levantado al Hijo del Hombre, entonces sabrán que yo soy ese y que no hago nada por mi propia iniciativa, sino que hablo de estas cosas tal como el Padre me enseñó'.",
-  "Deut. 4:10": "Acuérdate del día en que estuviste de pie ante Jehová tu Dios en Horeb, cuando Jehová me dijo: 'Reúneme al pueblo para que yo les haga oír mis palabras, a fin de que aprendan a temerme todos los días que vivan en la tierra y se las enseñen a sus hijos'.",
-  "Deut. 6:4-9": "Escucha, oh Israel: Jehová nuestro Dios es un solo Jehová. Ama a Jehová tu Dios con todo tu corazón, con toda tu alma y con todas tus fuerzas. Estas palabras que te estoy mandando hoy tienen que estar en tu corazón. Tienes que inculcarlas en tus hijos y hablar de ellas cuando te sientes en tu casa, cuando andes por el camino, cuando te acuestes y cuando te levantes. Átalas como un recordatorio en tu mano y que sean como una diadema en tu frente. Escríbelas en los marcos de las puertas de tu casa y en tus puertas.",
-  "1 Cor. 14:23-31": "Porque todos ustedes pueden profetizar uno por uno, para que todos aprendan y todos reciban consuelo. Y los dones espirituales de los profetas deben ser controlados por los profetas. Porque Dios no es un Dios de desorden, sino de paz.",
-  "Mat. 24:45-47": "¿Quién es en realidad el esclavo fiel y prudente a quien su amo nombró sobre sus sirvientes para darles su alimento al tiempo debido? Feliz es aquel esclavo si su amo, al llegar, lo encuentra haciendo eso. En verdad les digo que lo nombrará sobre todos sus bienes.",
-  "Juan 17:3": "Esto significa vida eterna: que te conozcan a ti, el único Dios verdadero, y a aquel a quien tú enviaste, Jesús el Cristo.",
-  "1 Ped. 2:17": "Honren a personas de todo tipo, tengan amor a toda la hermandad, teman a Dios, honren al rey.",
-  "2 Tim. 3:17": "...para que el hombre de Dios sea enteramente competente y esté completamente equipado para toda buena obra.",
-  "Col. 1:9, 10": "...pedir que se les llene del conocimiento exacto de su voluntad con toda sabiduría y comprensión espiritual, para que anden de una manera digna de Jehová a fin de agradarle plenamente mientras siguen dando fruto en toda buena obra y aumentando en el conocimiento exacto de Dios.",
-  "Luc. 6:38b": "Porque con la medida con que ustedes midan se les volverá a medir.",
-  "Mar. 4:24": "También les dijo: 'Presten atención a lo que oyen. Con la medida con que ustedes midan se les medirá a ustedes, sí, se les añadirá aún más'.",
-  "Rom. 1:11, 12": "Porque tengo muchos deseos de verlos para compartir con ustedes algún don espiritual a fin de hacerlos firmes; o, más bien, para que nos animemos unos a otros mediante nuestra fe, tanto la de ustedes como la mía.",
-  "Gál. 6:4": "Pero que cada uno examine sus propias acciones, y entonces tendrá motivos para alegrarse por sí mismo...",
-  "Prov. 9:9": "Dale al sabio y se hará más sabio. Enseña al justo y aprenderá más.",
-  "2 Tim. 4:5": "...haz el trabajo de un evangelizador, cumple plenamente tu ministerio.",
-  "Sal. 63:3": "Tu amor leal es mejor que la vida; por eso mis propios labios te darán gloria.",
-  "1 Ped. 2:2": "Deseen ardientemente la leche espiritual no adulterada, para que por medio de ella crezcan hacia la salvación.",
-  "Is. 50:4, 5": "El Señor Soberano Jehová me ha dado la lengua de los enseñados para que sepa responderle con las palabras adecuadas al cansado. Él me despierta mañana tras mañana; despierta mi oído para que escuche como los enseñados. El Señor Soberano Jehová me ha abierto el oído, y yo no fui rebelde. No me volví en la dirección contraria.",
-  "Mat. 22:37": "Ama a Jehová tu Dios con todo tu corazón, con toda tu alma y con toda tu mente.",
-  "Deut. 17:18-20": "Cuando se siente en el trono de su reino, tiene que escribir para sí en un libro una copia de esta Ley... Debe tenerla consigo y leerla todos los días de su vida para que aprenda a temer a Jehová su Dios... para que su corazón no se eleve por encima de sus hermanos y no se desvíe del mandamiento ni a la derecha ni a la izquierda...",
-  "Salmo 63:3": "Tu amor leal es mejor que la vida; por eso mis propios labios te darán gloria.",
-  "Mateo 22:37": "Ama a Jehová tu Dios con todo tu corazón, con toda tu alma y con toda tu mente.",
-  "1 Pedro 2:2": "Deseen ardientemente la leche espiritual no adulterada, para que por medio de ella crezcan hacia la salvación.",
-  "Jos. 1:8": "Este libro de la Ley no debe apartarse de tu boca. Tienes que leerlo y meditar en él día y noche, a fin de que obedezcas cuidadosamente todo lo que está escrito en él; porque entonces te irá bien en tu camino y actuarás con sabiduría.",
-  "2 Crón. 15:2": "Jehová estará con ustedes mientras ustedes estén con él; si lo buscan, él se dejará encontrar, pero, si lo abandonan, él los abandonará.",
-  "Sal. 19:14": "Que las palabras de mi boca y la meditación de mi corazón te agraden, oh Jehová, mi Roca y mi Redentor.",
-  "Sal. 77:12": "Meditaré con mucho gusto en todas tus actividades y reflexionaré en tus obras.",
-  "1 Tim. 4:13-15": "Sigue dedicándote a la lectura pública, a aconsejar y a enseñar... Reflexiona en estas cosas, dedícate de lleno a ellas, para que tu progreso sea evidente a todos.",
-  "1 Sam. 3:7-10": "Samuel todavía no conocía a Jehová... Entonces Jehová llamó por tercera vez: '¡Samuel!'... Y Samuel dijo: 'Habla, que tu siervo está escuchando'.",
-  "Hech. 4:13": "Al ver la seguridad con que hablaban Pedro y Juan, y al darse cuenta de que eran hombres comunes y con poca educación, se quedaron asombrados. Y empezaron a reconocer que ellos habían estado con Jesús.",
-  "Heb. 5:12-14": "Porque... deberían ser maestros... el alimento sólido es para personas maduras, para las que con el uso han entrenado su capacidad de discernir...",
-  "Sal. 25:4": "Hazme conocer tus caminos, oh Jehová; enséñame tus sendas.",
-  "Hech. 9:10-17": "En Damasco había un discípulo llamado Ananías... Y el Señor le dijo: 'Levántate, ve a la calle llamada Recta y busca en la casa de Judas a un hombre de Tarso llamado Saulo... es un vaso escogido para llevar mi nombre a las naciones...'",
-  "Is 30:20": "Tu Gran Instructor ya no se esconderá, y verás a tu Gran Instructor con tus propios ojos.",
-  "Lucas 6:38b": "Porque con la medida con que ustedes midan se les volverá a medir.",
-  "Luc 6:38b": "Porque con la medida con que ustedes midan se les volverá a medir.",
-  "2 Timoteo 4:5": "...haz el trabajo de un evangelizador, cumple plenamente tu ministerio.",
-  "2 Tim 4:5": "...haz el trabajo de un evangelizador, cumple plenamente tu ministerio.",
-  "Sal 63:3": "Tu amor leal es mejor que la vida; por eso mis propios labios te darán gloria.",
-  "Mat 22:37": "Ama a Jehová tu Dios con todo tu corazón, con toda tu alma y con toda tu mente.",
-  "1 Ped 2:2": "Deseen ardientemente la leche espiritual no adulterada, para que por medio de ella crezcan hacia la salvación.",
-  "2 Timoteo 2:15": "Esfuérzate al máximo por presentarte aprobado ante Dios, como un trabajador que no tiene de qué avergonzarse, que maneja la palabra de la verdad correctamente.",
-  "2 Tim. 2:15": "Esfuérzate al máximo por presentarte aprobado ante Dios, como un trabajador que no tiene de qué avergonzarse, que maneja la palabra de la verdad correctamente.",
-  "2 Tim 2:15": "Esfuérzate al máximo por presentarte aprobado ante Dios, como un trabajador que no tiene de qué avergonzarse, que maneja la palabra de la verdad correctamente.",
-  "Salmo 119:97": "¡Cuánto amo tu ley! Todo el día medito en ella.",
-  "Sal. 119:97": "¡Cuánto amo tu ley! Todo el día medito en ella.",
-  "Sal 119:97": "¡Cuánto amo tu ley! Todo el día medito en ella.",
-  "Proverbios 4:18": "Pero la senda de los justos es como la luz brillante de la mañana, que brilla más y más hasta que es pleno día.",
-  "Prov. 4:18": "Pero la senda de los justos es como la luz brillante de la mañana, que brilla más y más hasta que es pleno día.",
-  "Prov 4:18": "Pero la senda de los justos es como la luz brillante de la mañana, que brilla más y más hasta que es pleno día.",
-  "Salmo 43:3": "Envía tu luz y tu verdad. Que ellas me guíen; que me lleven a tu santa montaña y a tu gran tabernáculo.",
-  "Sal. 43:3": "Envía tu luz y tu verdad. Que ellas me guíen; que me lleven a tu santa montaña y a tu gran tabernáculo.",
-  "Sal 43:3": "Envía tu luz y tu verdad. Que ellas me guíen; que me lleven a tu santa montaña y a tu gran tabernáculo.",
-  "Isaías 60:17": "En vez de bronce traeré oro, en vez de hierro traeré plata, en vez de madera traeré bronce y en vez de piedras traeré hierro...",
-  "Is. 60:17": "En vez de bronce traeré oro, en vez de hierro traeré plata, en vez de madera traeré bronce y en vez de piedras traeré hierro...",
-  "Is 60:17": "En vez de bronce traeré oro, en vez de hierro traeré plata, en vez de madera traeré bronce y en vez de piedras traeré hierro...",
-  "Salmo 77:12": "Meditaré con mucho gusto en todas tus actividades y reflexionaré en tus obras.",
-  "Sal 77:12": "Meditaré con mucho gusto en todas tus actividades y reflexionaré en tus obras.",
-  "Salmo 24:1": "A Jehová le pertenecen la tierra y todo lo que hay en ella, el terreno productivo y sus habitantes.",
-  "Sal. 24:1": "A Jehová le pertenecen la tierra y todo lo que hay en ella, el terreno productivo y sus habitantes.",
-  "Sal 24:1": "A Jehová le pertenecen la tierra y todo lo que hay en ella, el terreno productivo y sus habitantes.",
-  "Jeremías 10:23": "Sé muy bien, oh Jehová, que el hombre no es dueño de su camino. Al hombre que camina ni siquiera le corresponde dirigir sus pasos.",
-  "Jer. 10:23": "Sé muy bien, oh Jehová, que el hombre no es dueño de su camino. Al hombre que camina ni siquiera le corresponde dirigir sus pasos.",
-  "Jer 10:23": "Sé muy bien, oh Jehová, que el hombre no es dueño de su camino. Al hombre que camina ni siquiera le corresponde dirigir sus pasos.",
-  "Filipenses 2:4": "Al mismo tiempo que buscan no solo sus propios intereses, sino también los de los demás.",
-  "Filip. 2:4": "Al mismo tiempo que buscan no solo sus propios intereses, sino también los de los demás.",
-  "Filip 2:4": "Al mismo tiempo que buscan no solo sus propios intereses, sino también los de los demás.",
-  "Hechos 20:20": "...mientras que no dejé de decirles ninguna de las cosas que eran de provecho ni de enseñarles públicamente y de casa en casa.",
-  "Hech. 20:20": "...mientras que no dejé de decirles ninguna de las cosas que eran de provecho ni de enseñarles públicamente y de casa en casa.",
-  "Hech 20:20": "...mientras que no dejé de decirles ninguna de las cosas que eran de provecho ni de enseñarles públicamente y de casa en casa.",
-  "Hechos 5:42": "Y todos los días, en el templo y de casa en casa, continuaban enseñando y declarando las buenas nuevas acerca del Cristo, Jesús.",
-  "Hech. 5:42": "Y todos los días, en el templo y de casa en casa, continuaban enseñando y declarando las buenas nuevas acerca del Cristo, Jesús.",
-  "Hech 5:42": "Y todos los días, en el templo y de casa en casa, continuaban enseñando y declarando las buenas nuevas acerca del Cristo, Jesús.",
-  "Salmo 68:11": "Jehová da la orden; las mujeres que proclaman las buenas noticias son un ejército grande.",
-  "Sal. 68:11": "Jehová da la orden; las mujeres que proclaman las buenas noticias son un ejército grande.",
-  "Sal 68:11": "Jehová da la orden; las mujeres que proclaman las buenas noticias son un ejército grande.",
-  "1 Pedro 3:7": "De igual manera, ustedes, esposos, sigan viviendo con ellas de acuerdo con el conocimiento, dándoles honra como a una vasija más frágil...",
-  "1 Ped. 3:7": "De igual manera, ustedes, esposos, sigan viviendo con ellas de acuerdo con el conocimiento, dándoles honra como a una vasija más frágil...",
-  "1 Ped 3:7": "De igual manera, ustedes, esposos, sigan viviendo con ellas de acuerdo con el conocimiento, dándoles honra como a una vasija más frágil...",
-  "Salmo 143:10": "Enséñame a hacer tu voluntad, porque tú eres mi Dios. Tu espíritu es bueno; que me guíe por tierra llana.",
-  "Sal. 143:10": "Enséñame a hacer tu voluntad, porque tú eres mi Dios. Tu espíritu es bueno; que me guíe por tierra llana.",
-  "Sal 143:10": "Enséñame a hacer tu voluntad, porque tú eres mi Dios. Tu espíritu es bueno; que me guíe por tierra llana.",
-  "Efesios 4:8": "Por eso dice: 'Cuando él subió a lo alto, se llevó prisioneros; dio hombres como regalos'.",
-  "Efes. 4:8": "Por eso dice: 'Cuando él subió a lo alto, se llevó prisioneros; dio hombres como regalos'.",
-  "Efes 4:8": "Por eso dice: 'Cuando él subió a lo alto, se llevó prisioneros; dio hombres como regalos'.",
-  "Hebreos 13:17": "Sean obedientes a los que los dirigen y sean sumisos, porque ellos están velando por ustedes como quienes rendirán cuentas...",
-  "Heb. 13:17": "Sean obedientes a los que los dirigen y sean sumisos, porque ellos están velando por ustedes como quienes rendirán cuentas...",
-  "Heb 13:17": "Sean obedientes a los que los dirigen y sean sumisos, porque ellos están velando por ustedes como quienes rendirán cuentas...",
-  "1 Corintios 2:12": "Nosotros no hemos recibido el espíritu del mundo, sino el espíritu que procede de Dios, para que podamos entender las cosas que Dios nos ha dado bondadosamente.",
-  "1 Cor. 2:12": "Nosotros no hemos recibido el espíritu del mundo, sino el espíritu que procede de Dios, para que podamos entender las cosas que Dios nos ha dado bondadosamente.",
-  "1 Cor 2:12": "Nosotros no hemos recibido el espíritu del mundo, sino el espíritu que procede de Dios, para que podamos entender las cosas que Dios nos ha dado bondadosamente.",
-  "Santiago 5:14": "¿Hay alguien enfermo entre ustedes? Que llame a los ancianos de la congregación y que ellos oren por él...",
-  "Sant. 5:14": "¿Hay alguien enfermo entre ustedes? Que llame a los ancianos de la congregación y que ellos oren por él...",
-  "Sant 5:14": "¿Hay alguien enfermo entre ustedes? Que llame a los ancianos de la congregación y que ellos oren por él...",
-  "1 Crónicas 29:17": "Sé bien, oh Dios mío, que tú examinas el corazón y que a ti te gusta la integridad.",
-  "1 Crón. 29:17": "Sé bien, oh Dios mío, que tú examinas el corazón y que a ti te gusta la integridad.",
-  "1 Crón 29:17": "Sé bien, oh Dios mío, que tú examinas el corazón y que a ti te gusta la integridad.",
-  "Mateo 22:21": "Le contestaron: 'De César'. Él entonces les dijo: 'Por lo tanto, páguenle a César lo que es de César, pero a Dios lo que es de Dios'.",
-  "Mat. 22:21": "Le contestaron: 'De César'. Él entonces les dijo: 'Por lo tanto, páguenle a César lo que es de César, pero a Dios lo que es de Dios'.",
-  "Mat 22:21": "Le contestaron: 'De César'. Él entonces les dijo: 'Por lo tanto, páguenle a César lo que es de César, pero a Dios lo que es de Dios'.",
-  "1 Corintios 9:23": "Pero hago todas las cosas por las buenas noticias, para compartirlas con otros.",
-  "1 Cor. 9:23": "Pero hago todas las cosas por las buenas noticias, para compartirlas con otros.",
-  "1 Cor 9:23": "Pero hago todas las cosas por las buenas noticias, para compartirlas con otros.",
-  "Colosenses 4:6": "Que sus palabras sean siempre agradables, sazonadas con sal, para que sepan cómo deben responder a cada persona.",
-  "Col. 4:6": "Que sus palabras sean siempre agradables, sazonadas con sal, para que sepan cómo deben responder a cada persona.",
-  "Col 4:6": "Que sus palabras sean siempre agradables, sazonadas con sal, para que sepan cómo deben responder a cada persona.",
-  "Apocalipsis 19:10": "Adora a Dios. Porque el testimonio acerca de Jesús es lo que inspira las profecías.",
-  "Apoc. 19:10": "Adora a Dios. Porque el testimonio acerca de Jesús es lo que inspira las profecías.",
-  "Apoc 19:10": "Adora a Dios. Porque el testimonio acerca de Jesús es lo que inspira las profecías.",
-  "Juan 14:6": "Jesús le contestó: 'Yo soy el camino, la verdad y la vida. Nadie viene al Padre sino por mí'.",
-  "Juan. 14:6": "Jesús le contestó: 'Yo soy el camino, la verdad y la vida. Nadie viene al Padre sino por mí'.",
-  "Proverbios 4:7": "La sabiduría es lo más importante. Adquiere sabiduría, y con todo lo que adquieras, adquiere entendimiento.",
-  "Prov. 4:7": "La sabiduría es lo más importante. Adquiere sabiduría, y con todo lo que adquieras, adquiere entendimiento.",
-  "Prov 4:7": "La sabiduría es lo más importante. Adquiere sabiduría, y con todo lo que adquieras, adquiere entendimiento.",
-  "Colosenses 3:13": "Sigan soportándose unos a otros y perdonándose de corazón unos a otros, incluso si alguno tiene motivos para quejarse de otro...",
-  "Col. 3:13": "Sigan soportándose unos a otros y perdonándose de corazón unos a otros, incluso si alguno tiene motivos para quejarse de otro...",
-  "Col 3:13": "Sigan soportándose unos a otros y perdonándose de corazón unos a otros, incluso si alguno tiene motivos para quejarse de otro...",
-  "1 Corintios 9:24": "¿No saben ustedes que en una carrera todos los corredores corren, pero solo uno recibe el premio? Corran de tal modo que lo ganen.",
-  "1 Cor. 9:24": "¿No saben ustedes que en una carrera todos los corredores corren, pero solo uno recibe el premio? Corran de tal modo que lo ganen.",
-  "1 Cor 9:24": "¿No saben ustedes que en una carrera todos los corredores corren, pero solo uno recibe el premio? Corran de tal modo que lo ganen.",
-  "Gálatas 6:4": "Pero que cada uno examine sus propias acciones, y entonces tendrá motivos para alegrarse por sí mismo...",
-  "Gál 6:4": "Pero que cada uno examine sus propias acciones, y entonces tendrá motivos para alegrarse por sí mismo...",
-  "1 Corintios 3:6": "Yo planté, Apolos regó, pero Dios siguió haciéndolo crecer.",
-  "1 Cor. 3:6": "Yo planté, Apolos regó, pero Dios siguió haciéndolo crecer.",
-  "1 Cor 3:6": "Yo planté, Apolos regó, pero Dios siguió haciéndolo crecer.",
-  "Hechos 9:17": "De modo que Ananías fue, entró en la casa, le puso las manos encima y le dijo: 'Saulo, hermano, el Señor Jesús... me ha enviado para que recuperes la vista...'",
-  "Hech. 9:17": "De modo que Ananías fue, entró en la casa, le puso las manos encima y le dijo: 'Saulo, hermano, el Señor Jesús... me ha enviado para que recuperes la vista...'",
-  "Hech 9:17": "De modo que Ananías fue, entró en la casa, le puso las manos encima y le dijo: 'Saulo, hermano, el Señor Jesús... me ha enviado para que recuperes la vista...'",
-  "Proverbios 9:9": "Dale al sabio y se hará más sabio. Enseña al justo y aprenderá más.",
-  "Prov 9:9": "Dale al sabio y se hará más sabio. Enseña al justo y aprenderá más.",
-  "Juan 14:23": "Jesús le contestó: 'Si alguien me ama, obedecerá mis palabras; y mi Padre lo amará, y vendremos a él y viviremos con él'.",
-  "Juan. 14:23": "Jesús le contestó: 'Si alguien me ama, obedecerá mis palabras; y mi Padre lo amará, y vendremos a él y viviremos con él'.",
-  "1 Pedro 2:21": "De hecho, para esto fueron llamados, porque Cristo mismo sufrió por ustedes, dejándoles el modelo para que sigan sus pasos muy de cerca.",
-  "1 Ped. 2:21": "De hecho, para esto fueron llamados, porque Cristo mismo sufrió por ustedes, dejándoles el modelo para que sigan sus pasos muy de cerca.",
-  "1 Ped 2:21": "De hecho, para esto fueron llamados, porque Cristo mismo sufrió por ustedes, dejándoles el modelo para que sigan sus pasos muy de cerca.",
-  "Mateo 28:19, 20": "Vayan, por lo tanto, y hagan discípulos de gente de todas las naciones, bautizándolos... enseñándoles a obedecer todo lo que yo les he mandado.",
-  "Mat. 28:19, 20": "Vayan, por lo tanto, y hagan discípulos de gente de todas las naciones, bautizándolos... enseñándoles a obedecer todo lo que yo les he mandado.",
-  "Mat 28:19, 20": "Vayan, por lo tanto, y hagan discípulos de gente de todas las naciones, bautizándolos... enseñándoles a obedecer todo lo que yo les he mandado.",
-  "Lucas 6:40": "El estudiante no está por encima de su maestro, pero todo el que esté perfectamente instruido será como su maestro.",
-  "Luc. 6:40": "El estudiante no está por encima de su maestro, pero todo el que esté perfectamente instruido será como su maestro.",
-  "Luc 6:40": "El estudiante no está por encima de su maestro, pero todo el que esté perfectamente instruido será como su maestro.",
-  "Proverbios 20:5": "Los pensamientos del corazón del hombre son como aguas profundas, pero el hombre con discernimiento sabe sacarlos.",
-  "Prov. 20:5": "Los pensamientos del corazón del hombre son como aguas profundas, pero el hombre con discernimiento sabe sacarlos.",
-  "Prov 20:5": "Los pensamientos del corazón del hombre son como aguas profundas, pero el hombre con discernimiento sabe sacarlos.",
-  "Juan 16:12": "Tengo muchas cosas que decirles todavía, pero ahora no las pueden soportar.",
-  "Juan. 16:12": "Tengo muchas cosas que decirles todavía, pero ahora no las pueden soportar.",
-  "3 Juan 4": "Nada me da más alegría que oír que mis hijos siguen andando en la verdad.",
-  "3 Juan. 4": "Nada me da más alegría que oír que mis hijos siguen andando en la verdad.",
-  "Hebreos 6:1": "Por lo tanto, ya que hemos dejado atrás las enseñanzas básicas acerca del Cristo, avancemos hacia la madurez...",
-  "Heb. 6:1": "Por lo tanto, ya que hemos dejado atrás las enseñanzas básicas acerca del Cristo, avancemos hacia la madurez...",
-  "Heb 6:1": "Por lo tanto, ya que hemos dejado atrás las enseñanzas básicas acerca del Cristo, avancemos hacia la madurez...",
-  "Colosenses 2:6, 7": "Por lo tanto, ya que han aceptado a Cristo Jesús el Señor, sigan andando en unión con él, arraigados y edificados en él, firmes en la fe...",
-  "Col. 2:6, 7": "Por lo tanto, ya que han aceptado a Cristo Jesús el Señor, sigan andando en unión con él, arraigados y edificados en él, firmes en la fe...",
-  "Col 2:6, 7": "Por lo tanto, ya que han aceptado a Cristo Jesús el Señor, sigan andando en unión con él, arraigados y edificados en él, firmes en la fe...",
-  "2 Timoteo 3:14": "Tú, sin embargo, sigue en las cosas que aprendiste y fuiste persuadido a creer, sabiendo de qué personas las aprendiste.",
-  "2 Tim. 3:14": "Tú, sin embargo, sigue en las cosas que aprendiste y fuiste persuadido a creer, sabiendo de qué personas las aprendiste.",
-  "2 Tim 3:14": "Tú, sin embargo, sigue en las cosas que aprendiste y fuiste persuadido a creer, sabiendo de qué personas las aprendiste.",
-  "Nehemías 8:10": "No estén tristes, porque la felicidad de Jehová es la fortaleza de ustedes.",
-  "Neh. 8:10": "No estén tristes, porque la felicidad de Jehová es la fortaleza de ustedes.",
-  "Neh 8:10": "No estén tristes, porque la felicidad de Jehová es la fortaleza de ustedes.",
-  "Colosenses 1:11": "...siendo fortalecidos con todo el poder que viene de su gloriosa fuerza para que puedan aguantar plenamente con paciencia y felicidad.",
-  "Col. 1:11": "...siendo fortalecidos con todo el poder que viene de su gloriosa fuerza para que puedan aguantar plenamente con paciencia y felicidad.",
-  "Col 1:11": "...siendo fortalecidos con todo el poder que viene de su gloriosa fuerza para que puedan aguantar plenamente con paciencia y felicidad.",
-  "Proverbios 3:5, 6": "Confía en Jehová con todo tu corazón y no te apoyes en tu propio entendimiento. Ténlo en cuenta en todos tus caminos, y él hará derechas tus sendas.",
-  "Prov. 3:5, 6": "Confía en Jehová con todo tu corazón y no te apoyes en tu propio entendimiento. Ténlo en cuenta en todos tus caminos, y él hará derechas tus sendas.",
-  "Prov 3:5, 6": "Confía en Jehová con todo tu corazón y no te apoyes en tu propio entendimiento. Ténlo en cuenta en todos tus caminos, y él hará derechas tus sendas.",
-  "Josué 23:14": "...Ustedes saben con todo su corazón y con toda su alma que ni una sola palabra de todas las buenas palabras que Jehová su Dios les ha dicho ha fallado.",
-  "Jos. 23:14": "...Ustedes saben con todo su corazón y con toda su alma que ni una sola palabra de todas las buenas palabras que Jehová su Dios les ha dicho ha fallado.",
-  "Jos 23:14": "...Ustedes saben con todo su corazón y con toda su alma que ni una sola palabra de todas las buenas palabras que Jehová su Dios les ha dicho ha fallado.",
-  "1 Tesalonicenses 5:17, 18": "Oren constantemente. Den gracias por todo, porque esta es la voluntad de Dios para ustedes en unión con Cristo Jesús.",
-  "1 Tes. 5:17, 18": "Oren constantemente. Den gracias por todo, porque esta es la voluntad de Dios para ustedes en unión con Cristo Jesús.",
-  "1 Tes 5:17, 18": "Oren constantemente. Den gracias por todo, porque esta es la voluntad de Dios para ustedes en unión con Cristo Jesús.",
-  "Salmo 62:8": "Confíen en él en todo momento, oh pueblo. Derramen su corazón delante de él. Dios es un refugio para nosotros.",
-  "Sal. 62:8": "Confíen en él en todo momento, oh pueblo. Derramen su corazón delante de él. Dios es un refugio para nosotros.",
-  "Sal 62:8": "Confíen en él en todo momento, oh pueblo. Derramen su corazón delante de él. Dios es un refugio para nosotros.",
-  "Hebreos 10:36": "Porque ustedes necesitan aguantar para que, después de haber hecho la voluntad de Dios, reciban el cumplimiento de la promesa.",
-  "Heb. 10:36": "Porque ustedes necesitan aguantar para que, después de haber hecho la voluntad de Dios, reciban el cumplimiento de la promesa.",
-  "Heb 10:36": "Porque ustedes necesitan aguantar para que, después de haber hecho la voluntad de Dios, reciban el cumplimiento de la promesa.",
-  "Santiago 1:4": "Pero dejen que el aguante complete su obra, para que sean perfectos y completos en todo sentido y no les falte nada.",
-  "Sant. 1:4": "Pero dejen que el aguante complete su obra, para que sean perfectos y completos en todo sentido y no les falte nada.",
-  "Sant 1:4": "Pero dejen que el aguante complete su obra, para que sean perfectos y completos en todo sentido y no les falte nada."
-};
-
-if (typeof module !== 'undefined' && module.exports) {
-  module.exports = {
-    lessonsData,
-    scripturesText
-  };
-}
