@@ -3256,7 +3256,7 @@ const lessonsData = [
         "question": "¿Cómo demuestras que tomas en serio las advertencias de Dios? (Gál. 5:16, 17, 19-21).",
         "references": "Gál. 5:16, 17, 19-21",
         "directAnswer": "Lo demostramos al **dejar que el espíritu santo guíe nuestras acciones, luchando con determinación contra los deseos egoístas de la carne**.",
-        "deepAnswer": "Gálatas 5:16 declara: 'Sigan andando por el espíritu y no llevarán a cabo ningún deseo de la carne'. Tomar en serio las advertencias de Jehová implica no jugar con la tentación, sino cortar de raíz cualquier pensamiento o acción impura antes de que dé a luz el pecado, manteniéndonos santos para Dios.",
+        "deepAnswer": "Gálatas 5:16 declara: 'Sigan andando por el espíritu y no llevarán a cabo ningún deseo de la carne'. Tomar en serio las advertencias de Jehová implica **no jugar con la tentación, sino cortar de raíz cualquier pensamiento o acción impura antes de que dé a luz el pecado**, manteniéndonos santos para Dios.",
         "shortAnswer": "Andando según el espíritu santo y rechazando con firmeza las obras de la carne."
       },
       {
@@ -3264,7 +3264,7 @@ const lessonsData = [
         "question": "¿Por qué no debes dejar de luchar contra el espíritu del mundo? (Juan 16:33; Jud. 3).",
         "references": "Juan 16:33; Jud. 3",
         "directAnswer": "No debemos rendirnos porque **Jesús ya venció al mundo, y nosotros debemos 'luchar tenazmente por la fe' para salvar nuestras vidas (Jud. 3)**.",
-        "deepAnswer": "Satanás usará cualquier medio para apartarnos de Jehová. Judas 3 nos insta a 'luchar tenazmente por la fe'. Jesús nos dio el ejemplo y nos animó diciendo: '¡Cobren valor! Yo he vencido al mundo' (Juan 16:33). Mantenernos en pie de guerra espiritual asegura nuestra salvación y honra a Jehová ante el mundo.",
+        "deepAnswer": "Satanás usará cualquier medio para apartarnos de Jehová. Judas 3 nos insta a **'luchar tenazmente por la fe'**. Jesús nos dio el ejemplo y nos animó diciendo: **'¡Cobren valor! Yo he vencido al mundo'** (Juan 16:33). **Mantenernos en pie de guerra espiritual asegura nuestra salvación** y honra a Jehová ante el mundo.",
         "shortAnswer": "Porque la lucha es constante, pero la victoria está garantizada gracias al ejemplo de Jesús."
       }
     ],
@@ -3478,71 +3478,71 @@ const lessonsData = [
           {
             "id": "8A_q20_a",
             "question": "El gobierno nos prohíbe: Predicar las buenas noticias.",
-            "directAnswer": "Continuamos predicando de manera discreta y prudente, ya que nuestra prioridad es obedecer a Dios antes que a los hombres (Hech. 5:29).",
-            "deepAnswer": "Buscamos métodos discretos como el testimonio informal, por cartas o llamadas telefónicas, adaptando nuestra predicación para seguir esparciendo la verdad sin ponernos en peligro innecesario ni buscar el conflicto directo.",
+            "directAnswer": "Continuamos predicando de **manera discreta y prudente**, ya que nuestra prioridad es **obedecer a Dios antes que a los hombres** (Hech. 5:29).",
+            "deepAnswer": "Buscamos **métodos discretos como el testimonio informal, por cartas o llamadas telefónicas**, adaptando nuestra predicación para seguir esparciendo la verdad **sin ponernos en peligro innecesario** ni buscar el conflicto directo.",
             "shortAnswer": "Seguir predicando discretamente para obedecer a Dios."
           },
           {
             "id": "8A_q20_b",
             "question": "El gobierno nos prohíbe: Ir de casa en casa.",
-            "directAnswer": "Adaptamos nuestros métodos recurriendo al testimonio público informal, cartas, llamadas o medios digitales.",
-            "deepAnswer": "La prohibición de ir de casa en casa no detiene nuestra comisión de hacer discípulos. Nos amoldamos utilizando otras facetas del ministerio donde podamos contactar a las personas con seguridad y eficacia.",
+            "directAnswer": "Adaptamos nuestros métodos recurriendo al **testimonio público informal, cartas, llamadas o medios digitales**.",
+            "deepAnswer": "La prohibición de ir de casa en casa no detiene nuestra comisión de hacer discípulos. Nos amoldamos utilizando **otras facetas del ministerio donde podamos contactar a las personas con seguridad y eficacia**.",
             "shortAnswer": "Adaptar el ministerio usando métodos alternativos como cartas o llamadas."
           },
           {
             "id": "8A_q20_c",
             "question": "El gobierno nos prohíbe: Distribuir publicaciones bíblicas a domicilio.",
-            "directAnswer": "Enfocamos nuestros esfuerzos en compartir el mensaje bíblico verbalmente o remitiendo a las personas al sitio oficial jw.org.",
-            "deepAnswer": "Si se restringe la entrega física de literatura, priorizamos las conversaciones basadas en textos de la propia Biblia del amo de casa o compartimos enlaces digitales a la página oficial, garantizando que el mensaje de salvación siga difundiéndose.",
+            "directAnswer": "Enfocamos nuestros esfuerzos en **compartir el mensaje bíblico verbalmente o remitiendo a las personas al sitio oficial jw.org**.",
+            "deepAnswer": "Si se restringe la entrega física de literatura, **priorizamos las conversaciones basadas en textos de la propia Biblia del amo de casa** o compartimos enlaces digitales a la página oficial, garantizando que el mensaje de salvación siga difundiéndose.",
             "shortAnswer": "Usar la Biblia de viva voz y dirigir a las personas a jw.org."
           },
           {
             "id": "8A_q20_d",
             "question": "El gobierno nos prohíbe: Celebrar nuestras reuniones.",
-            "directAnswer": "Nos organizamos en grupos pequeños en hogares particulares o por plataformas virtuales de forma segura y confidencial.",
-            "deepAnswer": "El mandato de no dejar de reunirnos es vital. En proscripción, nos reunimos en pequeños grupos discretos (como en el siglo primero) para recibir el alimento espiritual y el ánimo mutuo sin llamar la atención de las autoridades.",
+            "directAnswer": "Nos organizamos en **grupos pequeños en hogares particulares o por plataformas virtuales** de forma segura y confidencial.",
+            "deepAnswer": "El mandato de no dejar de reunirnos es vital. En proscripción, **nos reunimos en pequeños grupos discretos (como en el siglo primero)** para recibir el alimento espiritual y el ánimo mutuo sin llamar la atención de las autoridades.",
             "shortAnswer": "Reunirse discretamente en hogares o por medios virtuales."
           },
           {
             "id": "8A_q20_e",
             "question": "El gobierno nos exige: Inscribirnos en el censo electoral y votar en las elecciones locales o nacionales.",
-            "directAnswer": "Mantenemos nuestra neutralidad cristiana, asistiendo si la ley obliga a presentarse, pero absteniéndose de votar o votando en blanco/nulo.",
-            "deepAnswer": "Si presentarse en la mesa electoral es una obligación legal bajo multa o arresto, acudimos para cumplir con la ley, pero mantenemos nuestra neutralidad ante la urna absteniéndose de elegir candidatos, pues nuestra lealtad pertenece al Reino celestial de Dios.",
+            "directAnswer": "Mantenemos nuestra **neutralidad cristiana**, asistiendo si la ley obliga a presentarse, pero **absteniéndose de votar o votando en blanco/nulo**.",
+            "deepAnswer": "Si presentarse en la mesa electoral es una obligación legal bajo multa o arresto, acudimos para cumplir con la ley, pero **mantenemos nuestra neutralidad ante la urna absteniéndose de elegir candidatos**, pues nuestra lealtad pertenece al Reino celestial de Dios.",
             "shortAnswer": "Mantener la neutralidad cristiana absteniéndose de votar."
           },
           {
             "id": "8A_q20_f",
             "question": "El gobierno nos exige: Registrarnos en un censo nacional.",
-            "directAnswer": "Cumplimos de buena gana con el censo, ya que es un trámite puramente civil que no viola las leyes de Dios (Luc. 2:1-5).",
-            "deepAnswer": "Jesús y sus padres obedecieron el censo ordenado por César Augusto viajando a Belén. Los censos ayudan al orden y planificación social; al registrarnos, demostramos ser ciudadanos ejemplares y cooperadores.",
+            "directAnswer": "Cumplimos de buena gana con el censo, ya que es un **trámite puramente civil que no viola las leyes de Dios** (Luc. 2:1-5).",
+            "deepAnswer": "Jesús y sus padres obedecieron el censo ordenado por César Augusto viajando a Belén. Los censos ayudan al orden y planificación social; al registrarnos, **demostramos ser ciudadanos ejemplares y cooperadores**.",
             "shortAnswer": "Cooperar con el censo civil de buena gana."
           },
           {
             "id": "8A_q20_g",
             "question": "El gobierno nos exige: Obtener determinados documentos antes de cruzar las fronteras políticas.",
-            "directAnswer": "Obedecemos las leyes de extranjería y aduanas, obteniendo pasaportes, visados o permisos requeridos legalmente (Rom. 13:7).",
-            "deepAnswer": "Los cristianos respetamos las fronteras y leyes nacionales de inmigración. Al solicitar con honradez la documentación legal para viajar, demostramos orden y respeto a los ordenamientos civiles.",
+            "directAnswer": "Obedecemos las leyes de extranjería y aduanas, obteniendo **pasaportes, visados o permisos requeridos legalmente** (Rom. 13:7).",
+            "deepAnswer": "Los cristianos respetamos las fronteras y leyes nacionales de inmigración. Al **solicitar con honradez la documentación legal para viajar**, demostramos orden y respeto a los ordenamientos civiles.",
             "shortAnswer": "Tramitar and portar todos los documentos legales de viaje."
           },
           {
             "id": "8A_q20_h",
             "question": "El gobierno nos exige: Cumplir con ciertos requisitos para casarnos.",
-            "directAnswer": "Cumplimos con todas las exigencias legales civiles del matrimonio para que nuestra unión sea legal y honrosa ante la sociedad.",
-            "deepAnswer": "Jehová aprueba que el matrimonio se registre ante las autoridades competentes. Cumplimos con los exámenes médicos, tasas o registros civiles para formalizar la unión familiar conforme a las leyes del país.",
+            "directAnswer": "Cumplimos con todas las **exigencias legales civiles del matrimonio** para que nuestra unión sea legal y honrosa ante la sociedad.",
+            "deepAnswer": "Jehová aprueba que el matrimonio se registre ante las autoridades competentes. **Cumplimos con los exámenes médicos, tasas o registros civiles** para formalizar la unión familiar conforme a las leyes del país.",
             "shortAnswer": "Satisfacer los requisitos civiles para formalizar legalmente el matrimonio."
           },
           {
             "id": "8A_q20_i",
             "question": "El gobierno nos exige: Inscribir a los recién nacidos en el registro civil.",
-            "directAnswer": "Inscribimos puntualmente a nuestros hijos en el registro civil para otorgarles identidad legal y proteger sus derechos ciudadanos.",
-            "deepAnswer": "Registrar el nacimiento de un hijo es una obligación civil protectora que no entra en conflicto con las normas bíblicas. Cumplir con esto demuestra que somos padres responsables y ciudadanos cumplidores.",
+            "directAnswer": "Inscribimos puntualmente a nuestros hijos en el **registro civil** para otorgarles **identidad legal y proteger sus derechos ciudadanos**.",
+            "deepAnswer": "Registrar el nacimiento de un hijo es una obligación civil protectora que no entra en conflicto con las normas bíblicas. Cumplir con esto **demuestra que somos padres responsables y ciudadanos cumplidores**.",
             "shortAnswer": "Registrar puntualmente el nacimiento de los hijos."
           },
           {
             "id": "8A_q20_j",
             "question": "Menciona otras situaciones a las que te enfrentas donde vives.",
-            "directAnswer": "Analizo cada caso particular (impuestos comerciales, reglamentos locales) y busco la guía teocrática para proceder con honradez y paz.",
-            "deepAnswer": "Cada territorio tiene regulaciones comerciales, laborales o vecinales específicas. Evaluamos si violan los mandamientos de Dios. De no ser así, cumplimos pacíficamente, dando un buen testimonio con nuestra honradez y excelente conducta.",
+            "directAnswer": "Analizo cada caso particular (impuestos comerciales, reglamentos locales) y busco la **guía teocrática** para proceder con **honradez y paz**.",
+            "deepAnswer": "Cada territorio tiene regulaciones comerciales, laborales o vecinales específicas. Evaluamos si violan los mandamientos de Dios. De no ser así, **cumplimos pacíficamente, dando un buen testimonio con nuestra honradez y excelente conducta**.",
             "shortAnswer": "Evaluar bajo principios bíblicos y actuar con honradez y respeto."
           }
         ]
