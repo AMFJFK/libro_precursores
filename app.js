@@ -27,6 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Configurar comportamiento del buscador al presionar Enter
     const searchInput = document.getElementById("syllabus-search");
     if (searchInput) {
+        searchInput.value = ""; // Limpiar buscador al refrescar y evitar autocompletado
         searchInput.addEventListener("keydown", (event) => {
             if (event.key === "Enter") {
                 event.preventDefault();
