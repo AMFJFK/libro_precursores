@@ -900,7 +900,10 @@ function filterLessons() {
         if (!item) return;
 
         const matchTitle = hasAnyWordMatch(lesson.title, termsArray);
-        const matchId = normalizeText(lesson.id).includes(query);
+        const matchId = termsArray.some(term => 
+            normalizeText(lesson.id) === term || 
+            normalizeText(lesson.id).startsWith(term)
+        ) || normalizeText(lesson.id).includes(query);
         const matchLema = hasAnyWordMatch(lesson.lema, termsArray);
         const matchIntro = hasAnyWordMatch(lesson.intro, termsArray);
         
@@ -1050,6 +1053,23 @@ function executeSearch() {
     const matches = [];
 
     lessonsData.forEach((lesson, lessonIdx) => {
+        // 0. ID o Número de Lección
+        const matchId = termsArray.some(term => 
+            normalizeText(lesson.id) === term || 
+            (term.length > 0 && normalizeText(lesson.id).startsWith(term))
+        );
+        if (matchId) {
+            matches.push({
+                lessonIndex: lessonIdx,
+                lessonId: lesson.id,
+                lessonTitle: lesson.title,
+                questionId: null,
+                type: "Número de Lección",
+                text: `Lección ${lesson.id}: ${lesson.title}`,
+                snippet: `Ir directamente a la Lección ${lesson.id}`
+            });
+        }
+
         // 1. Título de Lección
         if (hasAnyWordMatch(lesson.title, termsArray)) {
             matches.push({
