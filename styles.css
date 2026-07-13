@@ -1295,7 +1295,7 @@ body {
     .app-container {
         padding: 72px 16px 16px 16px; /* Space for sticky header */
         height: 100vh;
-        overflow-y: auto;
+        overflow: hidden;
         display: block;
         width: 100vw;
         gap: 0;
@@ -1335,7 +1335,10 @@ body {
         width: 100%;
         max-width: 100%;
         padding-right: 0;
-        overflow-y: visible;
+        height: 100%;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        padding-bottom: 40px;
     }
     .navigation-menu {
         max-height: calc(100vh - 350px);
