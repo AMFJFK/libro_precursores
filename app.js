@@ -12,6 +12,26 @@ let currentGlobalFlashcardIndex = 0;
 
 
 document.addEventListener("DOMContentLoaded", () => {
+    // Detectar si la base de datos es antigua por culpa de la caché
+    const isDbOld = typeof lessonsData !== "undefined" && lessonsData.some(l => {
+        if (l.id === "7B" && l.questions.length < 24) return true;
+        if (l.id === "8A" && l.questions.length < 21) return true;
+        if (l.id === "10A" && l.questions.length < 30) return true;
+        return false;
+    });
+
+    if (isDbOld) {
+        const warningBanner = document.createElement("div");
+        warningBanner.style.cssText = "background-color: #d93838; color: white; text-align: center; padding: 12px 16px; font-weight: bold; font-size: 0.9rem; z-index: 10000; position: sticky; top: 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1); width: 100%; border-bottom: 2px solid #a32222;";
+        warningBanner.innerHTML = `
+            ⚠️ ¡Atención! Tu navegador tiene guardada una versión antigua de la base de datos en la caché.<br>
+            <span style="font-weight: normal; font-size: 0.8rem; display: block; margin-top: 4px;">
+                Para ver las preguntas que faltan, por favor abre esta página en una <strong>Ventana de Incógnito (Ctrl + Shift + N)</strong> o borra el historial de navegación reciente.
+            </span>
+        `;
+        document.body.insertBefore(warningBanner, document.body.firstChild);
+    }
+
     // Cargar Tema Guardado (Forzado a JW.ORG)
     changeTheme("jw");
 
