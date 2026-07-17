@@ -5521,7 +5521,6 @@ const lessonsData = [
         "directAnswer": "Ser amable y mostrar interés genuino <strong>ayuda a derribar barreras y crea un ambiente de confianza necesario para que la persona esté dispuesta a escuchar el mensaje del Reino.</strong>",
         "deepAnswer": "Cuando tratamos a la persona con bondad y empatía, <strong>reflejamos el amor de Jehová.</strong> Esto <strong>permite que el interlocutor se sienta valorado y no juzgado, lo cual es fundamental para que el mensaje bíblico toque su corazón y sea más receptivo a la verdad.</strong>",
         "shortAnswer": "La amabilidad abre el corazón y prepara el terreno para la Palabra de Dios.",
-        "subtitle": "Ten claro tu objetivo",
         "note": "Nuestro objetivo principal es ayudar a las personas a ser discípulos de Jesús y bautizarse. Hoy en día, el mejor método para conseguirlo es dando clases de la Biblia. Así que intenta hablar de un tema bíblico en cada visita. De esa manera, la persona estará cada vez más abierta a recibir clases de la Biblia, y dejaremos claro para qué la visitamos."
       },
       {
@@ -5681,12 +5680,11 @@ const lessonsData = [
       },
       {
         "id": "11B_q34",
-        "question": "¿Por qué es importante mantener la sencillez en nuestras explicaciones al enseñar?",
+        "question": "¿Por qué debes tener conversaciones sencillas y centradas en la Biblia?",
         "references": "",
         "directAnswer": "<strong>Debemos tener conversaciones sencillas para no abrumar a la persona y permitir que comprenda mejor el mensaje del Reino.</strong>",
         "deepAnswer": "Al mantener nuestras explicaciones sencillas y centradas en un solo punto bíblico, <strong>imitamos el método de enseñanza de Jesús.</strong> <strong>Esto ayuda a que el interlocutor no se sienta confundido y pueda asimilar la verdad gradualmente, evitando que el exceso de información desvíe su atención de lo más importante: el propósito de Jehová.</strong>",
-        "shortAnswer": "La sencillez ayuda a que la verdad eche raíces en el corazón.",
-        "subtitle": "Empieza cursos bíblicos"
+        "shortAnswer": "La sencillez ayuda a que la verdad eche raíces en el corazón."
       },
       {
         "id": "11B_q35",
@@ -5714,7 +5712,7 @@ const lessonsData = [
       },
       {
         "id": "11B_q38",
-        "question": "Para hacer revisitas se necesita constancia. ¿Por qué?",
+        "question": "Para hacer revisitas se necesita constancia. ¿Por qué? ¿Qué puede ayudarnos? (lmd lección 7).",
         "references": "",
         "directAnswer": "<strong>La constancia es necesaria porque a menudo necesitamos varias visitas para cultivar el interés inicial de una persona.</strong>",
         "deepAnswer": "La labor de hacer discípulos es similar a la del agricultor; <strong>requiere paciencia y constancia.</strong> Muchas personas no reaccionan de inmediato, pero <strong>nuestra perseverancia demuestra que nos importa su bienestar espiritual y que realmente deseamos compartir las buenas nuevas con ellas, cumpliendo así con nuestra comisión divina.</strong>",
@@ -5752,12 +5750,11 @@ const lessonsData = [
         "references": "",
         "directAnswer": "Si no hay interés, <strong>mantenemos siempre una actitud calmada, amable y respetuosa para dejar la puerta abierta a futuro.</strong>",
         "deepAnswer": "Si la persona reacciona de forma cortante, recordamos que <em>la apacibilidad</em> es un fruto del espíritu. Nuestra respuesta debe reflejar los valores cristianos, sin tomarnos el rechazo de forma personal. <strong>Al retirarnos con dignidad, dejamos una buena impresión que quizás, en el futuro, cuando sus circunstancias cambien, le permita recordar que los Testigos de Jehová son personas respetuosas y amables.</strong>",
-        "shortAnswer": "Mantén siempre la calma y la bondad, pues reflejan nuestro mensaje.",
-        "subtitle": "Lo que puede pasar al hacer revisitas"
+        "shortAnswer": "Mantén siempre la calma y la bondad, pues reflejan nuestro mensaje."
       },
       {
         "id": "11B_q43",
-        "question": "En esos casos, ¿qué haces para dejar una buena impresión?",
+        "question": "En esos casos, ¿qué haces para dejar una buena impresión? (Mat. 10:12, 13; Rom. 12:17, 18).",
         "references": "Mat. 10:12, 13; Rom. 12:17, 18",
         "directAnswer": "Para dejar una buena impresión, <strong>saludamos amistosamente y ofrecemos algo que edifica de la Palabra de Dios.</strong>",
         "deepAnswer": "Al igual que Jesús enseñó a sus discípulos a saludar las casas que visitaban (Mat. 10:12, 13), nosotros <strong>imitamos esa cortesía al mostrar amor y respeto.</strong> <strong>Nos esforzamos por ser pacíficos y, si es posible, vivir en paz con todos, ofreciendo un mensaje que edifique y honre a Jehová</strong> (Rom. 12:17, 18). Nuestro objetivo es sembrar semillas del Reino y dejar una impresión positiva que invite a la reflexión.",
@@ -5781,7 +5778,7 @@ const lessonsData = [
       },
       {
         "id": "11B_q46",
-        "question": "¿Por qué es esencial la ayuda de Jehová al hacer revisitas? (1 Cor. 3:6).",
+        "question": "¿Por qué te ayudará a cumplir bien con tu ministerio pedirle a Jehová que te ayude a hacer revisitas? (1 Cor. 3:6).",
         "references": "1 Cor. 3:6",
         "directAnswer": "Jehová es quien hace crecer la verdad en el corazón de las personas, por lo que <strong>su ayuda es esencial para el éxito del ministerio.</strong>",
         "deepAnswer": "La Biblia nos enseña que ni el que planta ni el que riega es algo, sino Dios, quien da el crecimiento (1 Cor. 3:6). <strong>Pedirle a Jehová sabiduría y guía en nuestras revisitas nos ayuda a enfocar nuestros esfuerzos en las personas receptivas y a decir lo que agrada a Dios.</strong> <br> Su espíritu nos capacita para ser mejores en nuestro ministerio y a cumplir con nuestra comisión de predicar.",
