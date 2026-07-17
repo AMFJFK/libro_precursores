@@ -4832,20 +4832,13 @@ const lessonsData = [
     "intro": "<p>¿Qué es una persona espiritual? Es la que tiene en cuenta a Dios en todo. Quiere saber lo que él piensa y hacer lo que a él le gusta. En esta lección analizaremos cómo evaluar nuestro crecimiento a la luz de las Escrituras <strong><span class=\"scripture-link\" onclick=\"showScripture('1 Cor. 9:24')\">(1 Cor. 9:24)</span></strong>, cultivando la mente de Cristo.</p>",
     "questions": [
       {
-        "id": "11A_q1",
-        "question": "¿Cómo puedo llegar a ser una persona espiritual?",
-        "references": "",
-        "directAnswer": "Llegamos a ser personas espirituales cuando <strong>nos esforzamos por ver los asuntos como Jehová los ve, alimentando constantemente nuestra mente con verdades bíblicas y permitiendo que el espíritu santo dirija nuestra conducta.</strong>",
-        "deepAnswer": "El desarrollo de la espiritualidad es un proceso continuo que exige cultivar una relación íntima y personal con Jehová Dios. Para lograrlo, <strong>debemos estudiar su Palabra con regularidad, orar con fervor y aplicar de corazón los consejos bíblicos en nuestro diario vivir.</strong> Al imitar de cerca el dechado de Jesucristo y cultivar de manera activa el fruto del espíritu, transformaremos gradualmente nuestra mente para que refleje siempre los valores y pensamientos del Creador.",
-        "shortAnswer": "Llegamos a ser espirituales al cultivar una amistad íntima con Jehová y esforzarnos por pensar tal como él piensa."
-      },
-      {
         "id": "11A_q2",
         "question": "¿Por qué es tan importante leer la Biblia para ser espiritual?",
         "references": "Sal. 119:105; Juan 17:17",
         "directAnswer": "Leer la Biblia es fundamental porque <strong>mediante ella recibimos el alimento espiritual y la verdad divina indispensables para transformar nuestra mente y tomar decisiones que tengan la aprobación de Jehová.</strong>",
         "deepAnswer": "Según Salmo 119:105, la Palabra de Dios actúa como una <em>“lámpara para mi pie”</em> y una <em>“luz para mi sendero”</em>, dándonos la guía necesaria tanto en los asuntos diarios como en los planes futuros. Además, en Juan 17:17, Jesús destacó el poder de las Escrituras al orar: <em>“Santifícalos por medio de la verdad; tu palabra es la verdad”</em>. Sin la lectura constante y la meditación profunda en el texto bíblico, <strong>nuestro pensamiento se vería moldeado inevitablemente por el espíritu del mundo, alejándonos de la espiritualidad cristiana.</strong>",
-        "shortAnswer": "La lectura bíblica es imprescindible porque nos santifica con la verdad de Jehová y nos protege de la mentalidad de este mundo."
+        "shortAnswer": "La lectura bíblica es imprescindible porque nos santifica con la verdad de Jehová y nos protege de la mentalidad de este mundo.",
+        "subtitle": "¿Cómo puedo llegar a ser una persona espiritual?"
       },
       {
         "id": "11A_q3",
@@ -4877,8 +4870,7 @@ const lessonsData = [
         "references": "Juan 4:34",
         "directAnswer": "Hacer la voluntad de su Padre era de máxima prioridad para Jesús, tanto que <strong>la comparó con su alimento, aquello que lo sustentaba y le daba verdaderas energías.</strong>",
         "deepAnswer": "En Juan 4:34, Jesús expresó con convicción: <em>“Mi alimento es hacer la voluntad del que me envió y completar su obra”</em>. Del mismo modo en que la comida física nos sostiene, nos fortalece y nos deleita, para Jesús <strong>cumplir fielmente con el ministerio encomendado por Jehová era una fuente vitalizadora de gozo inmenso y satisfacción profunda.</strong> Esta sagrada prioridad dirigió toda su existencia en la Tierra, dándole la fuerza espiritual necesaria para mantenerse leal bajo toda prueba y completar su obra con éxito.",
-        "shortAnswer": "Cumplir con la voluntad de Jehová era el \"alimento\" de Jesús, dándole profunda alegría, vitalidad y propósito en la vida.",
-        "subtitle": "Evalúa tu progreso como persona espiritual"
+        "shortAnswer": "Cumplir con la voluntad de Jehová era el \"alimento\" de Jesús, dándole profunda alegría, vitalidad y propósito en la vida."
       },
       {
         "id": "11A_q7",
