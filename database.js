@@ -4837,8 +4837,7 @@ const lessonsData = [
         "references": "",
         "directAnswer": "Llegamos a ser personas espirituales cuando <strong>nos esforzamos por ver los asuntos como Jehová los ve, alimentando constantemente nuestra mente con verdades bíblicas y permitiendo que el espíritu santo dirija nuestra conducta.</strong>",
         "deepAnswer": "El desarrollo de la espiritualidad es un proceso continuo que exige cultivar una relación íntima y personal con Jehová Dios. Para lograrlo, <strong>debemos estudiar su Palabra con regularidad, orar con fervor y aplicar de corazón los consejos bíblicos en nuestro diario vivir.</strong> Al imitar de cerca el dechado de Jesucristo y cultivar de manera activa el fruto del espíritu, transformaremos gradualmente nuestra mente para que refleje siempre los valores y pensamientos del Creador.",
-        "shortAnswer": "Llegamos a ser espirituales al cultivar una amistad íntima con Jehová y esforzarnos por pensar tal como él piensa.",
-        "subtitle": "¿Cómo puedo llegar a ser una persona espiritual?"
+        "shortAnswer": "Llegamos a ser espirituales al cultivar una amistad íntima con Jehová y esforzarnos por pensar tal como él piensa."
       },
       {
         "id": "11A_q2",
@@ -4899,39 +4898,64 @@ const lessonsData = [
       },
       {
         "id": "11A_q9",
-        "question": "¿Cómo te ayudan las siguientes ideas a evaluar tu progreso espiritual?",
-        "references": "Sal. 26:2; 2 Cor. 13:5",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": "",
-        "subQuestions": [
-          {
-            "id": "11A_q11_a",
-            "question": "Hacerte un autoexamen con la ayuda de la oración (Sal. 26:2; 2 Cor. 13:5). Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”",
-            "directAnswer": "Hacer un autoexamen en oración nos ayuda a **descubrir nuestros verdaderos motivos y debilidades** con la ayuda de Jehová, quien examina nuestro corazón.",
-            "deepAnswer": "La oración sincera al hacer un autoexamen (Sal. 26:2) permite que Jehová nos muestre áreas de mejora que tal vez ocultemos de nosotros mismos. Al preguntarnos con honestidad sobre nuestras motivaciones y debilidades, **abrimos el camino para que el espíritu santo actúe en nosotros, guiándonos hacia la corrección y madurez espiritual**.",
-            "shortAnswer": "El autoexamen en oración saca a la luz nuestras verdaderas motivaciones y debilidades."
-          },
-          {
-            "id": "11A_q11_b",
-            "question": "Estudiar regularmente la Biblia y nuestras publicaciones (Sal. 1:2, 3). ¿Por qué hace falta meditar? ¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
-            "directAnswer": "Hace falta meditar para **grabar la verdad en el corazón**; la meditación nos ayuda a **aprender de la experiencia y evitar repetir los errores del pasado**.",
-            "deepAnswer": "Estudiar sin meditar es como comer sin digerir. Salmo 1:2, 3 destaca que la persona feliz se deleita en la ley de Dios y la lee día y noche. **La meditación nos ayuda a reflexionar en las consecuencias de nuestras acciones y en el punto de vista de Jehová**, lo que nos da la sabiduría necesaria para no repetir los mismos desaciertos del pasado.",
-            "shortAnswer": "La meditación graba los principios en el corazón y evita que repitamos errores pasados."
-          },
-          {
-            "id": "11A_q11_c",
-            "question": "Escuchar a cristianos maduros (Sant. 1:19). ¿Cómo te ayuda a ser más espiritual fijarte en cómo hablan y actúan los hermanos que están fuertes en sentido espiritual? ¿Cómo te ayuda a crecer espiritualmente prestar mucha atención a lo que se dice en las reuniones?",
-            "directAnswer": "Fijarnos en hermanos fuertes nos da **un modelo de fe a imitar**; prestar atención en las reuniones nos permite **adquirir sabiduría práctica de la congregación**.",
-            "deepAnswer": "Santiago 1:19 nos insta a ser prestos para escuchar. Al observar a los hermanos maduros, **vemos cómo aplican el fruto del espíritu en su vida diaria**, lo que nos sirve de ejemplo práctico. Además, las reuniones son el canal que Jehová usa para instruirnos, por lo que **prestar atención concentrada nos ayuda a asimilar consejos y enseñanzas que fortalecen nuestra fe**.",
-            "shortAnswer": "Observar a hermanos maduros y escuchar en las reuniones provee modelos y sabiduría práctica."
-          }
-        ],
+        "question": "Según Santiago 1:22-25, ¿qué tendencia podría impedirte progresar en sentido espiritual?",
+        "references": "",
+        "directAnswer": "<strong>La tendencia a ser oidores y no hacedores de la Palabra de Dios, como se describe en Santiago 1:22-25, puede impedir nuestro progreso espiritual.</strong> Debemos aplicarla activamente, no solo escucharla.",
+        "deepAnswer": "Santiago 1:22-25 nos advierte sobre el peligro de ser meros oidores de la Palabra de Dios y no hacedores. <strong>Esta tendencia a no poner en práctica lo que aprendemos, como si uno se mirara en un espejo y luego se olvidara de su apariencia, es un obstáculo directo para el progreso espiritual.</strong> Si no aplicamos las enseñanzas bíblicas, no permitimos que transformen nuestras vidas ni que fortalezcan nuestra relación con Jehová, quedando estancados en nuestro crecimiento.",
+        "shortAnswer": "Ser oidor y no hacedor de la Palabra de Dios.",
         "subtitle": "¿Cómo va mi progreso?"
       },
       {
         "id": "11A_q10",
-        "question": "¿Cómo influye el espíritu santo en la persona que cultiva su espiritualidad? (Gál. 5:16; w11 15/12 pág. 16).",
+        "question": "Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”. (Hacerte un autoexamen con la ayuda de la oración; Sal. 26:2; 2 Cor. 13:5).",
+        "references": "Sal. 26:2; 2 Cor. 13:5",
+        "directAnswer": "Hacerse un autoexamen con la ayuda de la oración, como sugieren Salmo 26:2 y 2 Corintios 13:5, <strong>nos permite evaluar honestamente nuestras motivaciones y acciones, identificando las áreas donde necesitamos mejorar para agradar a Jehová.</strong>",
+        "deepAnswer": "Un autoexamen sincero, guiado por la oración y las Escrituras como Salmo 26:2 y 2 Corintios 13:5, es fundamental para el progreso espiritual. Al pedirle a Jehová que sondee nuestro corazón y examine nuestros pensamientos más íntimos, <strong>podemos identificar nuestras verdaderas motivaciones, reconocer debilidades ocultas y percibir las áreas en las que necesitamos cultivar una mayor fe y amor.</strong> Este proceso de reflexión espiritual bajo la guía del espíritu santo nos permite corregir el rumbo con humildad y asegurar que nuestro servicio sea siempre acepto a los ojos de Jehová.",
+        "shortAnswer": "La oración y el autoexamen nos permiten evaluar nuestras motivaciones ante Jehová y corregir nuestro rumbo espiritual."
+      },
+      {
+        "id": "11A_q11",
+        "question": "Estudiar regularmente la Biblia y nuestras publicaciones (Sal. 1:2, 3). ¿Por qué hace falta meditar?",
+        "references": "Sal. 1:2, 3",
+        "directAnswer": "<strong>El estudio regular nos permite meditar en la ley de Jehová, lo cual nos fortalece espiritualmente, nos da sabiduría y nos asegura prosperar en nuestras decisiones</strong>, tal como se menciona en Salmo 1:2, 3.",
+        "deepAnswer": "Estudiar regularmente la Biblia y las publicaciones cristianas es comparable a ser un árbol bien plantado junto a corrientes de agua. Esta práctica <strong>nos permite 'meditar día y noche' en la Palabra de Dios, llenando nuestra mente de pensamientos divinos que reemplazan las inclinaciones humanas imperfectas.</strong> Es la fuente de alimento espiritual que sostiene nuestra integridad y nos guía por el camino de la vida.",
+        "shortAnswer": "El estudio constante nos nutre, nos da guía divina y asegura nuestra estabilidad espiritual."
+      },
+      {
+        "id": "11A_q12",
+        "question": "¿Por qué hace falta meditar?",
+        "references": "",
+        "directAnswer": "Hace falta meditar para <strong>reflexionar profundamente sobre las verdades espirituales y su aplicación práctica en nuestra vida</strong>. La meditación nos permite asimilar las enseñanzas y aplicarlas de manera efectiva.",
+        "deepAnswer": "Meditar es esencial porque <strong>nos permite ir más allá de una simple lectura o escucha</strong>. Es un proceso activo de ponderar las verdades espirituales, conectándolas con nuestras circunstancias personales y con los propósitos de Jehová. Al meditar, permitimos que la Palabra de Dios penetre en nuestro corazón y mente, guiándonos a tomar decisiones sabias y a cultivar cualidades cristianas.",
+        "shortAnswer": "Meditar profundiza nuestra comprensión y aplicación de la verdad."
+      },
+      {
+        "id": "11A_q13",
+        "question": "¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
+        "references": "",
+        "directAnswer": "La meditación, al permitirnos <strong>examinar nuestras acciones y pensamientos a la luz de la Palabra de Dios</strong>, nos ayuda a evitar repetir errores pasados, permitiéndonos enfocarnos en la sabiduría divina para no tropezar de nuevo.",
+        "deepAnswer": "<p>La meditación nos ayuda a no repetir los errores del pasado al permitirnos <strong>analizar críticamente nuestras acciones y pensamientos en comparación con los principios bíblicos</strong>. Al ponderar las advertencias y las lecciones de la Palabra de Dios, podemos identificar patrones de comportamiento perjudiciales y hacer los ajustes necesarios. Tal como Santiago 1:19 nos anima a ser lentos en cuanto a hablar y lentos en cuanto a airarnos, la meditación nos cultiva la paciencia y el control propio, previniendo así tropiezos.</p>",
+        "shortAnswer": "Meditar nos da la sabiduría para evitar repetir errores."
+      },
+      {
+        "id": "11A_q14",
+        "question": "¿Cómo te ayuda a ser más espiritual fijarte en cómo hablan y actúan los hermanos que están fuertes en sentido espiritual? (Escuchar a cristianos maduros; Sant. 1:19).",
+        "references": "Sant. 1:19",
+        "directAnswer": "Fijarse en cómo hablan y actúan los hermanos espiritualmente fuertes <strong>nos proporciona modelos a seguir, ayudándonos a cultivar cualidades cristianas y a mejorar nuestra propia conducta</strong>. Sus ejemplos nos animan y nos guían.",
+        "deepAnswer": "Observar atentamente a los cristianos maduros <strong>nos brinda valiosos ejemplos prácticos de cómo aplicar la fe y los principios bíblicos en la vida diaria</strong>. Su forma de hablar, de enfrentar desafíos, de mostrar compasión y de servir a Jehová es una enseñanza viva. Al imitar sus cualidades positivas y su devoción, también somos animados y guiados a ser más espirituales y a crecer en nuestra propia relación con Dios.",
+        "shortAnswer": "Los ejemplos de hermanos maduros nos guían y animan."
+      },
+      {
+        "id": "11A_q15",
+        "question": "¿Cómo te ayuda a crecer espiritualmente prestar mucha atención a lo que se dice en las reuniones?",
+        "references": "",
+        "directAnswer": "Prestar mucha atención a lo que se dice en las reuniones nos ayuda a crecer espiritualmente al <strong>recibir instrucción bíblica actualizada y práctica</strong>. Las reuniones son un medio vital para nuestro alimento espiritual y para fortalecer nuestra fe.",
+        "deepAnswer": "Las reuniones son un punto culminante de la adoración semanal, donde recibimos un alimento espiritual nutritivo y dirigido por Jehová a través de Su organización. Al prestar mucha atención a las charlas, demostraciones y preguntas y respuestas, <strong>absorbemos la instrucción divina, aprendemos a aplicar la Palabra de Dios de manera más efectiva y fortalecemos nuestra fe</strong>. Es un medio esencial para el continuo crecimiento espiritual de cada uno de nosotros.",
+        "shortAnswer": "Las reuniones nos proveen alimento espiritual y crecimiento."
+      },
+      {
+        "id": "11A_q16",
+        "question": "Si cultivas tu espiritualidad, ¿cuál será el resultado? (Gál. 5:16; w11 15/12 pág. 16).",
         "references": "Gál. 5:16; w11 15/12 pág. 16",
         "directAnswer": "Si cultivamos nuestra espiritualidad, <strong>evitaremos los deseos pecaminosos y viviremos guiados por el espíritu de Dios</strong>.",
         "deepAnswer": "Cultivar la espiritualidad tiene un resultado maravilloso: <strong>la vida guiada por el espíritu santo</strong>, tal como lo enseña Gálatas 5:16. Esto significa que, en lugar de dejarnos llevar por los “deseos de la carne”, seremos conducidos por la influencia divina, disfrutando de una relación más estrecha con Jehová. Como se señala en <em>w11</em> 15/12 pág. 16, esto nos protege de caer en prácticas que desagradan a Dios y nos permite experimentar la verdadera libertad.<br>Esto es un reflejo de la guía de Jehová en nuestro diario vivir.",
@@ -4939,41 +4963,88 @@ const lessonsData = [
         "subtitle": "¿Cómo puedo saber si soy una persona espiritual?"
       },
       {
-        "id": "11A_q11",
-        "question": "¿Cómo revelan nuestras oraciones si somos personas espirituales o físicas?",
+        "id": "11A_q17",
+        "question": "¿Qué da a entender la expresión “el fruto del espíritu”? (Gál. 5:22, 23).",
+        "references": "Gál. 5:22, 23",
+        "directAnswer": "La expresión “el fruto del espíritu” se refiere a <strong>las cualidades piadosas que Jehová produce en nosotros cuando le servimos de corazón</strong>.",
+        "deepAnswer": "Gálatas 5:22, 23 nos presenta el precioso “fruto del espíritu”, que es <strong>una manifestación de la influencia que Dios ejerce en aquellos que se esfuerzan por agradarle</strong>. Este fruto no son obras individuales sino cualidades que nacen del espíritu santo, como el amor, el gozo, la paz, la paciencia, la bondad, la benignidad, la fe, la apacibilidad y el temple. Son la evidencia de que estamos siendo moldéados según la voluntad divina.<br>Este fruto demuestra la obra de Jehová en nosotros.",
+        "shortAnswer": "Son las cualidades piadosas que Dios produce en nosotros."
+      },
+      {
+        "id": "11A_q18",
+        "question": "¿Cómo se cultiva ese fruto? (w18.02 pág. 25 párr. 12).",
+        "references": "w18.02 pág. 25 párr. 12",
+        "directAnswer": "Cultivamos este fruto <strong>adoptando un proceder que complace a Jehová</strong>, lo que implica un esfuerzo consciente de nuestra parte.",
+        "deepAnswer": "Tal como se explica en <em>w18.02</em> pág. 25 párrs. 12, cultivar el fruto del espíritu requiere <strong>un esfuerzo constante por aplicar los principios bíblicos en nuestra vida</strong>. Esto implica no solo oír la Palabra de Dios, sino también ponerla por obra, permitiendo que el espíritu santo nos guíe a pensar y actuar de acuerdo con la voluntad divina. Es una cooperación activa con Dios.<br>Esto requiere que pongamos en práctica lo que aprendemos de Jehová.",
+        "shortAnswer": "Aplicando los principios bíblicos y cooperando con el espíritu de Dios."
+      },
+      {
+        "id": "11A_q19",
+        "question": "¿Qué tienes que hacer para permitir que el espíritu de Dios influya en ti? ¿Cuál será el resultado?",
+        "references": "",
+        "directAnswer": "Para permitir que el espíritu de Dios influya en ti, debes <strong>pedirle a Jehová que te lo dé</strong> y luego <strong>esforzarte por aplicar sus consejos</strong>. El resultado será <strong>una vida más pacífica y satisfactoria</strong>, en la que actuemos como verdaderos siervos de Jehová.",
+        "deepAnswer": "Permitir que el espíritu de Dios obre en nosotros implica una decisión consciente de someter nuestra voluntad a la de Jehová. Esto se logra mediante la <strong>oración sincera, pidiéndole a Dios su espíritu</strong> (Lucas 11:13), y luego <strong>esforzándonos por aplicar sus consejos que encontramos en las Escrituras</strong> y en las publicaciones de la Sociedad Watch Tower. Es un proceso continuo de aprendizaje y adaptación.<br>Debes orar por el espíritu y aplicar sus consejos.<br>Cuando permitimos que el espíritu de Dios influya en nosotros, experimentamos una transformación positiva en nuestra personalidad y en nuestra forma de vida. El resultado es una <strong>paz interior, gozo duradero y un sentido de propósito</strong>, reflejando las cualidades divinas. Nos volvemos más útiles en la congregación y servimos a Jehová con un corazón que le agrada.<br>Verás una vida más pacífica y agradable a Jehová.",
+        "shortAnswer": "Adopta un proceder piadoso y ora por espíritu santo."
+      },
+      {
+        "id": "11A_q20",
+        "question": "Según Gálatas 5:19-21, ¿qué cosas pueden impedirte crecer en sentido espiritual?",
+        "references": "Gál. 5:19-21",
+        "directAnswer": "Según Gálatas 5:19-21, <strong>las “obras de la carne” o los deseos pecaminosos</strong> impiden nuestro crecimiento espiritual.",
+        "deepAnswer": "Gálatas 5:19-21 enumera una serie de “obras de la carne” que son incompatibles con la vida espiritual. Estas incluyen inmoralidad sexual, odio, envidia, celos y borracheras, entre otras. Estas prácticas no solo desagradan a Jehová, sino que también empañan nuestra relación con Él y con nuestros hermanos. Para crecer espiritualmente, debemos “dejar de vivir en la carne” y seguir andando por el espíritu.<br>Las obras pecaminosas te impiden crecer espiritualmente.",
+        "shortAnswer": "Las obras pecaminosas impiden el crecimiento espiritual."
+      },
+      {
+        "id": "11A_q21",
+        "question": "¿Cómo podría afectar la envidia a tu progreso espiritual? (Gál. 6:3, 4).",
+        "references": "Gál. 6:3, 4",
+        "directAnswer": "La envidia <strong>nos lleva a desear lo que otros tienen, impidiendo que apreciemos nuestras bendiciones y nos concentremos en las cosas espirituales</strong>.",
+        "deepAnswer": "La envidia, como se detalla en Gálatas 6:3, 4, es una obra de la carne que nos ciega a nuestras propias bendiciones y nos impulsa a compararnos negativamente con los demás. Una persona espiritual, en lugar de envidiar, se enfoca en honrar a Jehová con lo que tiene y aprecia el progreso de sus hermanos. La envidia, por otro lado, es una muestra de una mentalidad física, centrada en lo material o en los logros ajenos.<br><strong>La envidia te impide apreciar tus bendiciones y enfocarte en Jehová</strong>.",
+        "shortAnswer": "La envidia te impide apreciar tus bendiciones y enfocarte en Jehová."
+      },
+      {
+        "id": "11A_q22",
+        "question": "En los siguientes campos y situaciones, compara lo que haría una persona espiritual con lo que haría una persona física. La oración: ¿Cómo revelan nuestras oraciones si somos personas espirituales o físicas?",
         "references": "",
         "directAnswer": "Nuestras oraciones revelan si somos personas espirituales o físicas <strong>según los temas que abordamos y la sinceridad de nuestro corazón</strong>.",
         "deepAnswer": "Nuestras oraciones son un espejo de nuestro corazón y de nuestra espiritualidad. Si somos personas espirituales, nuestras oraciones estarán llenas de gratitud hacia Jehová, peticiones por su guía y la búsqueda de su Reino. Por el contrario, si somos personas físicas, nuestras oraciones tenderán a centrarse en nuestras necesidades materiales, deseos egoístas o metas mundanas, mostrando una falta de enfoque espiritual.<br><strong>Nuestras oraciones muestran si nos enfocamos en Jehová o en nosotros mismos</strong>.",
         "shortAnswer": "Nuestras oraciones muestran si nos enfocamos en Jehová o en nosotros mismos.",
-        "subtitle": "La oración",
-        "note": "En los siguientes campos y situaciones, compara lo que haría una persona espiritual con lo que haría una persona física."
+        "subtitle": "La oración"
       },
       {
-        "id": "11A_q12",
+        "id": "11A_q23",
         "question": "¿Por qué es Jehová —su grandeza, su nombre y su gloria— lo que más le importa a una persona espiritual? (Dan. 9:4; Juan 17:4, 6).",
-        "references": "Sal. 51:10-12; 122:6, 8; Luc. 11: 4, 13; Sant. 1:5",
+        "references": "Dan. 9:4; Juan 17:4, 6",
         "directAnswer": "<strong>A una persona espiritual le importa más la grandeza, el nombre y la gloria de Jehová que sus propias necesidades o deseos</strong>.",
         "deepAnswer": "Para una persona espiritual, la honra del nombre de Jehová es de suma importancia, como lo demuestra Daniel 9:4 y Juan 17:4, 6. Sus oraciones se centran en la santificación del nombre de Dios y en la vindicación de Su soberanía. Incluirían oraciones como las que se encuentran en Salmo 51:10-12 (pidiendo un corazón puro), Salmo 122:6, 8 (por la paz de Jerusalén espiritual) y las peticiones por el Reino de Dios (Lucas 11:2), buscando siempre la voluntad divina, y pidiendo sabiduría a Jehová como en Santiago 1:5.<br><strong>Una persona espiritual ora por la honra del nombre de Jehová y su Reino</strong>.",
         "shortAnswer": "Ora por la honra del nombre de Jehová y su Reino."
       },
       {
-        "id": "11A_q13",
+        "id": "11A_q24",
+        "question": "Di algunas cosas que una persona espiritual incluiría en sus oraciones (Sal. 51:10-12; 122:6, 8; Luc. 11:4, 13; Sant. 1:5).",
+        "references": "Sal. 51:10-12; 122:6, 8; Luc. 11:4, 13; Sant. 1:5",
+        "directAnswer": "<strong>Una persona espiritual incluye en sus oraciones el ruego por un corazón limpio, la paz de la congregación, espíritu santo, sabiduría y el perdón de pecados.</strong>",
+        "deepAnswer": "Al orar por estas cosas, demostramos que valoramos las cualidades que nos acercan a Jehová. Como indica Santiago 1:5, pedir sabiduría es una muestra de humildad. Pedir por la congregación refleja amor desinteresado, y rogar por un corazón puro (Sal. 51:10) demuestra nuestro deseo de mantener la limpieza espiritual.",
+        "shortAnswer": "Ora por un corazón limpio, sabiduría, espíritu santo y el bienestar de los hermanos."
+      },
+      {
+        "id": "11A_q25",
         "question": "¿Por qué no está mal pedir por nuestras necesidades físicas? (Mat. 6:11).",
-        "references": "",
+        "references": "Mat. 6:11",
         "directAnswer": "No está mal porque <strong>al pedir por el sustento diario reconocemos con humildad que dependemos por completo de Jehová, nuestro amoroso Creador y Proveedor.</strong>",
         "deepAnswer": "Cuando incluimos nuestras necesidades físicas en la oración, tal como Jesús enseñó en Mateo 6:11 al decir 'danos hoy nuestro pan para este día', <strong>demostramos que confiamos plenamente en que Jehová sostendrá nuestras vidas.</strong> Esta petición no refleja un deseo egoísta de acumular riquezas, sino el anhelo de tener lo necesario para seguir sirviendo fielmente a Dios día a día. Además, <strong>nos ayuda a cultivar un ojo sencillo y a combatir la ansiedad, sabiendo que nuestro tierno Padre celestial conoce al detalle cada una de nuestras necesidades.</strong>",
         "shortAnswer": "Pedir por nuestras necesidades físicas demuestra humildad y una confianza diaria en la guía y el sustento de Jehová."
       },
       {
-        "id": "11A_q14",
-        "question": "¿en qué otros momentos ora la persona espiritual? (1 Tes. 5:17).",
-        "references": "",
+        "id": "11A_q26",
+        "question": "Además de orar en las comidas y en las reuniones, ¿en qué otros momentos ora la persona espiritual? (1 Tes. 5:17).",
+        "references": "1 Tes. 5:17",
         "directAnswer": "<strong>La persona espiritual ora en todo momento del día: antes de tomar decisiones, al afrontar desánimo o tentaciones, y para expresar constante gratitud a Jehová.</strong>",
         "deepAnswer": "En armonía con la exhortación de 1 Tesalonicenses 5:17 de 'orar constantemente', la persona espiritual no limita su comunicación con Dios a los momentos formales. <strong>Busca la guía de Jehová de manera espontánea al iniciar su jornada en el servicio, ante una situación difícil en la predicación, al meditar en las Escrituras o al contemplar la creación.</strong> Esta estrecha relación de comunicación revela que ve a Jehová como un Padre real y muy cercano, con quien desea compartir cada detalle de su vida.",
         "shortAnswer": "La persona espiritual mantiene una comunicación constante y sincera con su Padre celestial durante todo el día."
       },
       {
-        "id": "11A_q15",
+        "id": "11A_q27",
         "question": "¿Cómo demuestran los hábitos de estudio de una persona física que se deja llevar por sus deseos?",
         "references": "",
         "directAnswer": "<strong>La persona física demuestra que se deja llevar por sus deseos al descuidar el estudio personal, prefiriendo siempre el entretenimiento y el ocio antes que el alimento espiritual.</strong>",
@@ -4982,7 +5053,7 @@ const lessonsData = [
         "subtitle": "Los hábitos de estudio"
       },
       {
-        "id": "11A_q16",
+        "id": "11A_q28",
         "question": "¿Cómo puede ayudarnos seguir un buen programa de estudio a controlar los deseos de la carne?",
         "references": "",
         "directAnswer": "<strong>Un buen programa de estudio llena nuestra mente con los pensamientos de Jehová, lo que fortalece nuestro hombre interior para resistir y apagar los deseos de la carne.</strong>",
@@ -4990,24 +5061,24 @@ const lessonsData = [
         "shortAnswer": "El estudio constante y profundo alimenta la mente con pensamientos divinos que desplazan y vencen los deseos carnales."
       },
       {
-        "id": "11A_q17",
-        "question": "¿Cómo podrías conservar esa felicidad que viene de ser una persona espiritual? (1 Ped. 1:6, 7; 3:14; 4:13, 14).",
-        "references": "Ezeq. 33:11; Mat. 22:3739; Juan 17:6; 1 Tim. 4:16",
+        "id": "11A_q29",
+        "question": "¿Qué cosas sobre la predicación son importantes para la persona espiritual? (Ezeq. 33:11; Mat. 22:37-39; Juan 17:6; 1 Tim. 4:16).",
+        "references": "Ezeq. 33:11; Mat. 22:37-39; Juan 17:6; 1 Tim. 4:16",
         "directAnswer": "Para la persona espiritual, <strong>el ministerio es una obra urgente motivada por el amor a Jehová, el deseo de santificar su nombre y el amor sincero al prójimo.</strong>",
         "deepAnswer": "La persona espiritual comprende que predicar no es solo cumplir con un requisito, sino una valiosa oportunidad de imitar la compasión de Jehová por la humanidad, como indica Ezequiel 33:11. <strong>Se siente impulsada por los dos mandamientos más importantes: amar a Dios con todo el corazón y al prójimo como a sí misma</strong> (Mat. 22:37-39). Además, considera un grandioso honor dar a conocer el nombre del Padre (Juan 17:6) y vigila constantemente su enseñanza para salvarse a sí misma y a quienes la escuchan (1 Tim. 4:16).",
         "shortAnswer": "La persona espiritual ve la predicación como una expresión de amor leal que santifica el nombre de Dios y salva vidas.",
         "subtitle": "El ministerio"
       },
       {
-        "id": "11A_q18",
+        "id": "11A_q30",
         "question": "¿En qué piensa y de qué habla la persona espiritual durante la predicación? (Filip. 4:8).",
-        "references": "",
+        "references": "Filip. 4:8",
         "directAnswer": "<strong>Durante la predicación, la persona espiritual piensa y habla de temas edificantes, positivos y bíblicos que animen a sus compañeros de servicio.</strong>",
         "deepAnswer": "De acuerdo con el sabio consejo de Filipenses 4:8, <strong>la persona espiritual se esfuerza por mantener una actitud sumamente positiva en el ministerio del campo.</strong> En lugar de quejarse por el clima, el territorio o los problemas personales, <strong>prefiere conversar sobre experiencias animadoras, puntos bíblicos interesantes o las hermosas cualidades de Jehová.</strong> Este hábito tan saludable no solo alegra el trayecto, sino que también contribuye a que el espíritu santo bendiga la actividad del grupo y fortalezca la fe de su compañero.",
         "shortAnswer": "La persona espiritual edifica a sus compañeros de predicación hablando siempre de cosas positivas, amables y dignas de alabanza."
       },
       {
-        "id": "11A_q19",
+        "id": "11A_q31",
         "question": "¿Qué actitud o comportamiento en las reuniones podría indicar que alguien es una persona física?",
         "references": "",
         "directAnswer": "<strong>La falta de preparación, llegar tarde habitualmente sin motivo real, distraerse con facilidad o no comentar reflejan la actitud de una persona física en las reuniones.</strong>",
@@ -5016,7 +5087,7 @@ const lessonsData = [
         "subtitle": "Las reuniones"
       },
       {
-        "id": "11A_q20",
+        "id": "11A_q32",
         "question": "¿Qué piensa la persona espiritual de participar en las reuniones?",
         "references": "",
         "directAnswer": "<strong>La persona espiritual considera que asistir y participar en las reuniones es un gran privilegio, una vía para alabar a Jehová y animar con cariño a sus hermanos.</strong>",
@@ -5024,8 +5095,8 @@ const lessonsData = [
         "shortAnswer": "Para la persona espiritual, participar en las reuniones es una valiosa oportunidad de adorar a Jehová y fortalecer la fe de la congregación."
       },
       {
-        "id": "11A_q21",
-        "question": "¿Por qué piensa la persona espiritual que su forma de arreglarse siempre es importante, ya sea cuando participa en actividades espirituales o en cualquier otro momento?",
+        "id": "11A_q33",
+        "question": "¿Por qué piensa la persona espiritual que su forma de arreglarse siempre es importante, ya sea cuando participa en actividades espirituales o en cualquier otro momento? (1 Cor. 10:31; Tito 2:10).",
         "references": "1 Cor. 10:31; Tito 2:10",
         "directAnswer": "Porque <strong>comprende que es un testigo de Jehová en todo momento, y desea que su apariencia personal siempre honre al Creador y adore sus enseñanzas.</strong>",
         "deepAnswer": "<strong>La persona espiritual tiene muy claro que su conducta y arreglo personal representan a Jehová las 24 horas del día.</strong> Basándose en el principio de 1 Corintios 10:31, se esfuerza por hacer todas las cosas para la gloria de Dios, incluso en sus momentos de ocio o al realizar compras cotidianas. <strong>Reconoce que mantener una apariencia limpia, ordenada y digna sirve para 'adornar la enseñanza de nuestro Salvador'</strong>, tal como destaca Tito 2:10, evitando así dar motivos de tropiezo a quienes observan su conducta.",
@@ -5033,33 +5104,40 @@ const lessonsData = [
         "subtitle": "La manera de vestirse y arreglarse"
       },
       {
-        "id": "11A_q22",
-        "question": "¿Qué principios te ayudarán a saber cómo vestir de forma apropiada y con buen juicio para el ministerio? (od pág. 134 pág. 12)",
-        "references": "1 Tim. 2:9, 10",
+        "id": "11A_q34",
+        "question": "¿Qué principios te ayudarán a saber cómo vestirse para salir a predicar? (od pág. 134 párr. 12).",
+        "references": "od pág. 134 párr. 12",
         "directAnswer": "<strong>Nos guían los principios bíblicos de dignidad, decencia y respeto.</strong> <strong>Vestirse con ropa apropiada, modestia y buen juicio asegura que nuestra apariencia no distraiga del mensaje del Reino.</strong>",
         "deepAnswer": "Siguiendo las pautas de 1 Timoteo 2:9, 10 y las instrucciones del libro <em>Organizados</em>, nuestro arreglo debe ensalzar el ministerio. <br>a) <strong>\"Ropa apropiada\" se refiere a vestir de forma digna, limpia y adecuada para la actividad sagrada que realizamos, respetando el entorno teocrático.</strong> <br>b) <strong>La \"modestia\" nos ayuda a evitar estilos de vestir que sean provocativos, extravagantes o que llamen la atención de manera egocéntrica, mostrando consideración por Jehová y por los demás.</strong> <br>c) <strong>El \"buen juicio\" es la capacidad de discernir lo que es prudente y de buen gusto, evitando modas extremas, desaliñadas o rebeldes que caracterizan al mundo alejado de Dios.</strong>",
-        "shortAnswer": "La ropa apropiada, la modestia y el buen juicio garantizan que nuestro arreglo personal dignifique a Jehová y nuestro sagrado ministerio.",
-        "note": "Explica lo que significan estas expresiones: a) “ropa apropiada”; b) “modestia”; c) “buen juicio” (1 Tim. 2:9, 10)."
+        "shortAnswer": "La ropa apropiada, la modestia y el buen juicio garantizan que nuestro arreglo personal dignifique a Jehová y nuestro sagrado ministerio."
       },
       {
-        "id": "11A_q23",
+        "id": "11A_q35",
+        "question": "Explica lo que significan estas expresiones: a) “ropa apropiada”; b) “modestia”; c) “buen juicio” (1 Tim. 2:9, 10).",
+        "references": "1 Tim. 2:9, 10",
+        "directAnswer": "<strong>a) Ropa apropiada: digna y limpia; b) Modestia: que respete a otros y no llame la atención; c) Buen juicio: vestirse según la ocasión y con sentido común.</strong>",
+        "deepAnswer": "Estas expresiones de 1 Timoteo 2:9, 10 nos ayudan a honrar a Dios. La <strong>ropa apropiada</strong> demuestra respeto por nuestro Creador y nuestro ministerio. La <strong>modestia</strong> nos impide vestirnos de manera provocativa o extravagante para atraer la atención. El <strong>buen juicio</strong> implica que evitemos modas extremas o inapropiadas para la predicación, vistiendo con decoro y sobriedad.",
+        "shortAnswer": "Ropa limpia, modesta y digna de un ministro de Dios."
+      },
+      {
+        "id": "11A_q36",
         "question": "¿Por qué debe estar limpio y en buen estado todo lo que usas en la predicación? (1 Cor. 14:33; Tito 2:10).",
-        "references": "",
+        "references": "1 Cor. 14:33; Tito 2:10",
         "directAnswer": "<strong>Nuestros artículos de predicación deben estar limpios y ordenados porque representamos a Jehová, un Dios de orden y limpieza.</strong>",
         "deepAnswer": "Como indica 1 Corintios 14:33, Dios no es un Dios de desorden, y nuestra apariencia y herramientas reflejan esa cualidad. Además, al mantener nuestras publicaciones y accesorios en buen estado, <em>'adornamos la enseñanza de nuestro Salvador'</em>, tal como dice Tito 2:10, haciendo que nuestro mensaje sea más atractivo y digno de respeto para las personas del territorio.",
         "shortAnswer": "Reflejamos la santidad de Jehová mediante nuestra apariencia y el cuidado de nuestras herramientas."
       },
       {
-        "id": "11A_q24",
-        "question": "Al tratar a su familia, ¿cómo demuestra una persona espiritual que ve las cosas como Jehová?",
-        "references": "Efes. 5: 21, 24, 25, 28; 6:1, 4; 1 Tim. 5:8; 1 Ped. 3:1, 2",
+        "id": "11A_q37",
+        "question": "Al tratar a su familia, ¿cómo demuestra una persona espiritual que ve las cosas como Jehová? (Efes. 5:21, 24, 25, 28; 6:1, 4; 1 Tim. 5:8; 1 Ped. 3:1, 2).",
+        "references": "Efes. 5:21, 24, 25, 28; 6:1, 4; 1 Tim. 5:8; 1 Ped. 3:1, 2",
         "directAnswer": "<strong>Una persona espiritual demuestra que ve las cosas como Jehová al cumplir con amor y humildad sus responsabilidades bíblicas dentro de la familia.</strong>",
         "deepAnswer": "<strong>Quien es espiritual reconoce el principio de jefatura de Cristo y de los esposos, pero también valora la sujeción mutua</strong> (Efes. 5:21). <strong>El cabeza de familia imita a Cristo al amar a su esposa, y los hijos aprenden la obediencia al honrar a sus padres, mientras que todos se aseguran de proveer para los suyos para no negar la fe</strong> (1 Tim. 5:8). Al tratar a la familia con este espíritu, reflejamos la sabiduría de Jehová en cada hogar cristiano.",
         "shortAnswer": "Cumpliendo con amor, respeto y obediencia los roles bíblicos asignados.",
         "subtitle": "La familia"
       },
       {
-        "id": "11A_q25",
+        "id": "11A_q38",
         "question": "¿Cómo demuestran los precursores que respetan el principio de autoridad dentro de la familia?",
         "references": "",
         "directAnswer": "<strong>Los precursores respetan la autoridad al apoyar las decisiones del cabeza de familia y fomentar un ambiente de cooperación y sujeción espiritual.</strong>",
@@ -5067,8 +5145,8 @@ const lessonsData = [
         "shortAnswer": "Priorizando el orden y el apoyo a la jefatura familiar por encima de otras actividades."
       },
       {
-        "id": "11A_q26",
-        "question": "¿De qué suele hablar una persona espiritual?",
+        "id": "11A_q39",
+        "question": "¿De qué suele hablar una persona espiritual? (Efes. 4:29).",
         "references": "Efes. 4:29",
         "directAnswer": "<strong>Una persona espiritual suele hablar de cosas que edifican, animan y glorifican a Jehová.</strong>",
         "deepAnswer": "En armonía con Efesios 4:29, <strong>la persona espiritual se esfuerza por evitar las 'palabras corrompidas' y busca decir solo lo que es bueno para edificar según sea necesario.</strong> <strong>Sus conversaciones giran en torno a la verdad, las experiencias del ministerio, las profecías bíblicas o expresiones de gratitud hacia nuestro Padre celestial</strong>, procurando que sus palabras impartan lo que es favorable a los oyentes.",
@@ -5076,7 +5154,7 @@ const lessonsData = [
         "subtitle": "Las conversaciones"
       },
       {
-        "id": "11A_q27",
+        "id": "11A_q40",
         "question": "¿Sobre qué te gusta conversar?",
         "references": "",
         "directAnswer": "<strong>Como precursores, nuestro tema favorito debería ser las verdades bíblicas y la esperanza del Reino que nos apasiona.</strong>",
@@ -5084,7 +5162,7 @@ const lessonsData = [
         "shortAnswer": "Disfruto conversando sobre las verdades de la Biblia y las bendiciones del Reino."
       },
       {
-        "id": "11A_q28",
+        "id": "11A_q41",
         "question": "Si ves que es necesario cambiar de tema, ¿cómo podrías desviar la conversación a un asunto espiritual?",
         "references": "",
         "directAnswer": "<strong>Puedes desviar la conversación haciendo una pregunta amable o comentando un texto bíblico relacionado con el tema que se está tratando.</strong>",
@@ -5092,7 +5170,7 @@ const lessonsData = [
         "shortAnswer": "Usa preguntas amables o comentarios bíblicos para redirigir el tema."
       },
       {
-        "id": "11A_q29",
+        "id": "11A_q42",
         "question": "¿Cómo puedes ser razonable y equilibrado cuando hablas con otros? (Ecl. 7:16).",
         "references": "Ecl. 7:16",
         "directAnswer": "Podemos ser razonables y equilibrados al <strong>evitar ser justos en demasía, no imponiendo opiniones personales con rigidez y mostrando empatía</strong> hacia las limitaciones ajenas.",
@@ -5100,24 +5178,25 @@ const lessonsData = [
         "shortAnswer": "Evitar el dogmatismo y la rigidez moral, mostrando empatía y flexibilidad."
       },
       {
-        "id": "11A_q30",
-        "question": "les o de otro tipo, ¿cómo reacciona una persona espiritual y cómo reacciona una persona física?",
+        "id": "11A_q43",
+        "question": "Cuando surgen desacuerdos sobre asuntos personales o de otro tipo, ¿cómo reacciona una persona espiritual y cómo reacciona una persona física? (Prov. 29:11; Gál. 5:19, 20, 22, 23).",
         "references": "Prov. 29:11; Gál. 5:19, 20, 22, 23",
-        "directAnswer": "<strong>La persona espiritual reacciona con control y mansedumbre</strong>, mientras que <strong>la persona física se deja llevar por los deseos de la carne y el orgullo.</strong>",
-        "deepAnswer": "Mientras que <strong>la persona física puede sucumbir a la ira, la contienda o los celos</strong> (Gál. 5:19, 20), <strong>quien es espiritual manifiesta el fruto del espíritu, como la paz y la autodominio.</strong> Cuando surgen desacuerdos, <strong>la persona espiritual no se apresura a hablar, sino que mantiene la calma y piensa antes de responder, evitando que los sentimientos personales dañen la relación con el prójimo</strong> (Prov. 29:11).",
-        "shortAnswer": "La persona espiritual domina sus impulsos; la física se deja guiar por sus emociones."
+        "directAnswer": "Una persona física reacciona con <strong>ira, terquedad, orgullo y promueve divisiones</strong>. En cambio, una persona espiritual reacciona con <strong>autocontrol, apacibilidad, amor, buscando activamente la paz</strong> y la reconciliación.",
+        "deepAnswer": "Cuando surgen conflictos, Proverbios 29:11 aclara que 'el tonto da rienda suelta a su enojo, pero el sabio mantiene la calma'. La persona física actúa según las obras de la carne (Gál. 5:19, 20), manifestando arrebatos de ira, contiendas y divisiones egoístas. Por el contrario, la persona espiritual se deja guiar por el espíritu de Dios, reflejando el fruto del espíritu: <strong>paz, paciencia, apacibilidad y autocontrol</strong> (Gál. 5:22, 23), lo que le permite resolver los desacuerdos con humildad, preservando la unidad de la congregación.",
+        "shortAnswer": "La persona física se enoja y divide; la persona espiritual actúa con paz, paciencia y autocontrol.",
+        "subtitle": "Las diferencias de opinión"
       },
       {
-        "id": "11A_q31",
+        "id": "11A_q44",
         "question": "¿Qué espera Jehová que hagan las personas espirituales en esos casos? (Rom. 12:14, 17-21).",
-        "references": "",
+        "references": "Rom. 12:14, 17-21",
         "directAnswer": "<strong>Jehová espera que respondamos al mal con bien, buscando la paz y dejando la justicia en sus manos.</strong>",
         "deepAnswer": "Según Romanos 12:14, 17-21, aunque nos traten mal, <strong>el cristiano verdadero debe bendecir a quienes lo persiguen y no devolver mal por mal.</strong> <strong>La persona espiritual se esfuerza por ser pacífica 'en cuanto dependa de ella' y vence la maldad con el bien.</strong> Al actuar así, no solo reflejamos el carácter de Jehová, sino que damos un testimonio poderoso de lo que significa ser un seguidor de Jesús.",
         "shortAnswer": "Esperamos la justicia de Jehová y vencemos el mal con el bien."
       },
       {
-        "id": "11A_q32",
-        "question": "¿Cómo reacciona la persona espiritual cuando recibe un consejo?",
+        "id": "11A_q45",
+        "question": "¿Cómo reacciona la persona espiritual cuando recibe un consejo? (Ecl. 7:9; Rom. 12:16).",
         "references": "Ecl. 7:9; Rom. 12:16",
         "directAnswer": "<strong>La persona espiritual recibe el consejo con humildad, sin molestarse ni ponerse a la defensiva.</strong>",
         "deepAnswer": "Como indica Eclesiastés 7:9, <strong>no debemos ser 'rápido en nuestro espíritu a ofendernos'.</strong> <strong>La persona sabia entiende que el consejo es una muestra del amor de Jehová y lo acepta para corregir su rumbo</strong> (Rom. 12:16). En lugar de buscar excusas, <strong>la persona espiritual agradece la guía y la aplica</strong>, viendo el consejo como una oportunidad valiosa para mejorar y ser más útil en el servicio de Jehová.",
@@ -5125,7 +5204,7 @@ const lessonsData = [
         "subtitle": "Los consejos"
       },
       {
-        "id": "11A_q33",
+        "id": "11A_q46",
         "question": "¿Qué harás si te parece que lo que te han dicho está fuera de lugar?",
         "references": "",
         "directAnswer": "Si creemos que algo está mal dicho, <strong>debemos abordarlo con humildad y respeto, buscando la verdad en las Escrituras y orando por guía.</strong>",
@@ -5133,73 +5212,50 @@ const lessonsData = [
         "shortAnswer": "Busca la verdad y la guía de Jehová."
       },
       {
-        "id": "11A_q34",
+        "id": "11A_q47",
         "question": "¿Cómo reacciona la persona física ante una tentación de tipo sexual? ¿Y la persona espiritual? Lee y comenta Proverbios 7:6-10, 21, 22.",
-        "references": "",
+        "references": "Prov. 7:6-10, 21, 22",
         "directAnswer": "<strong>La persona física tiende a reaccionar impulsivamente a la tentación, dejándose llevar por los deseos carnales.</strong>",
         "deepAnswer": "Ante una tentación, <strong>la persona física, guiada por su naturaleza imperfecta, a menudo responde de manera inmediata y basada en los impulsos carnales.</strong> Esta reacción puede llevarla a ceder ante el deseo pecaminoso, sin considerar las consecuencias espirituales o el desagrado a Jehová. Es vital reconocer esta tendencia y esforzarse por controlarla.",
         "shortAnswer": "La persona física cede a los impulsos carnales.",
         "subtitle": "Las tentaciones"
       },
       {
-        "id": "11A_q35",
-        "question": "ción de tipo sexual? ¿Y la persona espiritual? Lee y comenta Proverbios 7:6-10, 21, 22.",
-        "references": "",
-        "directAnswer": "<strong>La persona física es seducida por las apariencias y la oportunidad de pecado</strong>, mientras que <strong>la persona espiritual se aferra a los principios bíblicos y evita el peligro.</strong>",
-        "deepAnswer": "Proverbios 7:6-10 describe a un joven <em>físico</em> que, por su inexperiencia y falta de vigilancia, es atraído por la apariencia engañosa de la prostituta. Versículos 21 y 22 muestran cómo cae en la tentación por la persistencia de ella y la falta de resistencia del joven. Una persona <em>espiritual</em>, en cambio, se mantendría alerta, recordaría los consejos sabios y evitaría cualquier situación que pudiera comprometer su pureza, confiando en la guía de Jehová.",
-        "shortAnswer": "La persona espiritual evita lo que la física abraza."
-      },
-      {
-        "id": "11A_q36",
-        "question": "¿Cómo demostró este joven que era un hombre físico?",
+        "id": "11A_q48",
+        "question": "¿Cómo demostró este joven que era un hombre físico? ¿Qué consejos de este relato pueden ayudar a una persona espiritual a no caer en la inmoralidad?",
         "references": "",
         "directAnswer": "<strong>Este joven demostró ser un hombre físico al dejarse llevar por sus pasiones y sucumbir a la tentación sexual sin resistencia.</strong>",
         "deepAnswer": "El relato del joven en Proverbios 7 ilustra claramente a un hombre físico al mostrarlo saliendo de su casa <em>al caer la tarde</em>, un momento de menor vigilancia. <strong>Su debilidad ante la mujer seductora y su posterior caída revelan una naturaleza no gobernada por principios espirituales.</strong> Es un recordatorio de lo fácil que es caer si no cultivamos la prudencia y la vigilancia.",
         "shortAnswer": "Se dejó llevar por sus pasiones carnales."
       },
       {
-        "id": "11A_q37",
-        "question": "bre físico? ¿Qué consejos de este relato pueden ayudar a una persona espiritual a no caer en la inmoralidad?",
-        "references": "1 Cor. 9:24",
-        "directAnswer": "Los apóstoles necesitaban esforzarse por ser hombres espirituales porque <strong>todavía tenían una visión carnal de la autoridad</strong>. Aunque estaban con Jesús, <strong>mostraron ambición, deseo de protagonismo y falta de humildad</strong>, lo cual era incompatible con el espíritu de servicio que el Reino requiere.",
-        "deepAnswer": "Los relatos de Mateo y Lucas revelan que, incluso después de haber sido elegidos personalmente por Jesús, los apóstoles luchaban contra rasgos de personalidad imperfectos. En Mateo 20:20-24, la petición de la madre de Santiago y Juan, junto con la indignación de los otros diez, demuestra que <strong>todavía buscaban posiciones de preeminencia y poder</strong>. Jesús tuvo que corregir su forma de pensar enseñándoles que, a diferencia de los gobernantes de las naciones, <strong>la grandeza en su congregación se mide por la disposición a servir y no a mandar</strong>. Como señala 1 Corintios 9:24, <strong>la vida cristiana es una carrera que exige autodisciplina y un esfuerzo constante por alcanzar la madurez espiritual</strong>. Los apóstoles tuvieron que cambiar su enfoque egocéntrico por un espíritu de humildad y sacrificio para cumplir con éxito su futura comisión de pastorear la congregación cristiana.",
-        "shortAnswer": "La verdadera grandeza cristiana no se logra buscando autoridad, sino cultivando un espíritu de servicio humilde y constante."
-      },
-      {
-        "id": "11A_q38",
-        "question": "¿Cómo muestran los siguientes versículos que los apóstoles debían seguir esforzándose por ser hombres espirituales? Mateo 20:20, 21, 24-28 Lucas 22:24-27",
-        "references": "",
+        "id": "11A_q49",
+        "question": "¿Cómo muestran los siguientes versículos que los apóstoles debían seguir esforzándose por ser hombres espirituales? Mateo 20:20, 21, 24-28; Lucas 22:24-27",
+        "references": "Mat. 20:20, 21, 24-28; Luc. 22:24-27",
         "directAnswer": "Pedro demostró ser un hombre espiritual al <strong>reconocer correctamente la identidad de Jesús como el Cristo, el Hijo del Dios vivo</strong>, no por deducción humana, sino porque <strong>recibió revelación directa de parte de Jehová</strong>.",
         "deepAnswer": "En Mateo 16:16, 17, Pedro responde a la pregunta de Jesús sobre quién creían que era él. Su confesión de que Jesús es el Cristo y el Hijo del Dios vivo fue una prueba clara de su espiritualidad. Como indica la referencia en el libro Jesús, el camino, la verdad y la vida, Jesús aclara que <strong>Pedro no llegó a esta conclusión mediante la sabiduría o el razonamiento humano, sino que fue enseñado por Jehová mismo</strong>. Un hombre espiritual, como Pedro, demuestra que <strong>su mente y corazón están en sintonía con la voluntad de Dios</strong>, lo que le permite percibir verdades que pasan desapercibidas para quienes solo confían en sus propios criterios terrenales.",
-        "shortAnswer": "Ser espiritual implica escuchar la guía de Jehová y reconocer la verdad sobre Jesús por encima de las opiniones humanas."
+        "shortAnswer": "Ser espiritual implica escuchar la guía de Jehová y reconocer la verdad sobre Jesús por encima de las opiniones humanas.",
+        "subtitle": "Sigue evaluando tu progreso (1 Cor. 9:24)"
       },
       {
-        "id": "11A_q39",
-        "question": "¿Cómo indica Mateo 16:16, 17 que el apóstol Pedro era un hombre espiritual?",
+        "id": "11A_q50",
+        "question": "¿Cómo indica Mateo 16:16, 17 que el apóstol Pedro era un hombre espiritual? (ia pág. 191 párr. 13).",
         "references": "ia pág. 191 párr. 13",
         "directAnswer": "Sabemos que Pedro tenía que seguir progresando porque, a pesar de su gran fe y amor por Jesús, <strong>todavía debía corregir rasgos de su personalidad, como la impulsividad y el exceso de confianza, y aprender a aceptar la guía y disciplina divina</strong> para llegar a ser un pilar firme para sus hermanos.",
         "deepAnswer": "Aunque Pedro fue elegido por Jesús y poseía muchas cualidades excelentes, las Escrituras muestran que su proceso de aprendizaje fue continuo. Pedro cometía errores graves, como confiar demasiado en sus propias fuerzas al afirmar que nunca abandonaría a Jesús, lo cual lo llevó a negarlo tres veces. Además, necesitaba cultivar la humildad y comprender mejor la voluntad de Dios, como se evidenció cuando tuvo que ser corregido por su actitud ante el sufrimiento de Cristo o por sus prejuicios iniciales. Jehová y Jesús tuvieron paciencia con él, permitiéndole reconocer sus fallas, arrepentirse sinceramente y seguir ajustando su personalidad y modo de pensar para, eventualmente, cumplir su papel de fortalecer a los demás.",
         "shortAnswer": "El progreso de Pedro fue un proceso continuo de humildad y aprendizaje necesario para superar sus debilidades y servir con madurez."
       },
       {
-        "id": "11A_q40",
-        "question": "¿Cómo sabemos que Pedro tenía que seguir progresando?",
-        "references": "",
-        "directAnswer": "Esto nos anima porque nos asegura que <strong>Jehová es un Dios que desea comunicarse personalmente con nosotros</strong>. Al habernos dado su Palabra en un lenguaje claro, sencillo y exacto, <strong>nos permite entender su amor y su propósito, sintiendo que él mismo nos habla directamente al corazón</strong>.",
-        "deepAnswer": "Nos sentimos profundamente animados al reconocer el gran esfuerzo que Jehová ha hecho para preservarnos su mensaje. Primero, el hecho de que su Palabra esté disponible en nuestro propio idioma y en un lenguaje claro y natural, en lugar de términos arcaicos o eclesiásticos, <strong>nos permite sentir que Jehová nos habla directamente</strong>, lo cual genera una gratitud inmediata. Segundo, <strong>la restitución de su nombre, Jehová, a su lugar legítimo en las Escrituras nos ayuda a comprender que nuestro Creador no es un Dios lejano o impersonal, sino un Padre que quiere que conozcamos su identidad y su personalidad</strong>. Además, contar con herramientas de estudio exactas, libres de sesgos doctrinales y con notas que aclaran el contexto histórico y cultural, nos da la confianza de que estamos leyendo el mensaje original inspirado por Dios. Todo esto confirma que él se interesa en que cada uno de nosotros comprenda su voluntad, fortaleciendo nuestra relación con él y dándonos una base firme para nuestra fe.",
-        "shortAnswer": "Contar con una traducción clara y exacta de la Biblia nos anima al confirmarnos que Jehová es un Padre cercano que desea que lo conozcamos personalmente."
-      },
-      {
-        "id": "11A_q41",
-        "question": "¿Por qué nos anima eso?",
+        "id": "11A_q51",
+        "question": "¿Cómo sabemos que Pedro tenía que seguir progresando? ¿Por qué nos anima eso? (ia págs. 191-192 párrs. 15-18).",
         "references": "ia págs. 191-192 párrs. 15-18",
-        "directAnswer": "Para conservar la felicidad que proviene de ser una persona espiritual, es fundamental <strong>mantener la confianza en Jehová frente a las pruebas</strong>, recordando que <strong>nuestra perseverancia demuestra la calidad de nuestra fe y nos permite recibir su aprobación y bendición</strong>.",
-        "deepAnswer": "La felicidad espiritual no depende de la ausencia de problemas, sino de nuestra perspectiva ante ellos. Según 1 Pedro 1:6, 7, aunque tengamos que sufrir diversas pruebas, <strong>nuestra fe probada es de mucho más valor que el oro</strong>. Al mantener una actitud positiva y centrada en Jehová, nuestra fe se refina como metal precioso. Asimismo, 1 Pedro 3:14 nos asegura que, aunque suframos por causa de la justicia, <strong>somos felices si no permitimos que el temor a los hombres nos intimide</strong>. Finalmente, 1 Pedro 4:13, 14 nos anima a seguir alegrándonos al participar en los sufrimientos de Cristo, pues <strong>la presencia del espíritu de Dios sobre nosotros es una prueba clara de su favor</strong>. Mantenernos enfocados en estas verdades nos permite conservar la paz mental y la alegría profunda, sabiendo que estamos actuando de acuerdo con la voluntad de nuestro Creador.",
-        "shortAnswer": "La felicidad espiritual se conserva al ver las pruebas como una oportunidad para demostrar nuestra lealtad a Jehová y recibir su espíritu santo."
+        "directAnswer": "Esto nos anima porque nos asegura que <strong>Jehová es un Dios que desea comunicarse personalmente con nosotros</strong>. Al habernos dado su Palabra en un lenguaje claro, sencillo y exacto, <strong>nos permite entender su amor y su propósito, sintiendo que él mismo nos habla directamente al corazón</strong>. Para conservar la felicidad que proviene de ser una persona espiritual, es fundamental <strong>mantener la confianza en Jehová frente a las pruebas</strong>, recordando que <strong>nuestra perseverancia demuestra la calidad de nuestra fe y nos permite recibir su aprobación y bendición</strong>.",
+        "deepAnswer": "Nos sentimos profundamente animados al reconocer el gran esfuerzo que Jehová ha hecho para preservarnos su mensaje. Primero, el hecho de que su Palabra esté disponible en nuestro propio idioma y en un lenguaje claro y natural, en lugar de términos arcaicos o eclesiásticos, <strong>nos permite sentir que Jehová nos habla directamente</strong>, lo cual genera una gratitud inmediata. Segundo, <strong>la restitución de su nombre, Jehová, a su lugar legítimo en las Escrituras nos ayuda a comprender que nuestro Creador no es un Dios lejano o impersonal, sino un Padre que quiere que conozcamos su identidad y su personalidad</strong>. Además, contar con herramientas de estudio exactas, libres de sesgos doctrinales y con notas que aclaran el contexto histórico y cultural, nos da la confianza de que estamos leyendo el mensaje original inspirado por Dios. Todo esto confirma que él se interesa en que cada uno de nosotros comprenda su voluntad, fortaleciendo nuestra relación con él y dándonos una base firme para nuestra fe.<br>La felicidad espiritual no depende de la ausencia de problemas, sino de nuestra perspectiva ante ellos. Según 1 Pedro 1:6, 7, aunque tengamos que sufrir diversas pruebas, <strong>nuestra fe probada es de mucho más valor que el oro</strong>. Al mantener una actitud positiva y centrada en Jehová, nuestra fe se refina como metal precioso. Asimismo, 1 Pedro 3:14 nos asegura que, aunque suframos por causa de la justicia, <strong>somos felices si no permitimos que el temor a los hombres nos intimide</strong>. Finalmente, 1 Pedro 4:13, 14 nos anima a seguir alegrándonos al participar en los sufrimientos de Cristo, pues <strong>la presencia del espíritu de Dios sobre nosotros es una prueba clara de su favor</strong>. Mantenernos enfocados en estas verdades nos permite conservar la paz mental y la alegría profunda, sabiendo que estamos actuando de acuerdo con la voluntad de nuestro Creador.",
+        "shortAnswer": "Pedro cometía errores por temor, y ver la paciencia de Jehová nos anima."
       },
       {
-        "id": "11A_q42",
-        "question": "¿Cómo puedes conservar esa felicidad que viene de ser una persona espiritual?",
+        "id": "11A_q52",
+        "question": "¿Cómo puedes conservar esa felicidad que viene de ser una persona espiritual? (1 Ped. 1:6, 7; 3:14; 4:13, 14).",
         "references": "1 Ped. 1:6, 7; 3:14; 4:13, 14",
         "directAnswer": "",
         "deepAnswer": "<strong>Podemos conservar esa felicidad siendo vigilantes en nuestra relación con Jehová</strong>, tal como lo sugieren 1 Pedro 1:6, 7 y 3:14. Al mantener una buena reputación ante Él y los demás, y <strong>al estar dispuestos a sufrir por la justicia</strong> (1 Pedro 4:13, 14), demostramos que valoramos las bendiciones espirituales. <strong>Seguir los consejos bíblicos y mantenernos firmes en la verdad</strong> nos permitirá disfrutar de la verdadera felicidad.",
@@ -5326,6 +5382,22 @@ const lessonsData = [
         "note": "EJEMPLO: Algo muy fácil que podrías hacer es dejar una pregunta o un tema pendiente. Por ejemplo, si hablaste del Paraíso, podrías preguntar: “¿Por qué podemos estar seguros de que llegará muy pronto? ¿Qué le parece si vuelvo en unos días? Me encantaría mostrarle a usted y a su familia la respuesta que da la Biblia”."
       },
       {
+        "id": "11B_q12_b",
+        "question": "¿Qué otras preguntas podrías dejar pendientes para la próxima visita?",
+        "references": "",
+        "directAnswer": "<strong>Otras preguntas pendientes podrían ser sobre el significado de la vida, la razón por la que Dios permite el sufrimiento, o cómo lograr la felicidad familiar.</strong>",
+        "deepAnswer": "Dejar preguntas sobre temas de interés general estimula el deseo de aprender y mantiene vivo el interés. <strong>Ejemplos prácticos incluyen preguntar: '¿Por qué hay tanto sufrimiento si Dios nos ama?' o '¿Cómo puede la Biblia ayudarnos a tener una familia feliz?'</strong>. Esto muestra que las Escrituras responden las dudas más profundas y nos da una base clara para regresar.",
+        "shortAnswer": "Preguntas sobre el sufrimiento, la felicidad familiar o el futuro."
+      },
+      {
+        "id": "11B_q12_c",
+        "question": "¿Por qué es bueno crear expectación dejando algunas preguntas para contestar en la siguiente visita?",
+        "references": "",
+        "directAnswer": "<strong>Crear expectación al dejar preguntas sin responder motiva a la persona a querer saber más y a esperar tu próxima visita con interés.</strong>",
+        "deepAnswer": "Esta estrategia apela al deseo natural de conocimiento del ser humano. Al no agotar el tema en la primera visita, <strong>se mantiene viva la chispa del interés y se fomenta la meditación personal de la persona en su hogar.</strong> Es un método inspirado en la forma en que enseñaba Jesús, dejando a sus oyentes reflexionando.",
+        "shortAnswer": "Mantiene el interés, fomenta la meditación y asegura una buena acogida."
+      },
+      {
         "id": "11B_q13",
         "question": "¿Qué les dices a las personas para quedar en volver a visitarlas?",
         "references": "",
@@ -5344,11 +5416,11 @@ const lessonsData = [
       },
       {
         "id": "11B_q15",
-        "question": "¿Por qué demuestras interés por la persona cuando buscas información sobre un tema que le interesa? (be pág. 33).",
+        "question": "¿Por qué demuestras interés por la persona cuando buscas información sobre un tema que le interesa? ¿Qué efecto puede tener en la persona que le muestres esa información? (be págs. 33-38).",
         "references": "be págs. 33-38",
-        "directAnswer": "Muestras interés por la persona cuando buscas información sobre un tema que le interesa porque <strong>demuestras que valoras sus pensamientos y sus inquietudes.</strong>",
-        "deepAnswer": "Al dedicar tiempo a investigar y preparar material específico sobre un tema que a la persona le importa, <strong>le comunicas de forma poderosa que sus sentimientos y sus preguntas son importantes para ti.</strong> Esto va más allá de una conversación superficial; es una demostración tangible de amor y empatía, reflejando el amor de Jehová por la humanidad.<br>1 Pedro 4:8 nos instruye a que 'el amor cubre una multitud de pecados', y en este contexto, podemos decir que el amor y el interés sincero construyen puentes de comunicación.",
-        "shortAnswer": "Valoras sus inquietudes y demuestras amor y empatía."
+        "directAnswer": "Demuestras interés al investigar lo que le importa a la persona porque <strong>refleja que valoras sus sentimientos e inquietudes</strong>. Esto puede tener un efecto muy positivo, haciendo que <strong>se sienta escuchada, respetada y más dispuesta a prestar atención al mensaje bíblico</strong>.",
+        "deepAnswer": "Al dedicar tiempo a buscar información específica sobre un tema de su interés personal, le comunicamos a la persona de forma tangible que es importante para nosotros. <strong>Este detalle de bondad derriba barreras y genera confianza.</strong> El efecto en la persona es que percibirá que nuestro ministerio no es mecánico, sino motivado por un amor sincero, lo que abre su mente y corazón para considerar las verdades bíblicas (1 Ped. 3:15).",
+        "shortAnswer": "Valora a la persona, genera confianza y la hace más receptiva."
       },
       {
         "id": "11B_q16",
@@ -5945,33 +6017,7 @@ const lessonsData = [
         "references": "Col. 4:5, 6",
         "directAnswer": "",
         "deepAnswer": "",
-        "shortAnswer": "",
-        "subQuestions": [
-          {
-            "id": "13A_q7_a",
-            "question": "¿A qué nos obliga “el amor del Cristo”? (2 Cor. 5:14, 15).",
-            "references": "2 Cor. 5:14, 15",
-            "directAnswer": "El amor de Cristo nos motiva a <strong>no vivir más para nosotros mismos, sino para servir a Jehová y al prójimo con abnegación.</strong>",
-            "deepAnswer": "El apóstol Pablo explica que <strong>el amor que Cristo demostró al morir por nosotros es una fuerza poderosa que 'nos obliga' o nos impulsa</strong>. Esto significa que, al reconocer el sacrificio de Jesús, nuestra vida cambia de dirección: ya no buscamos nuestros propios intereses, sino que <strong>dedicamos nuestra existencia a honrar a Dios y a servir a nuestro prójimo con amor, reflejando así la gratitud por su rescate.</strong>",
-            "shortAnswer": "Nos impulsa a vivir para Dios y servir a los demás en lugar de buscar nuestro propio beneficio."
-          },
-          {
-            "id": "13A_q7_b",
-            "question": "¿Qué clase de amor debemos mostrar a nuestros hermanos? (Col. 3:12-17).",
-            "references": "Col. 3:12-17",
-            "directAnswer": "Debemos <strong>mostrarnos tiernos, compasivos, bondadosos, humildes, apacibles y pacientes, perdonándonos unos a otros generosamente.</strong>",
-            "deepAnswer": "Según Colosenses 3:12-17, nuestro amor por los hermanos se manifiesta <strong>vistiéndonos de una nueva personalidad</strong>. Esto implica <strong>mostrar compasión profunda, bondad, humildad y paciencia. Es vital soportarnos unos a otros y perdonarnos con libertad, tal como Jehová nos perdonó.</strong> El vínculo fundamental que une todas estas cualidades es el amor, y todo lo que hagamos debe ser en nombre del Señor Jesús, dando gracias a Dios.",
-            "shortAnswer": "Debemos tratarlos con compasión, bondad, humildad, paciencia y un espíritu perdonador, unidos por el amor."
-          },
-          {
-            "id": "13A_q7_c",
-            "question": "¿Qué clase de amor debemos mostrar al resto de la gente? (Col. 4:5, 6).",
-            "references": "Col. 4:5, 6",
-            "directAnswer": "<strong>Debemos tratarlos con sabiduría, siendo amables y comunicativos, asegurándonos de que nuestras palabras siempre sean agradables y edificantes.</strong>",
-            "deepAnswer": "Al interactuar con personas fuera de la congregación, <strong>debemos seguir el consejo de 'seguir andando en sabiduría'</strong>. Esto significa <strong>aprovechar bien el tiempo para dar testimonio y ser estratégicos en nuestra forma de hablar</strong>. Nuestras palabras deben estar 'sazonadas con sal', lo que implica <strong>ser amables, prudentes y atractivos en nuestra manera de presentar la verdad</strong>, para que nuestra respuesta sea siempre la adecuada y refleje el amor cristiano.",
-            "shortAnswer": "Debemos tratarlos con sabiduría, amabilidad y prudencia, aprovechando cada oportunidad para que nuestras palabras sean agradables y útiles."
-          }
-        ]
+        "shortAnswer": ""
       },
       {
         "id": "13A_q8",
@@ -5982,39 +6028,7 @@ const lessonsData = [
         "shortAnswer": "Reflexionar en cómo ayudar es el primer paso para mostrar amor real."
       },
       {
-        "id": "13A_q11",
-        "question": "a dar de mí sin esperar nada a cambio? ¿Trato con amor a todos por igual, o muestro favoritismo? (Luc.",
-        "references": "",
-        "directAnswer": "<strong>Debemos evitar el favoritismo y tratar a todos con el mismo amor</strong>, tal como Jesús enseñó al tratar con bondad a todos sin distinciones.",
-        "deepAnswer": "Basándonos en Lucas 14:12-14, <strong>Jesús nos enseña a no buscar recompensas humanas ni a favorecer a quienes pueden devolvernos el favor</strong>. <strong>El amor cristiano genuino es inclusivo y trata con dignidad a todos</strong>, especialmente a los que son más vulnerables o menos favorecidos en nuestra sociedad.",
-        "shortAnswer": "Trata a todos por igual, evitando cualquier clase de favoritismo."
-      },
-      {
-        "id": "13A_q12",
-        "question": "14:12-14). ¿Me preocupo por la gente a la que le pre-",
-        "references": "",
-        "directAnswer": "Sí, <strong>debemos preocuparnos profundamente por las personas a las que predicamos, viéndolas como el campo que Jesús deseaba cosechar.</strong>",
-        "deepAnswer": "Nuestra preocupación por la gente en el territorio debe ser genuina, motivada por el amor al prójimo. Al predicar, no solo transmitimos un mensaje, sino que <strong>demostramos que nos importa su futuro eterno, acercándonos a ellos con tacto y respeto</strong>, igual que lo hizo nuestro Maestro.",
-        "shortAnswer": "Preocuparse por la gente es esencial para ser predicadores eficaces."
-      },
-      {
-        "id": "13A_q13",
-        "question": "dico? ¿Entiendo que su vida está en juego y me esfuerzo por llegarles al corazón? Cuando me tratan",
-        "references": "",
-        "directAnswer": "Sí, <strong>reconozco que el mensaje de salvación es urgente y me esfuerzo por hablarles al corazón con sinceridad.</strong>",
-        "deepAnswer": "Como precursores, entendemos que la vida de las personas está en juego porque la predicación es una obra de salvación. Para llegarles al corazón, <strong>no debemos ver nuestra labor como una rutina, sino como una misión de amor, adaptando nuestro lenguaje y tono para que sientan nuestro interés genuino por su bienestar eterno.</strong>",
-        "shortAnswer": "La urgencia de la salvación debe motivar nuestra empatía y sinceridad al predicar."
-      },
-      {
-        "id": "13A_q14",
-        "question": "mal, ¿intento usar un método diferente la próxima vez?",
-        "references": "Rom. 12:20; jy pág. 317",
-        "directAnswer": "Sí, <strong>trato de no devolver mal por mal y busco enfoques distintos para alcanzar a quienes nos rechazan.</strong>",
-        "deepAnswer": "Siguiendo el principio de Romanos 12:20, al mostrar bondad a quienes nos tratan mal, podemos vencer el mal con el bien. Como aprendemos en <em>Jesús, el Camino, la Verdad y la Vida</em> (pág. 317), debemos imitar su paciencia; si un método no funciona, <strong>oramos por sabiduría y ajustamos nuestra estrategia para seguir siendo embajadores eficaces.</strong>",
-        "shortAnswer": "Vence la hostilidad con bondad y ajusta tu método con paciencia."
-      },
-      {
-        "id": "13A_q15",
+        "id": "13A_q9",
         "question": "¿Cómo les demostró Jesús cariño y comprensión a las personas que lo rodeaban?",
         "references": "Mat. 9:10-13; Luc. 7:36-50",
         "directAnswer": "<strong>Jesús les demostró cariño al interesarse personalmente por ellos, sin importar su reputación social.</strong>",
@@ -6023,7 +6037,7 @@ const lessonsData = [
         "subtitle": "Trabaja duro, igual que Jesús"
       },
       {
-        "id": "13A_q16",
+        "id": "13A_q10",
         "question": "¿Qué actitud equilibrada tenía Jesús hacia los que no eran creyentes?",
         "references": "",
         "directAnswer": "Jesús tenía una actitud equilibrada: <strong>no aprobaba sus prácticas, pero los trataba con respeto y les ofrecía oportunidades para conocer la verdad.</strong>",
@@ -6031,24 +6045,15 @@ const lessonsData = [
         "shortAnswer": "Firme en la verdad, pero siempre compasivo y respetuoso con todos."
       },
       {
-        "id": "13A_q17",
-        "question": "¿Cómo mostró Jesús que siempre era accesible, incluso",
-        "references": "",
-        "directAnswer": "<strong>Jesús era accesible porque sus palabras y acciones siempre reflejaban amor genuino y una disposición constante a ayudar.</strong>",
-        "deepAnswer": "Su accesibilidad no dependía de su comodidad personal, sino de su profunda empatía. Incluso cuando estaba cansado, <strong>su mirada y su tono de voz transmitían que cada persona era valiosa</strong>, lo que permitía que tanto niños como adultos se sintieran cómodos acercándose a él para recibir alivio y dirección espiritual.",
-        "shortAnswer": "El amor genuino es la clave para ser siempre accesible."
-      },
-      {
-        "id": "13A_q18",
-        "question": "cuando interrumpían su tranquilidad? ¿Cómo podrías imitarlo?",
+        "id": "13A_q11",
+        "question": "¿Cómo mostró Jesús que siempre era accesible, incluso cuando interrumpían su tranquilidad? ¿Cómo podrías imitarlo? (Mar. 6:31-34).",
         "references": "Mar. 6:31-34",
-        "directAnswer": "<strong>Jesús sacrificaba su descanso por las necesidades ajenas</strong>, y <strong>yo puedo imitarlo viendo las interrupciones como oportunidades para servir.</strong>",
+        "directAnswer": "<strong>Jesús era accesible porque sacrificaba su descanso por las necesidades ajenas</strong>, y <strong>yo puedo imitarlo viendo las interrupciones como oportunidades para servir.</strong>",
         "deepAnswer": "En Marcos 6:31-34, vemos que cuando Jesús buscaba tranquilidad, la gente lo encontró y él no los rechazó; al contrario, les enseñó con compasión. Podemos imitarlo <strong>preparándonos mentalmente para ser flexibles y priorizando el bienestar espiritual de los demás sobre nuestra propia comodidad.</strong>",
-        "shortAnswer": "Imita a Jesús priorizando las necesidades ajenas sobre tu descanso.",
-        "subtitle": "Mantén las cosas materiales en su lugar"
+        "shortAnswer": "Imita a Jesús priorizando las necesidades ajenas sobre tu descanso."
       },
       {
-        "id": "13A_q19",
+        "id": "13A_q12",
         "question": "¿Cómo puedes ponerte en el lugar de otros, igual que hizo Jesús?",
         "references": "Juan 11:33-44",
         "directAnswer": "Puedo ponerme en su lugar <strong>siendo un observador atento y compartiendo sus sentimientos genuinos antes de ofrecer consuelo.</strong>",
@@ -6056,7 +6061,7 @@ const lessonsData = [
         "shortAnswer": "La empatía nace de observar con cuidado y sentir el dolor ajeno."
       },
       {
-        "id": "13A_q20",
+        "id": "13A_q13",
         "question": "¿Cómo puede ayudarte el ejemplo de humildad, bondad y amor de Jesús a ser un buen compañero y un amigo de verdad?",
         "references": "Luc. 22:24-27; Juan 15:11-15",
         "directAnswer": "Su ejemplo <strong>nos enseña a valorar a los demás y a tratarlos como amigos, cultivando un espíritu de servicio y humildad.</strong>",
@@ -6064,7 +6069,7 @@ const lessonsData = [
         "shortAnswer": "Ser un buen compañero significa servir humildemente y cultivar la confianza."
       },
       {
-        "id": "13A_q21",
+        "id": "13A_q14",
         "question": "¿Qué logras si eres comprensivo y observador al tratar con la gente?",
         "references": "Luc. 19:2-10",
         "directAnswer": "Al ser comprensivo y observador, <strong>logro identificar la necesidad espiritual de la persona y ayudarla a acercarse a Jehová.</strong>",
@@ -6072,7 +6077,7 @@ const lessonsData = [
         "shortAnswer": "Observar permite identificar quién busca la verdad para ayudarle a encontrarla."
       },
       {
-        "id": "13A_q22",
+        "id": "13A_q15",
         "question": "¿Cómo sabemos que Jesús no discriminaba a nadie y que respetaba a todo el mundo?",
         "references": "",
         "directAnswer": "<strong>Jesús respetaba a todos porque entendía que cada persona tiene el valor suficiente para ser objeto del amor de Dios.</strong>",
@@ -6081,7 +6086,7 @@ const lessonsData = [
         "subtitle": "Sigue fielmente los pasos de Jesús"
       },
       {
-        "id": "13A_q23",
+        "id": "13A_q16",
         "question": "¿Qué te enseña eso? (Apoc. 2:2, 13, 19; 3:4).",
         "references": "",
         "directAnswer": "<strong>Nos enseña que, al igual que Jesús, debemos notar y encomiar sinceramente las buenas obras y el aguante de nuestros hermanos antes de dar cualquier consejo o sugerencia.</strong>",
@@ -6090,16 +6095,24 @@ const lessonsData = [
         "subtitle": "Jesús siempre felicitaba a las personas por lo que hacían bien."
       },
       {
-        "id": "13A_q24",
-        "question": "¿Cómo ve Jesús el trabajo, y cómo puedes imitar su actitud? (Juan 9:4; 17:4; it-2 pág. 95 párr. 6). Jesús dijo: “Mi alimento es hacer la voluntad del que me envió y completar su obra”. ¿Cómo puedes demostrar que sientes lo mismo?",
-        "references": "Juan 4:6, 8, 32-35",
-        "directAnswer": "<strong>Jesús veía su trabajo espiritual como algo vital y sumamente reconfortante, equiparándolo a su propio alimento</strong>; <strong>podemos imitarlo al dar prioridad absoluta a nuestro ministerio, incluso cuando estemos físicamente cansados.</strong>",
-        "deepAnswer": "Para Jesús, <strong>cumplir la comisión de Jehová no era una carga, sino una fuente de verdadera energía y satisfacción espiritual</strong>, tal como leemos en Juan 4:34. Aunque a veces experimentaba cansancio físico (como al sentarse junto al pozo de Sicar), su prioridad seguía siendo predicar las buenas nuevas. Al imitar esta actitud en el precursorado, <strong>aprenderemos a ver el ministerio no como una obligación rutinaria, sino como el 'alimento' diario que nutre nuestra espiritualidad.</strong>",
-        "shortAnswer": "El ministerio debe ser nuestra mayor fuente de gozo y satisfacción espiritual.",
-        "subtitle": "Trabaja duro, igual que Jesús."
+        "id": "13A_q17",
+        "question": "¿Cómo ve Jesús el trabajo, y cómo puedes imitar su actitud? (Juan 9:4; 17:4; it-2 pág. 95 párr. 6).",
+        "references": "Juan 9:4; 17:4; it-2 pág. 95 párr. 6",
+        "directAnswer": "<strong>Jesús veía su trabajo espiritual como algo vital y sumamente reconfortante, de máxima prioridad</strong>; <strong>podemos imitarlo al dar prioridad absoluta a nuestro ministerio, incluso si estamos cansados.</strong>",
+        "deepAnswer": "Para Jesús, el trabajo de predicar y enseñar era prioritario, tanto que lo consideraba su alimento (Juan 4:34). Él no buscaba su propia gloria, sino hacer la voluntad de su Padre. Nosotros podemos imitar su actitud activa y abnegada dedicando tiempo y esfuerzo de todo corazón a la predicación.",
+        "shortAnswer": "Considera el ministerio un privilegio y trabaja con diligencia.",
+        "subtitle": "Trabaja duro, igual que Jesús"
       },
       {
-        "id": "13A_q25",
+        "id": "13A_q18",
+        "question": "Jesús dijo: “Mi alimento es hacer la voluntad del que me envió y completar su obra” (Juan 4:6, 8, 32-35). ¿Cómo puedes demostrar que sientes lo mismo?",
+        "references": "Juan 4:6, 8, 32-35",
+        "directAnswer": "<strong>Demostramos que sentimos lo mismo al poner la obra de Jehová por encima de nuestras necesidades físicas o de la comodidad personal.</strong>",
+        "deepAnswer": "Aunque Jesús estaba cansado al llegar al pozo, aprovechó la oportunidad para predicar a la samaritana. Su 'alimento' era hacer la voluntad de Jehová. Demostramos el mismo sentir cuando mantenemos el entusiasmo por la predicación y estamos dispuestos a gastarnos con gusto por las ovejas de Jehová.",
+        "shortAnswer": "Da prioridad al servicio aun cuando estés físicamente cansado."
+      },
+      {
+        "id": "13A_q19",
         "question": "Según indica Lucas 21:37, 38, Jesús tenía un horario y organizaba las cosas que tenía que hacer cada día. ¿Qué ordenas tú en tu horario?",
         "references": "",
         "directAnswer": "Demostramos que sentimos lo mismo cuando <strong>nos esforzamos con diligencia y mantenemos un horario regular y bien organizado para el ministerio teocrático, sin dejarlo al azar.</strong>",
@@ -6108,15 +6121,16 @@ const lessonsData = [
         "subtitle": "Mantén las cosas materiales en su lugar"
       },
       {
-        "id": "13A_q27",
+        "id": "13A_q20",
         "question": "¿Cómo dijo Jesús que tenemos que ver las cosas materiales?",
         "references": "Mat. 6:24-33; it-2 pág. 96 párr. 1",
         "directAnswer": "<strong>Jesús enseñó que debemos ver las cosas materiales con un ojo sencillo, confiando plenamente en que Jehová proveerá lo necesario si buscamos primero su Reino.</strong>",
         "deepAnswer": "Jesús dejó claro en el Sermón del Monte que <strong>nadie puede servir a dos amos: o servimos a Dios o a las Riquezas</strong> (Mat. 6:24). Nos exhortó a no estar ansiosos por el alimento o la ropa, asegurándonos que nuestro Padre celestial conoce perfectamente nuestras necesidades. Como precursores, <strong>mantener un 'ojo sencillo' concentrado en los intereses teocráticos nos protege de las trampas del materialismo y nos permite experimentar el tierno cuidado de Jehová.</strong>",
-        "shortAnswer": "Mantén un ojo sencillo y confía plenamente en la guía y provisión de Jehová."
+        "shortAnswer": "Mantén un ojo sencillo y confía plenamente en la guía y provisión de Jehová.",
+        "subtitle": "Mantén las cosas materiales en su lugar"
       },
       {
-        "id": "13A_q28",
+        "id": "13A_q21",
         "question": "¿Qué te ayudará a no perder el equilibrio?",
         "references": "Luc. 12:15",
         "directAnswer": "<strong>Recordar que la vida no depende de las cosas que poseemos nos ayudará a evitar la codicia y a mantener el equilibrio espiritual.</strong>",
@@ -6124,7 +6138,7 @@ const lessonsData = [
         "shortAnswer": "Rechaza la codicia y mantén tu felicidad centrada en las riquezas espirituales."
       },
       {
-        "id": "13A_q29",
+        "id": "13A_q22",
         "question": "¿Qué te enseña el ejemplo de Jesús sobre el lugar que deben tener en tu vida el trabajo y el tiempo libre?",
         "references": "Mar. 6:31; Luc. 5:29; Juan 2:1-10; 12:2-8",
         "directAnswer": "<strong>El ejemplo de Jesús nos enseña que, aunque el servicio a Jehová es prioritario, es equilibrado y saludable apartar tiempo para descansar, socializar y disfrutar moderadamente de la vida.</strong>",
@@ -6132,7 +6146,7 @@ const lessonsData = [
         "shortAnswer": "El descanso y el esparcimiento son necesarios, pero siempre subordinados al ministerio."
       },
       {
-        "id": "13A_q30",
+        "id": "13A_q23",
         "question": "Jesús agradeció el apoyo que le dieron. ¿Cómo puedes tú ser agradecido con los hermanos que te apoyan en tu precursorado? (Luc. 10:38-42).",
         "references": "",
         "directAnswer": "<strong>Podemos mostrar agradecimiento valorando la hospitalidad y la ayuda práctica de los hermanos, animándolos espiritualmente a cambio y no siendo una carga exigente para ellos.</strong>",
@@ -6140,16 +6154,16 @@ const lessonsData = [
         "shortAnswer": "Muestra gratitud sincera correspondiendo al apoyo de los hermanos con estímulo espiritual."
       },
       {
-        "id": "13A_q31",
+        "id": "13A_q24",
         "question": "Según 1 Pedro 2:21-23, ¿qué ejemplo te pone Jesús cuando pasas por momentos difíciles?",
         "references": "",
         "directAnswer": "<strong>Jesús nos pone el ejemplo de sufrir con paciencia y sin tomar represalias, encomendándose por completo a la justicia de Jehová Dios.</strong>",
         "deepAnswer": "El apóstol Pedro nos recuerda que Jesús nos dejó un modelo para que 'sigamos fielmente sus pasos' al afrontar injusticias y sufrimientos. Cuando fue insultado y maltratado, él <strong>no respondió con insultos ni amenazas, sino que 'se encomendó al que juzga con justicia'</strong> (1 Ped. 2:23). Al encarar pruebas o malentendidos en nuestro servicio, <strong>imitar este silencio digno y esta confianza absoluta en Jehová nos protege de actuar con amargura y honra el nombre de Dios.</strong>",
         "shortAnswer": "Ante las dificultades, confía en la justicia de Jehová y no busques vengarte.",
-        "subtitle": "Sigue fielmente los pasos de Jesús."
+        "subtitle": "Sigue fielmente los pasos de Jesús"
       },
       {
-        "id": "13A_q32",
+        "id": "13A_q25",
         "question": "¿Cómo imitan los cristianos a Jesús cuando se enfrentan al rechazo o la persecución?",
         "references": "mwb18.06 pág. 2",
         "directAnswer": "<strong>Los cristianos imitan a Jesús manteniendo la calma, respondiendo con apacibilidad y continuando con valor la predicación a pesar de la oposición.</strong>",
@@ -6157,7 +6171,7 @@ const lessonsData = [
         "shortAnswer": "Responde con apacibilidad, mantén el gozo y sigue predicando con valor."
       },
       {
-        "id": "13A_q33",
+        "id": "13A_q26",
         "question": "¿Por qué estás decidido a seguir aprendiendo del Amo?",
         "references": "Juan 14:21, 23",
         "directAnswer": "<strong>Estoy decidido a seguir aprendiendo de Jesús porque amo a Jehová y deseo demostrarle mi lealtad cumpliendo sus mandamientos.</strong>",
@@ -7392,14 +7406,6 @@ const lessonsData = [
         "shortAnswer": "Su amor leal es eterno y firme, garantizando que nunca nos abandonará."
       },
       {
-        "id": "16B_q2_b",
-        "question": "Explica por qué el significado del nombre Jehová te garantiza que puedes confiar en él (nwt pág. 1815).",
-        "references": "nwt pág. 1815",
-        "directAnswer": "El nombre Jehová significa <strong>'Él Hace Que Llegue A Ser'</strong>, lo que garantiza que él se convertirá en lo que haga falta para cumplir todas sus promesas.",
-        "deepAnswer": "Según el apéndice de la Biblia (nwt pág. 1815), el nombre divino es una forma del verbo hebreo *hawáh* (llegar a ser). Esto nos asegura que <strong>Jehová tiene el poder ilimitado de cumplir su palabra</strong>, convirtiéndose en el Salvador, Proveedor o Protector que su pueblo necesite. Esta garantía elimina cualquier motivo de duda sobre sus promesas futuras.",
-        "shortAnswer": "Su nombre significa 'Él Hace Que Llegue A Ser', asegurando el cumplimiento de su palabra."
-      },
-      {
         "id": "16B_q3",
         "question": "¿Por qué decimos que Jehová es el Dios de la verdad? Da ejemplos que demuestren que Jehová es confiable y leal.",
         "references": "1 Rey. 8:56; Sal. 31:5; Heb. 6:18",
@@ -7465,19 +7471,11 @@ const lessonsData = [
       },
       {
         "id": "16B_q11",
-        "question": "momento muy difícil. ¿Confiaría en que Jehová",
-        "references": "",
-        "directAnswer": "Sí, <strong>la viuda de Sarepta demostró una fe extraordinaria al confiar en que Jehová proveería para ella y su hijo, incluso en medio de una hambruna extrema.</strong>",
-        "deepAnswer": "Cuando se le pidió que entregara su último bocado de comida al profeta Elías, ella tuvo que elegir entre sus necesidades físicas inmediatas y su fe en el Dios de Israel. <strong>Su acción demostró que valoraba su amistad con Jehová por encima de su propia supervivencia</strong>. <strong>Ella confiaba en la promesa del profeta, y su lealtad fue recompensada cuando Jehová realizó el milagro del frasco de harina y la jarra de aceite</strong>, demostrando que quien confía en Él nunca es abandonado.",
-        "shortAnswer": "La viuda confió en Jehová poniendo su relación con Dios antes que su sustento físico."
-      },
-      {
-        "id": "16B_q12",
-        "question": "la salvaría a ella y a su hijo? ¿Sería capaz de poner su amistad con Dios por encima de sus necesidades físicas? Busca 1 Reyes 17:8-24 y sigue la lectura.",
-        "references": "",
-        "directAnswer": "<strong>Este relato nos enseña que cuando ponemos la voluntad de Jehová por encima de nuestras preocupaciones, él nos sostiene de maneras sorprendentes.</strong>",
-        "deepAnswer": "La lectura de 1 Reyes 17:8-24 nos muestra cómo <strong>la obediencia de esta mujer no solo preservó su vida, sino que la llevó a presenciar el poder de Jehová incluso al resucitar a su hijo</strong>. Esta experiencia fortaleció su convicción de que Elías era un hombre de Dios y que la palabra en su boca era la verdad. Es un ejemplo vívido para nosotros hoy de que, <strong>aunque las circunstancias parezcan desesperadas, Jehová recompensa a quienes le son fieles y confían plenamente en su cuidado.</strong>",
-        "shortAnswer": "El relato nos asegura que Jehová bendice abundantemente a quienes demuestran fe total en Él."
+        "question": "Lectura bíblica dramatizada de 1 Reyes 17:8-24. En este relato verás lo mucho que la viuda de Sarepta confió en Jehová. Estaba pasando por un momento muy difícil. ¿Confiaría en que Jehová la salvaría a ella y a su hijo? ¿Sería capaz de poner su amistad con Dios por encima de sus necesidades físicas? Busca 1 Reyes 17:8-24 y sigue la lectura.",
+        "references": "1 Rey. 17:8-24",
+        "directAnswer": "<strong>La viuda de Sarepta demostró una fe extraordinaria al obedecer la instrucción de alimentar primero al profeta Elías, confiando en la promesa de que Jehová proveería sustento diario durante la sequía.</strong>",
+        "deepAnswer": "En 1 Reyes 17:8-24, la situación de la viuda era extrema: solo le quedaba un puñado de harina y un poco de aceite para ella y su hijo antes de dejarse morir. Al priorizar el sustento del siervo de Jehová, puso su amistad con Dios por encima de sus temores y necesidades físicas urgentes, recibiendo a cambio la milagrosa multiplicación de alimentos y la resurrección de su hijo.",
+        "shortAnswer": "La viuda priorizó al profeta de Dios y vio su fe recompensada con creces."
       },
       {
         "id": "16B_q13",
@@ -7488,20 +7486,12 @@ const lessonsData = [
         "shortAnswer": "Elías pidió prioridad para Jehová y garantizó el sustento milagroso."
       },
       {
-        "id": "16B_q14",
-        "question": "¿Cómo demostró la viuda que confiaba por completo",
-        "references": "",
-        "directAnswer": "<strong>La viuda demostró su fe al hacer exactamente lo que Elías le pidió, a pesar de que solo le quedaba suficiente para una última comida.</strong>",
-        "deepAnswer": "Su obediencia fue un acto de fe radical. Aunque su situación era desesperada, <strong>decidió confiar en las palabras del profeta de Dios por encima de sus propias limitaciones humanas</strong>, demostrando que <strong>la fe verdadera implica acción incluso cuando no vemos el resultado final inmediatamente.</strong>",
-        "shortAnswer": "Demostró fe obedeciendo de inmediato a pesar de su escasez."
-      },
-      {
-        "id": "16B_q15",
-        "question": "en que Dios la salvaría? ¿Cómo la premió Jehová?",
+        "id": "16B_q13",
+        "question": "¿Cómo demostró la viuda que confiaba por completo en que Dios la salvaría? ¿Cómo la premió Jehová? (1 Rey. 17:15, 16).",
         "references": "1 Rey. 17:15, 16",
-        "directAnswer": "<strong>La viuda confió plenamente al preparar el alimento para Elías primero</strong>; <strong>Jehová la premió asegurando que su jarra y su vasija nunca se vaciaran hasta que terminara la hambruna.</strong>",
-        "deepAnswer": "Al actuar conforme a la promesa, <strong>ella experimentó el cuidado protector de Jehová de forma milagrosa</strong>. <em>1 Reyes 17:15, 16</em> nos enseña que Dios valora profundamente a quienes confían en Él, <strong>recompensando su lealtad con lo necesario para sobrevivir en tiempos difíciles.</strong>",
-        "shortAnswer": "Jehová recompensó su fe proveyendo alimento inagotable durante toda la hambruna."
+        "directAnswer": "La viuda demostró su confianza al preparar primero una pequeña hogaza de pan para Elías con lo último que le quedaba. Jehová la premió haciendo que la harina de la vasija y el aceite de la jarra no se agotaran durante toda la sequía.",
+        "deepAnswer": "Su obediencia fue un acto de fe radical. Aunque su situación era desesperada, <strong>decidió confiar en las palabras del profeta de Dios por encima de sus propias limitaciones humanas</strong>, demostrando que <strong>la fe verdadera implica acción incluso cuando no vemos el resultado final inmediatamente.</strong><br>Al actuar conforme a la promesa, <strong>ella experimentó el cuidado protector de Jehová de forma milagrosa</strong>. <em>1 Reyes 17:15, 16</em> nos enseña que Dios valora profundamente a quienes confían en Él, <strong>recompensando su lealtad con lo necesario para sobrevivir en tiempos difíciles.</strong>",
+        "shortAnswer": "Preparó primero pan para Elías, y Jehová multiplicó su harina y aceite."
       },
       {
         "id": "16B_q16",
@@ -8228,3 +8218,7 @@ const lessonsData = [
     "flashcards": []
   }
 ];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = lessonsData;
+}
