@@ -4833,425 +4833,422 @@ const lessonsData = [
     "questions": [
       {
         "id": "11A_q2",
-        "question": "¿Por qué es tan importante leer la Biblia para ser espiritual?",
+        "question": "¿Por qué es tan importante leer la Biblia para ser espiritual? (Sal. 119:105; Juan 17:17).",
         "references": "Sal. 119:105; Juan 17:17",
-        "directAnswer": "Leer la Biblia es fundamental porque <strong>mediante ella recibimos el alimento espiritual y la verdad divina indispensables para transformar nuestra mente y tomar decisiones que tengan la aprobación de Jehová.</strong>",
-        "deepAnswer": "Según Salmo 119:105, la Palabra de Dios actúa como una <em>“lámpara para mi pie”</em> y una <em>“luz para mi sendero”</em>, dándonos la guía necesaria tanto en los asuntos diarios como en los planes futuros. Además, en Juan 17:17, Jesús destacó el poder de las Escrituras al orar: <em>“Santifícalos por medio de la verdad; tu palabra es la verdad”</em>. Sin la lectura constante y la meditación profunda en el texto bíblico, <strong>nuestro pensamiento se vería moldeado inevitablemente por el espíritu del mundo, alejándonos de la espiritualidad cristiana.</strong>",
-        "shortAnswer": "La lectura bíblica es imprescindible porque nos santifica con la verdad de Jehová y nos protege de la mentalidad de este mundo.",
-        "subtitle": "¿Cómo puedo llegar a ser una persona espiritual?"
+        "directAnswer": "Leer la Biblia es fundamental porque mediante ella recibimos el alimento espiritual y la verdad divina indispensables para transformar nuestra mente y tomar decisiones que tengan la aprobación de Jehová.",
+        "deepAnswer": "Según Salmo 119:105, la Palabra de Dios actúa como una <em>“lámpara para mi pie”</em> y una <em>“luz para mi sendero”</em>, dándonos la guía necesaria tanto en los asuntos diarios como en los planes futuros. Además, en Juan 17:17, Jesús destacó el poder de las Escrituras al orar: <em>“Santifícalos por medio de la verdad; tu palabra es la verdad”</em>. Sin la lectura constante y la meditación profunda en el texto bíblico, nuestro pensamiento se vería moldeado inevitablemente por el espíritu del mundo, alejándonos de la espiritualidad cristiana.",
+        "shortAnswer": "La lectura bíblica es imprescindible porque nos santifica con la verdad de Jehová y nos protege de la mentalidad de este mundo."
       },
       {
         "id": "11A_q3",
-        "question": "Para ver las cosas como las ve Dios, ¿en qué debemos fijarnos al leer la Biblia?",
+        "question": "Para ver las cosas como las ve Dios, ¿en qué debemos fijarnos al leer la Biblia? (Sal. 139:17; Mar. 8:33; Rom. 12:2; Efes. 4:23, 24).",
         "references": "Sal. 139:17; Mar. 8:33; Rom. 12:2; Efes. 4:23, 24",
-        "directAnswer": "Al leer la Biblia, <strong>debemos fijarnos con detenimiento en los pensamientos, los sentimientos, las normas morales de Jehová y su manera de actuar ante diversas circunstancias.</strong>",
-        "deepAnswer": "Para lograr ver las cosas como Dios las ve, <strong>debemos valorar profundamente sus pensamientos elevados (Sal. 139:17) y rechazar de inmediato los razonamientos netamente humanos (Mar. 8:33).</strong> Durante nuestra lectura, debemos hacernos preguntas reflexivas como: <em>“¿Qué me enseña esto sobre el carácter de Jehová y su propósito?”</em>. Este tipo de meditación activa nos capacita para renovar nuestra fuerza mental y ponernos la nueva personalidad, la cual ha sido creada a la imagen de Dios (Rom. 12:2; Efes. 4:23, 24).",
+        "directAnswer": "Al leer la Biblia, debemos fijarnos con detenimiento en los pensamientos, los sentimientos, las normas morales de Jehová y su manera de actuar ante diversas circunstancias.",
+        "deepAnswer": "Para lograr ver las cosas como Dios las ve, debemos valorar profundamente sus pensamientos elevados (Sal. 139:17) y rechazar de inmediato los razonamientos netamente humanos (Mar. 8:33). Durante nuestra lectura, debemos hacernos preguntas reflexivas como: <em>“¿Qué me enseña esto sobre el carácter de Jehová y su propósito?”</em>. Este tipo de meditación activa nos capacita para renovar nuestra fuerza mental y ponernos la <strong>nueva personalidad</strong>, la cual ha sido creada a la imagen de Dios (Rom. 12:2; Efes. 4:23, 24).",
         "shortAnswer": "Debemos centrar nuestra atención en la personalidad y las normas de Jehová para aprender a discernir su santa voluntad en todo."
       },
       {
         "id": "11A_q4",
-        "question": "Según 1 Corintios 2:14-16, ¿en qué se diferencia la persona espiritual de la física?",
+        "question": "Según 1 Corintios 2:14-16, ¿en qué se diferencia la persona espiritual de la física? (w18.02 pág. 19 párrs. 3-6).",
         "references": "w18.02 pág. 19 párrs. 3-6",
-        "directAnswer": "<strong>La persona física se guía exclusivamente por sus deseos carnales y no acepta las verdades de Dios</strong>, mientras que <strong>la persona espiritual valora las cosas espirituales, examina todo bajo la luz bíblica y se esfuerza por reflejar la mente de Cristo.</strong>",
-        "deepAnswer": "La principal diferencia radica en el enfoque de su vida y sus motivaciones internas. Tal como explica <em>La Atalaya</em> de febrero de 2018, <strong>la persona física está dominada por sus inclinaciones carnales y la sabiduría del mundo</strong>, considerando las cosas del espíritu de Dios como una tontería. En cambio, <strong>la persona espiritual atesora su relación con Jehová, “examina todas las cosas” de forma correcta y busca imitar a Jesucristo, permitiendo que la guía del espíritu santo dirija cada decisión y aspecto de su vida.</strong>",
+        "directAnswer": "La persona física se guía exclusivamente por sus deseos carnales y no acepta las verdades de Dios, mientras que la persona espiritual valora las cosas espirituales, examina todo bajo la luz bíblica y se esfuerza por reflejar la mente de Cristo.",
+        "deepAnswer": "La principal diferencia radica en el enfoque de su vida y sus motivaciones internas. Tal como explica <em>La Atalaya</em> de febrero de 2018, la persona física está dominada por sus inclinaciones carnales y la sabiduría del mundo, considerando las cosas del espíritu de Dios como una tontería. En cambio, la persona espiritual atesora su relación con Jehová, <strong>“examina todas las cosas”</strong> de forma correcta y busca imitar a Jesucristo, permitiendo que la guía del espíritu santo dirija cada decisión y aspecto de su vida.",
         "shortAnswer": "La persona física se deja llevar por sus deseos egoístas, mientras que la espiritual se esfuerza por adquirir y reflejar la mente de Cristo."
       },
       {
         "id": "11A_q5",
         "question": "¿Por qué fijarte en lo que Jesús pensó, dijo e hizo te puede ayudar a conocer mejor a Jehová y su forma de pensar? (Juan 5:19, 30; 14:9, 10).",
-        "references": "",
-        "directAnswer": "Jesús imitó a su Padre con absoluta perfección; por lo tanto, <strong>al estudiar sus palabras y acciones, estamos aprendiendo directamente cómo siente, piensa y actúa Jehová.</strong>",
-        "deepAnswer": "Jesucristo es el reflejo más exacto del Dios Altísimo. En Juan 14:9, Jesús afirmó categóricamente: <em>“El que me ha visto a mí ha visto al Padre también”</em>, y en Juan 5:19, 30 dejó claro que él no hacía nada por su propia cuenta, sino que imitaba a la perfección cada acción de su Padre. <strong>Al analizar detalladamente la compasión, el amor, la justicia y el valor que Jesús demostró al tratar a las personas, logramos un entendimiento profundo y conmovedor de la maravillosa personalidad de Jehová.</strong>",
+        "references": "Juan 5:19, 30; 14:9, 10",
+        "directAnswer": "Jesús imitó a su Padre con absoluta perfección; por lo tanto, al estudiar sus palabras y acciones, estamos aprendiendo directamente cómo siente, piensa y actúa Jehová.",
+        "deepAnswer": "Jesucristo es el reflejo más exacto del Dios Altísimo. En Juan 14:9, Jesús afirmó categóricamente: <em>“El que me ha visto a mí ha visto al Padre también”</em>, y en Juan 5:19, 30 dejó claro que él no hacía nada por su propia cuenta, sino que imitaba a la perfección cada acción de su Padre. Al analizar detalladamente la compasión, el amor, la justicia y el valor que Jesús demostró al tratar a las personas, logramos un entendimiento profundo y conmovedor de la maravillosa personalidad de Jehová.",
         "shortAnswer": "Dado que Jesús imitó a su Padre de manera perfecta, estudiar su vida es la forma más clara de comprender la mente de Jehová."
       },
       {
         "id": "11A_q6",
-        "question": "¿Qué importancia tenía para Jesús hacer la voluntad de su Padre?",
+        "question": "¿Qué importancia tenía para Jesús hacer la voluntad de su Padre? (Juan 4:34).",
         "references": "Juan 4:34",
-        "directAnswer": "Hacer la voluntad de su Padre era de máxima prioridad para Jesús, tanto que <strong>la comparó con su alimento, aquello que lo sustentaba y le daba verdaderas energías.</strong>",
-        "deepAnswer": "En Juan 4:34, Jesús expresó con convicción: <em>“Mi alimento es hacer la voluntad del que me envió y completar su obra”</em>. Del mismo modo en que la comida física nos sostiene, nos fortalece y nos deleita, para Jesús <strong>cumplir fielmente con el ministerio encomendado por Jehová era una fuente vitalizadora de gozo inmenso y satisfacción profunda.</strong> Esta sagrada prioridad dirigió toda su existencia en la Tierra, dándole la fuerza espiritual necesaria para mantenerse leal bajo toda prueba y completar su obra con éxito.",
+        "directAnswer": "Hacer la voluntad de su Padre era de máxima prioridad para Jesús, tanto que la comparó con su alimento, aquello que lo sustentaba y le daba verdaderas energías.",
+        "deepAnswer": "En Juan 4:34, Jesús expresó con convicción: <em>“Mi alimento es hacer la voluntad del que me envió y completar su obra”</em>. Del mismo modo en que la comida física nos sostiene, nos fortalece y nos deleita, para Jesús cumplir fielmente con el ministerio encomendado por Jehová era una fuente vitalizadora de gozo inmenso y satisfacción profunda. Esta sagrada prioridad dirigió toda su existencia en la Tierra, dándole la fuerza espiritual necesaria para mantenerse leal bajo toda prueba y completar su obra con éxito.",
         "shortAnswer": "Cumplir con la voluntad de Jehová era el \"alimento\" de Jesús, dándole profunda alegría, vitalidad y propósito en la vida."
       },
       {
         "id": "11A_q7",
-        "question": "Según Filipenses 2:5-8, ¿qué necesitas para tener la actitud mental de Cristo?",
+        "question": "Según Filipenses 2:5-8, ¿qué necesitas para tener la actitud mental de Cristo? (w12 15/11 págs. 11-13 párrs. 7-11).",
         "references": "w12 15/11 págs. 11-13 párrs. 7-11",
-        "directAnswer": "<strong>Necesitamos cultivar la humildad y la abnegación, imitando el ejemplo de Cristo Jesús en todos los aspectos de nuestra vida.</strong> <strong>Debemos mostrarnos dispuestos a sacrificar nuestros propios intereses por el bienestar de otros.</strong>",
-        "deepAnswer": "Para tener la actitud mental de Cristo, según Filipenses 2:5-8, <strong>debemos estar dispuestos a rebajarnos y a considerar a los demás superiores a nosotros mismos.</strong> Jesús, a pesar de ser el Hijo de Dios, no se aferró a su posición privilegiada sino que se despojó de ella, haciéndose esclavo y humillándose hasta la muerte en un madero. Esto significa que debemos <strong>imitar su humildad, su abnegación y su profundo amor, poniendo los intereses de Jehová y de nuestros hermanos antes que los nuestros.</strong>",
+        "directAnswer": "Necesitamos cultivar la humildad y la abnegación, imitando el ejemplo de Cristo Jesús en todos los aspectos de nuestra vida. Debemos mostrarnos dispuestos a sacrificar nuestros propios intereses por el bienestar de otros.",
+        "deepAnswer": "Para tener la actitud mental de Cristo, según Filipenses 2:5-8, debemos estar dispuestos a rebajarnos y a considerar a los demás superiores a nosotros mismos. Jesús, a pesar de ser el Hijo de Dios, no se aferró a su posición privilegiada sino que se despojó de ella, haciéndose esclavo y humillándose hasta la muerte en un madero. Esto significa que debemos imitar su humildad, su abnegación y su profundo amor, poniendo los intereses de Jehová y de nuestros hermanos antes que los nuestros.",
         "shortAnswer": "Imitar la humildad y abnegación de Cristo."
       },
       {
         "id": "11A_q8",
         "question": "¿Por qué se necesita humildad para poner en práctica lo que dice Romanos 12:2?",
-        "references": "",
-        "directAnswer": "<strong>La humildad es esencial para no conformarnos con este mundo, permitiendo que la mente de Cristo nos transforme.</strong> <strong>Sin ella, podríamos caer en la soberbia y resistirnos a los cambios necesarios para agradar a Jehová.</strong>",
-        "deepAnswer": "Romanos 12:2 nos exhorta a no conformarnos con este mundo y a ser transformados mediante la renovación de nuestra mente. La humildad es la clave para aplicar este consejo, pues <strong>nos permite reconocer nuestras imperfecciones y estar abiertos a los cambios que el espíritu de Jehová nos guía a hacer.</strong> Sin humildad, podríamos creer que ya lo sabemos todo o que no necesitamos mejorar, impidiendo así que nuestra mente se moldee según los pensamientos de Cristo.",
+        "references": "Rom. 12:2",
+        "directAnswer": "La humildad es esencial para no conformarnos con este mundo, permitiendo que la mente de Cristo nos transforme. Sin ella, podríamos caer en la soberbia y resistirnos a los cambios necesarios para agradar a Jehová.",
+        "deepAnswer": "Romanos 12:2 nos exhorta a no conformarnos con este mundo y a ser transformados mediante la renovación de nuestra mente. La humildad es la clave para aplicar este consejo, pues nos permite reconocer nuestras imperfecciones y estar abiertos a los cambios que el espíritu de Jehová nos guía a hacer. Sin humildad, podríamos creer que ya lo sabemos todo o que no necesitamos mejorar, impidiendo así que nuestra mente se moldee según los pensamientos de Cristo.",
         "shortAnswer": "Sin humildad, no aceptamos la transformación de nuestra mente."
       },
       {
         "id": "11A_q9",
         "question": "Según Santiago 1:22-25, ¿qué tendencia podría impedirte progresar en sentido espiritual?",
-        "references": "",
-        "directAnswer": "<strong>La tendencia a ser oidores y no hacedores de la Palabra de Dios, como se describe en Santiago 1:22-25, puede impedir nuestro progreso espiritual.</strong> Debemos aplicarla activamente, no solo escucharla.",
-        "deepAnswer": "Santiago 1:22-25 nos advierte sobre el peligro de ser meros oidores de la Palabra de Dios y no hacedores. <strong>Esta tendencia a no poner en práctica lo que aprendemos, como si uno se mirara en un espejo y luego se olvidara de su apariencia, es un obstáculo directo para el progreso espiritual.</strong> Si no aplicamos las enseñanzas bíblicas, no permitimos que transformen nuestras vidas ni que fortalezcan nuestra relación con Jehová, quedando estancados en nuestro crecimiento.",
-        "shortAnswer": "Ser oidor y no hacedor de la Palabra de Dios.",
-        "subtitle": "¿Cómo va mi progreso?"
+        "references": "Sant. 1:22-25",
+        "directAnswer": "La tendencia a ser oidores y no hacedores de la Palabra de Dios, como se describe en Santiago 1:22-25, puede impedir nuestro progreso espiritual. Debemos aplicarla activamente, no solo escucharla.",
+        "deepAnswer": "Santiago 1:22-25 nos advierte sobre el peligro de ser meros oidores de la Palabra de Dios y no hacedores. Esta tendencia a no poner en práctica lo que aprendemos, como si uno se mirara en un espejo y luego se olvidara de su apariencia, es un obstáculo directo para el progreso espiritual. Si no aplicamos las enseñanzas bíblicas, no permitimos que transformen nuestras vidas ni que fortalezcan nuestra relación con Jehová, quedando estancados en nuestro crecimiento.",
+        "shortAnswer": "Ser oidor y no hacedor de la Palabra de Dios."
       },
       {
         "id": "11A_q10",
-        "question": "Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”. (Hacerte un autoexamen con la ayuda de la oración; Sal. 26:2; 2 Cor. 13:5).",
+        "question": "Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?” (Hacerte un autoexamen con la ayuda de la oración; Sal. 26:2; 2 Cor. 13:5).",
         "references": "Sal. 26:2; 2 Cor. 13:5",
-        "directAnswer": "Hacerse un autoexamen con la ayuda de la oración, como sugieren Salmo 26:2 y 2 Corintios 13:5, <strong>nos permite evaluar honestamente nuestras motivaciones y acciones, identificando las áreas donde necesitamos mejorar para agradar a Jehová.</strong>",
-        "deepAnswer": "Un autoexamen sincero, guiado por la oración y las Escrituras como Salmo 26:2 y 2 Corintios 13:5, es fundamental para el progreso espiritual. Al pedirle a Jehová que sondee nuestro corazón y examine nuestros pensamientos más íntimos, <strong>podemos identificar nuestras verdaderas motivaciones, reconocer debilidades ocultas y percibir las áreas en las que necesitamos cultivar una mayor fe y amor.</strong> Este proceso de reflexión espiritual bajo la guía del espíritu santo nos permite corregir el rumbo con humildad y asegurar que nuestro servicio sea siempre acepto a los ojos de Jehová.",
-        "shortAnswer": "La oración y el autoexamen nos permiten evaluar nuestras motivaciones ante Jehová y corregir nuestro rumbo espiritual."
+        "directAnswer": "Reflexiona detenidamente en tu motivación para servir a Jehová y en tus áreas de mejora con la ayuda de la oración sincera.",
+        "deepAnswer": "Este autoexamen personal (Sal. 26:2; 2 Cor. 13:5) te ayuda a analizar tu corazón y debilidades sin compararte con otros. Es una herramienta íntima y constante para que evalúes tu progreso espiritual.",
+        "shortAnswer": "Haz un autoexamen con oración sobre tu motivación y debilidades."
       },
       {
         "id": "11A_q11",
         "question": "Estudiar regularmente la Biblia y nuestras publicaciones (Sal. 1:2, 3). ¿Por qué hace falta meditar?",
         "references": "Sal. 1:2, 3",
-        "directAnswer": "<strong>El estudio regular nos permite meditar en la ley de Jehová, lo cual nos fortalece espiritualmente, nos da sabiduría y nos asegura prosperar en nuestras decisiones</strong>, tal como se menciona en Salmo 1:2, 3.",
-        "deepAnswer": "Estudiar regularmente la Biblia y las publicaciones cristianas es comparable a ser un árbol bien plantado junto a corrientes de agua. Esta práctica <strong>nos permite 'meditar día y noche' en la Palabra de Dios, llenando nuestra mente de pensamientos divinos que reemplazan las inclinaciones humanas imperfectas.</strong> Es la fuente de alimento espiritual que sostiene nuestra integridad y nos guía por el camino de la vida.",
-        "shortAnswer": "El estudio constante nos nutre, nos da guía divina y asegura nuestra estabilidad espiritual."
+        "directAnswer": "Hace falta meditar para <strong>grabar la verdad en el corazón, asimilar los pensamientos de Jehová y encontrar formas prácticas de aplicarlos</strong> en nuestra vida cotidiana.",
+        "deepAnswer": "El estudio personal sin meditación se limita a adquirir conocimiento teórico. Tal como Salmo 1:2, 3 destaca, quien encuentra deleite meditando en la ley de Dios de día y de noche prosperará espiritualmente, dando fruto a su tiempo y manteniéndose firme ante las pruebas.",
+        "shortAnswer": "Para asimilar los pensamientos de Jehová y aplicarlos en la vida diaria."
       },
       {
         "id": "11A_q12",
         "question": "¿Por qué hace falta meditar?",
         "references": "",
-        "directAnswer": "Hace falta meditar para <strong>reflexionar profundamente sobre las verdades espirituales y su aplicación práctica en nuestra vida</strong>. La meditación nos permite asimilar las enseñanzas y aplicarlas de manera efectiva.",
-        "deepAnswer": "Meditar es esencial porque <strong>nos permite ir más allá de una simple lectura o escucha</strong>. Es un proceso activo de ponderar las verdades espirituales, conectándolas con nuestras circunstancias personales y con los propósitos de Jehová. Al meditar, permitimos que la Palabra de Dios penetre en nuestro corazón y mente, guiándonos a tomar decisiones sabias y a cultivar cualidades cristianas.",
+        "directAnswer": "Hace falta meditar para reflexionar profundamente sobre las verdades espirituales y su aplicación práctica en nuestra vida. La meditación nos permite asimilar las enseñanzas y aplicarlas de manera efectiva.",
+        "deepAnswer": "Meditar es esencial porque nos permite ir más allá de una simple lectura o escucha. Es un proceso activo de ponderar las verdades espirituales, conectándolas con nuestras circunstancias personales y con los propósitos de Jehová. Al meditar, permitimos que la Palabra de Dios penetre en nuestro corazón y mente, guiándonos a tomar decisiones sabias y a cultivar cualidades cristianas.",
         "shortAnswer": "Meditar profundiza nuestra comprensión y aplicación de la verdad."
       },
       {
         "id": "11A_q13",
         "question": "¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
         "references": "",
-        "directAnswer": "La meditación, al permitirnos <strong>examinar nuestras acciones y pensamientos a la luz de la Palabra de Dios</strong>, nos ayuda a evitar repetir errores pasados, permitiéndonos enfocarnos en la sabiduría divina para no tropezar de nuevo.",
-        "deepAnswer": "<p>La meditación nos ayuda a no repetir los errores del pasado al permitirnos <strong>analizar críticamente nuestras acciones y pensamientos en comparación con los principios bíblicos</strong>. Al ponderar las advertencias y las lecciones de la Palabra de Dios, podemos identificar patrones de comportamiento perjudiciales y hacer los ajustes necesarios. Tal como Santiago 1:19 nos anima a ser lentos en cuanto a hablar y lentos en cuanto a airarnos, la meditación nos cultiva la paciencia y el control propio, previniendo así tropiezos.</p>",
-        "shortAnswer": "Meditar nos da la sabiduría para evitar repetir errores."
+        "directAnswer": "La meditación nos ayuda a <strong>analizar con honestidad nuestras caídas del pasado, comprender qué las desencadenó y tomar medidas preventivas</strong> basadas en los principios bíblicos.",
+        "deepAnswer": "Al meditar en los errores del pasado a la luz de las Escrituras, podemos identificar patrones de conducta o situaciones de riesgo que debemos evitar. Esto fortalece nuestro deseo de agradar a Jehová y nos permite trazar un plan de acción concreto para actuar con sabiduría ante situaciones similares en el futuro.",
+        "shortAnswer": "Permite identificar los factores que llevaron al error y planear cómo evitarlos."
       },
       {
         "id": "11A_q14",
         "question": "¿Cómo te ayuda a ser más espiritual fijarte en cómo hablan y actúan los hermanos que están fuertes en sentido espiritual? (Escuchar a cristianos maduros; Sant. 1:19).",
         "references": "Sant. 1:19",
-        "directAnswer": "Fijarse en cómo hablan y actúan los hermanos espiritualmente fuertes <strong>nos proporciona modelos a seguir, ayudándonos a cultivar cualidades cristianas y a mejorar nuestra propia conducta</strong>. Sus ejemplos nos animan y nos guían.",
-        "deepAnswer": "Observar atentamente a los cristianos maduros <strong>nos brinda valiosos ejemplos prácticos de cómo aplicar la fe y los principios bíblicos en la vida diaria</strong>. Su forma de hablar, de enfrentar desafíos, de mostrar compasión y de servir a Jehová es una enseñanza viva. Al imitar sus cualidades positivas y su devoción, también somos animados y guiados a ser más espirituales y a crecer en nuestra propia relación con Dios.",
+        "directAnswer": "Fijarse en cómo hablan y actúan los hermanos espiritualmente fuertes nos proporciona modelos a seguir, ayudándonos a cultivar cualidades cristianas y a mejorar nuestra propia conducta. Sus ejemplos nos animan y nos guían.",
+        "deepAnswer": "Observar atentamente a los cristianos maduros nos brinda valiosos ejemplos prácticos de cómo aplicar la fe y los principios bíblicos en la vida diaria. Su forma de hablar, de enfrentar desafíos, de mostrar compasión y de servir a Jehová es una enseñanza viva. Al imitar sus cualidades positivas y su devoción, también somos animados y guiados a ser más espirituales y a crecer en nuestra propia relación con Dios.",
         "shortAnswer": "Los ejemplos de hermanos maduros nos guían y animan."
       },
       {
         "id": "11A_q15",
         "question": "¿Cómo te ayuda a crecer espiritualmente prestar mucha atención a lo que se dice en las reuniones?",
         "references": "",
-        "directAnswer": "Prestar mucha atención a lo que se dice en las reuniones nos ayuda a crecer espiritualmente al <strong>recibir instrucción bíblica actualizada y práctica</strong>. Las reuniones son un medio vital para nuestro alimento espiritual y para fortalecer nuestra fe.",
-        "deepAnswer": "Las reuniones son un punto culminante de la adoración semanal, donde recibimos un alimento espiritual nutritivo y dirigido por Jehová a través de Su organización. Al prestar mucha atención a las charlas, demostraciones y preguntas y respuestas, <strong>absorbemos la instrucción divina, aprendemos a aplicar la Palabra de Dios de manera más efectiva y fortalecemos nuestra fe</strong>. Es un medio esencial para el continuo crecimiento espiritual de cada uno de nosotros.",
+        "directAnswer": "Prestar mucha atención a lo que se dice en las reuniones nos ayuda a crecer espiritualmente al recibir instrucción bíblica actualizada y práctica. Las reuniones son un medio vital para nuestro alimento espiritual y para fortalecer nuestra fe.",
+        "deepAnswer": "Las reuniones son un punto culminante de la adoración semanal, donde recibimos un alimento espiritual nutritivo y dirigido por Jehová a través de Su organización. Al prestar mucha atención a las charlas, demostraciones y preguntas y respuestas, absorbemos la instrucción divina, aprendemos a aplicar la Palabra de Dios de manera más efectiva y fortalecemos nuestra fe. Es un medio esencial para el continuo crecimiento espiritual de cada uno de nosotros.",
         "shortAnswer": "Las reuniones nos proveen alimento espiritual y crecimiento."
       },
       {
         "id": "11A_q16",
         "question": "Si cultivas tu espiritualidad, ¿cuál será el resultado? (Gál. 5:16; w11 15/12 pág. 16).",
         "references": "Gál. 5:16; w11 15/12 pág. 16",
-        "directAnswer": "Si cultivamos nuestra espiritualidad, <strong>evitaremos los deseos pecaminosos y viviremos guiados por el espíritu de Dios</strong>.",
-        "deepAnswer": "Cultivar la espiritualidad tiene un resultado maravilloso: <strong>la vida guiada por el espíritu santo</strong>, tal como lo enseña Gálatas 5:16. Esto significa que, en lugar de dejarnos llevar por los “deseos de la carne”, seremos conducidos por la influencia divina, disfrutando de una relación más estrecha con Jehová. Como se señala en <em>w11</em> 15/12 pág. 16, esto nos protege de caer en prácticas que desagradan a Dios y nos permite experimentar la verdadera libertad.<br>Esto es un reflejo de la guía de Jehová en nuestro diario vivir.",
-        "shortAnswer": "Evitas los deseos pecaminosos y vives según el espíritu de Dios.",
-        "subtitle": "¿Cómo puedo saber si soy una persona espiritual?"
+        "directAnswer": "Si cultivamos nuestra espiritualidad, evitaremos los deseos pecaminosos y viviremos guiados por el espíritu de Dios.",
+        "deepAnswer": "Cultivar la espiritualidad tiene un resultado maravilloso: <strong>la vida guiada por el espíritu santo</strong>, tal como lo enseña Gálatas 5:16. Esto significa que, en lugar de dejarnos llevar por los “deseos de la carne”, seremos conducidos por la influencia divina, disfrutando de una relación más estrecha con Jehová. Como se señala en <em>w11</em> 15/12 pág. 16, esto nos protege de caer en prácticas que desagradan a Dios y nos permite experimentar la verdadera libertad.<br><strong>Esto es un reflejo de la guía de Jehová</strong> en nuestro diario vivir.",
+        "shortAnswer": "Evitas los deseos pecaminosos y vives según el espíritu de Dios."
       },
       {
         "id": "11A_q17",
         "question": "¿Qué da a entender la expresión “el fruto del espíritu”? (Gál. 5:22, 23).",
         "references": "Gál. 5:22, 23",
-        "directAnswer": "La expresión “el fruto del espíritu” se refiere a <strong>las cualidades piadosas que Jehová produce en nosotros cuando le servimos de corazón</strong>.",
-        "deepAnswer": "Gálatas 5:22, 23 nos presenta el precioso “fruto del espíritu”, que es <strong>una manifestación de la influencia que Dios ejerce en aquellos que se esfuerzan por agradarle</strong>. Este fruto no son obras individuales sino cualidades que nacen del espíritu santo, como el amor, el gozo, la paz, la paciencia, la bondad, la benignidad, la fe, la apacibilidad y el temple. Son la evidencia de que estamos siendo moldéados según la voluntad divina.<br>Este fruto demuestra la obra de Jehová en nosotros.",
+        "directAnswer": "La expresión “el fruto del espíritu” se refiere a las cualidades piadosas que Jehová produce en nosotros cuando le servimos de corazón.",
+        "deepAnswer": "Gálatas 5:22, 23 nos presenta el precioso “fruto del espíritu”, que es una manifestación de la influencia que Dios ejerce en aquellos que se esfuerzan por agradarle. Este fruto <strong>no son obras individuales sino cualidades que nacen del espíritu santo</strong>, como el amor, el gozo, la paz, la paciencia, la bondad, la benignidad, la fe, la apacibilidad y el temple. Son la evidencia de que estamos siendo moldéados según la voluntad divina.<br><strong>Este fruto demuestra la obra de Jehová en nosotros.</strong>",
         "shortAnswer": "Son las cualidades piadosas que Dios produce en nosotros."
       },
       {
         "id": "11A_q18",
         "question": "¿Cómo se cultiva ese fruto? (w18.02 pág. 25 párr. 12).",
         "references": "w18.02 pág. 25 párr. 12",
-        "directAnswer": "Cultivamos este fruto <strong>adoptando un proceder que complace a Jehová</strong>, lo que implica un esfuerzo consciente de nuestra parte.",
-        "deepAnswer": "Tal como se explica en <em>w18.02</em> pág. 25 párrs. 12, cultivar el fruto del espíritu requiere <strong>un esfuerzo constante por aplicar los principios bíblicos en nuestra vida</strong>. Esto implica no solo oír la Palabra de Dios, sino también ponerla por obra, permitiendo que el espíritu santo nos guíe a pensar y actuar de acuerdo con la voluntad divina. Es una cooperación activa con Dios.<br>Esto requiere que pongamos en práctica lo que aprendemos de Jehová.",
+        "directAnswer": "Cultivamos este fruto adoptando un proceder que complace a Jehová, lo que implica un esfuerzo consciente de nuestra parte.",
+        "deepAnswer": "Tal como se explica en <em>w18.02</em> pág. 25 párrs. 12, cultivar el fruto del espíritu requiere un <strong>esfuerzo constante por aplicar los principios bíblicos</strong> en nuestra vida. Esto implica no solo oír la Palabra de Dios, sino también ponerla por obra, permitiendo que el espíritu santo nos guíe a pensar y actuar de acuerdo con la voluntad divina. Es una cooperación activa con Dios.<br><strong>Esto requiere que pongamos en práctica lo que aprendemos de Jehová.</strong>",
         "shortAnswer": "Aplicando los principios bíblicos y cooperando con el espíritu de Dios."
       },
       {
         "id": "11A_q19",
-        "question": "¿Qué tienes que hacer para permitir que el espíritu de Dios influya en ti? ¿Cuál será el resultado?",
+        "question": "¿Qué tienes que hacer para permitir que el espíritu de Dios influya en ti?",
         "references": "",
-        "directAnswer": "Para permitir que el espíritu de Dios influya en ti, debes <strong>pedirle a Jehová que te lo dé</strong> y luego <strong>esforzarte por aplicar sus consejos</strong>. El resultado será <strong>una vida más pacífica y satisfactoria</strong>, en la que actuemos como verdaderos siervos de Jehová.",
-        "deepAnswer": "Permitir que el espíritu de Dios obre en nosotros implica una decisión consciente de someter nuestra voluntad a la de Jehová. Esto se logra mediante la <strong>oración sincera, pidiéndole a Dios su espíritu</strong> (Lucas 11:13), y luego <strong>esforzándonos por aplicar sus consejos que encontramos en las Escrituras</strong> y en las publicaciones de la Sociedad Watch Tower. Es un proceso continuo de aprendizaje y adaptación.<br>Debes orar por el espíritu y aplicar sus consejos.<br>Cuando permitimos que el espíritu de Dios influya en nosotros, experimentamos una transformación positiva en nuestra personalidad y en nuestra forma de vida. El resultado es una <strong>paz interior, gozo duradero y un sentido de propósito</strong>, reflejando las cualidades divinas. Nos volvemos más útiles en la congregación y servimos a Jehová con un corazón que le agrada.<br>Verás una vida más pacífica y agradable a Jehová.",
-        "shortAnswer": "Adopta un proceder piadoso y ora por espíritu santo."
+        "directAnswer": "Para permitir que el espíritu de Dios influya en ti, debes pedirle a Jehová que te lo dé y luego esforzarte por aplicar sus consejos.",
+        "deepAnswer": "Permitir que el espíritu de Dios obre en nosotros implica una <strong>decisión consciente de someter nuestra voluntad a la de Jehová</strong>. Esto se logra mediante la oración sincera, pidiéndole a Dios su espíritu (Lucas 11:13), y luego <strong>esforzándonos por aplicar sus consejos</strong> que encontramos en las Escrituras y en las publicaciones de la Sociedad Watch Tower. Es un proceso continuo de aprendizaje y adaptación.<br><strong>Debes orar por el espíritu y aplicar sus consejos.</strong>",
+        "shortAnswer": "Ora por el espíritu y aplica sus consejos en tu vida."
       },
       {
         "id": "11A_q20",
-        "question": "Según Gálatas 5:19-21, ¿qué cosas pueden impedirte crecer en sentido espiritual?",
-        "references": "Gál. 5:19-21",
-        "directAnswer": "Según Gálatas 5:19-21, <strong>las “obras de la carne” o los deseos pecaminosos</strong> impiden nuestro crecimiento espiritual.",
-        "deepAnswer": "Gálatas 5:19-21 enumera una serie de “obras de la carne” que son incompatibles con la vida espiritual. Estas incluyen inmoralidad sexual, odio, envidia, celos y borracheras, entre otras. Estas prácticas no solo desagradan a Jehová, sino que también empañan nuestra relación con Él y con nuestros hermanos. Para crecer espiritualmente, debemos “dejar de vivir en la carne” y seguir andando por el espíritu.<br>Las obras pecaminosas te impiden crecer espiritualmente.",
-        "shortAnswer": "Las obras pecaminosas impiden el crecimiento espiritual."
+        "question": "¿Cuál será el resultado?",
+        "references": "",
+        "directAnswer": "El resultado será una vida más pacífica y satisfactoria, en la que actuemos como verdaderos siervos de Jehová.",
+        "deepAnswer": "Cuando permitimos que el espíritu de Dios influya en nosotros, experimentamos una <strong>transformación positiva en nuestra personalidad y en nuestra forma de vida</strong>. El resultado es una paz interior, gozo duradero y un sentido de propósito, reflejando las cualidades divinas. Nos volvemos más útiles en la congregación y servimos a Jehová con un corazón que le agrada.<br><strong>Verás una vida más pacífica y agradable a Jehová.</strong>",
+        "shortAnswer": "Una vida más pacífica y agradable a Jehová."
       },
       {
         "id": "11A_q21",
-        "question": "¿Cómo podría afectar la envidia a tu progreso espiritual? (Gál. 6:3, 4).",
-        "references": "Gál. 6:3, 4",
-        "directAnswer": "La envidia <strong>nos lleva a desear lo que otros tienen, impidiendo que apreciemos nuestras bendiciones y nos concentremos en las cosas espirituales</strong>.",
-        "deepAnswer": "La envidia, como se detalla en Gálatas 6:3, 4, es una obra de la carne que nos ciega a nuestras propias bendiciones y nos impulsa a compararnos negativamente con los demás. Una persona espiritual, en lugar de envidiar, se enfoca en honrar a Jehová con lo que tiene y aprecia el progreso de sus hermanos. La envidia, por otro lado, es una muestra de una mentalidad física, centrada en lo material o en los logros ajenos.<br><strong>La envidia te impide apreciar tus bendiciones y enfocarte en Jehová</strong>.",
-        "shortAnswer": "La envidia te impide apreciar tus bendiciones y enfocarte en Jehová."
+        "question": "Según Gálatas 5:19-21, ¿qué cosas pueden impedirte crecer en sentido espiritual?",
+        "references": "Gál. 5:19-21",
+        "directAnswer": "Según Gálatas 5:19-21, las “obras de la carne” o los deseos pecaminosos impiden nuestro crecimiento espiritual.",
+        "deepAnswer": "Gálatas 5:19-21 enumera una serie de “obras de la carne” que son incompatibles con la vida espiritual. Estas incluyen inmoralidad sexual, odio, envidia, celos y borracheras, entre otras. <strong>Estas prácticas no solo desagradan a Jehová, sino que también empañan nuestra relación con Él y con nuestros hermanos</strong>. Para crecer espiritualmente, debemos “dejar de vivir en la carne” y <strong>seguir andando por el espíritu</strong>.<br><strong>Las obras pecaminosas te impiden crecer espiritualmente.</strong>",
+        "shortAnswer": "Las obras pecaminosas impiden el crecimiento espiritual."
       },
       {
         "id": "11A_q22",
-        "question": "En los siguientes campos y situaciones, compara lo que haría una persona espiritual con lo que haría una persona física. La oración: ¿Cómo revelan nuestras oraciones si somos personas espirituales o físicas?",
-        "references": "",
-        "directAnswer": "Nuestras oraciones revelan si somos personas espirituales o físicas <strong>según los temas que abordamos y la sinceridad de nuestro corazón</strong>.",
-        "deepAnswer": "Nuestras oraciones son un espejo de nuestro corazón y de nuestra espiritualidad. Si somos personas espirituales, nuestras oraciones estarán llenas de gratitud hacia Jehová, peticiones por su guía y la búsqueda de su Reino. Por el contrario, si somos personas físicas, nuestras oraciones tenderán a centrarse en nuestras necesidades materiales, deseos egoístas o metas mundanas, mostrando una falta de enfoque espiritual.<br><strong>Nuestras oraciones muestran si nos enfocamos en Jehová o en nosotros mismos</strong>.",
-        "shortAnswer": "Nuestras oraciones muestran si nos enfocamos en Jehová o en nosotros mismos.",
-        "subtitle": "La oración"
+        "question": "¿Cómo podría afectar la envidia a tu progreso espiritual? (Gál. 6:3, 4).",
+        "references": "Gál. 6:3, 4",
+        "directAnswer": "La envidia nos lleva a desear lo que otros tienen, impidiendo que apreciemos nuestras bendiciones y nos concentremos en las cosas espirituales.",
+        "deepAnswer": "La envidia, como se detalla en Gálatas 6:3, 4, es una obra de la carne que <strong>nos ciega a nuestras propias bendiciones y nos impulsa a compararnos negativamente con los demás</strong>. Una persona espiritual, en lugar de envidiar, se enfoca en honrar a Jehová con lo que tiene y aprecia el progreso de sus hermanos. La envidia, por otro lado, es una muestra de una mentalidad física, centrada en lo material o en los logros ajenos.<br><strong>La envidia te impide apreciar tus bendiciones y enfocarte en Jehová.</strong>",
+        "shortAnswer": "La envidia te impide apreciar tus bendiciones y enfocarte en Jehová."
       },
       {
         "id": "11A_q23",
-        "question": "¿Por qué es Jehová —su grandeza, su nombre y su gloria— lo que más le importa a una persona espiritual? (Dan. 9:4; Juan 17:4, 6).",
-        "references": "Dan. 9:4; Juan 17:4, 6",
-        "directAnswer": "<strong>A una persona espiritual le importa más la grandeza, el nombre y la gloria de Jehová que sus propias necesidades o deseos</strong>.",
-        "deepAnswer": "Para una persona espiritual, la honra del nombre de Jehová es de suma importancia, como lo demuestra Daniel 9:4 y Juan 17:4, 6. Sus oraciones se centran en la santificación del nombre de Dios y en la vindicación de Su soberanía. Incluirían oraciones como las que se encuentran en Salmo 51:10-12 (pidiendo un corazón puro), Salmo 122:6, 8 (por la paz de Jerusalén espiritual) y las peticiones por el Reino de Dios (Lucas 11:2), buscando siempre la voluntad divina, y pidiendo sabiduría a Jehová como en Santiago 1:5.<br><strong>Una persona espiritual ora por la honra del nombre de Jehová y su Reino</strong>.",
-        "shortAnswer": "Ora por la honra del nombre de Jehová y su Reino."
+        "question": "¿Cómo revelan nuestras oraciones si somos personas espirituales o físicas?",
+        "references": "",
+        "subtitle": "La oración",
+        "directAnswer": "Nuestras oraciones revelan si somos personas espirituales o físicas según los temas que abordamos y la sinceridad de nuestro corazón.",
+        "deepAnswer": "Nuestras oraciones son un espejo de nuestro corazón y de nuestra espiritualidad. Si somos personas espirituales, <strong>nuestras oraciones estarán llenas de gratitud hacia Jehová, peticiones por su guía y la búsqueda de su Reino</strong>. Por el contrario, si somos personas físicas, nuestras oraciones tenderán a centrarse en nuestras necesidades materiales, deseos egoístas o metas mundanas, mostrando una falta de enfoque espiritual.<br><strong>Nuestras oraciones muestran si nos enfocamos en Jehová o en nosotros mismos.</strong>",
+        "shortAnswer": "Nuestras oraciones muestran si nos enfocamos en Jehová o en nosotros mismos."
       },
       {
         "id": "11A_q24",
-        "question": "Di algunas cosas que una persona espiritual incluiría en sus oraciones (Sal. 51:10-12; 122:6, 8; Luc. 11:4, 13; Sant. 1:5).",
-        "references": "Sal. 51:10-12; 122:6, 8; Luc. 11:4, 13; Sant. 1:5",
-        "directAnswer": "<strong>Una persona espiritual incluye en sus oraciones el ruego por un corazón limpio, la paz de la congregación, espíritu santo, sabiduría y el perdón de pecados.</strong>",
-        "deepAnswer": "Al orar por estas cosas, demostramos que valoramos las cualidades que nos acercan a Jehová. Como indica Santiago 1:5, pedir sabiduría es una muestra de humildad. Pedir por la congregación refleja amor desinteresado, y rogar por un corazón puro (Sal. 51:10) demuestra nuestro deseo de mantener la limpieza espiritual.",
-        "shortAnswer": "Ora por un corazón limpio, sabiduría, espíritu santo y el bienestar de los hermanos."
+        "question": "¿Por qué es Jehová —su grandeza, su nombre y su gloria— lo que más le importa a una persona espiritual? (Dan. 9:4; Juan 17:4, 6).",
+        "references": "Dan. 9:4; Juan 17:4, 6",
+        "directAnswer": "A una persona espiritual le importa más la grandeza, el nombre y la gloria de Jehová que sus propias necesidades o deseos.",
+        "deepAnswer": "Para una persona espiritual, <strong>la honra del nombre de Jehová es de suma importancia</strong>, como lo demuestra Daniel 9:4 y Juan 17:4, 6. Sus oraciones se centran en la santificación del nombre de Dios y en la vindicación de Su soberanía. Incluirían oraciones como las que se encuentran en Salmo 51:10-12 (pidiendo un corazón puro), Salmo 122:6, 8 (por la paz de Jerusalén espiritual) y las peticiones por el Reino de Dios (Lucas 11:2), buscando siempre la voluntad divina, y pidiendo sabiduría a Jehová como en Santiago 1:5.<br><strong>Una persona espiritual ora por la honra del nombre de Jehová y su Reino.</strong>",
+        "shortAnswer": "Ora por la honra del nombre de Jehová y su Reino."
       },
       {
         "id": "11A_q25",
-        "question": "¿Por qué no está mal pedir por nuestras necesidades físicas? (Mat. 6:11).",
-        "references": "Mat. 6:11",
-        "directAnswer": "No está mal porque <strong>al pedir por el sustento diario reconocemos con humildad que dependemos por completo de Jehová, nuestro amoroso Creador y Proveedor.</strong>",
-        "deepAnswer": "Cuando incluimos nuestras necesidades físicas en la oración, tal como Jesús enseñó en Mateo 6:11 al decir 'danos hoy nuestro pan para este día', <strong>demostramos que confiamos plenamente en que Jehová sostendrá nuestras vidas.</strong> Esta petición no refleja un deseo egoísta de acumular riquezas, sino el anhelo de tener lo necesario para seguir sirviendo fielmente a Dios día a día. Además, <strong>nos ayuda a cultivar un ojo sencillo y a combatir la ansiedad, sabiendo que nuestro tierno Padre celestial conoce al detalle cada una de nuestras necesidades.</strong>",
-        "shortAnswer": "Pedir por nuestras necesidades físicas demuestra humildad y una confianza diaria en la guía y el sustento de Jehová."
+        "question": "Di algunas cosas que una persona espiritual incluiría en sus oraciones (Sal. 51:10-12; 122:6, 8; Luc. 11:4, 13; Sant. 1:5).",
+        "references": "Sal. 51:10-12; 122:6, 8; Luc. 11:4, 13; Sant. 1:5",
+        "directAnswer": "Una persona espiritual incluiría en sus oraciones peticiones por <strong>un corazón limpio (Sal. 51:10), la paz del pueblo de Dios (Sal. 122:6), más espíritu santo (Luc. 11:13) y sabiduría para afrontar pruebas (Sant. 1:5)</strong>.",
+        "deepAnswer": "Nuestras oraciones reflejan la profundidad de nuestra espiritualidad. Al pedir por cosas espirituales de forma sincera, demostramos que confiamos en Jehová y deseamos agradarle en todo aspecto, yendo más allá de las meras necesidades físicas o materiales diarias.",
+        "shortAnswer": "Peticiones de espíritu santo, sabiduría, un corazón puro y la paz de la congregación."
       },
       {
         "id": "11A_q26",
-        "question": "Además de orar en las comidas y en las reuniones, ¿en qué otros momentos ora la persona espiritual? (1 Tes. 5:17).",
-        "references": "1 Tes. 5:17",
-        "directAnswer": "<strong>La persona espiritual ora en todo momento del día: antes de tomar decisiones, al afrontar desánimo o tentaciones, y para expresar constante gratitud a Jehová.</strong>",
-        "deepAnswer": "En armonía con la exhortación de 1 Tesalonicenses 5:17 de 'orar constantemente', la persona espiritual no limita su comunicación con Dios a los momentos formales. <strong>Busca la guía de Jehová de manera espontánea al iniciar su jornada en el servicio, ante una situación difícil en la predicación, al meditar en las Escrituras o al contemplar la creación.</strong> Esta estrecha relación de comunicación revela que ve a Jehová como un Padre real y muy cercano, con quien desea compartir cada detalle de su vida.",
-        "shortAnswer": "La persona espiritual mantiene una comunicación constante y sincera con su Padre celestial durante todo el día."
+        "question": "¿Por qué no está mal pedir por nuestras necesidades físicas? (Mat. 6:11).",
+        "references": "Mat. 6:11",
+        "directAnswer": "No está mal porque al pedir por el sustento diario reconocemos con humildad que dependemos por completo de Jehová, nuestro amoroso Creador y Proveedor.",
+        "deepAnswer": "Cuando incluimos nuestras necesidades físicas en la oración, tal como Jesús enseñó en <strong>Mateo 6:11</strong> al decir 'danos hoy nuestro pan para este día', demostramos que confiamos plenamente en que Jehová sostendrá nuestras vidas. Esta petición no refleja un deseo egoísta de acumular riquezas, sino el anhelo de tener lo necesario para seguir sirviendo fielmente a Dios día a día. Además, nos ayuda a cultivar un ojo sencillo y a combatir la ansiedad, sabiendo que nuestro tierno Padre celestial conoce al detalle cada una de nuestras necesidades.",
+        "shortAnswer": "Pedir por nuestras necesidades físicas demuestra humildad y una confianza diaria en la guía y el sustento de Jehová."
       },
       {
         "id": "11A_q27",
-        "question": "¿Cómo demuestran los hábitos de estudio de una persona física que se deja llevar por sus deseos?",
-        "references": "",
-        "directAnswer": "<strong>La persona física demuestra que se deja llevar por sus deseos al descuidar el estudio personal, prefiriendo siempre el entretenimiento y el ocio antes que el alimento espiritual.</strong>",
-        "deepAnswer": "Los hábitos de estudio de la persona física revelan una clara falta de aprecio por las cosas profundas de Dios. Solo estudia por encima o de manera intermitente, quizás únicamente para prepararse de forma superficial para las reuniones por simple compromiso o costumbre. Al permitir que la pereza mental o las distracciones de este sistema desplacen la lectura de la Biblia, <strong>demuestra que prefiere alimentar los deseos de la carne en lugar de fortalecer su fe y su relación con Jehová.</strong>",
-        "shortAnswer": "La persona física relega el estudio personal a un segundo plano para dar prioridad a los deseos de la carne y al entretenimiento.",
-        "subtitle": "Los hábitos de estudio"
+        "question": "Además de orar en las comidas y en las reuniones, ¿en qué otros momentos ora la persona espiritual? (1 Tes. 5:17).",
+        "references": "1 Tes. 5:17",
+        "directAnswer": "La persona espiritual ora en todo momento del día: antes de tomar decisiones, al afrontar desánimo o tentaciones, y para expresar constante gratitud a Jehová.",
+        "deepAnswer": "En armonía con la exhortación de <strong>1 Tesalonicenses 5:17</strong> de 'orar constantemente', la persona espiritual no limita su comunicación con Dios a los momentos formales. Busca la guía de Jehová de manera espontánea al iniciar su jornada en el servicio, ante una situación difícil en la predicación, al meditar en las Escrituras o al contemplar la creación. Esta estrecha relación de comunicación revela que ve a Jehová como un Padre real y muy cercano, con quien desea compartir cada detalle de su vida.",
+        "shortAnswer": "La persona espiritual mantiene una comunicación constante y sincera con su Padre celestial durante todo el día."
       },
       {
         "id": "11A_q28",
-        "question": "¿Cómo puede ayudarnos seguir un buen programa de estudio a controlar los deseos de la carne?",
+        "question": "¿Cómo demuestran los hábitos de estudio de una persona física que se deja llevar por sus deseos?",
         "references": "",
-        "directAnswer": "<strong>Un buen programa de estudio llena nuestra mente con los pensamientos de Jehová, lo que fortalece nuestro hombre interior para resistir y apagar los deseos de la carne.</strong>",
-        "deepAnswer": "Tener un programa sólido de estudio personal actúa como un escudo protector para nuestra mente y corazón. Al meditar regularmente en la Palabra de Dios y en las publicaciones del esclavo fiel, el espíritu santo influye en nuestros pensamientos, ayudándonos a cultivar el odio por lo malo y el amor por lo que es puro. <strong>Esta rutina espiritual nos da las fuerzas necesarias para 'amortiguar' los impulsos carnales y nos capacita para tomar decisiones que agraden a Jehová cuando se nos presenten tentaciones.</strong>",
-        "shortAnswer": "El estudio constante y profundo alimenta la mente con pensamientos divinos que desplazan y vencen los deseos carnales."
+        "subtitle": "Los hábitos de estudio",
+        "directAnswer": "La persona física demuestra que se deja llevar por sus deseos al descuidar el estudio personal, prefiriendo siempre el entretenimiento y el ocio antes que el alimento espiritual.",
+        "deepAnswer": "Los hábitos de estudio de la persona física revelan una clara falta de aprecio por las cosas profundas de Dios. Solo estudia por encima o de manera intermitente, quizás únicamente para prepararse de forma superficial para las reuniones por simple compromiso o costumbre. Al permitir que la pereza mental o las distracciones de este sistema desplacen la lectura de la Biblia, demuestra que prefiere alimentar los deseos de la carne en lugar de fortalecer su fe y su relación con Jehová.",
+        "shortAnswer": "La persona física relega el estudio personal a un segundo plano para dar prioridad a los deseos de la carne y al entretenimiento."
       },
       {
         "id": "11A_q29",
-        "question": "¿Qué cosas sobre la predicación son importantes para la persona espiritual? (Ezeq. 33:11; Mat. 22:37-39; Juan 17:6; 1 Tim. 4:16).",
-        "references": "Ezeq. 33:11; Mat. 22:37-39; Juan 17:6; 1 Tim. 4:16",
-        "directAnswer": "Para la persona espiritual, <strong>el ministerio es una obra urgente motivada por el amor a Jehová, el deseo de santificar su nombre y el amor sincero al prójimo.</strong>",
-        "deepAnswer": "La persona espiritual comprende que predicar no es solo cumplir con un requisito, sino una valiosa oportunidad de imitar la compasión de Jehová por la humanidad, como indica Ezequiel 33:11. <strong>Se siente impulsada por los dos mandamientos más importantes: amar a Dios con todo el corazón y al prójimo como a sí misma</strong> (Mat. 22:37-39). Además, considera un grandioso honor dar a conocer el nombre del Padre (Juan 17:6) y vigila constantemente su enseñanza para salvarse a sí misma y a quienes la escuchan (1 Tim. 4:16).",
-        "shortAnswer": "La persona espiritual ve la predicación como una expresión de amor leal que santifica el nombre de Dios y salva vidas.",
-        "subtitle": "El ministerio"
+        "question": "¿Cómo puede ayudarnos seguir un buen programa de estudio a controlar los deseos de la carne?",
+        "references": "",
+        "directAnswer": "Un buen programa de estudio llena nuestra mente con los pensamientos de Jehová, lo que fortalece nuestro hombre interior para resistir y apagar los deseos de la carne.",
+        "deepAnswer": "Tener un programa sólido de estudio personal actúa como un escudo protector para nuestra mente y corazón. Al meditar regularmente en la Palabra de Dios y en las publicaciones del esclavo fiel, el espíritu santo influye en nuestros pensamientos, ayudándonos a cultivar el odio por lo malo y el amor por lo que es puro. Esta rutina espiritual nos da las fuerzas necesarias para 'amortiguar' los impulsos carnales y nos capacita para tomar decisiones que agraden a Jehová cuando se nos presenten tentaciones.",
+        "shortAnswer": "El estudio constante y profundo alimenta la mente con pensamientos divinos que desplazan y vencen los deseos carnales."
       },
       {
         "id": "11A_q30",
-        "question": "¿En qué piensa y de qué habla la persona espiritual durante la predicación? (Filip. 4:8).",
-        "references": "Filip. 4:8",
-        "directAnswer": "<strong>Durante la predicación, la persona espiritual piensa y habla de temas edificantes, positivos y bíblicos que animen a sus compañeros de servicio.</strong>",
-        "deepAnswer": "De acuerdo con el sabio consejo de Filipenses 4:8, <strong>la persona espiritual se esfuerza por mantener una actitud sumamente positiva en el ministerio del campo.</strong> En lugar de quejarse por el clima, el territorio o los problemas personales, <strong>prefiere conversar sobre experiencias animadoras, puntos bíblicos interesantes o las hermosas cualidades de Jehová.</strong> Este hábito tan saludable no solo alegra el trayecto, sino que también contribuye a que el espíritu santo bendiga la actividad del grupo y fortalezca la fe de su compañero.",
-        "shortAnswer": "La persona espiritual edifica a sus compañeros de predicación hablando siempre de cosas positivas, amables y dignas de alabanza."
+        "question": "¿Qué cosas sobre la predicación son importantes para la persona espiritual? (Ezeq. 33:11; Mat. 22:37-39; Juan 17:6; 1 Tim. 4:16).",
+        "references": "Ezeq. 33:11; Mat. 22:37-39; Juan 17:6; 1 Tim. 4:16",
+        "subtitle": "El ministerio",
+        "directAnswer": "Para la persona espiritual, el ministerio es una obra urgente motivada por el amor a Jehová, el deseo de santificar su nombre y el amor sincero al prójimo.",
+        "deepAnswer": "La persona espiritual comprende que predicar no es solo cumplir con un requisito, sino una valiosa oportunidad de imitar la compasión de Jehová por la humanidad, como indica <strong>Ezequiel 33:11</strong>. Se siente impulsada por los dos mandamientos más importantes: amar a Dios con todo el corazón y al prójimo como a sí misma (<strong>Mat. 22:37-39</strong>). Además, considera un grandioso honor dar a conocer el nombre del Padre (<strong>Juan 17:6</strong>) y vigila constantemente su enseñanza para salvarse a sí misma y a quienes la escuchan (<strong>1 Tim. 4:16</strong>).",
+        "shortAnswer": "La persona espiritual ve la predicación como una expresión de amor leal que santifica el nombre de Dios y salva vidas."
       },
       {
         "id": "11A_q31",
-        "question": "¿Qué actitud o comportamiento en las reuniones podría indicar que alguien es una persona física?",
-        "references": "",
-        "directAnswer": "<strong>La falta de preparación, llegar tarde habitualmente sin motivo real, distraerse con facilidad o no comentar reflejan la actitud de una persona física en las reuniones.</strong>",
-        "deepAnswer": "La persona física suele ver las reuniones de la congregación simplemente como un deber social o una rutina aburrida. Esto se evidencia cuando asiste con regularidad inestable, se distrae constantemente con su teléfono móvil o permite que el cansancio domine su atención sin luchar por mantenerse alerta. <strong>Al no prepararse con antelación ni participar activamente con comentarios, demuestra que no valora el generoso banquete espiritual que Jehová nos prepara con tanto amor cada semana.</strong>",
-        "shortAnswer": "La apatía, la falta de preparación y las distracciones en las reuniones revelan que la persona se deja guiar por una mentalidad carnal.",
-        "subtitle": "Las reuniones"
+        "question": "¿En qué piensa y de qué habla la persona espiritual durante la predicación? (Filip. 4:8).",
+        "references": "Filip. 4:8",
+        "directAnswer": "Durante la predicación, la persona espiritual piensa y habla de temas edificantes, positivos y bíblicos que animen a sus compañeros de servicio.",
+        "deepAnswer": "De acuerdo con el sabio consejo de <strong>Filipenses 4:8</strong>, la persona espiritual se esfuerza por mantener una actitud sumamente positiva en el ministerio del campo. En lugar de quejarse por el clima, el territorio o los problemas personales, prefiere conversar sobre experiencias animadoras, puntos bíblicos interesantes o las hermosas cualidades de Jehová. Este hábito tan saludable no solo alegra el trayecto, sino que también contribuye a que el espíritu santo bendiga la actividad del grupo y fortalezca la fe de su compañero.",
+        "shortAnswer": "La persona espiritual edifica a sus compañeros de predicación hablando siempre de cosas positivas, amables y dignas de alabanza."
       },
       {
         "id": "11A_q32",
-        "question": "¿Qué piensa la persona espiritual de participar en las reuniones?",
+        "question": "¿Qué actitud o comportamiento en las reuniones podría indicar que alguien es una persona física?",
         "references": "",
-        "directAnswer": "<strong>La persona espiritual considera que asistir y participar en las reuniones es un gran privilegio, una vía para alabar a Jehová y animar con cariño a sus hermanos.</strong>",
-        "deepAnswer": "Para el cristiano con mentalidad espiritual, las reuniones son citas ineludibles de carácter sagrado. <strong>Ve la oportunidad de comentar y realizar asignaciones como un 'sacrificio de alabanza' que ofrece con gozo directamente a Jehová.</strong> <strong>Se prepara con entusiasmo para cada sección del programa con el objetivo sincero de 'incitar al amor y a las buenas obras'</strong>, sabiendo que su participación activa edifica la fe de toda la congregación y fortalece la unidad teocrática.",
-        "shortAnswer": "Para la persona espiritual, participar en las reuniones es una valiosa oportunidad de adorar a Jehová y fortalecer la fe de la congregación."
+        "subtitle": "Las reuniones",
+        "directAnswer": "La falta de preparación, llegar tarde habitualmente sin motivo real, distraerse con facilidad o no comentar reflejan la actitud de una persona física en las reuniones.",
+        "deepAnswer": "La persona física suele ver las reuniones de la congregación simplemente como un deber social o una rutina aburrida. Esto se evidencia cuando asiste con regularidad inestable, se distrae constantemente con su teléfono móvil o permite que el cansancio domine su atención sin luchar por mantenerse alerta. Al no prepararse con antelación ni participar activamente con comentarios, demuestra que no valora el generoso banquete espiritual que Jehová nos prepara con tanto amor cada semana.",
+        "shortAnswer": "La apatía, la falta de preparación y las distracciones en las reuniones revelan que la persona se deja guiar por una mentalidad carnal."
       },
       {
         "id": "11A_q33",
-        "question": "¿Por qué piensa la persona espiritual que su forma de arreglarse siempre es importante, ya sea cuando participa en actividades espirituales o en cualquier otro momento? (1 Cor. 10:31; Tito 2:10).",
-        "references": "1 Cor. 10:31; Tito 2:10",
-        "directAnswer": "Porque <strong>comprende que es un testigo de Jehová en todo momento, y desea que su apariencia personal siempre honre al Creador y adore sus enseñanzas.</strong>",
-        "deepAnswer": "<strong>La persona espiritual tiene muy claro que su conducta y arreglo personal representan a Jehová las 24 horas del día.</strong> Basándose en el principio de 1 Corintios 10:31, se esfuerza por hacer todas las cosas para la gloria de Dios, incluso en sus momentos de ocio o al realizar compras cotidianas. <strong>Reconoce que mantener una apariencia limpia, ordenada y digna sirve para 'adornar la enseñanza de nuestro Salvador'</strong>, tal como destaca Tito 2:10, evitando así dar motivos de tropiezo a quienes observan su conducta.",
-        "shortAnswer": "Nuestra apariencia diaria debe reflejar siempre respeto por las normas de Jehová, siendo un testimonio silencioso de nuestra fe.",
-        "subtitle": "La manera de vestirse y arreglarse"
+        "question": "¿Qué piensa la persona espiritual de participar en las reuniones?",
+        "references": "",
+        "directAnswer": "La persona espiritual considera que asistir y participar en las reuniones es un gran privilegio, una vía para alabar a Jehová y animar con cariño a sus hermanos.",
+        "deepAnswer": "Para el cristiano con mentalidad espiritual, las reuniones son citas ineludibles de carácter sagrado. Ve la oportunidad de comentar y realizar asignaciones como un 'sacrificio de alabanza' que ofrece con gozo directamente a Jehová. Se prepara con entusiasmo para cada sección del programa con el objetivo sincero de 'incitar al amor y a las buenas obras', sabiendo que su participación activa edifica la fe de toda la congregación y fortalece la unidad teocrática.",
+        "shortAnswer": "Para la persona espiritual, participar en las reuniones es una valiosa oportunidad de adorar a Jehová y fortalecer la fe de la congregación."
       },
       {
         "id": "11A_q34",
-        "question": "¿Qué principios te ayudarán a saber cómo vestirse para salir a predicar? (od pág. 134 párr. 12).",
-        "references": "od pág. 134 párr. 12",
-        "directAnswer": "<strong>Nos guían los principios bíblicos de dignidad, decencia y respeto.</strong> <strong>Vestirse con ropa apropiada, modestia y buen juicio asegura que nuestra apariencia no distraiga del mensaje del Reino.</strong>",
-        "deepAnswer": "Siguiendo las pautas de 1 Timoteo 2:9, 10 y las instrucciones del libro <em>Organizados</em>, nuestro arreglo debe ensalzar el ministerio. <br>a) <strong>\"Ropa apropiada\" se refiere a vestir de forma digna, limpia y adecuada para la actividad sagrada que realizamos, respetando el entorno teocrático.</strong> <br>b) <strong>La \"modestia\" nos ayuda a evitar estilos de vestir que sean provocativos, extravagantes o que llamen la atención de manera egocéntrica, mostrando consideración por Jehová y por los demás.</strong> <br>c) <strong>El \"buen juicio\" es la capacidad de discernir lo que es prudente y de buen gusto, evitando modas extremas, desaliñadas o rebeldes que caracterizan al mundo alejado de Dios.</strong>",
-        "shortAnswer": "La ropa apropiada, la modestia y el buen juicio garantizan que nuestro arreglo personal dignifique a Jehová y nuestro sagrado ministerio."
+        "question": "¿Por qué piensa la persona espiritual que su forma de arreglarse siempre es importante, ya sea cuando participa en actividades espirituales o en cualquier otro momento? (1 Cor. 10:31; Tito 2:10).",
+        "references": "1 Cor. 10:31; Tito 2:10",
+        "subtitle": "La manera de vestirse y arreglarse",
+        "directAnswer": "Porque comprende que es un testigo de Jehová en todo momento, y desea que su apariencia personal siempre honre al Creador y adore sus enseñanzas.",
+        "deepAnswer": "La persona espiritual tiene muy claro que su conducta y arreglo personal representan a Jehová las 24 horas del día. Basándose en el principio de <strong>1 Corintios 10:31</strong>, se esfuerza por hacer todas las cosas para la gloria de Dios, incluso en sus momentos de ocio o al realizar compras cotidianas. Reconoce que mantener una apariencia limpia, ordenada y digna sirve para 'adornar la enseñanza de nuestro Salvador', tal como destaca <strong>Tito 2:10</strong>, evitando así dar motivos de tropiezo a quienes observan su conducta.",
+        "shortAnswer": "Nuestra apariencia diaria debe reflejar siempre respeto por las normas de Jehová, siendo un testimonio silencioso de nuestra fe."
       },
       {
         "id": "11A_q35",
-        "question": "Explica lo que significan estas expresiones: a) “ropa apropiada”; b) “modestia”; c) “buen juicio” (1 Tim. 2:9, 10).",
-        "references": "1 Tim. 2:9, 10",
-        "directAnswer": "<strong>a) Ropa apropiada: digna y limpia; b) Modestia: que respete a otros y no llame la atención; c) Buen juicio: vestirse según la ocasión y con sentido común.</strong>",
-        "deepAnswer": "Estas expresiones de 1 Timoteo 2:9, 10 nos ayudan a honrar a Dios. La <strong>ropa apropiada</strong> demuestra respeto por nuestro Creador y nuestro ministerio. La <strong>modestia</strong> nos impide vestirnos de manera provocativa o extravagante para atraer la atención. El <strong>buen juicio</strong> implica que evitemos modas extremas o inapropiadas para la predicación, vistiendo con decoro y sobriedad.",
-        "shortAnswer": "Ropa limpia, modesta y digna de un ministro de Dios."
+        "question": "¿Qué principios te ayudarán a saber cómo vestir de forma apropiada y con buen juicio para el ministerio? (od pág. 134 párr. 12; 1 Tim. 2:9, 10).",
+        "references": "od pág. 134 párr. 12; 1 Tim. 2:9, 10",
+        "directAnswer": "Nos guían los principios bíblicos de <strong>dignidad, decencia, modestia y buen juicio</strong>. Vestirse con ropa limpia, apropiada y sin llamar la atención de manera inapropiada honra el ministerio.",
+        "deepAnswer": "Siguiendo las pautas de 1 Timoteo 2:9, 10 y las instrucciones del libro *Organizados*, nuestro arreglo debe ensalzar el mensaje. Esto significa vestirnos de forma limpia, digna y decorosa para el ministerio público, evitando modas extravagantes que desvíen la atención de la verdad.",
+        "shortAnswer": "Principios de modestia, decencia, dignidad y respeto."
       },
       {
         "id": "11A_q36",
         "question": "¿Por qué debe estar limpio y en buen estado todo lo que usas en la predicación? (1 Cor. 14:33; Tito 2:10).",
         "references": "1 Cor. 14:33; Tito 2:10",
-        "directAnswer": "<strong>Nuestros artículos de predicación deben estar limpios y ordenados porque representamos a Jehová, un Dios de orden y limpieza.</strong>",
-        "deepAnswer": "Como indica 1 Corintios 14:33, Dios no es un Dios de desorden, y nuestra apariencia y herramientas reflejan esa cualidad. Además, al mantener nuestras publicaciones y accesorios en buen estado, <em>'adornamos la enseñanza de nuestro Salvador'</em>, tal como dice Tito 2:10, haciendo que nuestro mensaje sea más atractivo y digno de respeto para las personas del territorio.",
+        "directAnswer": "Nuestros artículos de predicación deben estar limpios y ordenados porque representamos a Jehová, un Dios de orden y limpieza.",
+        "deepAnswer": "Como indica <strong>1 Corintios 14:33</strong>, Dios no es un Dios de desorden, y nuestra apariencia y herramientas reflejan esa cualidad. Además, al mantener nuestras publicaciones y accesorios en buen estado, <em>'adornamos la enseñanza de nuestro Salvador'</em>, tal como dice <strong>Tito 2:10</strong>, haciendo que nuestro mensaje sea más atractivo y digno de respeto para las personas del territorio.",
         "shortAnswer": "Reflejamos la santidad de Jehová mediante nuestra apariencia y el cuidado de nuestras herramientas."
       },
       {
         "id": "11A_q37",
         "question": "Al tratar a su familia, ¿cómo demuestra una persona espiritual que ve las cosas como Jehová? (Efes. 5:21, 24, 25, 28; 6:1, 4; 1 Tim. 5:8; 1 Ped. 3:1, 2).",
         "references": "Efes. 5:21, 24, 25, 28; 6:1, 4; 1 Tim. 5:8; 1 Ped. 3:1, 2",
-        "directAnswer": "<strong>Una persona espiritual demuestra que ve las cosas como Jehová al cumplir con amor y humildad sus responsabilidades bíblicas dentro de la familia.</strong>",
-        "deepAnswer": "<strong>Quien es espiritual reconoce el principio de jefatura de Cristo y de los esposos, pero también valora la sujeción mutua</strong> (Efes. 5:21). <strong>El cabeza de familia imita a Cristo al amar a su esposa, y los hijos aprenden la obediencia al honrar a sus padres, mientras que todos se aseguran de proveer para los suyos para no negar la fe</strong> (1 Tim. 5:8). Al tratar a la familia con este espíritu, reflejamos la sabiduría de Jehová en cada hogar cristiano.",
-        "shortAnswer": "Cumpliendo con amor, respeto y obediencia los roles bíblicos asignados.",
-        "subtitle": "La familia"
+        "subtitle": "La familia",
+        "directAnswer": "Una persona espiritual demuestra que ve las cosas como Jehová al cumplir con amor y humildad sus responsabilidades bíblicas dentro de la familia.",
+        "deepAnswer": "Quien es espiritual reconoce el <strong>principio de jefatura</strong> de Cristo y de los esposos, pero también valora la sujeción mutua (Efes. 5:21). El cabeza de familia imita a Cristo al amar a su esposa, y los hijos aprenden la obediencia al honrar a sus padres, mientras que todos se aseguran de proveer para los suyos para no negar la fe (1 Tim. 5:8). Al tratar a la familia con este espíritu, reflejamos la sabiduría de Jehová en cada hogar cristiano.",
+        "shortAnswer": "Cumpliendo con amor, respeto y obediencia los roles bíblicos asignados."
       },
       {
         "id": "11A_q38",
         "question": "¿Cómo demuestran los precursores que respetan el principio de autoridad dentro de la familia?",
         "references": "",
-        "directAnswer": "<strong>Los precursores respetan la autoridad al apoyar las decisiones del cabeza de familia y fomentar un ambiente de cooperación y sujeción espiritual.</strong>",
-        "deepAnswer": "Aunque un precursor tenga muchas responsabilidades en la congregación, reconoce que su primera responsabilidad es su familia. <strong>Al cooperar con el cabeza de familia y evitar interferir en las decisiones familiares, el precursor muestra que valora el orden establecido por Jehová.</strong> Este respeto no es solo una norma externa, sino una actitud del corazón que mantiene la paz y la espiritualidad en el hogar.",
-        "shortAnswer": "Priorizando el orden y el apoyo a la jefatura familiar por encima de otras actividades."
+        "directAnswer": "Los precursores respetan la autoridad al <strong>apoyar las decisiones del cabeza de familia</strong> y colaborar de forma humilde en las tareas domésticas y espirituales del hogar.",
+        "deepAnswer": "Aunque un precursor tenga muchas responsabilidades en la congregación o pase mucho tiempo predicando, reconoce que su primera responsabilidad es familiar. Muestra consideración y sumisión teocrática a las pautas y decisiones del cabeza de familia, promoviendo la paz en el hogar.",
+        "shortAnswer": "Apoyando al cabeza de familia con humildad y cooperación."
       },
       {
         "id": "11A_q39",
         "question": "¿De qué suele hablar una persona espiritual? (Efes. 4:29).",
         "references": "Efes. 4:29",
-        "directAnswer": "<strong>Una persona espiritual suele hablar de cosas que edifican, animan y glorifican a Jehová.</strong>",
-        "deepAnswer": "En armonía con Efesios 4:29, <strong>la persona espiritual se esfuerza por evitar las 'palabras corrompidas' y busca decir solo lo que es bueno para edificar según sea necesario.</strong> <strong>Sus conversaciones giran en torno a la verdad, las experiencias del ministerio, las profecías bíblicas o expresiones de gratitud hacia nuestro Padre celestial</strong>, procurando que sus palabras impartan lo que es favorable a los oyentes.",
-        "shortAnswer": "Habla de cosas que edifican y comunican bondad inmerecida.",
-        "subtitle": "Las conversaciones"
+        "subtitle": "Las conversaciones",
+        "directAnswer": "Una persona espiritual suele hablar de cosas que edifican, animan y glorifican a Jehová.",
+        "deepAnswer": "En armonía con <strong>Efesios 4:29</strong>, la persona espiritual se esfuerza por evitar las 'palabras corrompidas' y busca decir solo lo que es bueno para edificar según sea necesario. Sus conversaciones giran en torno a la verdad, las experiencias del ministerio, las profecías bíblicas o expresiones de gratitud hacia nuestro Padre celestial, procurando que sus palabras impartan lo que es favorable a los oyentes.",
+        "shortAnswer": "Habla de cosas que edifican y comunican bondad inmerecida."
       },
       {
         "id": "11A_q40",
         "question": "¿Sobre qué te gusta conversar?",
         "references": "",
-        "directAnswer": "<strong>Como precursores, nuestro tema favorito debería ser las verdades bíblicas y la esperanza del Reino que nos apasiona.</strong>",
-        "deepAnswer": "Reflexionar sobre las maravillas de la creación de Jehová, el valor del rescate y nuestra esperanza futura es lo que debe llenar nuestro corazón. Cuando estas verdades nos deleitan, <strong>es natural que nuestras conversaciones se centren en cómo Jehová está cuidando de nosotros y cómo podemos ayudar a otros a conocerlo mejor.</strong> <strong>Conversar sobre metas espirituales siempre fortalecerá nuestra fe.</strong>",
+        "directAnswer": "Como precursores, nuestro tema favorito debería ser las verdades bíblicas y la esperanza del Reino que nos apasiona.",
+        "deepAnswer": "Reflexionar sobre las maravillas de la creación de Jehová, el valor del rescate y nuestra esperanza futura es lo que debe llenar nuestro corazón. Cuando estas verdades nos deleitan, es natural que nuestras conversaciones se centren en cómo Jehová está cuidando de nosotros y cómo podemos ayudar a otros a conocerlo mejor. Conversar sobre metas espirituales siempre fortalecerá nuestra fe.",
         "shortAnswer": "Disfruto conversando sobre las verdades de la Biblia y las bendiciones del Reino."
       },
       {
         "id": "11A_q41",
         "question": "Si ves que es necesario cambiar de tema, ¿cómo podrías desviar la conversación a un asunto espiritual?",
         "references": "",
-        "directAnswer": "<strong>Puedes desviar la conversación haciendo una pregunta amable o comentando un texto bíblico relacionado con el tema que se está tratando.</strong>",
-        "deepAnswer": "Es posible ser un 'pescador de hombres' en cualquier momento. Si la conversación toma un rumbo que no edifica, <strong>puedes decir: 'Eso que comentas me recuerda a lo que dice la Biblia respecto a...', o simplemente hacer una pregunta bien pensada como: '¿Alguna vez te has preguntado por qué existe tanto sufrimiento?'.</strong> Con tacto y suavidad, podemos encauzar el diálogo hacia temas que tengan un impacto positivo y espiritual.",
+        "directAnswer": "Puedes desviar la conversación haciendo una pregunta amable o comentando un texto bíblico relacionado con el tema que se está tratando.",
+        "deepAnswer": "Es posible ser un 'pescador de hombres' en cualquier momento. Si la conversación toma un rumbo que no edifica, puedes decir: 'Eso que comentas me recuerda a lo que dice la Biblia respecto a...', o simplemente hacer una pregunta bien pensada como: '¿Alguna vez te has preguntado por qué existe tanto sufrimiento?'. Con tacto y suavidad, podemos encauzar el diálogo hacia temas que tengan un impacto positivo y espiritual.",
         "shortAnswer": "Usa preguntas amables o comentarios bíblicos para redirigir el tema."
       },
       {
         "id": "11A_q42",
         "question": "¿Cómo puedes ser razonable y equilibrado cuando hablas con otros? (Ecl. 7:16).",
         "references": "Ecl. 7:16",
-        "directAnswer": "Podemos ser razonables y equilibrados al <strong>evitar ser justos en demasía, no imponiendo opiniones personales con rigidez y mostrando empatía</strong> hacia las limitaciones ajenas.",
-        "deepAnswer": "Eclesiastés 7:16 nos advierte que no seamos 'justos en demasía' ni nos mostremos sabios en exceso. Esto en el ministerio significa <strong>evitar una actitud dogmática, severa o de superioridad moral</strong>. Ser razonable implica escuchar con atención, adaptarnos a las circunstancias del amo de casa con tacto y suavidad, y centrarnos en las verdades de la Biblia en lugar de juzgar a las personas por sus costumbres o hábitos personales.",
-        "shortAnswer": "Evitar el dogmatismo y la rigidez moral, mostrando empatía y flexibilidad."
+        "directAnswer": "Ser razonable significa <strong>no exigir demasiado a los demás ni imponer nuestras preferencias personales</strong> o ser excesivamente severos en asuntos de opinión.",
+        "deepAnswer": "Como advierte Eclesiastés 7:16, no debemos ser 'justos en exceso'. En nuestras conversaciones, esto implica no juzgar con dureza las imperfecciones ajenas, aceptar opiniones distintas cuando no violan principios bíblicos y hablar siempre con apacibilidad y gracia.",
+        "shortAnswer": "No exijas perfección ni impongas tus opiniones personales."
       },
       {
         "id": "11A_q43",
         "question": "Cuando surgen desacuerdos sobre asuntos personales o de otro tipo, ¿cómo reacciona una persona espiritual y cómo reacciona una persona física? (Prov. 29:11; Gál. 5:19, 20, 22, 23).",
         "references": "Prov. 29:11; Gál. 5:19, 20, 22, 23",
-        "directAnswer": "Una persona física reacciona con <strong>ira, terquedad, orgullo y promueve divisiones</strong>. En cambio, una persona espiritual reacciona con <strong>autocontrol, apacibilidad, amor, buscando activamente la paz</strong> y la reconciliación.",
-        "deepAnswer": "Cuando surgen conflictos, Proverbios 29:11 aclara que 'el tonto da rienda suelta a su enojo, pero el sabio mantiene la calma'. La persona física actúa según las obras de la carne (Gál. 5:19, 20), manifestando arrebatos de ira, contiendas y divisiones egoístas. Por el contrario, la persona espiritual se deja guiar por el espíritu de Dios, reflejando el fruto del espíritu: <strong>paz, paciencia, apacibilidad y autocontrol</strong> (Gál. 5:22, 23), lo que le permite resolver los desacuerdos con humildad, preservando la unidad de la congregación.",
-        "shortAnswer": "La persona física se enoja y divide; la persona espiritual actúa con paz, paciencia y autocontrol.",
-        "subtitle": "Las diferencias de opinión"
+        "subtitle": "Las diferencias de opinión",
+        "directAnswer": "Una persona física reacciona con <strong>ira, terquedad, orgullo y división</strong>. En cambio, una persona espiritual reacciona con <strong>control, mansedumbre y paz</strong>, esforzándose por mantener la unidad y perdonar.",
+        "deepAnswer": "Cuando surgen conflictos, Proverbios 29:11 aclara que 'el tonto da rienda suelta a su enojo, pero el sabio mantiene la calma'. La persona física puede sucumbir a las obras de la carne como la ira o la discordia (Gál. 5:19, 20), mientras que la persona espiritual refleja el fruto del espíritu, mostrando amor, paciencia, apacibilidad y templanza para resolver el desacuerdo con paz.",
+        "shortAnswer": "La persona física se enoja y divide; la espiritual mantiene la calma y busca la paz."
       },
       {
         "id": "11A_q44",
         "question": "¿Qué espera Jehová que hagan las personas espirituales en esos casos? (Rom. 12:14, 17-21).",
         "references": "Rom. 12:14, 17-21",
-        "directAnswer": "<strong>Jehová espera que respondamos al mal con bien, buscando la paz y dejando la justicia en sus manos.</strong>",
-        "deepAnswer": "Según Romanos 12:14, 17-21, aunque nos traten mal, <strong>el cristiano verdadero debe bendecir a quienes lo persiguen y no devolver mal por mal.</strong> <strong>La persona espiritual se esfuerza por ser pacífica 'en cuanto dependa de ella' y vence la maldad con el bien.</strong> Al actuar así, no solo reflejamos el carácter de Jehová, sino que damos un testimonio poderoso de lo que significa ser un seguidor de Jesús.",
+        "directAnswer": "Jehová espera que respondamos al mal con bien, buscando la paz y dejando la justicia en sus manos.",
+        "deepAnswer": "Según <strong>Romanos 12:14, 17-21</strong>, aunque nos traten mal, el cristiano verdadero debe bendecir a quienes lo persiguen y no devolver mal por mal. La persona espiritual se esfuerza por ser pacífica 'en cuanto dependa de ella' y vence la maldad con el bien. Al actuar así, no solo reflejamos el carácter de Jehová, sino que damos un testimonio poderoso de lo que significa ser un seguidor de Jesús.",
         "shortAnswer": "Esperamos la justicia de Jehová y vencemos el mal con el bien."
       },
       {
         "id": "11A_q45",
         "question": "¿Cómo reacciona la persona espiritual cuando recibe un consejo? (Ecl. 7:9; Rom. 12:16).",
         "references": "Ecl. 7:9; Rom. 12:16",
-        "directAnswer": "<strong>La persona espiritual recibe el consejo con humildad, sin molestarse ni ponerse a la defensiva.</strong>",
-        "deepAnswer": "Como indica Eclesiastés 7:9, <strong>no debemos ser 'rápido en nuestro espíritu a ofendernos'.</strong> <strong>La persona sabia entiende que el consejo es una muestra del amor de Jehová y lo acepta para corregir su rumbo</strong> (Rom. 12:16). En lugar de buscar excusas, <strong>la persona espiritual agradece la guía y la aplica</strong>, viendo el consejo como una oportunidad valiosa para mejorar y ser más útil en el servicio de Jehová.",
-        "shortAnswer": "Recibimos el consejo con gratitud y humildad para mejorar nuestra espiritualidad.",
-        "subtitle": "Los consejos"
+        "subtitle": "Los consejos",
+        "directAnswer": "La persona espiritual recibe el consejo con humildad, sin molestarse ni ponerse a la defensiva.",
+        "deepAnswer": "Como indica <strong>Eclesiastés 7:9</strong>, no debemos ser 'rápido en nuestro espíritu a ofendernos'. La persona sabia entiende que el consejo es una muestra del amor de Jehová y lo acepta para corregir su rumbo (Rom. 12:16). En lugar de buscar excusas, la persona espiritual agradece la guía y la aplica, viendo el consejo como una oportunidad valiosa para mejorar y ser más útil en el servicio de Jehová.",
+        "shortAnswer": "Recibimos el consejo con gratitud y humildad para mejorar nuestra espiritualidad."
       },
       {
         "id": "11A_q46",
         "question": "¿Qué harás si te parece que lo que te han dicho está fuera de lugar?",
         "references": "",
-        "directAnswer": "Si creemos que algo está mal dicho, <strong>debemos abordarlo con humildad y respeto, buscando la verdad en las Escrituras y orando por guía.</strong>",
-        "deepAnswer": "Cuando percibimos que una instrucción o un comentario parece estar fuera de lugar, <strong>la clave es no reaccionar precipitadamente.</strong> Debemos recordar que Jehová es la fuente de la verdad, y sus designaciones están destinadas a nuestro beneficio espiritual. <strong>Examinar las Escrituras con oración y buscar la perspectiva de los ancianos, si es necesario</strong>, nos ayudará a mantenernos firmes en el camino correcto.",
+        "directAnswer": "Si creemos que algo está mal dicho, debemos abordarlo con humildad y respeto, buscando la verdad en las Escrituras y orando por guía.",
+        "deepAnswer": "Cuando percibimos que una instrucción o un comentario parece estar fuera de lugar, la clave es no reaccionar precipitadamente. Debemos recordar que Jehová es la fuente de la verdad, y sus designaciones están destinadas a nuestro beneficio espiritual. <strong>Examinar las Escrituras con oración</strong> y buscar la perspectiva de los ancianos, si es necesario, nos ayudará a mantenernos firmes en el camino correcto.",
         "shortAnswer": "Busca la verdad y la guía de Jehová."
       },
       {
         "id": "11A_q47",
         "question": "¿Cómo reacciona la persona física ante una tentación de tipo sexual? ¿Y la persona espiritual? Lee y comenta Proverbios 7:6-10, 21, 22.",
         "references": "Prov. 7:6-10, 21, 22",
-        "directAnswer": "<strong>La persona física tiende a reaccionar impulsivamente a la tentación, dejándose llevar por los deseos carnales.</strong>",
-        "deepAnswer": "Ante una tentación, <strong>la persona física, guiada por su naturaleza imperfecta, a menudo responde de manera inmediata y basada en los impulsos carnales.</strong> Esta reacción puede llevarla a ceder ante el deseo pecaminoso, sin considerar las consecuencias espirituales o el desagrado a Jehová. Es vital reconocer esta tendencia y esforzarse por controlarla.",
-        "shortAnswer": "La persona física cede a los impulsos carnales.",
-        "subtitle": "Las tentaciones"
+        "subtitle": "Las tentaciones",
+        "directAnswer": "La persona física tiende a reaccionar <strong>impulsivamente a la tentación, dejándose llevar por los deseos carnales y la seducción</strong>, mientras que la persona espiritual <strong>huye de la tentación y protege su relación con Jehová</strong>.",
+        "deepAnswer": "Proverbios 7:6-10 describe a un joven falto de juicio que, por su inexperiencia y falta de vigilancia, se expone al peligro. La persona física es seducida por las apariencias y la oportunidad de pecado. En contraste, la persona espiritual actúa con prudencia, prevé el peligro y se aleja de situaciones tentadoras.",
+        "shortAnswer": "La persona física cede a la tentación; la espiritual huye de ella."
       },
       {
         "id": "11A_q48",
         "question": "¿Cómo demostró este joven que era un hombre físico? ¿Qué consejos de este relato pueden ayudar a una persona espiritual a no caer en la inmoralidad?",
         "references": "",
-        "directAnswer": "<strong>Este joven demostró ser un hombre físico al dejarse llevar por sus pasiones y sucumbir a la tentación sexual sin resistencia.</strong>",
-        "deepAnswer": "El relato del joven en Proverbios 7 ilustra claramente a un hombre físico al mostrarlo saliendo de su casa <em>al caer la tarde</em>, un momento de menor vigilancia. <strong>Su debilidad ante la mujer seductora y su posterior caída revelan una naturaleza no gobernada por principios espirituales.</strong> Es un recordatorio de lo fácil que es caer si no cultivamos la prudencia y la vigilancia.",
-        "shortAnswer": "Se dejó llevar por sus pasiones carnales."
+        "directAnswer": "Este joven demostró ser un hombre físico al <strong>dejarse llevar por sus pasiones, carecer de juicio y caminar cerca de la tentación</strong>. Los consejos de este relato nos recuerdan la importancia de <strong>mantener la vigilancia, valorar la sabiduría divina y evitar dar los primeros pasos hacia el pecado</strong>.",
+        "deepAnswer": "El joven del relato de Proverbios 7 transitó a una hora inadecuada por el territorio del peligro (cerca de la casa de una mujer inmoral), lo que demuestra que no ejercitaba su buen juicio. Para no caer en la inmoralidad, el cristiano con mentalidad espiritual debe proteger su mente, cuidar sus compañías, su uso de internet y de contenidos multimedia, y orar continuamente por el espíritu de Dios.",
+        "shortAnswer": "Se expuso al peligro. Debemos ser vigilantes, evitar el peligro y proteger la mente."
       },
       {
         "id": "11A_q49",
-        "question": "¿Cómo muestran los siguientes versículos que los apóstoles debían seguir esforzándose por ser hombres espirituales? Mateo 20:20, 21, 24-28; Lucas 22:24-27",
+        "question": "¿Cómo muestran los siguientes versículos que los apóstoles debían seguir esforzándose por ser hombres espirituales? Mateo 20:20, 21, 24-28; Lucas 22:24-27.",
         "references": "Mat. 20:20, 21, 24-28; Luc. 22:24-27",
-        "directAnswer": "Pedro demostró ser un hombre espiritual al <strong>reconocer correctamente la identidad de Jesús como el Cristo, el Hijo del Dios vivo</strong>, no por deducción humana, sino porque <strong>recibió revelación directa de parte de Jehová</strong>.",
-        "deepAnswer": "En Mateo 16:16, 17, Pedro responde a la pregunta de Jesús sobre quién creían que era él. Su confesión de que Jesús es el Cristo y el Hijo del Dios vivo fue una prueba clara de su espiritualidad. Como indica la referencia en el libro Jesús, el camino, la verdad y la vida, Jesús aclara que <strong>Pedro no llegó a esta conclusión mediante la sabiduría o el razonamiento humano, sino que fue enseñado por Jehová mismo</strong>. Un hombre espiritual, como Pedro, demuestra que <strong>su mente y corazón están en sintonía con la voluntad de Dios</strong>, lo que le permite percibir verdades que pasan desapercibidas para quienes solo confían en sus propios criterios terrenales.",
-        "shortAnswer": "Ser espiritual implica escuchar la guía de Jehová y reconocer la verdad sobre Jesús por encima de las opiniones humanas.",
-        "subtitle": "Sigue evaluando tu progreso (1 Cor. 9:24)"
+        "subtitle": "Sigue evaluando tu progreso (1 Cor. 9:24)",
+        "directAnswer": "Muestran que los apóstoles debían seguir esforzándose porque, incluso estando cerca de Jesús, <strong>manifestaron ambición, deseo de protagonismo y buscaron puestos de autoridad física</strong>.",
+        "deepAnswer": "Mateo 20:20-28 muestra a los apóstoles discutiendo quién sería el mayor en el Reino, revelando una mentalidad terrenal de buscar gloria y autoridad personal. Esto nos enseña que cultivar la espiritualidad requiere un esfuerzo constante para vencer las tendencias carnales del orgullo y la ambición, imitando la actitud de siervo que mostró Jesús.",
+        "shortAnswer": "Discutieron por ver quién era el mayor, mostrando tendencias de ambición."
       },
       {
         "id": "11A_q50",
         "question": "¿Cómo indica Mateo 16:16, 17 que el apóstol Pedro era un hombre espiritual? (ia pág. 191 párr. 13).",
         "references": "ia pág. 191 párr. 13",
-        "directAnswer": "Sabemos que Pedro tenía que seguir progresando porque, a pesar de su gran fe y amor por Jesús, <strong>todavía debía corregir rasgos de su personalidad, como la impulsividad y el exceso de confianza, y aprender a aceptar la guía y disciplina divina</strong> para llegar a ser un pilar firme para sus hermanos.",
-        "deepAnswer": "Aunque Pedro fue elegido por Jesús y poseía muchas cualidades excelentes, las Escrituras muestran que su proceso de aprendizaje fue continuo. Pedro cometía errores graves, como confiar demasiado en sus propias fuerzas al afirmar que nunca abandonaría a Jesús, lo cual lo llevó a negarlo tres veces. Además, necesitaba cultivar la humildad y comprender mejor la voluntad de Dios, como se evidenció cuando tuvo que ser corregido por su actitud ante el sufrimiento de Cristo o por sus prejuicios iniciales. Jehová y Jesús tuvieron paciencia con él, permitiéndole reconocer sus fallas, arrepentirse sinceramente y seguir ajustando su personalidad y modo de pensar para, eventualmente, cumplir su papel de fortalecer a los demás.",
-        "shortAnswer": "El progreso de Pedro fue un proceso continuo de humildad y aprendizaje necesario para superar sus debilidades y servir con madurez."
+        "directAnswer": "Pedro demostró ser un hombre espiritual al <strong>reconocer correctamente la identidad de Jesús como el Cristo, el Hijo del Dios vivo</strong>, una verdad revelada por el Padre.",
+        "deepAnswer": "Mateo 16:16, 17 revela que Pedro era un hombre espiritual porque sus afirmaciones sobre Jesús no se basaban en sabiduría humana o carne y sangre, sino en una revelación del Padre celestial. Su aprecio por las verdades espirituales profundas demostraba que estaba sintonizado con la mente de Dios.",
+        "shortAnswer": "Confesó que Jesús era el Hijo de Dios, impulsado por una revelación del Padre."
       },
       {
         "id": "11A_q51",
         "question": "¿Cómo sabemos que Pedro tenía que seguir progresando? ¿Por qué nos anima eso? (ia págs. 191-192 párrs. 15-18).",
         "references": "ia págs. 191-192 párrs. 15-18",
-        "directAnswer": "Esto nos anima porque nos asegura que <strong>Jehová es un Dios que desea comunicarse personalmente con nosotros</strong>. Al habernos dado su Palabra en un lenguaje claro, sencillo y exacto, <strong>nos permite entender su amor y su propósito, sintiendo que él mismo nos habla directamente al corazón</strong>. Para conservar la felicidad que proviene de ser una persona espiritual, es fundamental <strong>mantener la confianza en Jehová frente a las pruebas</strong>, recordando que <strong>nuestra perseverancia demuestra la calidad de nuestra fe y nos permite recibir su aprobación y bendición</strong>.",
-        "deepAnswer": "Nos sentimos profundamente animados al reconocer el gran esfuerzo que Jehová ha hecho para preservarnos su mensaje. Primero, el hecho de que su Palabra esté disponible en nuestro propio idioma y en un lenguaje claro y natural, en lugar de términos arcaicos o eclesiásticos, <strong>nos permite sentir que Jehová nos habla directamente</strong>, lo cual genera una gratitud inmediata. Segundo, <strong>la restitución de su nombre, Jehová, a su lugar legítimo en las Escrituras nos ayuda a comprender que nuestro Creador no es un Dios lejano o impersonal, sino un Padre que quiere que conozcamos su identidad y su personalidad</strong>. Además, contar con herramientas de estudio exactas, libres de sesgos doctrinales y con notas que aclaran el contexto histórico y cultural, nos da la confianza de que estamos leyendo el mensaje original inspirado por Dios. Todo esto confirma que él se interesa en que cada uno de nosotros comprenda su voluntad, fortaleciendo nuestra relación con él y dándonos una base firme para nuestra fe.<br>La felicidad espiritual no depende de la ausencia de problemas, sino de nuestra perspectiva ante ellos. Según 1 Pedro 1:6, 7, aunque tengamos que sufrir diversas pruebas, <strong>nuestra fe probada es de mucho más valor que el oro</strong>. Al mantener una actitud positiva y centrada en Jehová, nuestra fe se refina como metal precioso. Asimismo, 1 Pedro 3:14 nos asegura que, aunque suframos por causa de la justicia, <strong>somos felices si no permitimos que el temor a los hombres nos intimide</strong>. Finalmente, 1 Pedro 4:13, 14 nos anima a seguir alegrándonos al participar en los sufrimientos de Cristo, pues <strong>la presencia del espíritu de Dios sobre nosotros es una prueba clara de su favor</strong>. Mantenernos enfocados en estas verdades nos permite conservar la paz mental y la alegría profunda, sabiendo que estamos actuando de acuerdo con la voluntad de nuestro Creador.",
-        "shortAnswer": "Pedro cometía errores por temor, y ver la paciencia de Jehová nos anima."
+        "directAnswer": "Sabemos que Pedro tenía que progresar porque **cometió errores graves, como intentar disuadir a Jesús de su sacrificio o negarlo más tarde**. Nos anima porque demuestra que **Jehová es paciente y compasivo, y no nos rechaza por nuestros fallos si mostramos un arrepentimiento sincero**.",
+        "deepAnswer": "A pesar de su gran fe, Pedro cometió fallos significativos que revelaban que aún debía pulir su espiritualidad. Sin embargo, Jesús nunca lo abandonó, sino que lo perdonó y le confió grandes responsabilidades. Esto nos da un gran consuelo al saber que Jehová y Jesús ven nuestro potencial y nos ayudan amorosamente a progresar, incluso cuando cometemos errores.",
+        "shortAnswer": "Cometió errores graves, pero Jesús lo perdonó y confió en él, lo cual nos da esperanza."
       },
       {
         "id": "11A_q52",
         "question": "¿Cómo puedes conservar esa felicidad que viene de ser una persona espiritual? (1 Ped. 1:6, 7; 3:14; 4:13, 14).",
         "references": "1 Ped. 1:6, 7; 3:14; 4:13, 14",
-        "directAnswer": "",
-        "deepAnswer": "<strong>Podemos conservar esa felicidad siendo vigilantes en nuestra relación con Jehová</strong>, tal como lo sugieren 1 Pedro 1:6, 7 y 3:14. Al mantener una buena reputación ante Él y los demás, y <strong>al estar dispuestos a sufrir por la justicia</strong> (1 Pedro 4:13, 14), demostramos que valoramos las bendiciones espirituales. <strong>Seguir los consejos bíblicos y mantenernos firmes en la verdad</strong> nos permitirá disfrutar de la verdadera felicidad.",
-        "shortAnswer": "Mantén tu relación con Jehová y sé leal."
+        "directAnswer": "Podemos conservar la felicidad al <strong>mantener una fe probada, regocijarnos en las pruebas por causa de Cristo y confiar plenamente en que el espíritu de Dios descansa sobre nosotros</strong>.",
+        "deepAnswer": "Tal como explican las cartas de Pedro, la felicidad espiritual no depende de la ausencia de problemas o sufrimientos. Al contrario, si nos mantenemos enfocados en nuestra esperanza y soportamos las pruebas con paciencia y gozo cristiano, nuestra fe se refina como el oro. Saber que agradamos a Jehová y contamos con su aprobación nos da una alegría inquebrantable que el mundo no puede quitar.",
+        "shortAnswer": "Mantén una fe firme en las pruebas, regocíjate por Cristo y confía en el espíritu de Dios."
       }
     ],
     "image": "pioneer_studying.png",
