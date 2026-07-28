@@ -5301,16 +5301,16 @@ const lessonsData = [
       },
       {
         "id": "11B_q4",
-        "question": "Si has quedado en volver, ¿por qué es importante que lo hagas? (Luc. 16:10; w12 15/10 pág. 31 párr. 15). Lee y comenta Hechos 9:10-17.",
-        "references": "",
+        "question": "Si has quedado en volver, ¿por qué es importante que lo hagas? (Luc. 16:10; w12 15/10 pág. 31 párr. 15).",
+        "references": "Luc. 16:10; w12 15/10 pág. 31 párr. 15",
         "directAnswer": "<strong>Es fundamental cumplir nuestras promesas de revisita para demostrar que somos personas confiables y dignas de fe</strong>, tal como se nos enseña en Lucas 16:10.",
         "deepAnswer": "<strong>Cumplir nuestra palabra al hacer revisitas es una manifestación de nuestra integridad</strong>, algo que Jehová valora enormemente, como se indica en Lucas 16:10: 'El que es fiel en lo muy poco, es fiel también en lo mucho'. Cuando prometemos volver y lo hacemos, <strong>edificamos confianza y demostramos que somos siervos de Dios dignos de fe, preparando el terreno para que la persona sea receptiva al mensaje del Reino.</strong> El relato de Hechos 9:10-17, donde Ananías fue fiel a la instrucción de Jesús de visitar a Saulo, ilustra la importancia de obedecer y cumplir.",
         "shortAnswer": "Cumplir promesas demuestra confiabilidad, algo que Jehová valora."
       },
       {
         "id": "11B_q5",
-        "question": "¿Cuál fue la primera reacción de Ananías cuando Jesús lo mandó a visitar a Saulo (Pablo)?",
-        "references": "Hech. 9: 13, 14",
+        "question": "Lee y comenta Hechos 9:10-17. ¿Cuál fue la primera reacción de Ananías cuando Jesús lo mandó a visitar a Saulo (Pablo)?",
+        "references": "Hech. 9:10-17",
         "directAnswer": "<strong>La primera reacción de Ananías fue de sorpresa y temor, pues sabía de las fechorías de Saulo contra los cristianos.</strong>",
         "deepAnswer": "Al recibir la instrucción de Jesús en Hechos 9:13, 14, <strong>Ananías expresó su inquietud: 'Señor, he oído de muchos acerca de este hombre, ¡cuánto daño ha causado a tus santos en Jerusalén!'.</strong> Su reacción inicial reflejaba el peligro y la mala reputación que Saulo tenía en ese momento, mostrando una cautela natural ante un hombre tan temido.",
         "shortAnswer": "Ananías sintió sorpresa y temor por la reputación de Saulo."
@@ -5367,11 +5367,10 @@ const lessonsData = [
       {
         "id": "11B_q12",
         "question": "¿Cómo puedes preparar el terreno para la siguiente visita? (mwb16.01 pág. 6).",
-        "references": "",
+        "references": "mwb16.01 pág. 6",
         "directAnswer": "<strong>Puedes preparar el terreno para la siguiente visita dejando una pregunta o un tema interesante pendiente para que la persona medite en él.</strong>",
         "deepAnswer": "Una manera efectiva de preparar el terreno es alentar la curiosidad y el deseo de saber más, tal como Jesús lo hizo al plantar semillas de verdad. <strong>Al dejar una pregunta o un tema en suspenso, demostramos que el estudio de la Palabra de Dios es un viaje continuo de descubrimientos que enriquece la vida.</strong><br>Proverbios 25:2 nos recuerda que 'el honor de Dios es encubrir un asunto, pero el honor de los reyes es indagarlo'. Fomentar esta indagación en los demás es una forma de honrar a Jehová.",
-        "shortAnswer": "Deja una pregunta o tema pendiente para despertar interés.",
-        "note": "EJEMPLO: Algo muy fácil que podrías hacer es dejar una pregunta o un tema pendiente. Por ejemplo, si hablaste del Paraíso, podrías preguntar: “¿Por qué podemos estar seguros de que llegará muy pronto? ¿Qué le parece si vuelvo en unos días? Me encantaría mostrarle a usted y a su familia la respuesta que da la Biblia”."
+        "shortAnswer": "Deja una pregunta o tema pendiente para despertar interés."
       },
       {
         "id": "11B_q12_b",
@@ -5416,12 +5415,11 @@ const lessonsData = [
       },
       {
         "id": "11B_q16",
-        "question": "¿Cómo te ayuda tener una actitud positiva hacia las personas a volver a visitarlas?",
+        "question": "¿Por qué tener una actitud positiva hacia la persona te motivará a volver a visitarla?",
         "references": "lmd lección 9",
         "directAnswer": "Tener una actitud positiva hacia la persona te motivará a volver a visitarla porque <strong>verás su potencial espiritual y el gozo de ayudarla a acercarse a Jehová.</strong>",
         "deepAnswer": "Una perspectiva positiva, enfocada en el valor de cada alma y en las promesas de Jehová, transforma la obra de predicación en un privilegio y una fuente de gozo. Cuando vemos a las personas a través de los ojos de Jehová, con compasión y la esperanza de que acepten Su verdad, <strong>nos sentimos impulsados a seguir esforzándonos, sabiendo que estamos participando en la obra más importante.</strong><br>Hechos 20:35 nos recuerda que 'hay más felicidad en dar que en recibir', y ayudar a otros a acercarse a Jehová es una forma de dar que trae gran satisfacción.",
-        "shortAnswer": "Ver su potencial espiritual alimenta tu deseo de ayudarla.",
-        "subtitle": "Después de la primera conversación"
+        "shortAnswer": "Ver su potencial espiritual alimenta tu deseo de ayudarla."
       },
       {
         "id": "11B_q17",
@@ -5437,8 +5435,7 @@ const lessonsData = [
         "references": "",
         "directAnswer": "<strong>Es bueno volver pronto para mantener fresca la conversación y demostrar que nuestro interés por ellos es sincero.</strong>",
         "deepAnswer": "<strong>Regresar en uno o dos días permite aprovechar el impulso del interés inicial.</strong> Al llevar un artículo relacionado con lo que hablamos antes, demostramos que realmente escuchamos a la persona, lo cual <strong>ayuda a edificar confianza y facilita que el dueño de casa nos recuerde con agrado.</strong>",
-        "shortAnswer": "Volver pronto mantiene vivo el interés y fortalece la conexión con la persona.",
-        "note": "EXPERIENCIA: Una hermana tiene la costumbre de quedar en volver a visitar a la gente lo antes posible. Pero, uno o dos días antes de la cita, les lleva una revista que trate sobre el tema del que habían hablado, y les dice: “Vi este artículo y pensé que le podría gustar. No puedo quedarme para hablar ahora, pero volveré el..., como quedamos. ¿Todavía puede a esa hora?”."
+        "shortAnswer": "Volver pronto mantiene vivo el interés y fortalece la conexión con la persona."
       },
       {
         "id": "11B_q19",
@@ -5446,8 +5443,7 @@ const lessonsData = [
         "references": "",
         "directAnswer": "Es una excelente idea porque <strong>nos permite mantener el contacto sin ser invasivos</strong> y <strong>prepara el terreno para una visita más larga después.</strong>",
         "deepAnswer": "Este enfoque combina la persistencia con la cortesía. Al hacer una visita breve pero significativa, <strong>estamos 'sembrando' la semilla de la verdad de forma constante, lo que hace que la persona se sienta cómoda con nuestra presencia y esté más dispuesta a dedicar tiempo a estudiar la Biblia</strong> en nuestra próxima cita programada.",
-        "shortAnswer": "Ayuda a mantener el contacto sin abrumar a la persona.",
-        "note": "EXPERIENCIA: Una hermana tiene la costumbre de quedar en volver a visitar a la gente lo antes posible. Pero, uno o dos días antes de la cita, les lleva una revista que trate sobre el tema del que habían hablado, y les dice: “Vi este artículo y pensé que le podría gustar. No puedo quedarme para hablar ahora, pero volveré el..., como quedamos. ¿Todavía puede a esa hora?”."
+        "shortAnswer": "Ayuda a mantener el contacto sin abrumar a la persona."
       },
       {
         "id": "11B_q20",
@@ -5464,47 +5460,15 @@ const lessonsData = [
         "directAnswer": "",
         "deepAnswer": "",
         "shortAnswer": "",
-        "subQuestions": [
-          {
-            "id": "11B_q21_a",
-            "question": "Contestar una pregunta con la Biblia.",
-            "directAnswer": "Permite que la persona vea que las respuestas provienen directamente de **la Palabra inspirada de Dios**, ganando su confianza.",
-            "deepAnswer": "Al contestar una duda directamente de las Escrituras, mostramos que no enseñamos ideas propias. Esto enseña al amo de casa a **respetar la autoridad de la Biblia y fomenta el deseo de seguir examinando la verdad**.",
-            "shortAnswer": "Usar la Biblia para dar respuestas autorizadas y confiables."
-          },
-          {
-            "id": "11B_q21_b",
-            "question": "Ofrecer ciertas publicaciones o mostrar un video que le puedan interesar a la persona.",
-            "directAnswer": "Sirve para **captar el interés de forma visual** y proveer información digerible para la persona.",
-            "deepAnswer": "Los videos de jw.org y nuestros folletos o revistas son sumamente atractivos y están diseñados para el público general. Al mostrarlos, **abrimos una ventana visual al Reino y facilitamos la transición hacia el estudio interactivo**.",
-            "shortAnswer": "Usar videos y literatura para despertar el interés de forma atractiva."
-          },
-          {
-            "id": "11B_q21_c",
-            "question": "Analizar un párrafo de uno de los manuales de estudio.",
-            "directAnswer": "Es el paso clave para **demostrar cómo es una clase de la Biblia** y comenzar el estudio de manera informal.",
-            "deepAnswer": "En lugar de hablar extensamente, leer y analizar un solo párrafo del libro *Disfrute de la vida* demuestra al amo de casa lo sencillo y reconfortante que es estudiar con nosotros, quitando el temor al compromiso.",
-            "shortAnswer": "Demostrar la sencillez del estudio analizando un solo párrafo del manual."
-          },
-          {
-            "id": "11B_q21_d",
-            "question": "Ofrecer un curso bíblico.",
-            "directAnswer": "Es la meta final para **establecer una sesión de estudio regular y progresiva**.",
-            "deepAnswer": "Ofrecer el curso formalmente aclara el propósito de nuestras visitas. Le explicamos que es gratuito, a domicilio o virtual, y que le ayudará a encontrar respuestas a sus dudas vitales en su propia Biblia.",
-            "shortAnswer": "Proponer formalmente un estudio bíblico regular y gratuito."
-          }
-        ],
-        "subtitle": "Ten claro tu objetivo",
-        "note": "Nuestro objetivo principal es ayudar a las personas a ser discípulos de Jesús y bautizarse. Hoy en día, el mejor método para conseguirlo es dando clases de la Biblia. Así que intenta hablar de un tema bíblico en cada visita. De esa manera, la persona estará cada vez más abierta a recibir clases de la Biblia, y dejaremos claro para qué la visitamos."
+        "subtitle": "Ten claro tu objetivo"
       },
       {
         "id": "11B_q22",
-        "question": "¿Por qué es importante no hacer preguntas que pudieran provocar una respuesta negativa o que incomoden a la persona?",
+        "question": "¿Por qué es importante no hacer preguntas que pudieran provocar una response negativa o que incomoden a la persona?",
         "references": "w18.09 pág. 32 párrs. 14, 15",
         "directAnswer": "Es importante para <strong>evitar poner a la persona a la defensiva y mantener un ambiente de confianza.</strong>",
         "deepAnswer": "Si hacemos preguntas que puedan resultar incómodas o polémicas, <strong>corremos el riesgo de cerrar el corazón de la persona.</strong> Nuestro mensaje es de paz, y debemos asegurarnos de que la manera en que presentamos las verdades bíblicas sea siempre amable, empática y atractiva, tal como nos enseña la Palabra de Dios.",
-        "shortAnswer": "Evitar preguntas incómodas protege la relación y mantiene la mente abierta.",
-        "note": "EXPERIENCIA: Una hermana tiene la costumbre de quedar en volver a visitar a la gente lo antes posible. Pero, uno o dos días antes de la cita, les lleva una revista que trate sobre el tema del que habían hablado, y les dice: “Vi este artículo y pensé que le podría gustar. No puedo quedarme para hablar ahora, pero volveré el..., como quedamos. ¿Todavía puede a esa hora?”."
+        "shortAnswer": "Evitar preguntas incómodas protege la relación y mantiene la mente abierta."
       },
       {
         "id": "11B_q23",
@@ -5520,8 +5484,16 @@ const lessonsData = [
         "references": "",
         "directAnswer": "Ser amable y mostrar interés genuino <strong>ayuda a derribar barreras y crea un ambiente de confianza necesario para que la persona esté dispuesta a escuchar el mensaje del Reino.</strong>",
         "deepAnswer": "Cuando tratamos a la persona con bondad y empatía, <strong>reflejamos el amor de Jehová.</strong> Esto <strong>permite que el interlocutor se sienta valorado y no juzgado, lo cual es fundamental para que el mensaje bíblico toque su corazón y sea más receptivo a la verdad.</strong>",
-        "shortAnswer": "La amabilidad abre el corazón y prepara el terreno para la Palabra de Dios.",
-        "note": "Nuestro objetivo principal es ayudar a las personas a ser discípulos de Jesús y bautizarse. Hoy en día, el mejor método para conseguirlo es dando clases de la Biblia. Así que intenta hablar de un tema bíblico en cada visita. De esa manera, la persona estará cada vez más abierta a recibir clases de la Biblia, y dejaremos claro para qué la visitamos."
+        "shortAnswer": "La amabilidad abre el corazón y prepara el terreno para la Palabra de Dios."
+      },
+      {
+        "id": "11B_q24_b",
+        "question": "¿Cómo empiezas la conversación al hacer una revisita? (mwb17.11 pág. 3; km 12/13 pág. 1).",
+        "references": "mwb17.11 pág. 3; km 12/13 pág. 1",
+        "directAnswer": "Empezamos la conversación con un saludo amigable, recordando brevemente el tema de la conversación anterior y mostrando un interés sincero en la persona.",
+        "deepAnswer": "En armonía con *mwb17.11* pág. 3 y *km 12/13*, al regresar a visitar a alguien, debemos ser cordiales y naturales. Podemos decir algo como: \"Hola, me alegro de encontrarlo de nuevo. La última vez dejamos pendiente una pregunta interesante...\". Esto establece un tono agradable y asegura la continuidad de nuestra enseñanza.",
+        "shortAnswer": "Saluda con amabilidad y retoma el tema de la visita anterior.",
+        "subtitle": "La revisita"
       },
       {
         "id": "11B_q25",
@@ -5529,53 +5501,15 @@ const lessonsData = [
         "references": "",
         "directAnswer": "Para que se sienta tranquila, es importante <strong>hablar de forma natural, escuchar con atención y mostrar respeto por sus opiniones sin entrar en discusiones innecesarias.</strong>",
         "deepAnswer": "Ayuda mucho <strong>hacer comentarios positivos sobre su hospitalidad y usar preguntas bien pensadas que le permitan expresar sus ideas.</strong> Al mostrar que valoramos lo que dice, <strong>fomentamos un ambiente de confianza mutua donde la Biblia puede ser presentada como una guía útil y práctica, no como una imposición.</strong>",
-        "shortAnswer": "Escuchar con respeto y hablar con naturalidad genera confianza en el mensaje bíblico.",
-        "subtitle": "La revisita"
+        "shortAnswer": "Escuchar con respeto y hablar con naturalidad genera confianza en el mensaje bíblico."
       },
       {
         "id": "11B_q26",
         "question": "¿Por qué deberías seguir estas recomendaciones? (w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10).",
-        "references": "Filip. 1:27",
+        "references": "w18.09 pág. 32 párr. 16; w14 15/5 pág. 13 párrs. 9, 10",
         "directAnswer": "",
         "deepAnswer": "",
-        "shortAnswer": "",
-        "subQuestions": [
-          {
-            "id": "11B_q26_a",
-            "question": "Recordar que estás de visita.",
-            "directAnswer": "Implica ser **breve y respetuoso con el tiempo del amo de casa**, no abusando de su hospitalidad.",
-            "deepAnswer": "Ser conscientes de que somos invitados nos ayuda a no extendernos demasiado. **Una visita corta e interesante deja al amo de casa con deseos de que regresemos**, mientras que una visita larga puede abrumarlo.",
-            "shortAnswer": "Ser breves para respetar el tiempo de las personas."
-          },
-          {
-            "id": "11B_q26_b",
-            "question": "Agradecer que te reciban.",
-            "directAnswer": "Muestra **buena educación y gratitud sincera** por el tiempo que la persona nos dedica.",
-            "deepAnswer": "Agradecer a la persona su disposición a escucharnos crea una atmósfera amigable. **Este gesto de cortesía cristiana ablanda los corazones** y nos hace accesibles, abriendo el camino para futuras conversaciones.",
-            "shortAnswer": "Expresar gratitud sincera por la atención recibida."
-          },
-          {
-            "id": "11B_q26_c",
-            "question": "Ir bien arreglado.",
-            "directAnswer": "Refleja **respeto por Jehová, por nuestro ministerio y por la dignidad de las personas**.",
-            "deepAnswer": "Nuestra apariencia personal es un sermón silencioso. Vestirnos con modestia y limpieza dignifica el mensaje del Reino y hace que las personas nos escuchen con más seriedad.",
-            "shortAnswer": "Dignificar el mensaje mediante una apariencia limpia y modesta."
-          },
-          {
-            "id": "11B_q26_d",
-            "question": "Ser puntual (jr pág. 38 párr. 14).",
-            "directAnswer": "Muestra que **somos personas de palabra y que respetamos los compromisos contraídos**.",
-            "deepAnswer": "Llegar a la hora acordada demuestra seriedad y respeto por el tiempo del amo de casa. La puntualidad es un reflejo de nuestra confiabilidad y del valor que le damos al interés espiritual de la persona.",
-            "shortAnswer": "Cumplir puntualmente con la cita acordada por respeto a la persona."
-          },
-          {
-            "id": "11B_q26_e",
-            "question": "Respetar a la persona y su propiedad (Filip. 1:27).",
-            "directAnswer": "Implica **cuidar sus bienes, no entrar a su hogar sin permiso y respetar sus opiniones**.",
-            "deepAnswer": "Demostramos buena conducta al no pisar el jardín, cerrar las verjas y no mirar hacia el interior de la casa indiscretamente. Este respeto por su propiedad demuestra que actuamos como ciudadanos ejemplares y ministros pacíficos.",
-            "shortAnswer": "Cuidar la propiedad ajena y comportarse de forma respetuosa."
-          }
-        ]
+        "shortAnswer": ""
       },
       {
         "id": "11B_q27",
@@ -5599,51 +5533,7 @@ const lessonsData = [
         "references": "",
         "directAnswer": "",
         "deepAnswer": "",
-        "shortAnswer": "",
-        "subQuestions": [
-          {
-            "id": "11B_q29_a",
-            "question": "Interesarte de verdad en las personas.",
-            "directAnswer": "Nos ayuda a verlas como **futuros siervos de Dios que necesitan ayuda espiritual**, adaptándonos a ellas.",
-            "deepAnswer": "El interés sincero hace que escuchemos con atención en lugar de solo querer hablar. Nos impulsa a pensar en sus problemas y necesidades particulares, imitando el amor de Jehová.",
-            "shortAnswer": "Ver a las personas con compasión y escuchar sus inquietudes."
-          },
-          {
-            "id": "11B_q29_b",
-            "question": "Elegir un tema bíblico que llame la atención.",
-            "directAnswer": "Garantiza que **la conversación gire en torno a asuntos que de verdad les importen**.",
-            "deepAnswer": "Debemos seleccionar temas prácticos (sufrimiento, futuro, familia) que afecten directamente al amo de casa, captando su interés desde el inicio mediante textos oportunos.",
-            "shortAnswer": "Hablar de temas de la Biblia que resuelvan dudas reales de la gente."
-          },
-          {
-            "id": "11B_q29_c",
-            "question": "Preparar el terreno para cada una de las siguientes visitas.",
-            "directAnswer": "Consiste en **dejar una pregunta pendiente al final de cada conversación** para asegurar la próxima cita.",
-            "deepAnswer": "La expectación es clave. Al despedirnos con una duda intrigante por responder, hacemos que la persona espere con interés nuestra siguiente visita, facilitando el regreso.",
-            "shortAnswer": "Dejar preguntas interesantes pendientes para garantizar el regreso."
-          },
-          {
-            "id": "11B_q29_d",
-            "question": "Seguir pensando en la persona después de irte.",
-            "directAnswer": "Nos motiva a **orar por ella, meditar en sus necesidades y buscar publicaciones adecuadas**.",
-            "deepAnswer": "El ministerio no termina al salir del territorio. Pensar en el amo de casa a solas nos ayuda a preparar mejores argumentos y a pedir a Jehová que bendiga el interés mostrado.",
-            "shortAnswer": "Meditar y orar por el amo de casa para prepararle información personalizada."
-          },
-          {
-            "id": "11B_q29_e",
-            "question": "Volver un día o dos más tarde para cultivar el interés.",
-            "directAnswer": "Aprovecha que **la última conversación todavía está fresca en la mente de la persona**.",
-            "deepAnswer": "Volver pronto demuestra que nos importa el amo de casa. Si tardamos semanas, es probable que olvide lo hablado o que la duda pierda fuerza, perdiendo una gran oportunidad.",
-            "shortAnswer": "Regresar a los pocos días para mantener el interés activo."
-          },
-          {
-            "id": "11B_q29_f",
-            "question": "Recordar que tu objetivo es empezar un curso bíblico.",
-            "directAnswer": "Mantiene **nuestro ministerio enfocado en hacer discípulos**, no solo en conversar.",
-            "deepAnswer": "Cada visita y revisita debe encaminarse a mostrar cómo se estudia la Biblia. Tener esta meta clara nos ayuda a ofrecer el manual *Disfrute de la vida* de forma oportuna.",
-            "shortAnswer": "Tener la meta de iniciar un curso de la Biblia en cada hogar."
-          }
-        ]
+        "shortAnswer": ""
       },
       {
         "id": "11B_q30",
@@ -5665,7 +5555,7 @@ const lessonsData = [
       {
         "id": "11B_q32",
         "question": "¿Qué podrías hacer si la persona no acepta un curso de la Biblia? (lmd lección 8).",
-        "references": "",
+        "references": "lmd lección 8",
         "directAnswer": "Si la persona no acepta un estudio en ese momento, <strong>podemos ofrecer dejarle una revista, un tratado o seguir conversando sobre temas bíblicos breves para cultivar el interés gradualmente.</strong>",
         "deepAnswer": "<strong>Debemos ser pacientes y adaptables, manteniendo siempre la puerta abierta.</strong> El objetivo es <strong>dejar una idea bíblica positiva que la persona pueda meditar, confiando en que Jehová hará crecer la semilla si seguimos mostrando interés sincero en sus necesidades espirituales.</strong>",
         "shortAnswer": "Sé paciente y cultiva el interés mediante lecturas breves o artículos específicos."
@@ -5696,7 +5586,7 @@ const lessonsData = [
       },
       {
         "id": "11B_q36",
-        "question": "Si la persona todavía no valora las enseñanzas de la Biblia, ¿por qué no debes señalar sus ideas equivocadas o algún mal hábito que tenga?",
+        "question": "Si la persona todavía no valora las enseñanzas de la Biblia, ¿por qué no debes señalar sus ideas equivocadas o algún mal hábito que tenga? (w19.03 pág. 23 párrs. 12, 13).",
         "references": "w19.03 pág. 23 párrs. 12, 13",
         "directAnswer": "No debemos señalar sus errores de inmediato porque <strong>podríamos levantar barreras defensivas o hacerla sentir juzgada</strong>, perdiendo la oportunidad de seguir conversando.",
         "deepAnswer": "La publicación *La Atalaya* (w19.03 pág. 23 párrs. 12, 13) destaca la importancia del tacto y la paciencia. Si criticamos sus creencias o hábitos en las primeras visitas, la persona se sentirá atacada y cortará la conversación. Nuestro primer objetivo es <strong>ganar su confianza y cultivar el aprecio por la Palabra de Dios</strong>. Con el tiempo, a medida que estudie la Biblia, el propio mensaje divino la motivará a hacer los cambios necesarios de manera voluntaria.",
@@ -5713,7 +5603,7 @@ const lessonsData = [
       {
         "id": "11B_q38",
         "question": "Para hacer revisitas se necesita constancia. ¿Por qué? ¿Qué puede ayudarnos? (lmd lección 7).",
-        "references": "",
+        "references": "lmd lección 7",
         "directAnswer": "<strong>La constancia es necesaria porque a menudo necesitamos varias visitas para cultivar el interés inicial de una persona.</strong>",
         "deepAnswer": "La labor de hacer discípulos es similar a la del agricultor; <strong>requiere paciencia y constancia.</strong> Muchas personas no reaccionan de inmediato, pero <strong>nuestra perseverancia demuestra que nos importa su bienestar espiritual y que realmente deseamos compartir las buenas nuevas con ellas, cumpliendo así con nuestra comisión divina.</strong>",
         "shortAnswer": "La perseverancia es la clave para que la semilla de la verdad brote.",
@@ -5733,8 +5623,7 @@ const lessonsData = [
         "references": "",
         "directAnswer": "<strong>Mencionar una idea bíblica breve ayuda a dejar una semilla de verdad que puede despertar su curiosidad.</strong>",
         "deepAnswer": "Aunque el tiempo sea escaso, <strong>un solo texto o una pregunta reflexiva puede quedar grabado en la mente de la persona.</strong> <strong>Usar una pequeña nota escrita es un excelente recurso para que, cuando tenga un momento de calma, pueda leer y meditar en la promesa de Jehová, preparándola para una futura conversación.</strong>",
-        "shortAnswer": "Incluso un breve pensamiento bíblico puede ser una semilla que crezca.",
-        "note": "SUGERENCIA: Algunos precursores hacen una notita con algunos textos bíblicos y se la dejan a la persona para que los lea más tarde."
+        "shortAnswer": "Incluso un breve pensamiento bíblico puede ser una semilla que crezca."
       },
       {
         "id": "11B_q41",
@@ -5747,7 +5636,7 @@ const lessonsData = [
       {
         "id": "11B_q42",
         "question": "¿Qué dices si ves que a la persona no le interesa el mensaje y reacciona mal o es cortante contigo? ¿Por qué actúas así? (w18.07 pág. 27 párr. 9 - pág. 28 párr. 1).",
-        "references": "",
+        "references": "w18.07 pág. 27 párr. 9 - pág. 28 párr. 1",
         "directAnswer": "Si no hay interés, <strong>mantenemos siempre una actitud calmada, amable y respetuosa para dejar la puerta abierta a futuro.</strong>",
         "deepAnswer": "Si la persona reacciona de forma cortante, recordamos que <em>la apacibilidad</em> es un fruto del espíritu. Nuestra respuesta debe reflejar los valores cristianos, sin tomarnos el rechazo de forma personal. <strong>Al retirarnos con dignidad, dejamos una buena impresión que quizás, en el futuro, cuando sus circunstancias cambien, le permita recordar que los Testigos de Jehová son personas respetuosas y amables.</strong>",
         "shortAnswer": "Mantén siempre la calma y la bondad, pues reflejan nuestro mensaje."
