@@ -6190,209 +6190,199 @@ const lessonsData = [
     "questions": [
       {
         "id": "13B_q1",
-        "question": "¿Qué implica enseñar? (it-2 pág. 273).",
-        "references": "parte 1",
-        "directAnswer": "<strong>Enseñar implica transmitir conocimientos de manera que el estudiante comprenda, acepte y aplique lo que aprende en su vida.</strong>",
-        "deepAnswer": "Según la obra <em>Perspicacia</em>, enseñar va más allá de solo dar información; requiere <strong>instrucción activa que moldee el corazón.</strong> Para motivar al estudiante a progresar, debemos <strong>usar métodos que despierten su interés y le ayuden a ver cómo la verdad bíblica transforma su personalidad para agradar a Jehová.</strong>",
-        "shortAnswer": "Enseñar es ayudar a otros a conocer, amar y poner en práctica la verdad."
+        "question": "¿A quién se le llama en la Biblia el “Gran Instructor”? (Is. 30:20).",
+        "references": "Is. 30:20",
+        "directAnswer": "Se le llama a <strong>Jehová Dios</strong>, debido a su sabiduría infinita y su capacidad única para instruir a sus criaturas.",
+        "deepAnswer": "La Biblia utiliza este título honorífico para resaltar que **Jehová es el origen de toda verdadera sabiduría y educación**. A diferencia de los maestros humanos imperfectos, Jehová nos enseña con un propósito eterno, con paciencia y un conocimiento absoluto de nuestro ser, guiándonos por el camino de la vida.",
+        "shortAnswer": "A Jehová Dios."
       },
       {
         "id": "13B_q2",
-        "question": "¿Por qué se le llama a Jehová el Gran Instructor? ¿De qué manera “vemos” y “oímos” a nuestro Gran Instructor?",
+        "question": "¿Por qué se le llama así?",
         "references": "",
-        "directAnswer": "<strong>Se le llama el Gran Instructor porque su sabiduría es infinita y sus métodos son perfectos para educar a la humanidad.</strong>",
-        "deepAnswer": "<strong>Vemos a Jehová a través de su creación y de cómo guía a su pueblo mediante su Palabra escrita, la Biblia.</strong> <strong>Lo 'oímos' cuando prestamos atención a las instrucciones espirituales que recibimos en las reuniones, el estudio personal y la dirección de su organización bajo la guía del espíritu santo.</strong>",
-        "shortAnswer": "Es nuestro Gran Instructor porque nos guía mediante su Palabra y su organización.",
-        "subtitle": "Nuestro Gran Instructor"
+        "subtitle": "Nuestro Gran Instructor",
+        "directAnswer": "Se le llama el Gran Instructor porque <strong>su sabiduría es infinita, sus métodos de enseñanza son perfectos y nos enseña con un amor inigualable.</strong>",
+        "deepAnswer": "Jehová merece este título porque **conoce perfectamente el corazón humano y sabe cómo llegar a él**. Sus enseñanzas son siempre provechosas, prácticas y eternas. Además, a diferencia de los maestros humanos, nos capacita no solo transmitiendo conocimiento, sino transformando nuestra personalidad para nuestro propio beneficio.",
+        "shortAnswer": "Por su sabiduría infinita y métodos perfectos."
       },
       {
         "id": "13B_q3",
-        "question": "¿Cómo nos enseña Jehová?",
+        "question": "¿Cómo nos enseña Jehová? (Job 36:22; Is. 30:20, 21).",
         "references": "Job 36:22; Is. 30:20, 21",
-        "directAnswer": "<strong>Jehová nos enseña mediante su Palabra, su espíritu santo y la guía amorosa de su organización.</strong>",
-        "deepAnswer": "Tal como señala Isaías 30:20, 21, aunque Jehová permite dificultades, él es un Maestro que no se esconde; <strong>nos habla mediante su Palabra diciéndonos: 'Este es el camino'.</strong> Él es el Instructor supremo porque <strong>su enseñanza es práctica, oportuna y siempre busca nuestro bienestar eterno.</strong>",
-        "shortAnswer": "Jehová nos enseña personalmente a través de su Palabra y su guía constante."
+        "directAnswer": "Jehová nos enseña <strong>mediante su Palabra escrita (la Biblia), su espíritu santo, y a través de la guía y publicaciones de su organización terrestre.</strong>",
+        "deepAnswer": "Tal como señala Isaías 30:20, 21, aunque pasemos por dificultades, Jehová está presente como nuestro Gran Instructor. Él hace que escuchemos sus palabras de guía a nuestras espaldas diciendo: **“Este es el camino. Anden por él”**. Esto lo logra al hacernos comprender las Escrituras y al darnos dirección oportuna mediante las reuniones y la congregación cristiana.",
+        "shortAnswer": "Mediante la Biblia, su espíritu santo y su organización."
       },
       {
         "id": "13B_q4",
-        "question": "Pensando en los siguientes textos, ¿qué aprendemos del ejemplo de Jehová sobre lo que es un buen maestro? Génesis 18:20-32, Job 38:4, 8, 31, Isaías 40:26, Isaías 44:14-17, Jonás 4:9-11.",
-        "references": "",
-        "directAnswer": "<strong>Jehová nos enseña a ser maestros pacientes, que razonan con sus estudiantes, que son observadores y que muestran gran empatía.</strong>",
-        "deepAnswer": "<strong>Su ejemplo nos enseña a escuchar con atención (Gén. 18), a fomentar la reflexión mediante preguntas (Job 38), a usar ejemplos prácticos del entorno (Is. 44) y a tratar con ternura los sentimientos de nuestros alumnos (Jon. 4).</strong> <strong>Un buen maestro imita a Jehová al adaptar la enseñanza a la necesidad emocional y espiritual de la persona.</strong>",
-        "shortAnswer": "Un buen maestro imita la paciencia, la lógica y la compasión de Jehová."
+        "question": "Pensando en los siguientes textos, ¿qué aprendemos del ejemplo de Jehová sobre lo que es un buen maestro? Génesis 18:20-32; Job 38:4, 8, 31; Isaías 40:26; 44:14-17; Jonás 4:9-11.",
+        "references": "Gén. 18:20-32; Job 38:4, 8, 31; Is. 40:26; 44:14-17; Jonás 4:9-11",
+        "directAnswer": "Aprendemos que un buen maestro debe ser <strong>paciente, estar dispuesto a escuchar, usar preguntas para hacer reflexionar, y adaptar la enseñanza a las necesidades de la persona.</strong>",
+        "deepAnswer": "El ejemplo de Jehová es sumamente instructivo: con Abrahán (Gén. 18) demostró **paciencia al escuchar y responder sus dudas**; con Job (Job 38) usó **preguntas que le ayudaron a ver las cosas desde la perspectiva correcta**; con Jonás (Jonás 4) utilizó **ilustraciones prácticas basadas en la vida real** para enseñarle compasión. Esto nos muestra la importancia de no imponer las ideas, sino ayudar al estudiante a razonar.",
+        "shortAnswer": "Nos enseña a ser pacientes, usar preguntas y saber escuchar."
       },
       {
         "id": "13B_q5",
         "question": "¿Cómo usa Jehová hoy su espíritu para enseñarnos? (Juan 14:26).",
-        "references": "Juan 13:13",
-        "directAnswer": "<strong>Jehová usa su espíritu santo para ayudarnos a recordar las enseñanzas de Jesús y entender las verdades espirituales profundas.</strong>",
-        "deepAnswer": "Como indica Juan 14:26, <strong>el espíritu santo funciona como un ayudante que aclara nuestra mente.</strong> Al reconocer a Jesús como nuestro Maestro (Juan 13:13), <strong>permitimos que el espíritu nos guíe a aplicar sus enseñanzas, asegurándonos de que nuestra conducta sea un reflejo exacto del modelo que Cristo nos dejó.</strong>",
-        "shortAnswer": "El espíritu santo nos recuerda y aclara las enseñanzas de Jesús."
+        "references": "Juan 14:26",
+        "directAnswer": "Jehová usa su espíritu santo para <strong>ayudarnos a recordar las enseñanzas bíblicas y a comprender verdades profundas de su Palabra de forma personal.</strong>",
+        "deepAnswer": "Como indicó Jesús en Juan 14:26, el espíritu santo funciona como un **ayudante que aclara nuestra mente y nos recuerda las verdades de Dios**. Además, guía a la organización para suministrar alimento espiritual en el momento oportuno y nos capacita individualmente para aplicar lo aprendido en nuestra vida diaria.",
+        "shortAnswer": "El espíritu nos ayuda a recordar y entender las Escrituras."
       },
       {
         "id": "13B_q6",
-        "question": "¿En qué se basaba Jesús cuando enseñaba?",
+        "question": "¿En qué se basaba Jesús cuando enseñaba? (Mat. 4:7, 10; Juan 7:16).",
         "references": "Mat. 4:7, 10; Juan 7:16",
-        "directAnswer": "<strong>Jesús basaba todas sus enseñanzas en la Palabra de Dios, no en sus propias ideas u opiniones humanas.</strong>",
-        "deepAnswer": "Al usar con frecuencia la expresión 'está escrito', Jesús demostraba que <strong>las Escrituras tenían la autoridad final</strong> (Mat. 4:7, 10). Él enseñaba lo que Jehová le había mandado (Juan 7:16), estableciendo así el modelo para nosotros: <strong>el contenido de nuestros cursos bíblicos siempre debe estar fundamentado en la Biblia.</strong>",
-        "shortAnswer": "Jesús siempre basó sus enseñanzas en la autoridad de la Palabra de Dios.",
-        "subtitle": "Jesús, el Gran Maestro"
+        "subtitle": "Jesús, el Gran Maestro (Juan 13:13)",
+        "directAnswer": "Jesús basaba todas sus enseñanzas <strong>firmemente en la Palabra de Dios, utilizando las Escrituras como su máxima autoridad en lugar de sus opiniones personales.</strong>",
+        "deepAnswer": "Al responder a Satanás con la frase **“está escrito”** (Mat. 4:7, 10) y declarar en Juan 7:16 que su enseñanza no era suya sino del que lo envió, Jesús demostró un respeto absoluto por la autoridad de las Escrituras. Él no intentaba impresionar con ideas propias o tradiciones humanas, sino que siempre dirigía la atención de la gente a los mandamientos y la sabiduría de su Padre, dándonos el ejemplo perfecto de cómo enseñar con la Biblia.",
+        "shortAnswer": "Jesús basaba todo en la Palabra de Dios y daba la gloria a su Padre."
       },
       {
         "id": "13B_q7",
         "question": "De acuerdo con Juan 7:18, ¿cuál era la motivación de Jesús al enseñar, y qué aprendemos de eso?",
-        "references": "",
-        "directAnswer": "<strong>La motivación de Jesús era darle toda la gloria a Jehová, no buscar su propio reconocimiento personal.</strong>",
-        "deepAnswer": "Juan 7:18 nos enseña que <strong>el maestro que busca su propia gloria no es genuino.</strong> Al imitar a Jesús, demostramos que <strong>nuestra meta al dar cursos bíblicos es que el estudiante llegue a conocer a nuestro Padre, manteniendo siempre la humildad de quienes solo somos 'colaboradores de Dios'.</strong>",
-        "shortAnswer": "Nuestra meta al enseñar debe ser dar gloria a Jehová, no a nosotros mismos."
+        "references": "Juan 7:18",
+        "directAnswer": "La motivación de Jesús era <strong>dar toda la gloria a su Padre, Jehová, no buscar su propio reconocimiento</strong>. Aprendemos que nosotros también debemos predicar para honrar a Dios y no para conseguir el aplauso de los demás.",
+        "deepAnswer": "En Juan 7:18 Jesús señaló que el que habla por su propia cuenta busca su propia gloria, mientras que el que busca la gloria del que lo envió es veraz. Esto nos enseña que un maestro cristiano fiel debe ser humilde. **Nuestra meta en el ministerio debe ser dirigir la atención a Jehová y sus cualidades**, ayudando al estudiante a cultivar una relación estrecha con él, en lugar de intentar destacar nosotros por nuestra elocuencia o conocimiento.",
+        "shortAnswer": "La motivación de Jesús era glorificar a Jehová, y nos enseña a ser humildes."
       },
       {
         "id": "13B_q8",
         "question": "Al enseñar, ¿cómo podrías convertirte en el centro de atención sin darte cuenta? ¿Por qué eso no sería bueno ni para ti ni para el estudiante?",
         "references": "",
-        "directAnswer": "<strong>Jehová usa su espíritu santo hoy principalmente para enseñarnos a través de su Palabra, la Biblia.</strong> Tal como prometió Jesús en Juan 14:26, <strong>el espíritu santo actúa como un ayudante que nos hace recordar las enseñanzas de Dios, guía nuestro entendimiento para captar la verdad y nos permite comprender el mensaje bíblico de manera clara y personal.</strong>",
-        "deepAnswer": "<strong>Jehová utiliza su espíritu santo para enseñarnos al asegurar que su mensaje llegue a nosotros de manera precisa y comprensible.</strong> Primero, su espíritu dirigió a los redactores de la Biblia y ha preservado su contenido a través de los siglos mediante el esfuerzo meticuloso de copistas. Hoy, ese mismo espíritu guía la labor de traducción que realiza la organización, permitiendo que la Traducción del Nuevo Mundo presente el texto en un lenguaje moderno, claro y fiel al original, restituyendo el nombre divino. Además, <strong>el espíritu santo nos ayuda personalmente a entender las Escrituras, aclarando términos difíciles y permitiéndonos aplicar la verdad a nuestra vida.</strong> Al leer la Biblia en nuestro propio idioma, el espíritu nos ayuda a sentir que Jehová nos habla directamente, lo que nos permite comprender el propósito divino, la vida de Jesús y el mensaje del Reino con una claridad que transforma nuestro corazón.",
-        "shortAnswer": "Jehová usa su espíritu santo para guiarnos hacia la verdad mediante una Biblia clara, fiel y accesible en nuestro propio idioma."
+        "directAnswer": "Podríamos convertirnos en el centro de atención si <strong>hablamos demasiado de nosotros mismos, presumimos de nuestra experiencia o conocimiento, o buscamos que el estudiante nos admire a nosotros en lugar de a Jehová.</strong> Esto no sería bueno porque desvía la devoción que le pertenece a Dios y debilita la fe del estudiante.",
+        "deepAnswer": "Si al dirigir un curso bíblico nos centramos en nuestras propias opiniones, experiencias o logros personales, o si intentamos impresionar con nuestra oratoria, corremos el riesgo de hacernos el centro de la sesión. Esto perjudica al estudiante, pues **su fe debe estar fundada en la Palabra de Dios y no en la sabiduría o carisma humano** (1 Cor. 2:4, 5). Además, para nosotros sería peligroso porque fomenta el orgullo y nos roba la satisfacción de ver al estudiante acercarse a Jehová.",
+        "shortAnswer": "Hablar demasiado de nosotros desvía la atención de Jehová y perjudica la fe del estudiante."
       },
       {
         "id": "13B_q9",
         "question": "¿Por qué volvieron con las manos vacías los guardias que fueron a arrestar a Jesús? (Juan 7:45, 46).",
-        "references": "",
-        "directAnswer": "<strong>Los guardias no arrestaron a Jesús porque quedaron profundamente impactados con su forma de enseñar, admitiendo que ningún hombre había hablado jamás como él.</strong>",
-        "deepAnswer": "La enseñanza de Jesús se destacaba no por simple elocuencia, sino porque <strong>transmitía la verdad y la sabiduría procedentes de su Padre, Jehová.</strong> Sus palabras tenían un poder y una autoridad que desarmaron por completo a los oficiales, demostrando que un mensaje que proviene del corazón de Dios supera cualquier resistencia. Para nosotros como precursores, este relato es un recordatorio de que <strong>cuando basamos nuestra enseñanza en las Escrituras, logramos un impacto que va más allá de nuestras propias capacidades de oratoria.</strong>",
-        "shortAnswer": "Jesús enseñaba con una sabiduría y autoridad divinas que desarmaban a sus opositores."
+        "references": "Juan 7:45, 46",
+        "directAnswer": "Los guardias volvieron con las manos vacías porque <strong>quedaron profundamente impactados con la forma de enseñar de Jesús, admitiendo que jamás nadie había hablado como él.</strong>",
+        "deepAnswer": "Los líderes religiosos enviaron a los oficiales con la orden de prender a Jesús. Sin embargo, al escucharlo enseñar, el poder de sus palabras, su convicción y el amor con el que hablaba les impidieron cumplir la orden. Esto nos demuestra que **Jesús no enseñaba de manera mecánica o aburrida**, sino que su mensaje calaba hondo en el corazón de quienes tenían una buena actitud, incluso de aquellos que iban con malas intenciones.",
+        "shortAnswer": "Quedaron maravillados con sus palabras y su forma de enseñar."
       },
       {
         "id": "13B_q10",
-        "question": "¿Por qué se asombraban las multitudes de la manera de enseñar de Jesús? (Mat. 7:28, 29; Mar. 1:22).",
-        "references": "",
-        "directAnswer": "<strong>La muchedumbre quedaba sumamente impactada porque Jesús les enseñaba como una persona que tiene autoridad divina, marcando un claro contraste con los escribas de su época.</strong>",
-        "deepAnswer": "A diferencia de los líderes religiosos que basaban su instrucción en áridas tradiciones humanas y citas interminables de otros rabinos, <strong>Jesús enseñaba con la autoridad inequívoca de la Palabra de Dios.</strong> Sus explicaciones eran claras, sencillas, lógicas y apelaban directamente al corazón de las personas sinceras. Al imitar su dechado de enseñanza, nosotros también <strong>debemos esforzarnos por utilizar siempre la Biblia como la máxima autoridad en nuestras conversaciones espirituales.</strong>",
-        "shortAnswer": "Jesús enseñaba verdades claras y lógicas con la autoridad de la Palabra de Dios."
+        "question": "Según Mateo 7:28, 29, ¿por qué se quedaba la gente impactada cuando Jesús enseñaba?",
+        "references": "Mat. 7:28, 29",
+        "directAnswer": "La gente quedaba impactada porque <strong>Jesús les enseñaba como alguien que tiene autoridad, y no como los escribas y líderes religiosos de la época.</strong>",
+        "deepAnswer": "A diferencia de los escribas, que basaban sus enseñanzas en tradiciones humanas áridas y citaban a otros rabinos para respaldar sus opiniones, Jesús hablaba con la autoridad que le otorgaba ser el Hijo de Dios. **Explicaba las verdades de la Ley con claridad, convicción y sencillez**, demostrando que comprendía a la perfección el espíritu de la Palabra de Dios. Sus oyentes percibían que sus palabras eran verdaderas y de origen divino.",
+        "shortAnswer": "Enseñaba con autoridad real y convicción, no basándose en tradiciones secas."
       },
       {
         "id": "13B_q11",
-        "question": "Según Mateo 7:28, 29, ¿por qué se quedaba la gente impactada cuando Jesús enseñaba?",
+        "question": "¿Qué cuatro cosas hicieron que Esdras fuera un buen maestro? (Esd. 7:10).",
         "references": "Esd. 7:10",
-        "directAnswer": "<strong>Esdras fue un excelente maestro porque preparó su corazón, consultó la ley de Jehová, la puso en práctica y luego enseñó sus decretos en Israel.</strong>",
-        "deepAnswer": "Esdras nos dejó un maravilloso patrón de preparación en cuatro pasos fundamentales: <strong>primero, preparó su corazón al cultivar una actitud receptiva; segundo, estudió concienzudamente la Palabra de Dios; tercero, aplicó personalmente lo aprendido en su vida diaria; y cuarto, enseñó con eficacia a los demás.</strong> Este excelente ejemplo nos enseña que <strong>para ser maestros eficientes en el ministerio, primero debemos vivir la verdad nosotros mismos antes de intentar sembrarla en el corazón de los estudiantes.</strong>",
-        "shortAnswer": "Esdras preparó su corazón, estudió la verdad, la aplicó y luego la enseñó con eficacia.",
-        "subtitle": "Prepárate bien y piensa en el estudiante"
+        "subtitle": "Prepárate bien para dar cursos bíblicos",
+        "directAnswer": "Esdras fue un excelente maestro porque: <strong>1) preparó su corazón, 2) consultó la ley de Jehová, 3) la puso en práctica en su propia vida, y 4) enseñó con eficacia las normas divinas a los demás.</strong>",
+        "deepAnswer": "Esdras 7:10 nos da la fórmula perfecta de preparación en cuatro pasos fundamentales: primero, **preparar el corazón** (cultivar una buena actitud receptiva); segundo, **estudiar la ley de Jehová** (investigar diligentemente); tercero, **ponerla en práctica** (ser ejemplo vivo de lo que enseñamos); y cuarto, **enseñar con eficacia** (compartir la verdad con claridad). Seguir este patrón garantiza que nuestras enseñanzas tengan el respaldo de Jehová y toquen el corazón de los estudiantes.",
+        "shortAnswer": "Preparó su corazón, estudió la Ley, la aplicó y la enseñó con eficacia."
       },
       {
         "id": "13B_q12",
         "question": "Según 2 Samuel 12:1-7, ¿cómo se nota que el profeta Natán se preparó bien antes de hablar con David?",
-        "references": "",
-        "directAnswer": "<strong>Natán demostró una excelente preparación al utilizar una ilustración sumamente conmovedora y adaptada a la vida de David, logrando que el rey dictara su propio juicio antes de aplicar la censura.</strong>",
-        "deepAnswer": "El profeta Natán mostró gran tacto y discernimiento al diseñar una historia sobre un pastor y su ovejita que el propio David, siendo un ex pastor, comprendería y sentiría de inmediato. En lugar de confrontar directamente al rey de manera áspera, <strong>preparó el terreno con empatía y valentía, permitiendo que la conciencia de David despertara por sí sola.</strong> <strong>Esto nos enseña la importancia de prepararnos bien para usar analogías y preguntas bien pensadas que lleguen al corazón del estudiante sin ponerlo a la defensiva.</strong>",
-        "shortAnswer": "Natán usó una ilustración empática y bien pensada que despertó la conciencia de David sin rodeos destructivos.",
-        "subtitle": "Prepárate bien y piensa en el estudiante"
+        "references": "2 Sam. 12:1-7",
+        "directAnswer": "Natán demostró que se preparó bien al <strong>diseñar una ilustración conmovedora sobre una ovejita que apeló al sentido de la justicia de David y le ayudó a ver su propio pecado sin ponerse a la defensiva.</strong>",
+        "deepAnswer": "El profeta Natán mostró gran tacto y preparación cuidadosa al corregir al rey David. En lugar de confrontarlo directamente con acusaciones que habrían provocado rechazo, le contó la historia de un hombre rico y egoísta que robó la única cordera de un hombre pobre. David, al ser pastor en su juventud, se sintió identificado y condenó la acción de inmediato. Solo entonces, Natán pronunció las palabras: **“¡Tú eres ese hombre!”**, logrando que David admitiera su culpa de inmediato.",
+        "shortAnswer": "Usó una ilustración muy bien pensada que llegó directo al corazón de David."
       },
       {
         "id": "13B_q13",
-        "question": "¿Qué implica prepararse para cada sesión tomando en cuenta las necesidades del estudiante?",
+        "question": "¿Qué implica prepararse para cada sesión tomando en cuenta las necesidades del estudiante? (w20.10 pág. 8 párrs. 7, 8).",
         "references": "w20.10 pág. 8 párrs. 7, 8",
-        "directAnswer": "Implica ir más allá de solo repasar la información técnica de la lección; <strong>requiere que meditemos con anticipación en la personalidad, el trasfondo y las dificultades específicas del estudiante.</strong>",
-        "deepAnswer": "Prepararse pensando en el estudiante significa <strong>evaluar con oración sus progresos y necesidades particulares.</strong> No se trata simplemente de cubrir la materia de modo mecánico, sino de discernir qué puntos le resultarán más difíciles de asimilar o poner en práctica en su vida diaria. <strong>Al adaptar las explicaciones e ilustraciones a sus circunstancias individuales, le facilitamos el camino para que pueda aplicar los principios bíblicos y progresar hacia la dedicación y el bautismo.</strong>",
-        "shortAnswer": "Significa adaptar con amor y oración el contenido de la lección a las circunstancias individuales del estudiante."
+        "directAnswer": "Implica ir más allá de solo repasar la lección; <strong>requiere que meditemos con oración en el perfil, la personalidad, las dudas y las circunstancias de nuestro estudiante para adaptar la información a él.</strong>",
+        "deepAnswer": "Tal como indica *La Atalaya* de octubre de 2020, prepararse pensando en el estudiante significa evaluar con oración sus progresos y necesidades específicas. **Debemos preguntarnos qué puntos le costará comprender o aceptar, qué textos le convendría leer y cómo podemos explicar las ideas de manera que toquen su corazón**. Así, adaptamos la enseñanza a su ritmo y situación, ayudándole a progresar de forma constante.",
+        "shortAnswer": "Meditar en las circunstancias y dudas del estudiante para adaptar la lección a él."
       },
       {
         "id": "13B_q14",
-        "question": "Pregúntate: “¿En qué debe mejorar el estudiante para que progrese espiritualmente? ¿Qué ideas tal vez le cueste comprender o aceptar? ¿Cómo le llegaré al corazón?”.",
+        "question": "Pregúntate: “¿En qué debe mejorar el estudiante para que progrese espiritualmente? ¿Qué ideas tal vez le cueste comprender o aceptar? ¿Cómo le llegaré al corazón?”",
         "references": "",
-        "directAnswer": "<strong>Hacernos esta pregunta nos permite fijar metas espirituales claras y realistas para el estudiante, guiándolo de forma intencionada en su progreso.</strong>",
-        "deepAnswer": "Meditar en los aspectos donde el estudiante debe mejorar nos ayuda a no dar la sesión a ciegas o de manera monótona. <strong>Al identificar con claridad sus debilidades espirituales, podemos dirigir las conversaciones, las ilustraciones y las metas de estudio de una manera que atienda directamente esas necesidades.</strong> <strong>Esto nos capacita para ser verdaderos colaboradores de Jehová, ayudando al estudiante a cultivar cualidades cristianas duraderas.</strong>",
-        "shortAnswer": "Identificar las necesidades del estudiante nos permite guiarlo con un propósito espiritual claro.",
-        "note": "Comienza a prepararte orándole a Jehová por el estudiante y sus necesidades. Pídele que te ayude a llegarle al corazón (Hech. 16:14; Col. 1:9, 10)."
+        "directAnswer": "Hacernos estas preguntas nos ayuda a <strong>prever posibles obstáculos, dudas o prejuicios del estudiante y planificar la clase para guiarlo con empatía y paciencia.</strong>",
+        "deepAnswer": "Este autoexamen antes de cada clase nos permite ser maestros observadores. **Al identificar de antemano qué verdades bíblicas o normas morales le costará aceptar** (como la santidad de la sangre, la neutralidad o la moralidad sexual), podemos preparar argumentos lógicos, ilustraciones afectuosas y textos de apoyo que le ayuden a asimilar el cambio con suavidad y convicción en lugar de sentir presión.",
+        "shortAnswer": "Nos permite prever dudas y resistencias para guiar al estudiante con empatía."
       },
       {
         "id": "13B_q15",
         "question": "¿Por qué es fundamental orar por el estudiante y sus necesidades específicas antes de preparar la clase? (Hech. 16:14; Col. 1:9, 10).",
         "references": "Hech. 16:14; Col. 1:9, 10",
-        "directAnswer": "<strong>La oración nos ayuda a reconocer con humildad que solo Jehová puede hacer crecer la verdad y abrir el corazón de nuestro estudiante a través de su espíritu santo.</strong>",
-        "deepAnswer": "El texto de Hechos 16:14 muestra que es Jehová quien <em>'abre de par en par el corazón'</em> para recibir el mensaje divino. <strong>Al orar fervientemente por el estudiante antes de la preparación y de la sesión, demostramos que dependemos de la bendición de Dios y no de nuestras propias habilidades.</strong> <strong>Le pedimos a Jehová que nos dé discernimiento para llegar al corazón y que ayude al estudiante a andar de una manera digna de él</strong>, produciendo fruto en toda buena obra (Col. 1:9, 10).",
-        "shortAnswer": "Oramos porque dependemos del espíritu de Jehová para tocar el corazón del estudiante.",
-        "note": "Comienza a prepararte orándole a Jehová por el estudiante y sus necesidades. Pídele que te ayude a llegarle al corazón (Hech. 16:14; Col. 1:9, 10)."
+        "directAnswer": "Es fundamental porque <strong>reconocemos con humildad que solo Jehová puede hacer crecer la verdad y abrir el corazón de las personas para que comprendan y acepten su voluntad.</strong>",
+        "deepAnswer": "La oración antes de la preparación nos alinea con el espíritu de Dios. Hechos 16:14 nos recuerda que es Jehová quien abre el corazón de personas como Lidia para que presten atención a las Escrituras. Al rogarle por nuestro estudiante (Col. 1:9, 10), **le pedimos a Dios que le dé sabiduría y entendimiento espiritual**, y a nosotros nos ayuda a enseñar con más amor, paciencia y discernimiento.",
+        "shortAnswer": "Porque solo Jehová abre el corazón y da el crecimiento espiritual."
       },
       {
         "id": "13B_q16",
-        "question": "¿Cómo te ayudará hacer todo esto a centrarte en las ideas principales al prepararte? Marca las preguntas u oraciones que crees que serán especialmente útiles para el estudiante. ¿Por qué te ayudará hacer eso? ¿Y cómo beneficiará al estudiante?",
-        "references": "",
-        "directAnswer": "Hacer todo este análisis <strong>nos ayuda a discriminar la información secundaria y a mantenernos concentrados únicamente en los puntos clave doctrinales durante el estudio.</strong>",
-        "deepAnswer": "<strong>Una preparación bien estructurada evita que nos desviemos del tema con explicaciones largas o detalles históricos innecesarios que confundan al estudiante.</strong> Al marcar los textos principales y definir de antemano el objetivo de cada sección, <strong>podemos formular preguntas sencillas y directas que ayuden al estudiante a descubrir la verdad por sí mismo.</strong> Esto mantiene el curso bíblico dinámico, fluido y enfocado en las ideas que realmente impulsarán su crecimiento espiritual.",
-        "shortAnswer": "Tener un enfoque claro nos permite enseñar con sencillez y evitar desvíos innecesarios en la lección."
+        "question": "¿Cómo te ayudará hacer todo esto a centrarte en las ideas principales al prepararte? (La buena enseñanza implica más que estudiar la lección y buscar los textos citados. Debes presentar la información de modo que toque el corazón del estudiante. Para eso tienes que prepararte bien pensando en cada persona; Prov. 15:28).",
+        "references": "Prov. 15:28",
+        "directAnswer": "Nos ayuda a <strong>seleccionar la información esencial que el estudiante necesita asimilar y a evitar abrumarlo con detalles secundarios o explicaciones innecesariamente largas.</strong>",
+        "deepAnswer": "En armonía con Proverbios 15:28, que dice que el corazón del justo medita antes de responder, prepararnos pensando en la persona nos permite enfocar el estudio en los puntos centrales de la lección. **En lugar de tratar de abarcar todo el material de manera superficial**, seleccionamos las ideas que realmente van a motivar al estudiante a hacer cambios prácticos en su vida.",
+        "shortAnswer": "Evita desviarnos del tema principal y abrumar al estudiante con información secundaria."
       },
       {
         "id": "13B_q17",
-        "question": "Al preparar cada lección del curso interactivo Disfrute de la vida, ¿por qué debes fijarte en...",
+        "question": "Al preparar cada lección del curso interactivo Disfrute de la vida, ¿por qué debes fijarte en: a) el título de la lección; b) los textos con una indicación para que se lean; c) las imágenes y los videos; d) el resumen, el repaso, el recuadro “Propóngase esto” y la sección “Descubra algo más”?",
         "references": "",
-        "directAnswer": "<strong>Ayuda a que el estudiante perciba claramente que las enseñanzas provienen de la Biblia y no de criterios humanos, fortaleciendo así su fe en Jehová.</strong>",
-        "deepAnswer": "Cuando ayudamos al estudiante a conectar un texto bíblico con la idea clave del párrafo, <strong>fomentamos su discernimiento espiritual.</strong> Esta destreza <strong>le enseña a usar la Palabra de Dios como la autoridad máxima para tomar decisiones</strong>, permitiéndole ver el hilo conductor de la verdad en toda la lección.",
-        "shortAnswer": "Enseña al estudiante a razonar usando la Biblia como la autoridad suprema de sus creencias.",
-        "subQuestions": [
-          {
-            "id": "13B_q17_a",
-            "question": "... el título de la lección?",
-            "directAnswer": "Para tener clara **la idea central de la lección** y dirigir toda la enseñanza hacia ese objetivo principal.",
-            "deepAnswer": "El título resume la verdad fundamental que el estudiante debe asimilar. Enfocarnos en él nos ayuda a **no desviarnos con explicaciones secundarias** y a asegurar que el estudiante entienda el punto clave de la clase.",
-            "shortAnswer": "Para mantener el enfoque en la idea principal del tema."
-          },
-          {
-            "id": "13B_q17_b",
-            "question": "... los textos con una indicación para que se lean?",
-            "directAnswer": "Para **dar prioridad a los textos bíblicos clave** que prueban las ideas de la lección.",
-            "deepAnswer": "La Palabra de Dios tiene poder transformador. Al leer los textos principales, **hacemos que sea Jehová quien enseñe directamente al estudiante**, construyendo su fe sobre cimientos divinos sólidos.",
-            "shortAnswer": "Dar prioridad a la lectura directa de los textos bíblicos principales."
-          },
-          {
-            "id": "13B_q17_c",
-            "question": "... las imágenes y los videos?",
-            "directAnswer": "Para **aprovechar los recursos visuales**, que ayudan a entender y recordar las ideas de manera interactiva.",
-            "deepAnswer": "Las imágenes y los videos están diseñados para tocar el corazón y aclarar conceptos complejos. Prepararlos de antemano nos permite **hacer preguntas que inviten al estudiante a reflexionar en lo que ve**.",
-            "shortAnswer": "Usar los videos e imágenes para tocar el corazón del estudiante."
-          },
-          {
-            "id": "13B_q17_d",
-            "question": "... el resumen, el repaso, el recuadro “Propóngase esto” y la sección “Descubra algo más”?",
-            "directAnswer": "Para ayudar al estudiante a **repasar las ideas principales y ponerse metas prácticas** de crecimiento espiritual.",
-            "deepAnswer": "Estas secciones finales consolidan el aprendizaje. El repaso evalúa lo aprendido; 'Propóngase esto' ofrece metas realistas de crecimiento personal; y 'Descubra algo más' satisface a los estudiantes que desean profundizar más en el tema.",
-            "shortAnswer": "Utilizar las herramientas finales para consolidar el aprendizaje y fijar metas."
-          }
-        ]
+        "directAnswer": "Debemos fijarnos en estos elementos porque <strong>conforman una estructura didáctica diseñada para enseñar la verdad de manera progresiva, visual y práctica, ayudando al estudiante a razonar y aplicar lo aprendido.</strong>",
+        "deepAnswer": "Cada parte del manual *Disfrute de la vida* tiene un propósito específico: el **título** define el tema central; los textos marked **“lea”** son la base bíblica de la respuesta; las **imágenes y videos** apelan al aprendizaje visual y emocional; y las **secciones finales** consolidan el conocimiento, invitan al autoexamen y animan al estudiante a ponerse metas prácticas de estudio o conducta.",
+        "shortAnswer": "Porque son herramientas diseñadas para guiar al estudiante de forma visual, bíblica y práctica."
       },
       {
         "id": "13B_q18",
-        "question": "@cómo te ayudará hacer todo esto a centrarte en las ideas principales al prepararte? Marca las preguntas u oraciones que crees que serán especialmente útiles para el estudiante. ¿Por qué te ayudará hacer eso? ¿Y cómo beneficiará al estudiante?",
+        "question": "¿Qué ventajas le has visto a buscar la relación entre los textos y la idea principal de la lección?",
         "references": "",
-        "directAnswer": "Escribir notas breves <strong>nos sirve de guía visual rápida para recordar qué puntos resaltar, qué preguntas adicionales hacer y cómo aplicar los textos de forma sencilla.</strong>",
-        "deepAnswer": "Mantener anotaciones breves en nuestra publicación de estudio <strong>evita que demos explicaciones demasiado largas u opiniones personales.</strong> Tal como aconseja el folleto <em>Una obra de amor</em>, <strong>estas notas sencillas nos ayudan a mantener el enfoque en el objetivo de la lección y a responder de manera ágil a las necesidades del estudiante.</strong>",
-        "shortAnswer": "Sirve como una guía rápida para mantener el estudio enfocado, sencillo y dinámico.",
-        "note": "Nota al instructor: Repase puntos principales del apéndice C “Cómo dirigir cursos bíblicos con el manual Disfrute de la vida” del folleto Una obra de amor."
+        "directAnswer": "La ventaja principal es que <strong>ayuda al estudiante a comprender el porqué de nuestras creencias y ver que las enseñanzas provienen directamente de la Biblia y no de razonamientos humanos.</strong>",
+        "deepAnswer": "Al conectar cada texto bíblico citado con el tema central de la lección, fomentamos el pensamiento lógico y el respeto por la Palabra de Dios. **El estudiante aprende a basar sus decisiones en las Escrituras y a razonar por sí mismo**, lo cual es clave para que desarrolle una fe robusta y personal.",
+        "shortAnswer": "Permite al estudiante ver que la enseñanza se basa exclusivamente en las Escrituras."
       },
       {
         "id": "13B_q19",
-        "question": "¿Cómo le beneficiará que lo animes a responder con sus propias palabras?",
+        "question": "¿Por qué es práctico que escribas notas breves en la publicación?",
         "references": "",
-        "directAnswer": "Le beneficia enormemente porque <strong>le ayuda a procesar e interiorizar la verdad, lo que demuestra que realmente comprende lo que está aprendiendo.</strong>",
-        "deepAnswer": "Cuando el estudiante se expresa con sus propias palabras en vez de limitarse a leer el texto, nos permite a nosotros <em>evaluar su verdadero entendimiento</em>. Este valioso ejercicio <strong>fortalece su capacidad de razonar, le ayuda a hacer suya la verdad y lo prepara de manera excelente para defender su fe ante otros en el futuro.</strong>",
-        "shortAnswer": "Asegura que el estudiante comprenda de verdad la información y la grabe en su corazón."
+        "directAnswer": "Es práctico porque <strong>nos sirve de guía visual rápida durante la sesión para recordar qué puntos resaltar, qué preguntas hacer o qué ilustración utilizar sin tener que volver a leer todo el material.</strong>",
+        "deepAnswer": "Escribir pequeñas notas marginales o palabras clave en nuestra publicación de estudio evita que la conversación se vuelva rígida o monótona. **Nos permite mantener el contacto visual con el estudiante y fluir de forma más natural**, guiando la sesión de manera segura y bien estructurada.",
+        "shortAnswer": "Sirven como recordatorios visuales rápidos para guiar el estudio con fluidez."
       },
       {
         "id": "13B_q20",
-        "question": "Invita al estudiante a leer los textos bíblicos cuando se prepare. ¿Qué es probable que necesite saber para encontrarlos, y cómo podrías ayudarlo tú? (lffi pág. 2).",
-        "references": "lffi pág. 2",
-        "directAnswer": "Es muy probable que necesite <strong>aprender el orden de los libros bíblicos y cómo usar las citas</strong>; <strong>podemos ayudarlo enseñándole a usar el índice del manual de estudio.</strong>",
-        "deepAnswer": "Un estudiante nuevo suele desconocer la estructura de la Biblia, por lo que <strong>debemos enseñarle a localizar los textos de forma práctica.</strong> Podemos usar la guía visual de la página 2 del manual <em>Disfrute de la vida</em> (lffi) para explicarle el uso del índice, los capítulos y los versículos, practicando juntos tanto en el formato impreso como en la aplicación JW Library.",
-        "shortAnswer": "Necesita aprender a usar el índice y las citas bíblicas, lo cual podemos enseñarle con las ayudas del manual."
+        "question": "¿Por qué le ayudará al estudiante que le muestres las anotaciones y marcas que hiciste en tu publicación cuando te preparaste? (Luc. 6:40).",
+        "references": "Luc. 6:40",
+        "subtitle": "Enseña al estudiante a prepararse",
+        "directAnswer": "Le ayudará porque <strong>le da un ejemplo visual y práctico de cómo prepararse para el estudio, y en armonía con Lucas 6:40, el estudiante tenderá a imitar los buenos hábitos de su maestro.</strong>",
+        "deepAnswer": "Al mostrarle nuestro libro subrayado y con notas cortas, le quitamos el misterio a la preparación. **Él verá que prepararse no es difícil ni requiere horas de estudio**, sino simplemente buscar los textos de antemano y resaltar las ideas principales. Esto le motivará a hacer lo mismo para sus próximas clases.",
+        "shortAnswer": "Le enseña con el ejemplo práctico cómo debe prepararse él también."
       },
       {
         "id": "13B_q21",
+        "question": "¿Cómo podrías animar al estudiante a que él también marque las palabras que le ayuden a recordar la respuesta?",
+        "references": "",
+        "directAnswer": "Podemos animarlo <strong>haciéndolo juntos durante la lección, prestándole una publicación marcada como ejemplo, o enseñándole de forma sencilla cómo subrayar solo las palabras clave de la respuesta.</strong>",
+        "deepAnswer": "Podemos decirle de forma amigable: *“Mira, si subrayas esta frase corta, te será mucho más fácil recordar la respuesta la próxima vez”*. **Guiarle paso a paso y felicitarle por sus esfuerzos le dará la confianza necesaria** para adoptar este hábito de forma regular en su estudio personal.",
+        "shortAnswer": "Enseñándole de manera sencilla a subrayar solo las palabras clave durante la sesión."
+      },
+      {
+        "id": "13B_q22",
+        "question": "¿Cómo le beneficiará que lo animes a responder con sus propias palabras?",
+        "references": "",
+        "directAnswer": "Le beneficiará porque <strong>le obliga a procesar e internalizar la verdad bíblica en su mente y corazón, demostrando que realmente comprende lo que está aprendiendo en lugar de solo leer mecánicamente.</strong>",
+        "deepAnswer": "Cuando el estudiante explica un punto con sus propias palabras, nos permite a nosotros como maestros evaluar si realmente ha captado el concepto o si tiene dudas. **Además, este proceso mental graba la enseñanza en su memoria** y le prepara para defender sus creencias y predicar de forma eficaz a otras personas en el futuro.",
+        "shortAnswer": "Le ayuda a comprender a fondo la verdad e internalizarla en su corazón."
+      },
+      {
+        "id": "13B_q23",
+        "question": "Invita al estudiante a leer los textos bíblicos cuando se prepare. ¿Qué es probable que necesite saber para encontrarlos, y cómo podrías ayudarlo tú? (lffi pág. 2).",
+        "references": "lffi pág. 2",
+        "directAnswer": "Es probable que necesite <strong>aprender el orden de los libros de la Biblia y cómo interpretar las citas bíblicas. Podemos ayudarle explicándole el índice de la Biblia y dándole consejos prácticos para buscar los textos.</strong>",
+        "deepAnswer": "Para un estudiante nuevo, buscar libros como Hageo o Colosenses puede ser un desafío. Podemos guiarle pacientemente **enseñándole a usar el índice de la Biblia, la numeración de capítulos y versículos**, o mostrándole cómo usar las herramientas de la aplicación *JW Library* si estudia de forma digital, facilitando así su lectura personal.",
+        "shortAnswer": "Necesitará aprender a buscar textos bíblicos, y podemos enseñarle a usar el índice."
+      },
+      {
+        "id": "13B_q24",
         "question": "Si tú te preparas y eres regular en el estudio, ¿qué le estarás enseñando al estudiante?",
         "references": "",
-        "directAnswer": "<strong>Le estaremos enseñando que el estudio de la Biblia es una prioridad sagrada en nuestra vida que merece respeto, orden y autodisciplina.</strong>",
-        "deepAnswer": "Nuestro ejemplo constante de puntualidad y preparación <strong>le demuestra que la adoración a Jehová no es algo secundario, sino un estilo de vida basado en el amor a la verdad.</strong> Al vernos siempre listos y con un corazón dispuesto, <strong>el estudiante comprenderá que la regularidad en el alimento espiritual es la clave para cultivar una relación sólida con Dios.</strong>",
-        "shortAnswer": "Que el estudio personal es una prioridad espiritual que requiere constancia y devoción.",
-        "subtitle": "Enseña al estudiante a prepararse"
+        "directAnswer": "Le estaremos enseñando con nuestro ejemplo que <strong>el estudio de la Biblia es una prioridad sagrada en nuestra vida y que merece nuestro respeto, puntualidad y esfuerzo.</strong>",
+        "deepAnswer": "La enseñanza más poderosa es la que se da con el ejemplo. **Si demostramos que valoramos cada sesión llegando a tiempo, trayendo el material preparado y mostrando entusiasmo**, el estudiante aprenderá a valorar su propio curso bíblico de la misma manera, desarrollando hábitos espirituales excelentes para toda la vida.",
+        "shortAnswer": "Le enseñamos con nuestro ejemplo a valorar y respetar el estudio personal."
       }
     ],
     "image": "public_preaching.png",
