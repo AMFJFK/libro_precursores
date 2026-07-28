@@ -4804,7 +4804,7 @@ const lessonsData = [
       },
       {
         "id": "10B_q22",
-        "question": "¿De qué maneras revelan nuestras elecciones libres basadas en principios la condición de nuestro corazón? (2 Cor. 9:7).",
+        "question": "Jehová no nos ha dado una ley para todo aspecto de nuestra vida. ¿Por qué nos permite eso demostrarle cuánto lo amamos y lo mucho que nos importa hacer su voluntad? (2 Cor. 9:7).",
         "references": "2 Cor. 9:7",
         "directAnswer": "Al no existir reglas detalladas para cada situación, <strong>nuestras elecciones libres revelan la verdadera condición de nuestro corazón y demuestran que servimos a Jehová por amor sincero y no por simple obligación.</strong>",
         "deepAnswer": "Tal como indica 2 Corintios 9:7, Jehová ama al dador alegre que actúa “como lo ha resuelto en su corazón”, no por la fuerza ni de mala gana. La ausencia de leyes específicas para cada detalle de nuestra vida <strong>nos ofrece una oportunidad maravillosa de probar nuestros motivos más profundos.</strong> Al esforzarnos voluntariamente por discernir qué es lo que más le agrada a nuestro Padre celestial, <strong>demostramos con hechos que nuestro mayor anhelo es imitar su personalidad y glorificar su santo nombre.</strong>",
