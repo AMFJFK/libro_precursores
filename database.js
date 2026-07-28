@@ -4835,6 +4835,7 @@ const lessonsData = [
         "id": "11A_q2",
         "question": "¿Por qué es tan importante leer la Biblia para ser espiritual? (Sal. 119:105; Juan 17:17).",
         "references": "Sal. 119:105; Juan 17:17",
+        "subtitle": "¿Cómo puedo llegar a ser una persona espiritual?",
         "directAnswer": "Leer la Biblia es fundamental porque mediante ella recibimos el alimento espiritual y la verdad divina indispensables para transformar nuestra mente y tomar decisiones que tengan la aprobación de Jehová.",
         "deepAnswer": "Según Salmo 119:105, la Palabra de Dios actúa como una <em>“lámpara para mi pie”</em> y una <em>“luz para mi sendero”</em>, dándonos la guía necesaria tanto en los asuntos diarios como en los planes futuros. Además, en Juan 17:17, Jesús destacó el poder de las Escrituras al orar: <em>“Santifícalos por medio de la verdad; tu palabra es la verdad”</em>. Sin la lectura constante y la meditación profunda en el texto bíblico, nuestro pensamiento se vería moldeado inevitablemente por el espíritu del mundo, alejándonos de la espiritualidad cristiana.",
         "shortAnswer": "La lectura bíblica es imprescindible porque nos santifica con la verdad de Jehová y nos protege de la mentalidad de este mundo."
@@ -4867,6 +4868,7 @@ const lessonsData = [
         "id": "11A_q6",
         "question": "¿Qué importancia tenía para Jesús hacer la voluntad de su Padre? (Juan 4:34).",
         "references": "Juan 4:34",
+        "subtitle": "Evalúa tu progreso como persona espiritual",
         "directAnswer": "Hacer la voluntad de su Padre era de máxima prioridad para Jesús, tanto que la comparó con su alimento, aquello que lo sustentaba y le daba verdaderas energías.",
         "deepAnswer": "En Juan 4:34, Jesús expresó con convicción: <em>“Mi alimento es hacer la voluntad del que me envió y completar su obra”</em>. Del mismo modo en que la comida física nos sostiene, nos fortalece y nos deleita, para Jesús cumplir fielmente con el ministerio encomendado por Jehová era una fuente vitalizadora de gozo inmenso y satisfacción profunda. Esta sagrada prioridad dirigió toda su existencia en la Tierra, dándole la fuerza espiritual necesaria para mantenerse leal bajo toda prueba y completar su obra con éxito.",
         "shortAnswer": "Cumplir con la voluntad de Jehová era el \"alimento\" de Jesús, dándole profunda alegría, vitalidad y propósito en la vida."
@@ -4889,64 +4891,60 @@ const lessonsData = [
       },
       {
         "id": "11A_q9",
-        "question": "Según Santiago 1:22-25, ¿qué tendencia podría impedirte progresar en sentido espiritual?",
-        "references": "Sant. 1:22-25",
-        "directAnswer": "La tendencia a ser oidores y no hacedores de la Palabra de Dios, como se describe en Santiago 1:22-25, puede impedir nuestro progreso espiritual. Debemos aplicarla activamente, no solo escucharla.",
-        "deepAnswer": "Santiago 1:22-25 nos advierte sobre el peligro de ser meros oidores de la Palabra de Dios y no hacedores. Esta tendencia a no poner en práctica lo que aprendemos, como si uno se mirara en un espejo y luego se olvidara de su apariencia, es un obstáculo directo para el progreso espiritual. Si no aplicamos las enseñanzas bíblicas, no permitimos que transformen nuestras vidas ni que fortalezcan nuestra relación con Jehová, quedando estancados en nuestro crecimiento.",
-        "shortAnswer": "Ser oidor y no hacedor de la Palabra de Dios."
-      },
-      {
-        "id": "11A_q10",
-        "question": "Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?” (Hacerte un autoexamen con la ayuda de la oración; Sal. 26:2; 2 Cor. 13:5).",
+        "question": "¿Cómo te ayudan las siguientes ideas a evaluar tu progreso espiritual?",
         "references": "Sal. 26:2; 2 Cor. 13:5",
-        "directAnswer": "Reflexiona detenidamente en tu motivación para servir a Jehová y en tus áreas de mejora con la ayuda de la oración sincera.",
-        "deepAnswer": "Este autoexamen personal (Sal. 26:2; 2 Cor. 13:5) te ayuda a analizar tu corazón y debilidades sin compararte con otros. Es una herramienta íntima y constante para que evalúes tu progreso espiritual.",
-        "shortAnswer": "Haz un autoexamen con oración sobre tu motivación y debilidades."
-      },
-      {
-        "id": "11A_q11",
-        "question": "Estudiar regularmente la Biblia y nuestras publicaciones (Sal. 1:2, 3). ¿Por qué hace falta meditar?",
-        "references": "Sal. 1:2, 3",
-        "directAnswer": "Hace falta meditar para <strong>grabar la verdad en el corazón, asimilar los pensamientos de Jehová y encontrar formas prácticas de aplicarlos</strong> en nuestra vida cotidiana.",
-        "deepAnswer": "El estudio personal sin meditación se limita a adquirir conocimiento teórico. Tal como Salmo 1:2, 3 destaca, quien encuentra deleite meditando en la ley de Dios de día y de noche prosperará espiritualmente, dando fruto a su tiempo y manteniéndose firme ante las pruebas.",
-        "shortAnswer": "Para asimilar los pensamientos de Jehová y aplicarlos en la vida diaria."
-      },
-      {
-        "id": "11A_q12",
-        "question": "¿Por qué hace falta meditar?",
-        "references": "",
-        "directAnswer": "Hace falta meditar para reflexionar profundamente sobre las verdades espirituales y su aplicación práctica en nuestra vida. La meditación nos permite asimilar las enseñanzas y aplicarlas de manera efectiva.",
-        "deepAnswer": "Meditar es esencial porque nos permite ir más allá de una simple lectura o escucha. Es un proceso activo de ponderar las verdades espirituales, conectándolas con nuestras circunstancias personales y con los propósitos de Jehová. Al meditar, permitimos que la Palabra de Dios penetre en nuestro corazón y mente, guiándonos a tomar decisiones sabias y a cultivar cualidades cristianas.",
-        "shortAnswer": "Meditar profundiza nuestra comprensión y aplicación de la verdad."
-      },
-      {
-        "id": "11A_q13",
-        "question": "¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
-        "references": "",
-        "directAnswer": "La meditación nos ayuda a <strong>analizar con honestidad nuestras caídas del pasado, comprender qué las desencadenó y tomar medidas preventivas</strong> basadas en los principios bíblicos.",
-        "deepAnswer": "Al meditar en los errores del pasado a la luz de las Escrituras, podemos identificar patrones de conducta o situaciones de riesgo que debemos evitar. Esto fortalece nuestro deseo de agradar a Jehová y nos permite trazar un plan de acción concreto para actuar con sabiduría ante situaciones similares en el futuro.",
-        "shortAnswer": "Permite identificar los factores que llevaron al error y planear cómo evitarlos."
-      },
-      {
-        "id": "11A_q14",
-        "question": "¿Cómo te ayuda a ser más espiritual fijarte en cómo hablan y actúan los hermanos que están fuertes en sentido espiritual? (Escuchar a cristianos maduros; Sant. 1:19).",
-        "references": "Sant. 1:19",
-        "directAnswer": "Fijarse en cómo hablan y actúan los hermanos espiritualmente fuertes nos proporciona modelos a seguir, ayudándonos a cultivar cualidades cristianas y a mejorar nuestra propia conducta. Sus ejemplos nos animan y nos guían.",
-        "deepAnswer": "Observar atentamente a los cristianos maduros nos brinda valiosos ejemplos prácticos de cómo aplicar la fe y los principios bíblicos en la vida diaria. Su forma de hablar, de enfrentar desafíos, de mostrar compasión y de servir a Jehová es una enseñanza viva. Al imitar sus cualidades positivas y su devoción, también somos animados y guiados a ser más espirituales y a crecer en nuestra propia relación con Dios.",
-        "shortAnswer": "Los ejemplos de hermanos maduros nos guían y animan."
-      },
-      {
-        "id": "11A_q15",
-        "question": "¿Cómo te ayuda a crecer espiritualmente prestar mucha atención a lo que se dice en las reuniones?",
-        "references": "",
-        "directAnswer": "Prestar mucha atención a lo que se dice en las reuniones nos ayuda a crecer espiritualmente al recibir instrucción bíblica actualizada y práctica. Las reuniones son un medio vital para nuestro alimento espiritual y para fortalecer nuestra fe.",
-        "deepAnswer": "Las reuniones son un punto culminante de la adoración semanal, donde recibimos un alimento espiritual nutritivo y dirigido por Jehová a través de Su organización. Al prestar mucha atención a las charlas, demostraciones y preguntas y respuestas, absorbemos la instrucción divina, aprendemos a aplicar la Palabra de Dios de manera más efectiva y fortalecemos nuestra fe. Es un medio esencial para el continuo crecimiento espiritual de cada uno de nosotros.",
-        "shortAnswer": "Las reuniones nos proveen alimento espiritual y crecimiento."
+        "subtitle": "¿Cómo va mi progreso?",
+        "directAnswer": "",
+        "deepAnswer": "",
+        "shortAnswer": "",
+        "subQuestions": [
+          {
+            "id": "11A_q9_a",
+            "question": "Hacerte un autoexamen con la ayuda de la oración (Sal. 26:2; 2 Cor. 13:5). Pregúntate: “¿Cuál es mi motivación? ¿Cuáles son mis debilidades?”",
+            "references": "Sal. 26:2; 2 Cor. 13:5",
+            "directAnswer": "Hacer un autoexamen en oración nos ayuda a **descubrir nuestros verdaderos motivos y debilidades** con la ayuda de Jehová, quien examina nuestro corazón.",
+            "deepAnswer": "La oración sincera al hacer un autoexamen (Sal. 26:2) permite que Jehová nos muestre áreas de mejora que tal vez ocultemos de nosotros mismos. Al preguntarnos con honestidad sobre nuestras motivaciones y debilidades, **abrimos el camino para que el espíritu santo actúe en nosotros, guiándonos hacia la corrección y madurez espiritual**.",
+            "shortAnswer": "El autoexamen en oración saca a la luz nuestras verdaderas motivaciones y debilidades."
+          },
+          {
+            "id": "11A_q9_b",
+            "question": "Estudiar regularmente la Biblia y nuestras publicaciones (Sal. 1:2, 3). ¿Por qué hace falta meditar?",
+            "references": "Sal. 1:2, 3",
+            "directAnswer": "Hace falta meditar para **grabar la verdad en el corazón y asimilar los pensamientos de Jehová**.",
+            "deepAnswer": "Estudiar sin meditar es como comer sin digerir. Salmo 1:2, 3 destaca que la persona feliz se deleita en la ley de Dios y la lee día y noche. La meditación graba las verdades de la Biblia en lo profundo de nuestro ser.",
+            "shortAnswer": "Para grabar la verdad en el corazón."
+          },
+          {
+            "id": "11A_q9_c",
+            "question": "¿Cómo te ayuda la meditación a no repetir los errores del pasado?",
+            "references": "",
+            "directAnswer": "La meditación nos ayuda a **aprender de la experiencia y evitar cometer de nuevo los errores del pasado**.",
+            "deepAnswer": "La meditación nos ayuda a reflexionar en las consecuencias de nuestras acciones y en el punto de vista de Jehová, lo que nos da la sabiduría necesaria para no repetir los mismos desaciertos del pasado.",
+            "shortAnswer": "Evita que repitamos errores pasados."
+          },
+          {
+            "id": "11A_q9_d",
+            "question": "Escuchar a cristianos maduros (Sant. 1:19). ¿Cómo te ayuda a ser más espiritual fijarte en cómo hablan y actúan los hermanos que están fuertes en sentido espiritual?",
+            "references": "Sant. 1:19",
+            "directAnswer": "Fijarnos en hermanos fuertes nos da **un modelo de fe a imitar** y nos enseña cualidades teocráticas.",
+            "deepAnswer": "Santiago 1:19 nos insta a ser prestos para escuchar. Al observar a los hermanos maduros, vemos cómo aplican el fruto del espíritu en su vida diaria, lo que nos sirve de ejemplo práctico para nuestra propia espiritualidad.",
+            "shortAnswer": "Fijarse en hermanos maduros nos da modelos de fe."
+          },
+          {
+            "id": "11A_q9_e",
+            "question": "¿Cómo te ayuda a crecer espiritualmente prestar mucha atención a lo que se dice en las reuniones?",
+            "references": "",
+            "directAnswer": "Prestar atención en las reuniones nos permite **adquirir sabiduría práctica y asimilar consejos que fortalecen la fe**.",
+            "deepAnswer": "Las reuniones son el canal que Jehová usa para instruirnos. Prestar atención concentrada nos ayuda a asimilar consejos y enseñanzas que fortalecen nuestra fe y nos guían en el camino del crecimiento.",
+            "shortAnswer": "Prestar atención en las reuniones nos ayuda a asimilar consejos prácticos."
+          }
+        ]
       },
       {
         "id": "11A_q16",
         "question": "Si cultivas tu espiritualidad, ¿cuál será el resultado? (Gál. 5:16; w11 15/12 pág. 16).",
         "references": "Gál. 5:16; w11 15/12 pág. 16",
+        "subtitle": "¿Cómo puedo saber si soy una persona espiritual?",
         "directAnswer": "Si cultivamos nuestra espiritualidad, evitaremos los deseos pecaminosos y viviremos guiados por el espíritu de Dios.",
         "deepAnswer": "Cultivar la espiritualidad tiene un resultado maravilloso: <strong>la vida guiada por el espíritu santo</strong>, tal como lo enseña Gálatas 5:16. Esto significa que, en lugar de dejarnos llevar por los “deseos de la carne”, seremos conducidos por la influencia divina, disfrutando de una relación más estrecha con Jehová. Como se señala en <em>w11</em> 15/12 pág. 16, esto nos protege de caer en prácticas que desagradan a Dios y nos permite experimentar la verdadera libertad.<br><strong>Esto es un reflejo de la guía de Jehová</strong> en nuestro diario vivir.",
         "shortAnswer": "Evitas los deseos pecaminosos y vives según el espíritu de Dios."
@@ -5034,7 +5032,7 @@ const lessonsData = [
       },
       {
         "id": "11A_q27",
-        "question": "Además de orar en las comidas y en las reuniones, ¿en qué otros momentos ora la persona espiritual? (1 Tes. 5:17).",
+        "question": "Además de orar en las comidas and en las reuniones, ¿en qué otros momentos ora la persona espiritual? (1 Tes. 5:17).",
         "references": "1 Tes. 5:17",
         "directAnswer": "La persona espiritual ora en todo momento del día: antes de tomar decisiones, al afrontar desánimo o tentaciones, y para expresar constante gratitud a Jehová.",
         "deepAnswer": "En armonía con la exhortación de <strong>1 Tesalonicenses 5:17</strong> de 'orar constantemente', la persona espiritual no limita su comunicación con Dios a los momentos formales. Busca la guía de Jehová de manera espontánea al iniciar su jornada en el servicio, ante una situación difícil en la predicación, al meditar en las Escrituras o al contemplar la creación. Esta estrecha relación de comunicación revela que ve a Jehová como un Padre real y muy cercano, con quien desea compartir cada detalle de su vida.",
