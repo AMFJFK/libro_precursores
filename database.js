@@ -6004,17 +6004,17 @@ const lessonsData = [
         "id": "13A_q7",
         "question": "¿A qué nos obliga “el amor del Cristo”? (2 Cor. 5:14, 15). Di qué clase de amor debemos mostrar:",
         "references": "Col. 4:5, 6",
-        "directAnswer": "",
-        "deepAnswer": "",
-        "shortAnswer": ""
+        "directAnswer": "“El amor del Cristo” nos obliga a no vivir más para nosotros mismos, sino para aquel que murió por nosotros. Debemos mostrar <strong>un amor compasivo, paciente y perdonador a nuestros hermanos (Col. 3:12-17)</strong>, y <strong>un comportamiento sabio, oportuno y bondadoso al resto de la gente (Col. 4:5, 6)</strong>.",
+        "deepAnswer": "El amor de Jesús nos motiva a imitar su entrega altruista. Hacia nuestros hermanos, esto se traduce en ponernos la nueva personalidad, caracterizada por la compasión, la bondad, la humildad, la apacibilidad y la paciencia, perdonándonos con generosidad (Col. 3:12-15). Con las personas fuera de la congregación (Col. 4:5, 6), debemos comportarnos con sabiduría, aprovechando el tiempo y hablando de manera agradable, sazonada con sal, para saber cómo responder a cada uno.",
+        "shortAnswer": "Muestra amor compasivo a tus hermanos y compórtate con sabiduría y gracia ante la gente."
       },
       {
         "id": "13A_q8",
         "question": "PREGÚNTATE: ¿Me paro a pensar en lo que puedo hacer por los que pasan por situaciones difíciles o los que pudieran sentirse solos? ¿Hago sentir a los demás que los quiero de verdad? ¿Estoy dispuesto a dar de mí sin esperar nada a cambio? ¿Trato con amor a todos por igual, o muestro favoritismo? (Luc. 14:12-14). ¿Me preocupo por la gente a la que le predico? ¿Entiendo que su vida está en juego y me esfuerzo por llegarles al corazón? Cuando me tratan mal, ¿intento usar un método diferente la próxima vez?",
         "references": "",
-        "directAnswer": "Sí, <strong>debemos reflexionar activamente sobre cómo podemos consolar y apoyar a quienes atraviesan pruebas difíciles o se sienten solos.</strong>",
-        "deepAnswer": "Como seguidores de Jesús, <strong>debemos estar atentos a las necesidades de los demás, imitando su sensibilidad</strong>. <strong>Preguntarnos '¿qué puedo hacer por ellos?' nos permite pasar de la intención a la acción</strong>, fortaleciendo el espíritu de familia en la congregación mediante visitas de pastoreo o palabras de ánimo oportunas.",
-        "shortAnswer": "Reflexionar en cómo ayudar es el primer paso para mostrar amor real."
+        "directAnswer": "Reflexiona detenidamente en estas preguntas personales para evaluar cómo puedes imitar el amor de Jesús.",
+        "deepAnswer": "Estas preguntas de autoexamen están diseñadas para que medites en tus motivaciones y en cómo tratas a tus hermanos y a las personas en el ministerio. No requieren una respuesta doctrinal predefinida, sino un examen sincero de tu corazón.",
+        "shortAnswer": "Reflexiona en estas preguntas personales de autoexamen."
       },
       {
         "id": "13A_q9",
@@ -6022,8 +6022,7 @@ const lessonsData = [
         "references": "Mat. 9:10-13; Luc. 7:36-50",
         "directAnswer": "<strong>Jesús les demostró cariño al interesarse personalmente por ellos, sin importar su reputación social.</strong>",
         "deepAnswer": "En Mateo 9:10-13, vemos a Jesús <strong>comiendo con recaudadores de impuestos, mostrando que deseaba sanar a quienes reconocían su necesidad espiritual</strong>. En Lucas 7:36-50, <strong>trató a una mujer pecadora con dignidad y comprensión</strong>, validando que el arrepentimiento sincero y el amor profundo son lo que realmente valora Jehová.",
-        "shortAnswer": "Jesús veía el potencial espiritual incluso en los marginados.",
-        "subtitle": "Trabaja duro, igual que Jesús"
+        "shortAnswer": "Jesús veía el potencial espiritual incluso en los marginados."
       },
       {
         "id": "13A_q10",
@@ -6071,17 +6070,15 @@ const lessonsData = [
         "references": "",
         "directAnswer": "<strong>Jesús respetaba a todos porque entendía que cada persona tiene el valor suficiente para ser objeto del amor de Dios.</strong>",
         "deepAnswer": "Sabemos que no discriminaba porque <strong>trataba con igual dignidad a hombres, mujeres, judíos y samaritanos.</strong> <strong>Al resaltar las virtudes de las personas en lugar de sus errores, Jesús les daba la confianza necesaria para mejorar.</strong> Como sus discípulos, debemos esforzarnos por ver en cada individuo a alguien que merece nuestro respeto y cariño.",
-        "shortAnswer": "Trata a todos con dignidad, reconociendo el valor que Jehová ve en ellos.",
-        "subtitle": "Sigue fielmente los pasos de Jesús"
+        "shortAnswer": "Trata a todos con dignidad, reconociendo el valor que Jehová ve en ellos."
       },
       {
         "id": "13A_q16",
-        "question": "¿Qué te enseña eso? (Apoc. 2:2, 13, 19; 3:4).",
+        "question": "Jesús siempre felicitaba a las personas por lo que hacían bien. ¿Qué te enseña eso? (Apoc. 2:2, 13, 19; 3:4).",
         "references": "",
         "directAnswer": "<strong>Nos enseña que, al igual que Jesús, debemos notar y encomiar sinceramente las buenas obras y el aguante de nuestros hermanos antes de dar cualquier consejo o sugerencia.</strong>",
         "deepAnswer": "Jesús, como Cabeza de la congregación cristiana, observa atentamente el esfuerzo de cada uno de sus siervos. En sus cartas a las congregaciones de Asia Menor registradas en Apocalipsis, <strong>él destacó primero los puntos positivos, como su arduo trabajo, fe y aguante, demostrando gran empatía.</strong> <strong>Al imitar este patrón en nuestro precursorado, fortalecemos a nuestros compañeros de milicia espiritual centrándonos en sus virtudes y fomentando un ambiente de amor fraternal.</strong>",
-        "shortAnswer": "Encomia siempre lo bueno de los demás antes de ofrecer sugerencias.",
-        "subtitle": "Jesús siempre felicitaba a las personas por lo que hacían bien."
+        "shortAnswer": "Encomia siempre lo bueno de los demás antes de ofrecer sugerencias."
       },
       {
         "id": "13A_q17",
@@ -6102,12 +6099,11 @@ const lessonsData = [
       },
       {
         "id": "13A_q19",
-        "question": "Según indica Lucas 21:37, 38, Jesús tenía un horario y organizaba las cosas que tenía que hacer cada día. ¿Qué ordenas tú en tu horario?",
+        "question": "Según indica Lucas 21:37, 38, Jesús tenía un horario y organizaba las cosas que tenía que hacer cada día. ¿Qué aprendes de eso?",
         "references": "",
-        "directAnswer": "Demostramos que sentimos lo mismo cuando <strong>nos esforzamos con diligencia y mantenemos un horario regular y bien organizado para el ministerio teocrático, sin dejarlo al azar.</strong>",
-        "deepAnswer": "Demostramos la misma pasión que Jesús cuando <strong>planificamos nuestro ministerio con diligencia y regularidad.</strong> Lucas 21:37, 38 nos muestra que el Amo no improvisaba su servicio; él se levantaba temprano y mantenía una rutina constante que atraía a las personas que deseaban escucharlo. En nuestro precursorado, <strong>tener un buen horario y levantarnos temprano para el servicio del campo refleja que valoramos el tiempo y respetamos la obra de salvación que se nos ha confiado.</strong>",
-        "shortAnswer": "Un horario ordenado refleja nuestro amor y respeto por el ministerio.",
-        "subtitle": "Mantén las cosas materiales en su lugar"
+        "directAnswer": "Aprendemos la importancia de ser organizados, diligentes y constantes en nuestro servicio a Jehová, teniendo una rutina regular para las actividades espirituales.",
+        "deepAnswer": "Jesús demostró un horario equilibrado y ordenado para cumplir con su ministerio diariamente, enseñando en el templo y orando en el monte. Para nosotros, esto resalta la necesidad de planificar con sabiduría nuestro tiempo y mantener la disciplina en nuestro horario de precursorado.",
+        "shortAnswer": "Aprendemos a ser organizados y disciplinados en nuestro ministerio diario."
       },
       {
         "id": "13A_q20",
